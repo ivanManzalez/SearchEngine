@@ -161,7 +161,7 @@ export default function Home() {
     <main className=" bg-indigo-400  flex min-h-screen flex-col items-center align-middle px-8 " >
       
       <div className="sticky text-indigo-900 text-lg font-medium w-full flex justify-between top-0">
-        <a href="https://github.com/ivanManzalez"><button className="font-base" ><i>src</i></button></a>
+        <a href="https://github.com/ivanManzalez/SearchEngine"><button className="font-base" ><i>src</i></button></a>
         <a href="/about"><button className="font-base" ><i>about</i></button></a>
       </div>
 
