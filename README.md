@@ -30,3 +30,8 @@ cd Search.iv./demo/
 ./gradlew bootRun
 ```
 3. Open localhost:3000 to use the browser user-interface
+
+## User Interface
+![User Interface - Initial view ](assets/search_ui.png)
+![User Interface - Search Results ](assets/search_results.png)
+![User Interface - Article ](assets/search_article.png)

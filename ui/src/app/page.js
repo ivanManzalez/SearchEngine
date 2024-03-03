@@ -112,13 +112,16 @@ export default function Home() {
         setSubtitle("😵‍💫 Sorry about that, looks like something went wrong😵! Try again later! ")
         return [{headline: error.message}]
       })
-      console.log(queryResp);
-      if(!queryResp[0].metadata){
+      console.log(queryResp, queryResp.length);
+      if(queryResp.length < 1){
+        setSubtitle(`Sorry I couldn't find anything related to ${searchQuery} 🧐 `)
+      }else if(!queryResp[0].metadata){
         console.error(queryResp[0].headline);
         setSubtitle("😵‍💫 Sorry about that, looks like something went wrong😵! Try again later! ")
       }else{
         setResults(queryResp);
         setDisplayQuery(searchQuery);
+        setSubtitle("Here's what I could find 🥸")
         // Refactor as useSessionStorage() ?
         sessionStorage.setItem(LAST_RESULTS, JSON.stringify(queryResp));
         sessionStorage.setItem(LAST_QUERY, JSON.stringify(searchQuery));
