@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> CB061618-0001 </DOCNO>
+<DATE>
+<P>
+June 16, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's first retail hydrogen fuelling station opens in Vancouver; 
+</P>
+<P>
+Shell has opened a public hydrogen fuelling station in Vancouver, with plans for 2 more
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada's fledgling hydrogen-fuelled vehicle industry took a significant step forward on Friday, as Shell opened the country's first publicly accessible hydrogen fuelling station in Vancouver.
+</P>
+<P>
+The station is nestled between traditional fuel pumps at a Shell outlet in Vancouver's Marpole neighbourhood. The company has plans for two more in the city.
+</P>
+<P>
+The modest, but noteworthy piece of hydrogen fuel infrastructure was opened with some fanfare, as auto manufacturers Honda, Hyundai, and Toyota had vehicles on hand for test drives.
+</P>
+<P>
+"It's a great day for Shell, but it's also a great day for society," said Shell's general manager of hydrogen, Oliver Bishop, who travelled from Europe for the launch.
+</P>
+<P>
+Bishop highlighted the lack of greenhouse gas emissions from hydrogen fuel cell vehicles, and the abundance of the element in the universe.
+</P>
+<P>
+But it's unclear how ready the consumer market is for the new technology. Refuelling options are limited to the new station for now, and a couple of privately-accessed stations in other provinces.
+</P>
+<P>
+"The customer, by and large, is not aware of fuel cell electric vehicles," said Bishop. "These are electric vehicles. That's what a hydrogen car is ... They function in a very similar way to a battery electric vehicle. They have an electric motor."
+</P>
+<P>
+While Hyundai Canada CEO Don Romano took a shot at Tesla electric cars during Friday's launch event, Bishop declined to pit hydrogen against battery powered electric cars, saying Shell will provide whatever sort of energy the consumer demands, and offers electric fast-charging stations in some markets.
+</P>
+<P>
+But he touted the short amount of time it takes to refuel a hydrogen tank — about five minutes — and the range the vehicles can travel before refuelling — hundreds of kilometres.
+</P>
+<P>
+And Bishop defended the safety of of the technology, dismissing associations with the 1937 Hindenberg disaster, when a hydrogen-filled airship burst into flames, killing dozens.
+</P>
+<P>
+"Hydrogen is as safe as any other fuel. If you mishandle any form of energy which is being stored, you may get hurt, and so of course, this is all about treating energy carefully," he said.
+</P>
+<P>
+"That's the same whether it's gasoline, or diesel or [liquefied petroleum gas], or lithium ion battery. If you mistreat it, it could hurt you."
+</P>
+<P>
+Follow Rafferty Baker on Twitter: @raffertybaker
+</P>
+</TEXT>
+</DOC>

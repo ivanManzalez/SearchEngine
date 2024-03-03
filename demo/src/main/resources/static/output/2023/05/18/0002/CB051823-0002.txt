@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> CB051823-0002 </DOCNO>
+<DATE>
+<P>
+May 18, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Bank of Canada is more worried than usual about debt loads; 
+</P>
+<P>
+Annual Financial System Review highlights growing risk that ballooning debt presents
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Bank of Canada is more worried than it was last year about household debt loads, and is concerned about the abilities for households to stay on top of them in the coming years once mortgages renew at higher rates.
+</P>
+<P>
+That's one of the main takeaways of the bank's Financial System Review, an annual assessment of various risks the bank deems to be of concern to the stability of Canada's financial system.
+</P>
+<P>
+While the bank highlighted the risks of cybersecurity attacks, the ongoing global banking crisis and climate change, the risk presented by growing mortgage debt was a recurring theme throughout the document.
+</P>
+<P>
+After slashing them in the early days of the pandemic, the Bank of Canada raised its benchmark interest rate aggressively last year.
+</P>
+<P>
+While the move appears to have achieved its desired effect of bringing down inflation, it came with the collateral damage of walloping variable rate mortgages, as the bank's rate moved from barely above zero in early 2022 to 4.5 per cent presently.
+</P>
+<P>
+While only about one-quarter of mortgage holders have a variable rate loan, the effect of rate hikes has been dramatic, adding thousands of dollars to the periodic payments in many cases and extending the life of the loan by years if not decades.
+</P>
+<P>
+In 2019, less than one-fifth of new mortgages were amortized for longer than 25 years. Last year, almost half of new loans were stretched out over a longer period.
+</P>
+<P>
+Existing mortgages, many of which have been insulated from rate hikes so far, will start to feel their impact in the coming years as they renew, and the bank is worried about what might happen when they do.
+</P>
+<P>
+"The decline in house prices has also reduced homeowner equity, and some signs of financial stress — particularly among recent homebuyers — are beginning to appear," the bank said.
+</P>
+<P>
+By the end of 2026, nearly all mortgage holders will have seen their payments increase. The bank says if rates evolve the way financial markets expect, the typical mortgage payment will be about 20 per cent higher over the next three years.
+</P>
+<P>
+Financial stresses appearing
+</P>
+<P>
+The numbers show that the financial stresses on households that the bank is worried about are already starting to appear.
+</P>
+<P>
+The average debt service ratio — the percentage of a household's total income that goes toward paying their mortgage — rose from 16 per cent to more than 19 per cent last year. That's the highest level on record in at least a decade.
+</P>
+<P>
+And the percentage of all mortgages where the DSR is in excess of 25 per cent skyrocketed, from 12 per cent in 2021 to 29 per cent by the end of last year.
+</P>
+<P>
+WATCH | Higher rates are keeping many Canadians on the housing market sidelines:
+</P>
+<P>
+Given the amount of money it's taking to cover the mortgage, it's no surprise that many of those households are having a harder time staying on top of their other debts.
+</P>
+<P>
+The bank says that households that took on a mortgage since 2020 are carrying about 17 per cent more credit card debt on average than those that took out a mortgage in the three years leading up to the pandemic. Arrears on credit cards have also been rising and are close to pre-pandemic levels.
+</P>
+<P>
+Royce Mendes, an economist with Desjardins, recently warned about the looming risk of mortgage debt, calling it a "ticking time bomb" in a report last week. It's clear the central bank is thinking the same thing, he said Thursday.
+</P>
+<P>
+"The Bank of Canada is worried about the same thing we are: mortgage renewals a few years in the future."
+</P>
+<P>
+Robert Kavcic, an economist with Bank of Montreal, said in a report to clients that while debt loads of all forms are indeed ticking higher, he doesn't expect it to become a major shock to the system because higher rates are being absorbed slowly.
+</P>
+<P>
+"The characteristics of the Canadian mortgage market have been extremely important in containing the early damage from the tightening cycle (e.g., the lack of immediate payment shock is a key reason we are not seeing forced selling in the housing market)," he said.
+</P>
+<P>
+"It buys households and the economy time to absorb higher rates ... the mortgage market is not a time bomb, but more of persistent headwind that will blow for a few years going forward."
+</P>
+</TEXT>
+</DOC>

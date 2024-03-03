@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> CB011619-0001 </DOCNO>
+<DATE>
+<P>
+January 16, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Wind power making gains as competitive source of electricity; 
+</P>
+<P>
+Recent contracts awarded in Alberta and Saskatchewan will keep electricity prices low
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+It's taken a decade of technological improvement and a new competitive bidding process for electrical generation contracts, but wind may have finally come into its own as one of the cheapest ways to create power.
+</P>
+<P>
+Ten years ago, Ontario was developing new wind power projects at a cost of 28 cents per kilowatt hour (kWh), the kind of above-market rate that the U.K., Portugal and other countries were offering to try to kick-start development of renewables. 
+</P>
+<P>
+Now some wind companies say they've brought generation costs down to between 2 and 4 cents — something that appeals to provinces that are looking to significantly increase their renewable energy.
+</P>
+<P>
+The cost of electricity varies across Canada, by province and time of day, from an average of 6.5 cents per kWh in Quebec to as much as 15 cents in Halifax.
+</P>
+<P>
+Capital Power, an Edmonton-based company, recently won a contract for the first phase of the Whitla wind project near Medicine Hat, Alta., with a bid of 3.9 cents per kWh and capacity of 201.6-megawatt (MW). That price covers capital costs, transmission and connection to the grid, as well as the cost of building the project.
+</P>
+<P>
+Jerry Bellikka, director of government relations, said Capital Power has been building wind projects for a decade, in the U.S., Alberta, B.C. and other provinces. In that time the price of wind generation equipment has been declining continually, while the efficiency of wind turbines increases.
+</P>
+<P>
+Increased efficiency
+</P>
+<P>
+"It used to be one tower was 1 MW; now each turbine generates 3.3 MW. There's more electricity generated per tower than several years ago," he said.
+</P>
+<P>
+One wild card for Whitla may be steel prices — because of the U.S. and Canada slapping tariffs on one other's steel and aluminum products. Whitla's towers are set to come from Colorado, and many of the smaller components from China.
+</P>
+<P>
+"We haven't yet taken delivery of the steel. It remains to be seen if we are affected by the tariffs." Belikka said.
+</P>
+<P>
+Another company had owned the site and had several years of meteorological data, including wind speeds at various heights on the site, which is in a part of southern Alberta known for its strong winds.
+</P>
+<P>
+But the choice of site was also dependent on the municipality, with rural Forty Mile County eager for the development, Belikka said.
+</P>
+<P>
+Alberta aims for 30% electricity from wind by 2030
+</P>
+<P>
+Alberta wants 30 per cent of its electricity to come from renewable sources by 2030 and is encouraging that with a guaranteed pricing mechanism in what is otherwise a market-bidding process.
+</P>
+<P>
+While the cost of generating energy for the Alberta Electric System Operator (AESO) fluctuates hourly and can be a lot higher when there is high demand, the winners of the renewable energy contracts are guaranteed their fixed-bid price.
+</P>
+<P>
+The average pool price of electricity last year in Alberta was 5 cents per kWh; in boom times it rose to closer to 8 cents. But if the price rises that high after the wind farm is operating, the renewable generator won't get it, instead rebating anything over 3.9 cents back to the government.
+</P>
+<P>
+On the other hand, if the average or pool price is a low 2 cents kWh, the province will top up their return to 3.9 cents.
+</P>
+<P>
+This contract-for-differences (CfD) payment mechanism has been tested in renewable contracts in the U.K. and other jurisdictions, including some U.S. states, according to AESO.
+</P>
+<P>
+Competitive bidding in Saskatchewan
+</P>
+<P>
+In Saskatchewan, the plan is to double its capacity of renewable electricity, to 50 per cent of generation capacity, by 2030, and it uses an open bidding system between the private sector generator and publicly owned SaskPower.
+</P>
+<P>
+In bidding last year on a renewable contract, 15 firms submitted bids, with an average price of 4.2 cents per kWh.
+</P>
+<P>
+One low bidder was Potentia with a proposal for a 200 MW project, which should provide electricity for 90,000 homes in the province, at less than 3 cents kWh, according to Robert Hornung of the Canadian Wind Energy Association.
+</P>
+<P>
+"The cost of wind energy has fallen 70 per cent in the last nine years," he says. "In the last decade, more wind energy has been built than any other form of electricity."
+</P>
+<P>
+Ontario remains the leading user of wind with 4,902 MW of wind generation as of December 2017, most of that capacity built under a system that offered an above-market price for renewable power, put in place by the previous Liberal government.
+</P>
+<P>
+In June of last year, the new Conservative government of Doug Ford halted more than 700 renewable-energy projects, one of them a wind farm that is sitting half-built.
+</P>
+<P>
+The feed-in tariff system that offered a higher rate to early builders of renewable generation ended in 2016, but early contracts with guaranteed prices could last up to 20 years.
+</P>
+<P>
+Hornung says Ontario now has an excess of generating capacity, as it went on building when the 2008-9 bust cut market consumption dramatically.
+</P>
+<P>
+But he insists wind can compete in the open market, offering low prices for generation when Ontario needs new  capacity.
+</P>
+<P>
+"I expect there will be competitive processes put in place. I'm quite confident wind projects will continue to go ahead. We're well positioned to do that."
+</P>
+</TEXT>
+</DOC>

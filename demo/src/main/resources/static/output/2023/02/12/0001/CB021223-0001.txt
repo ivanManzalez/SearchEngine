@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> CB021223-0001 </DOCNO>
+<DATE>
+<P>
+February 12, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Online romance scammers may have a new wingman — artificial intelligence; 
+</P>
+<P>
+Canadian Anti-Fraud Centre says to be careful on Valentine's Day with romance scams on the rise
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The voice you hear on the other end of your phone call may not be who you think it is, the person you're texting with could really be a bot, and the face in a photo or video on your favourite dating app might not even exist.
+</P>
+<P>
+Technological advancements in artificial intelligence are creating the potential to fuel romance scams, said Jeff Clune, an associate professor of computer science at the University of British Columbia.
+</P>
+<P>
+Scammers now have "more tools in their tool box to hoodwink people, especially people who are not aware of recent advances in technology," Clune said in an interview.
+</P>
+<P>
+Such advancements include voice simulators, face generators and deepfakes — in which an existing image or video is used to create fake but believable video footage. Another set of advancements is chat bots, like ChatGPT, which generate humanlike text responses on all sorts of online platforms.
+</P>
+<P>
+The Canadian Anti-Fraud Centre reported that romance scams skyrocketed during the massive shift online caused by the COVID-19 pandemic. It said the fraud schemes often involve convincing a victim to enter a virtual, online relationship in order to build trust and affection. Swindlers then use that emotional leverage to request money, cryptocurrency, gifts or investments.
+</P>
+<P>
+The centre has warned that Valentine's Day provides an "opportunity for fraudsters to target Canadians looking for a relationship." Its latest available data revealed 1,928 reports of romance scams totalling more than $64.5 million in losses in 2021, a nearly 25 per cent jump from the year before.
+</P>
+<P>
+Its Cyber Threat Assessment for 2023-24 flagged convincing deepfake technology and artificial intelligence, or AI, text generators as potential "threat actors."
+</P>
+<P>
+"As deepfakes become harder to distinguish from genuine content and the tools to create convincing deepfakes become more widely available, cyber threat actors will very likely further incorporate the technology into their use of [misinformation, disinformation, and malinformation] campaigns, allowing them to increase the scope, scale, and believability of influence activities," the analysis said.
+</P>
+<P>
+"Text generators have progressed to a point where the content they produce is often nearly indecipherable from legitimate material."
+</P>
+<P>
+Clune said scams utilizing aspects of AI technology still require a person pulling the strings, but that could soon change.
+</P>
+<P>
+"Even though scamming is very prevalent right now, there's still a cost to do it, because a human has to sit there and spend their time."
+</P>
+<P>
+"But if you can have AI do it to a million people a day and just sit and watch the money roll in, that's a scary place to be. And that is something that is possible with this technology," he said.
+</P>
+<P>
+Law hasn't kept up with tech: expert
+</P>
+<P>
+Suzie Dunn, an assistant professor at the Schulich School of Law at Dalhousie University, said the law has not kept up with technology, leaving "major gaps" in the legal framework.
+</P>
+<P>
+"One of the challenges that we have around impersonation laws is that, under the Criminal Code of Canada, you actually have to be impersonating an existing person," Dunn said in an interview.
+</P>
+<P>
+She said software that allows people to create a non-existent individual, with a fake accent, voice or face, poses legal complications.
+</P>
+<P>
+"If you're using someone's images or using someone's name, then it can be counted as a form of impersonation," she said.
+</P>
+<P>
+"But with these new technologies ... the types of harms that are often meant to be covered under these impersonation rules aren't really covered."
+</P>
+<P>
+Victims must rely on existing extortion and fraud laws, she said.
+</P>
+<P>
+"We don't need new extortion laws. Extortion is extortion whether it's being done by deepfakes or by a regular person," she added.
+</P>
+<P>
+"There's also a major gap there in what role the platforms play in addressing the harms that occur on them."
+</P>
+<P>
+Dunn said corporations, including AI developers, dating and social media platforms, should be aware of the potential harms and put the necessary safeguards in place.
+</P>
+<P>
+Clune agreed. He said new technology "will always be out in front of the laws and the politicians."
+</P>
+<P>
+He said the pace of progress in the field is "breathtaking," and it will continue, if not accelerate.
+</P>
+<P>
+"Almost anything you can imagine that seems science fiction and futuristic today will be around in a handful of years," he said.
+</P>
+<P>
+"It is worth politicians and society engaging in thoughtful conversations about what's coming and trying to get ahead of it and think through what can we do about it."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,129 @@
+<DOC>
+<DOCNO> CB110821-0001 </DOCNO>
+<DATE>
+<P>
+November 08, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Despite recent price hikes, heating with gas is still so cheap it's going to be hard to kick the habit; 
+</P>
+<P>
+Architects and planners say market forces alone won't end our natural gas addiction
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled Our Changing Planet to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+You may have seen recent media warnings that the price of natural gas is soaring. 
+</P>
+<P>
+As COP26 heads into its final week, those trying to help Canadians meet our climate commitments and prevent the world from overheating have a different view. The problem with fossil methane — the main component of natural gas — they say, is not that it's expensive, but that it is still so cheap.
+</P>
+<P>
+It is also efficient, reliable and in millions of Canadian homes. And at the burning stage at least, research shows it's cleaner and far less greenhouse gas intensive than other fossil fuel alternatives.
+</P>
+<P>
+Some, including former federal Conservative finance minister Joe Oliver, now chair of Ontario's Independent Electricity System Operator, oppose the move to stop using natural gas, saying it will be prohibitively expensive and self-defeating.
+</P>
+<P>
+But there is a problem. It depends how you calculate it, but most figures show space heating comes in after oil and gas production and road transport as being the biggest source of greenhouse gas emissions. Of heat sources, natural gas is the biggest single GHG producer partly because it is so widely used. To reach net zero by 2050, experts say we have to stop heating with gas.
+</P>
+<P>
+Despite battling a powerful industry lobby, deep-rooted infrastructure, consumer familiarity and challenging economics, a group of committed Canadians is beginning to move the needle on natural gas consumption that makes so many of us cozy in Canada's chilly climate.
+</P>
+<P>
+Sheena Sharp, a Toronto architect whose firm, Coolearth, has specialized in low carbon and low energy design since 2008, is one who fears it isn't going to be easy. That's because cutting back on natural gas has to face a tough economic reality. Sharp said that since the oil and gas industry developed hydraulic fracturing, or fracking, offering a bounty of new and inexpensive natural gas from formerly "dry" geology, schemes to reduce the use of it simply don't pay off.
+</P>
+<P>
+WATCH | CBC's Johanna Wagstaffe outlines what she is watching for at COP26 this week:
+</P>
+<P>
+Won't pay for the windows
+</P>
+<P>
+"Saving half of something that is not very expensive does not give you a lot of money to play with," Sharp said in a recent phone conversation.
+</P>
+<P>
+In other words, if your gas bill is about $1,000 a year, even doing something as simple as replacing old leaky windows — while it will likely make you more comfortable — may never pay back your capital investment.
+</P>
+<P>
+Sharp said that even at its maximum, years from now, carbon taxes will only go part way toward compensating for the cost of refitting an old building to make it net zero. Sharp's main clients are businesses or public institutions that see a public relations value in demonstrating they are acting to fight climate change.
+</P>
+<P>
+She has a few clients who are homeowners with spare cash to spend for the sake of their conscience and comfort, but if it doesn't add to the selling price, most others will stick to natural gas. Most businesses that must go head to head with competitors are unwilling to splash out on a low carbon refit that can put them at a financial disadvantage, she said.
+</P>
+<P>
+"After you've done the low-hanging fruit, which is essentially changing the light bulbs and putting in more efficient gas boilers," said Sharp, "most of the energy-efficient measures are pretty expensive."
+</P>
+<P>
+That's why she and many others who are trying to get Canadians off natural gas say the only solution is regulation by municipal or provincial governments that create a level playing field for businesses and homeowners, at the same time spawning a whole new industry that will make fuel-switching increasingly cheap and easy.
+</P>
+<P>
+Leading the charge to carbon-free
+</P>
+<P>
+That's exactly what the City of Vancouver is doing, and Chris Higgins, the city's senior green building planner, is one of those leading the charge. Vancouver is one of several Canadian cities to declare a climate emergency, and its first step, Higgins said, was to target new construction and major renovations, the stage when making buildings climate friendly is the cheapest and offers the biggest payoff. And he's moving quickly.
+</P>
+<P>
+"Vancouver as a city, we have our own building code," Higgins said in a phone interview. "As of Jan. 1, 2022 ... we're no longer allowing fossil fuels — natural gas being the most common — to be used for heating a home or to heat hot water."
+</P>
+<P>
+That deadline is less than two months away, and it comes with other conditions including thick insulation, triple-glazed windows, a draft-free building envelope and ventilation that reclaims the heat from exhausted air.
+</P>
+<P>
+Altogether, he said, the requirements will mean newly constructed homes will use 90 per cent less energy to heat compared to homes built in 2007. And that means the cost of heating shrinks in importance.
+</P>
+<P>
+In fact, the majority of those new homes, small- and medium-sized ones, will cost less to heat than older homes that use gas, said Higgins.
+</P>
+<P>
+Experts like Katya Rhodes at the Institute for Integrated Energy Systems in Victoria say a healthy support network of local businesses is already growing up to do the job and B.C. community colleges are training a new generation of specialists.
+</P>
+<P>
+WATCH | COP26 protesters increase pressure on leaders to take action on climate change:
+</P>
+<P>
+Targeting existing homes
+</P>
+<P>
+But Higgins and his team are not satisfied with climate-proofing the roughly 1,000 low-rise homes the city builds in a year. Shortly after the new-home policy passed through council just before the pandemic hit, Higgins began work on policy for existing homes.
+</P>
+<P>
+Homes built before 1940 when few houses were insulated are the biggest challenge, said Higgins, but the Vancouver Heritage Foundation is offering grants and support to retrofit the oldest homes.
+</P>
+<P>
+The city is also offering a $12,000 grant to any homeowner willing to turn off the gas and install a heat pump — a device like an inverse refrigerator that concentrates warmth from outdoor air using a fraction of the electricity of a standard baseboard heater.
+</P>
+<P>
+Higgins, whose own home was built in 1905, heats with a Mitsubishi H2i heat pump that cuts electricity use by two-thirds and can continue to suck heat out of outdoor air down to –25 C. Below that, in colder climes, the device is supplemented by radiant electric heat.
+</P>
+<P>
+Critics in colder places might complain that Vancouver, where temperatures rarely fall below –8 C, has it easy.
+</P>
+<P>
+But cooler cities, including notably Halifax, are also leaders, especially in the use of heat pump technology.
+</P>
+<P>
+And Higgins's model for his building code plan? It's Whitehorse, where temperatures have plunged to –50 C, a city that issued its first climate-friendly building code in 2009 and has tightened the rules steadily since, said city engineer Nick Marnik, although homes there are not connected to Canada's natural gas network.
+</P>
+<P>
+At COP26, Prime Minister Justin Trudeau committed Canada's biggest GHG generator, the oil-and-gas sector itself, to reducing emissions. With improving technology and falling costs, electric cars seem destined to send gas motors to the scrapheap.
+</P>
+<P>
+But as architect Sharp noted, while people on average turn over their cars every 15 years, all the buildings you can see out your window now in all probability will still be there in 2050, a time when Canada has committed to net zero.
+</P>
+<P>
+As Vancouver has demonstrated, the private sector has the skills and technology to meet that target. But in places like Toronto, Sharp said, a lack of government rules that would stimulate the virtuous circle of better technology and a faster transition mean increases in energy efficiency have slowed to a crawl.
+</P>
+<P>
+"It's critical for ... government to make a decision and it's critical that they do it soon," said Sharp.
+</P>
+<P>
+Follow Don on Twitter @don_pittis
+</P>
+</TEXT>
+</DOC>

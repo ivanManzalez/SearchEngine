@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> CB052318-0001 </DOCNO>
+<DATE>
+<P>
+May 23, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Alberta becomes 1st province to allow wireless electricity control in new homes; 
+</P>
+<P>
+'I see a lot of opportunity more than challenges,' says Municipal Affairs Minister
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Alberta is the first province to update its building code to allow for wireless electricity control in new residential construction and held an event Tuesday to showcase the change.
+</P>
+<P>
+The province issued an electrical safety information bulletin in February allowing companies such as Edmonton-based Levven Electronics to install wireless switches, lighting and speakers into all new construction projects. 
+</P>
+<P>
+Going wire-free allows for faster construction and increased access to smart technology, said James Keirstead, president and CEO of Levven Electronics.
+</P>
+<P>
+"It means that we can bring a lot of advantages to Alberta builders that will conserve resources, such as labour, materials, and bring the internet of things into everyday people's homes," Keirstead said.
+</P>
+<P>
+Keirstead is the co-inventor of GoConex, a new wireless rocker switch technology, a design which took three years to get approved. A switch goes into the wall and connects to the remote in the socket, minus the wires.
+</P>
+<P>
+"By removing all the labour and all the materials that go into making the switch and the light connect together, we save that money that can go into the cost of the materials for the new switch," Keirstead said. "So that ends up being cost neutral for the builder."
+</P>
+<P>
+"Should this technology reach the rest of Canada, it would result in over 302,000 'man-days' saved in skilled labour and over 175 million feet of copper wire," he said, adding that amount of wire could circle the world 1.25 times.
+</P>
+<P>
+"Alberta home builders can save 23.5 million feet of copper wire without any cost to your business or the customer," Keirstead said.
+</P>
+<P>
+The customer demand is there, said Matt Paul. He is with KVR Electric and has been working with Levven for the past two years.
+</P>
+<P>
+Jumping on the future
+</P>
+<P>
+"The install will be a lot quicker and smoother and can offer the customers a lot more smart technology per se, and should reduce some material costs in the home building," he said.
+</P>
+<P>
+Shaye Anderson, Alberta Municipal Affairs Minister, described the wireless technology as a breakthrough in construction.
+</P>
+<P>
+The technology will save homeowners and builders money, and be more sustainable, cutting out pollution that comes from harvesting copper and plastic, he said.
+</P>
+<P>
+"I see a lot of opportunity more than challenges, and that's why, as Municipal Affairs with our safety codes, we just said, 'You know what, let's get ahead of the curve on this because Albertans want it and they deserve it,' " Anderson said.
+</P>
+<P>
+Fire and safety codes are under the purview of Municipal Affairs, and national safety codes are adopted automatically.
+</P>
+<P>
+But Alberta felt particularly proactive about the wireless technology, Anderson said.
+</P>
+<P>
+"This one here is one of those ones where we know it's going to be coming in the future, but we jumped ahead on it," he said.
+</P>
+<P>
+"Get out of the way and enable industries to adapt and innovate? Perfect, let's do it."
+</P>
+</TEXT>
+</DOC>

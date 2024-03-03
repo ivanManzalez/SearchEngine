@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> CB110723-0003 </DOCNO>
+<DATE>
+<P>
+November 07, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Could the Liberals' carbon tax troubles light a fire under the move toward heat pumps?; 
+</P>
+<P>
+A recent study found heat pumps are 'already the lowest-cost option' in most cases
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Even as Mark Carney publicly disagreed last week with the Liberal government's decision to exempt home heating oil from the federal carbon tax — he told a climate conference that he would have looked for "other ways" to help Canadians with the cost of heating — the former Bank of Canada governor praised the second part of the Liberals' plan.
+</P>
+<P>
+"I very much applaud what the government did with respect to helping Canadians accelerate the transition and the measures on heat pumps," he said.
+</P>
+<P>
+British Columbia Premier David Eby, meanwhile, showed up for a meeting of provincial and territorial leaders on Monday wearing a t-shirt under his suit jacket bearing the message "I (Heart) Heat Pumps." (In case his enthusiasm was missed, Eby later held up the shirt for the television cameras at the joint news conference.)
+</P>
+<P>
+Whatever else the Liberal government's carbon tax contortions have done, they may have boosted the cause of energy efficiency — particularly for those low-income households who most need the help. And there are now calls for the Trudeau government to go even further.
+</P>
+<P>
+The momentum toward heat pumps, which can provide both heating and cooling, has been growing over the past few years. Because heat pumps run on electricity, they represent a more environmentally friendly option than burning oil or gas. But switching to a heat pump can also help households save money.
+</P>
+<P>
+In September, the Climate Institute released a study that looked at the cost effectiveness of heat pumps in buildings in five cities: Vancouver, Edmonton, Toronto, Montréal and Halifax. After running the numbers, the Institute found that heat pumps were "already the lowest-cost option in two thirds of all cases modelled" — though the exact figures understandably depended on regional energy prices and climate conditions.
+</P>
+<P>
+(The institute also created a calculator to help individual households run their own numbers.)
+</P>
+<P>
+Enthusiasm for heat pumps is not quite unanimous. Conservative Leader Pierre Poilievre briefly promoted Saskatchewan Premier Scott Moe's statement of concern last week regarding the fact that homes with heat pumps require a back-up energy source to handle temperatures below minus-25 degrees Celsius.
+</P>
+<P>
+The need for a back-up system is not a closely guarded secret — Moe was citing an analysis produced by the federal government. The Climate Institute built that fact into its study. And even with a back-up system, a move from natural gas to electricity is environmentally friendly, particularly if the power comes from a provincial electricity system running on clean energy.
+</P>
+<P>
+Having said that his climate plan will be about "technology, not taxes," Poilievre might also want to think twice before deciding he opposes both the federal carbon tax and federal support for heat pumps.
+</P>
+<P>
+Getting over the obstacles to heat pump adoption
+</P>
+<P>
+While the humble heat pump can help address both the climate crisis and cost of living concerns, the Climate Institute still identified several obstacles to their wider uptake, including a lack of familiarity with the technology, the challenge of navigating complex rebate programs and the practical and psychological barriers of high upfront costs.
+</P>
+<P>
+As Efficiency Canada has argued, those upfront costs are a particular obstacle for low-income households (the Canada Greener Home Grants program, launched in 2021, offers up to $5,000 toward the cost of a heat pump, but that support comes through a rebate after the retrofit is finished).
+</P>
+<P>
+In March, the Liberal government launched the "Oil to Heat Pump Affordability Program" that provided upfront support to households that use heating oil and are at or below the median income. It's that program that Prime Minister Justin Trudeau promised to boost in cooperation with provincial governments, to bring the total subsidy to $15,000.
+</P>
+<P>
+The federal government estimates that with the subsidy at that level, the cost to a household to install an average heat pump would be covered completely.
+</P>
+<P>
+While much of the concern about emissions in Canada is directed elsewhere, buildings accounted for 87 megatonnes of greenhouse gas emissions in 2021 — the third largest source of emissions and 13 per cent of the national total. The Climate Institute estimates that emissions from buildings increased in 2022. And if Canada is to meet its 2030 target for emissions reductions, heat pumps might need to provide as much as 10 per cent of Canada's home heating needs.
+</P>
+<P>
+There's an obvious political upside as well. Climate policy is often portrayed (fairly or not) as a burden, a cost to bear. When politicians talk about the benefits of fighting climate change, it's generally through a promise for the future — good jobs in the economy of "tomorrow." But heat pumps — and home retrofits in general — offer a chance to present climate policy as a way to make life easier or better in the short term.
+</P>
+<P>
+The question now facing Trudeau's government is whether it should extend its affordability program beyond heating oil.
+</P>
+<P>
+Helping low-income households with more than just oil
+</P>
+<P>
+A proposal released last week by a team of policy experts focused on affordability — the Affordability Action Council — called for a "new free retrofit program aimed at making about 100,000 homes per year more affordable, energy efficient and climate resilient." The program would fund heat pumps and other retrofits for low-income homeowners and renters, regardless of the heating source.
+</P>
+<P>
+"Less efficient homes make homeowners vulnerable to high energy costs and growing risks from a changing climate," the expert report argues. "Without support for retrofits that reduce their dependence on fossil fuels and protect them from climate risks such as heat waves and flooding, these households could face financial, health, safety and housing-insecurity risks."
+</P>
+<P>
+The New Democrats are putting a motion before the House of Commons on Tuesday that calls on the government to remove the GST from home heating bills and "make eco-energy retrofits and heat pumps free and easy to access for low-income and middle-class Canadians, regardless of their initial home heating energy source."
+</P>
+<P>
+The Trudeau government has budgeted $750 million over four years for its program targeted at heating oil; the NDP proposal presumably would cost more than that. Efficiency Canada's Brendan Haley, who contributed to the affordability action council's proposal, said the program it envisions would cost $2 billion over four years.
+</P>
+<P>
+That's not nothing. For the Liberals, however, it might be a small price to pay both to assist low-income households and to undercut claims that the government acted unfairly when it exempted only heating oil from the carbon tax.
+</P>
+</TEXT>
+</DOC>

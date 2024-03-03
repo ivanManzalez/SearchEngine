@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> CB112422-0003 </DOCNO>
+<DATE>
+<P>
+November 24, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Cap on electricity prices drives down Nova Scotia Power's credit rating; 
+</P>
+<P>
+S&P Global says new law hurts Nova Scotia Power's ability to operate
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Nova Scotia Power's credit rating has been downgraded because of the two-year rate cap on electricity prices imposed last month by the Houston government — fulfilling company warnings.
+</P>
+<P>
+S&P Global says the business risks facing Nova Scotia Power Inc. increased significantly with passage of Bill 212, which capped rates, profits and spending in the midst of a rate hearing by the Nova Scotia Utility and Review Board.
+</P>
+<P>
+"We expect that utilities operate under a regulatory construct that is sufficiently insulated from political intervention to protect their credit risk profile, even during periods of economic stress," S&P Global said in the Nov. 21 credit report.
+</P>
+<P>
+"We believe NSPI's ability to operate at a consistent financial level, in-line with that of its peers, has declined."
+</P>
+<P>
+The rating agency downgraded Nova Scotia Power by two notches to BBB minus — the lowest corporate investment grade in North America.
+</P>
+<P>
+That weaker credit rating will push up the cost of borrowing, said Greg Blunden, chief financial officer of Nova Scotia Power parent company Emera.
+</P>
+<P>
+Customers will eventually pay, says CFO
+</P>
+<P>
+"The implications for Nova Scotia Power — and then ultimately our customers — is every time we go to the market to raise money, whether that's for new capital investments or to refinance existing bonds, it's going to come at a significantly higher price than it otherwise would have," Blunden said.
+</P>
+<P>
+"And those costs are going to be costs that are ultimately going to be borne by our customers over the next number of decades," he said.
+</P>
+<P>
+Higher interest costs will not be passed onto ratepayers during the rate cap, which limits non-fuel related increases to 1.8 per cent in 2023 and 2024, excluding some energy efficiency measures.
+</P>
+<P>
+Increased revenue must be dedicated to strengthening the electrical grid, according to the law.
+</P>
+<P>
+S&P Global says that "has disincentivized NSPI to invest in decarbonizing its generation fleet."
+</P>
+<P>
+That echoes previous warnings from Emera CEO Scott Balfour and Nova Scotia Power president Peter Gregg.
+</P>
+<P>
+Green grid slowed because of rate cap
+</P>
+<P>
+Blunden also says the rate cap will slow the greening of the grid.
+</P>
+<P>
+"It's going to result in more challenges over the next number of years to move off coal faster than we otherwise would have. We are going to be challenged to continue to invest in renewable generation, battery storage, those kinds of things," he said.
+</P>
+<P>
+The legislated rate cap also prompted S&P Global to revise "our assessment of Nova Scotia's regulatory jurisdiction to our lowest level."
+</P>
+<P>
+"We view this unprecedented political intervention as significantly detrimental to NSPI's credit quality because it impairs the regulator's ability to act independently to protect the utility's credit quality, undermining the regulatory construct and the utility's cash flow predictability."
+</P>
+<P>
+Dalhousie University energy specialist Larry Hughes says that matters.
+</P>
+<P>
+"It makes the province look bad because of this interference in a regulated utility," said Hughes.
+</P>
+<P>
+Province brushes aside criticism
+</P>
+<P>
+The provincial government has brushed aside criticism of the bill from Emera, business groups and the consumer advocate who represents ratepayers in regulatory hearings.
+</P>
+<P>
+Premier Tim Houston says he was protecting customers from huge rate increases and would do it again if necessary.
+</P>
+<P>
+The Department of Natural Resources and Renewables said its responsibility is to ratepayers.
+</P>
+<P>
+"It is up to the company to manage its relationships with its stakeholders," the province said in a statement. "We will continue to look at options to help keep life affordable for Nova Scotians and to hold Nova Scotia Power accountable for the service it provides to people."
+</P>
+<P>
+Opposition leaders in the legislature also supported the rate cap.
+</P>
+<P>
+Nova Scotia Power produces about 15 per cent of Emera earnings.
+</P>
+<P>
+In response to the rate cap legislation, Emera said it will reduce its spending in Nova Scotia — something noted by the rating agency.
+</P>
+<P>
+"Emera's announcement that it will materially reduce its capital investment in NSPI, while maintaining only the minimum required equity in its capital structure, weakens our view of Emera's long-term support for NSPI relative to our prior expectations."
+</P>
+<P>
+Blunden downplayed the impact of the S&P downgrade on Emera.
+</P>
+<P>
+"It's going to be basically isolated … to Nova Scotia Power. So we're not anticipating any follow on effects of Emera at this point in time."
+</P>
+</TEXT>
+</DOC>

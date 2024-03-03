@@ -1,0 +1,4 @@
+DocNo   : CB013023-0006
+ID      : 585
+Date    : 30 January 2023
+Headline: Canadian team discovers power-draining flaw in most laptop and phone batteries; Breakthrough explains major cause of self-discharging batteries and points to easy solution

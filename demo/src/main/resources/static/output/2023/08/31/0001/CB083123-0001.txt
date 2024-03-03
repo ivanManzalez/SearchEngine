@@ -1,0 +1,102 @@
+<DOC>
+<DOCNO> CB083123-0001 </DOCNO>
+<DATE>
+<P>
+August 31, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+StatsCan to change how it counts non-permanent residents; 
+</P>
+<P>
+Agency says it 'stands behind its numbers' estimating number of non-permanent residents
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Statistics Canada says it will publish new data tables next month estimating the number of non-permanent residents in the country after a major bank issued a report that said the agency may be undercounting them by more than one million.
+</P>
+<P>
+"StatsCan will publish new data tables on NPRs starting on September 27 that will be computed using a revised methodology and going back to 2021," the agency said in a media statement.
+</P>
+<P>
+The new tables will be updated monthly and will include additional details, including a breakdown of permit types such as student visas versus the temporary foreign worker visas.
+</P>
+<P>
+The statement came after a CIBC Capital Markets report said earlier this week that the official number of non-permanent residents in Canada cited by policymakers could be vastly underestimated.
+</P>
+<P>
+"The official number of NPRs that is widely quoted and used for planning purposes undercounts the actual number of NPRs residing in Canada by close to one million," said the report by Benjamin Tal, deputy chief economist at CIBC. 
+</P>
+<P>
+The report said that by undercounting the number of non-permanent residents, the federal government is underestimating their effect on the housing market and should use its fall fiscal update to take action.
+</P>
+<P>
+"The practical implication of that undercounting is that the housing affordability crisis Canada is facing is actually worse than perceived, and calls for even more urgent and aggressive policy action, including ways to better link the increase in the number of NPRs to the ability to house them," the report said.
+</P>
+<P>
+International students and the housing crunch
+</P>
+<P>
+Canada is on track to host around 900,000 international students this year, Immigration Minister Marc Miller told CBC's The House on Saturday. That's more than at any other point in Canada's history and roughly triple the number that entered the country a decade ago.
+</P>
+<P>
+Last week, Housing Minister Sean Fraser floated the idea of a cap on the number of students Canada brings in.
+</P>
+<P>
+Fraser framed a cap on international students as "one of the options that we ought to consider" during a cabinet retreat in Prince Edward Island.
+</P>
+<P>
+The Quebec government rejected that proposal, saying education is the exclusive jurisdiction of the province and it's up to the provincial government and educational institutions to determine the number of people they can accommodate.
+</P>
+<P>
+Universities and colleges also pushed back on that proposal.
+</P>
+<P>
+"Recent comments conflating international students and the housing crisis are deeply concerning," said Philip Landon, interim president of Universities Canada, a membership organization that advocates on behalf of universities across Canada.
+</P>
+<P>
+Colleges and Institutes Canada, which represents post-secondary institutions in every province and territory, said a cap on international students is a troubling proposal that could have lasting adverse effects on communities and worsen current labour shortages.
+</P>
+<P>
+Problems with StatsCan's process: CIBC
+</P>
+<P>
+Canada's population hit a milestone of 40 million earlier this year. Official forecasts in 2013 said the population would reach only 38.7 million in 2023.
+</P>
+<P>
+Tal said 1.1 million of the forecast miss was due to the larger-than-expected increase in non-permanent residents, while the rest came from stronger immigration.
+</P>
+<P>
+The report said that while governments allocate resources and establish zoning and budgets for new housing to match the projected increase in demand, those earlier inaccurate forecasts put governments two years behind in their housing decisions. 
+</P>
+<P>
+Tal said the estimates are inaccurate for a number of reasons, including a failure to adequately account for people who could not return to their home countries during the pandemic and were given extensions to stay in Canada to perform essential jobs.
+</P>
+<P>
+Foreign students, short-term visitors, temporary foreign workers and student visa holders are also only included in the estimates for non-permanent residents if they properly fill out census documents. The report said they don't always do that.
+</P>
+<P>
+The report also said Statistics Canada makes the assumption that temporary resident visa holders leave Canada 30 days after their visa expires. Tal's report said as many as 60 per cent of those students plan to apply for permanent residency.
+</P>
+<P>
+StatsCan defends its process, numbers
+</P>
+<P>
+A statement from Statistics Canada said the agency "stands behind its numbers" and its estimates of the number of non-permanent residents are "accurate, produced using robust mechanisms" and are done in collaboration with provinces and territories.
+</P>
+<P>
+"Please note that NPRs who renew their temporary permits or transition to become a permanent resident are already considered by the demographic estimates," the agency said.
+</P>
+<P>
+The statement said StatsCan's process "takes the vast majority of overstayers into account" and the agency is aware that the number of people overstaying their visas increased during the pandemic.
+</P>
+<P>
+The agency said that while calculating the number of non-permanent residents "can be more challenging" than for "other groups," census results are added to demographic estimates in order to catch non-permanent residents missed by the census process.
+</P>
+<P>
+"We constantly evaluate and review our methodology to consider emerging demographic trends and new data needs," the statement said.
+</P>
+</TEXT>
+</DOC>

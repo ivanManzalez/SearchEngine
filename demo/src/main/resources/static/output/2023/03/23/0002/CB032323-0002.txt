@@ -1,0 +1,144 @@
+<DOC>
+<DOCNO> CB032323-0002 </DOCNO>
+<DATE>
+<P>
+March 23, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Former Vancouver detective warns against rental scams after home listed online without his knowledge; 
+</P>
+<P>
+Vancouver rental platform says suspicious listings nearly tripled between 2021-2022
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+When Paul McNamara's friend was looking for a New Westminster, B.C., home to rent on Rentals.ca, the friend was surprised to see a house he had visited before — McNamara's.
+</P>
+<P>
+The friend called to ask why, but McNamara was equally shocked.
+</P>
+<P>
+The listing featured 30 photos of the former Vancouver Police Department officer's two-level, three-bedroom, 4,000-square-foot heritage home, 25 kilometres east of Vancouver — including photos of his teenage daughter's bedroom.
+</P>
+<P>
+"It really feels like you've had an intruder in your house," said McNamara, also a former detective with the VPD's financial crimes unit.
+</P>
+<P>
+"Short of a break-and-enter ... when you see your personal space advertised without your permission and knowing it's being used in a scam, it is not a comfortable feeling."
+</P>
+<P>
+Reports of merchandise scams, which involve fake online ads including apartment rentals, nearly doubled between 2019 and 2020 according to the Canadian Anti-Fraud Centre. In 2022, the Vancouver-based rental platform liv.rent reported that suspicious listings have nearly tripled from the previous year. 
+</P>
+<P>
+According to one cybersecurity expert, it's important for renters to do their homework, including doing a walk-through of a property they intend to rent.
+</P>
+<P>
+"These types of scams are on the rise, with more and more people coming forward saying they have been victimized," said cybersecurity strategist Ritesh Kotak. 
+</P>
+<P>
+McNamara says he wants to help people against getting scammed since, he says, there's little to no accountability from authorities.
+</P>
+<P>
+'Don't call your bank'
+</P>
+<P>
+On March 11, after being alerted to the ad, McNamara reported the listing to the New Westminster Police Department (NWPD) and Canadian Anti-Fraud Centre. He also asked Rentals.ca to take the listing down. 
+</P>
+<P>
+The police called him back that day but said there was not much they could do, and advised McNamara to call the rentals site.
+</P>
+<P>
+When McNamara didn't hear from Rentals.ca the next day, he started to investigate.
+</P>
+<P>
+Using a fake email with the pseudonym Seamus Brogan, McNamara emailed the person trying to rent out his home.
+</P>
+<P>
+"The email was from a Rev. Benjamin William, with some long explanation as to why he can't show me the house, he's in California, some relative was sick with COVID," McNamara said of the response, describing it as a tell-tale sign of a fraud.
+</P>
+<P>
+McNamara said he was interested in the property and they began to text. The alleged scammer said he needed $1,500 upfront via e-transfer.
+</P>
+<P>
+Knowing wire and email transfers are almost impossible to stop and next to impossible to trace, McNamara says he emailed a doctored Interac transfer confirmation instead, showing the money had been e-transferred.
+</P>
+<P>
+The alleged scammer then asked for a wire transfer and told McNamara, "Don't call your bank" — another tell-tale sign. 
+</P>
+<P>
+McNamara asked for a full name and bank account information, or to be sent $200 so he could see their bank details. In emails reviewed by the CBC, the person who responded used the name George Aghogho, the email darthbear31@gmail.com, and a Toronto Dominion bank account based in Montreal.
+</P>
+<P>
+CBC News contacted that email address. A person using the email efffgx1@gmail.com wrote back, saying, "I'm not in the state for interview, you can only drive by the house."
+</P>
+<P>
+Authorities 'way behind the curve': former police 
+</P>
+<P>
+CBC News reached out to the NWPD for comment on what is being done to protect individuals against scams.
+</P>
+<P>
+In an emailed statement, spokesperson Sgt. Andrew Leaver said the department "encourages people who learn of a scam to report the details to the Canadian Anti-Fraud Centre.
+</P>
+<P>
+"In the event that someone has lost money or has been extorted through a scam, New Westminster Police Department officers will initiate an investigation," he added.
+</P>
+<P>
+In response to McNamara's case in particular, Leaver said: "If the tenant fears for their safety I would encourage them to call the police."
+</P>
+<P>
+"The rental website administrators have been contacted and we hope that they, and the administrators of other rental websites, understand the importance of acting swiftly in response to reports of fraudulent listings," he added.
+</P>
+<P>
+After five days, McNamara stopped texting with the fraudster. 
+</P>
+<P>
+"After reporting to police, the Canadian Anti-Fraud Centre and TD, no one got back to me with investigative avenues— it's apparent they are way behind the curve," he said.
+</P>
+<P>
+Following a Wednesday statement saying they were looking into McNamara's case, a spokesperson for Toronto Dominion bank told CBC News on Thursday that the bank "will be taking steps" based on findings from an investigation they conducted upon receiving McNamara's report.
+</P>
+<P>
+"We'll co-operate with law enforcement as required," said Mick Ramos, manager of corporate and public affairs, in an email. 
+</P>
+<P>
+The CBC contacted the Canadian Anti-Fraud Centre, who has not responded.
+</P>
+<P>
+'Do your homework'
+</P>
+<P>
+By Monday, Rentals.ca removed the listing for McNamara's house.
+</P>
+<P>
+"Over the weekend, when he had my house listed for rent ... there could have been five to 10 victims vying for the same property," McNamara said.
+</P>
+<P>
+Paul Danison, content director at Rentals.ca, told CBC in an emailed statement: "We employ a full-time fraud analyst and use A.I. to detect scams on Rentals.ca.
+</P>
+<P>
+"So we generally detect and then quickly eliminate or quickly take down any listings that are scams." 
+</P>
+<P>
+In a phone interview, Danison also said he is looking into how this particular listing made it through the system, although he couldn't go into detail about how potential landlords are vetted because the information could be used in new scams.
+</P>
+<P>
+On Wednesday, following the publication of this story, Rentals.ca told CBC News they would be making changes to keep scammers off the site, although they did not specify what exact measures they would be taking. 
+</P>
+<P>
+Kotak says vetting potential landlords isn't "rocket science" and that this could be done through a video call.
+</P>
+<P>
+He added that companies should verify the title-holders of a property.
+</P>
+<P>
+Kotak also advised renters to "do your homework.
+</P>
+<P>
+"Make sure you visit and do a walk-through of the property, never e-transfer any money, be wary of people who have aggressive sales tactics and if it sounds too good to be true, it probably is."
+</P>
+</TEXT>
+</DOC>

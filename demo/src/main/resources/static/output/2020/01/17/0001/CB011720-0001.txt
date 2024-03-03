@@ -1,0 +1,183 @@
+<DOC>
+<DOCNO> CB011720-0001 </DOCNO>
+<DATE>
+<P>
+January 17, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How to reduce the carbon emissions from home heating; 
+</P>
+<P>
+Also: A look at Britain's energy transition
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, people! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+How to reduce the carbon emissions from home heating
+</P>
+<P>
+In cold Canadian winters, many of us burn voluminous amounts of fossil fuels to keep warm. A majority of heating systems in this country are either forced-air furnaces or boilers with hot water or steam radiators — most of which burn natural gas — and nearly 70 per cent of residential energy use comes from fossil fuels.
+</P>
+<P>
+Experts say decarbonizing heating through electrification is key to reducing our country's carbon emissions. But for many of us, giving up our furnaces and boilers is a huge step that we may not be quite ready to take. Fortunately, there are a number of smaller measures that can cut carbon emissions from our homes.
+</P>
+<P>
+David Turnbull, a former home builder and current manager at Enerspec Energy Consulting and Home Inspections in Edmonton, suggests addressing heating the way we approach waste: first, reduce the demand; then reuse whatever you can; and then tackle full decarbonization.
+</P>
+<P>
+Reduce
+</P>
+<P>
+Turnbull, who is also a board member of Built Green Canada, which focuses on improving sustainability in the residential building sector, recommends first stopping heat from leaving your home by improving the building envelope. 
+</P>
+<P>
+"That's where you get pretty much the biggest bang for your buck up to a point," he said.
+</P>
+<P>
+This can be done by:
+</P>
+<P>
+Sealing gaps and air leaks with things like caulking and weather stripping.
+</P>
+<P>
+Improving insulation in the walls, basement and attic.
+</P>
+<P>
+Installing airtight, well-insulated windows.
+</P>
+<P>
+Turnbull said the best options for decarbonizing your heating system, such as heat pumps, either won't meet the home's needs or won't be cost-effective unless you've already reduced heat loss.
+</P>
+<P>
+A few other options to reduce demand include:
+</P>
+<P>
+Setting your thermostat lower, especially when you're away from home or sleeping. (Turnbull said the latter can save three to six per cent of your energy use.)
+</P>
+<P>
+Depending on your system, you may be able to do "zoning," where you heat parts of the house you're in more than parts of the house that are unoccupied (such as the basement).
+</P>
+<P>
+Choosing a smaller home.
+</P>
+<P>
+Low-flow fixtures such as shower heads or tankless water heaters reduce the need to heat water.
+</P>
+<P>
+Reuse
+</P>
+<P>
+There are a couple of devices that can help you reuse "waste" heat:
+</P>
+<P>
+Heat recovery ventilators. Once your house is air sealed and insulated, you'll need some ventilation. Heat recovery ventilators provide this while transferring heat from the stale air leaving the house to the fresh air coming in.
+</P>
+<P>
+Drain water recovery units. Turnbull said that when you typically take a hot shower, "you use that heat for truthfully a second — maybe less — and then all that heat goes down the drain." This device recovers that heat and puts it back into your home.
+</P>
+<P>
+Decarbonize
+</P>
+<P>
+All done with those? The next step is looking to replace fossil fuels with efficient electric heating options such as heat pumps. (We'll have more on this next week.)
+</P>
+<P>
+— Emily Chung
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+In last week's issue, we reported on the surprising rise in popularity of e-bikes, and how that might influence transportation in a low-carbon economy. A number of readers offered thoughtful reflections on this. That included Joseph Gore, who offered this wide-ranging analysis: "The idea of an electric bike looks fine until you realize that in Canada for about five months of the year bikes are simply impractical. Here we need an electrical vehicle with four tires on the ground that can go through snow and not go out of control on ice.
+</P>
+<P>
+"Canada is not the Netherlands, despite what city mayors who are frantically building bike lanes want us to believe," Gore said. "The big problem with North American cities and culture is that they are built for travel by cars … and many of us live in suburbs where everyone has and needs a car.
+</P>
+<P>
+"For decades, we have been talking about high-speed trains between Montreal and Toronto. Now that we need trains, we don't have them. Japan, China, France and even Morocco have high-speed trains, and the trains in Switzerland are amazingly reliable in summer and winter.  
+</P>
+<P>
+"If we are serious about transitioning to a low-GHG-emission country we need an alternative to cars and planes for medium- and long-distance travel, for people and goods."
+</P>
+<P>
+Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+The Big Picture: Britain's power transition
+</P>
+<P>
+Great Britain is the birthplace of the Industrial Revolution, which was largely powered by coal. This fossil fuel not only contributed to the Great Smog of 1952, which is estimated to have killed 12,000 Londoners, but it has spewed untold amounts of carbon dioxide into the atmosphere. In the last few decades, however, the country has diversified its energy mix, adding significant amounts of renewable sources (wind, hydro and solar), natural gas, biomass and nuclear, as well as importing power from other countries (which could have been generated any number of ways). The overall result has been a significant reduction in carbon pollution, to the point where Britain's per capita emissions are now below 1860 (yes, 1860) levels.
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+BlackRock, considered the world's most powerful investor (with about $7 trillion US under management), announced it is making sustainability a "core goal" of its investing strategy. In his annual letter to chief executives, BlackRock CEO Larry Fink emphasized that "climate risk is investment risk." The New York Times said BlackRock's move could "reshape how corporate America does business and put pressure on other large money managers to follow suit."
+</P>
+<P>
+ 
+</P>
+<P>
+Accessing Alberta's lithium, with an assist from the oil and gas biz
+</P>
+<P>
+Lithium, a vital component in electric vehicle batteries, is a growing market, expected to near $100 billion US, by some estimates, in the next decade.
+</P>
+<P>
+Mining the metal can come at a high environmental cost, so some Alberta companies are developing greener extraction methods by partnering with an unlikely ally — the oil and gas industry.
+</P>
+<P>
+"Working with the oil and gas industry, we can take advantage of the infrastructure already existing in Alberta," said Amanda Hall, president of Summit Nanotech.
+</P>
+<P>
+The infrastructure isn't the only advantage. The Leduc Formation, the source of Alberta's first big oil boom, is also a rich lithium deposit. According to the Canadian Lithium Association, there are about 3.6 million tonnes of lithium in the province. 
+</P>
+<P>
+Hall's company uses nanotechnology, which works with materials at the molecular or atomic level, to selectively filter lithium out of the wasted saltwater brine used in oil wells.
+</P>
+<P>
+"Lithium demand is going up in the near future because of electric vehicles … so the demand for our technology is also growing," Hall said.
+</P>
+<P>
+Her company hopes to test the tech on oilfield sites by the end of this year, and once they're up and running, will set up modular units near well heads to filter out the metal and provide it to whoever owns the land's mineral rights — for a fee.
+</P>
+<P>
+Daniel Alessi, an associate professor at the University of Alberta, said other companies, like E3 Metals, are also working to develop different extraction methods. 
+</P>
+<P>
+Alessi said while any resource extraction technology will have some negative footprint, there are options to utilize wasted natural gas or even geothermal energy to power the extraction. 
+</P>
+<P>
+"The big question these days is whether it's going to be economically feasible," Alessi said. But with companies like Tesla increasing their output of electric vehicles, demand is a sure thing. 
+</P>
+<P>
+"Unless somebody comes with a magic new battery technology, the outlook for this region, the lithium extraction, the lithium industry, is pretty promising."
+</P>
+<P>
+— Sarah Rieger
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

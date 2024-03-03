@@ -1,0 +1,102 @@
+<DOC>
+<DOCNO> CB051021-0001 </DOCNO>
+<DATE>
+<P>
+May 10, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Cyberattack on U.S. pipeline linked to criminal gang; 
+</P>
+<P>
+Operator of pipeline says it hopes to restore most service by end of week
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The operator of a major U.S. pipeline hit by a cyberattack said Monday it hopes to have service mostly restored by the end of the week.
+</P>
+<P>
+Colonial Pipeline offered the update after revealing that it had halted operations because of a ransomware attack the FBI has linked to a criminal gang.
+</P>
+<P>
+The ransomware attack on the pipeline, raised concerns that supplies of gasoline, jet fuel and diesel could be disrupted in parts of the region if the disruption continues. At the moment, though, officials said there is no fuel shortage. 
+</P>
+<P>
+The pipeline carries gasoline and other fuel from Texas to the Northeast; its pipeline system spans more than 8,850 kilometres, transporting more than 380 million litres a day. It delivers roughly 45 per cent of fuel consumed on the East Coast, according to the Georgia-based company.
+</P>
+<P>
+Colonial is in the process of restarting portions of its network. It said Sunday that its main pipeline remained offline, but that some smaller lines were operational. The company has not said when it would completely restart the pipeline.
+</P>
+<P>
+Meanwhile, the FBI on Monday said the ransomware attack had been carried out by a criminal gang known as DarkSide, which cultivates a Robin Hood image of stealing from corporations and giving a cut to charity.
+</P>
+<P>
+But cybersecurity expert Ritesh Kotak said the "hacktivist" label does not fit DarkSide. "If your hacktivism involves disrupting critical infrastructure, that's not hacktivism," Kotak told CBC's Thomas Daigle. "This is a criminal enterprise, this is a criminal offence."
+</P>
+<P>
+Ransomware attacks are when hackers typically lock up computer systems by encrypting data, paralyzing networks and then demand a large ransom to unscramble it. The company has not said what was demanded or who made the demand.
+</P>
+<P>
+The investigation could prove challenging for officials, Kotak said.
+</P>
+<P>
+"These hackers are organized. These hackers know what they're doing and they put certain mechanisms in place to make their identity extremely difficult to identify," he said.
+</P>
+<P>
+In response to the attack, the Biden administration loosened regulations for the transport of petroleum products on highways as part of an "all-hands-on-deck" effort to avoid disruptions in the fuel supply.
+</P>
+<P>
+If the pipeline outage persists, the industry may want to turn to barges to transport fuel, but that could require a waiver of the Jones Act, a U.S. maritime law that requires products shipped between U.S. ports to be moved by American-flagged ships.
+</P>
+<P>
+The pipeline utilizes both common and custom technology systems, which could complicate efforts to bring the entire network back online, according to analysts at Third Bridge.
+</P>
+<P>
+Gasoline futures ticked higher Monday. Futures for crude and fuel, prices that traders pay for contracts for delivery at some point in the future, typically begin to rise each year as the driving season approaches. The price you pay at the gas pump tends to follow.
+</P>
+<P>
+The average U.S. price of regular-grade gasoline has jumped six cents over the past two weeks, to $3.02 US per gallon, which is $1.05 US higher than it was a year ago. Those year- ago numbers are skewed somewhat because the nation was going into lockdown due to the pandemic.
+</P>
+<P>
+The attack on the Colonial Pipeline could exacerbate the upward pressure on prices if it is unresolved for a period of time.
+</P>
+<P>
+Active since August
+</P>
+<P>
+DarkSide is among ransomware gangs that have "professionalized" a criminal industry that has cost Western nations tens of billions of dollars in losses in the past three years.
+</P>
+<P>
+DarkSide claims that it does not attack hospitals and nursing homes, educational or government targets and that it donates a portion of its take to charity. It has been active since August and, typical of the most potent ransomware gangs, is known to avoid targeting organizations in former Soviet bloc nations.
+</P>
+<P>
+Colonial did not say whether it has paid or was negotiating a ransom, and DarkSide neither announced the attack on its dark web site nor responded to an Associated Press reporter's queries. The lack of acknowledgement usually indicates a victim is either negotiating or has paid.
+</P>
+<P>
+One of the people close to the Colonial investigation said that the attackers also stole data from the company, presumably for extortion purposes. Sometimes stolen data is more valuable to ransomware criminals than the leverage they gain by crippling a network, because some victims are loathe to see sensitive information of theirs dumped online.
+</P>
+<P>
+Warning to infrastructure operators
+</P>
+<P>
+Security experts said the attack should be a warning for operators of critical infrastructure — including electrical and water utilities and energy and transportation companies — that not investing in updating their security puts them at risk of catastrophe.
+</P>
+<P>
+Ed Amoroso, CEO of TAG Cyber, said Colonial was lucky its attacker was ostensibly motivated only by profit, not geopolitics. State-backed hackers bent on more serious destruction use the same intrusion methods as ransomware gangs.
+</P>
+<P>
+"For companies vulnerable to ransomware, it's a bad sign because they are probably more vulnerable to more serious attacks," he said. Russian cyberwarriors, for example, crippled the electrical grid in Ukraine during the winters of 2015 and 2016.
+</P>
+<P>
+Cyberextortion attempts in the U.S. in the past year have forced delays in cancer treatment at hospitals, interrupted schooling and paralyzed police and city governments.
+</P>
+<P>
+David Kennedy, founder and senior principal security consultant at TrustedSec, said that once a ransomware attack is discovered, companies have little recourse but to completely rebuild their infrastructure, or pay the ransom.
+</P>
+<P>
+"Ransomware is absolutely out of control and one of the biggest threats we face as a nation," Kennedy said. "The problem we face is most companies are grossly underprepared to face these threats."
+</P>
+</TEXT>
+</DOC>

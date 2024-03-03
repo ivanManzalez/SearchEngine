@@ -1,0 +1,183 @@
+<DOC>
+<DOCNO> CB110521-0001 </DOCNO>
+<DATE>
+<P>
+November 05, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+There's a good chance we'll miss our climate goals. So what's the point in setting them?; 
+</P>
+<P>
+ Paris Agreement mechanism calls for more ambitious targets every 5 years
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled Our Changing Planet to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+Right now, neither Canada nor the world appears to be on track to meet its climate targets or goals. So is all lost? Could we still hit the targets? What happens if we don't? And what's the point either way? Here's a closer look.
+</P>
+<P>
+What is the world's climate target under the Paris Agreement?
+</P>
+<P>
+Article 2.1.a of the Paris Agreement names a key goal as: "Holding the increase in the global average temperature to well below 2 C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5 C above pre-industrial levels, recognizing that this would significantly reduce the risks and impacts of climate change."
+</P>
+<P>
+So far, the United Nations Intergovernmental Panel on Climate Change reports that the world has warmed 1.1 C.
+</P>
+<P>
+Article 4.1 of the agreement also sets a longer-term goal to "achieve a balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases in the second half of this century" — also described as net-zero emissions by 2050.
+</P>
+<P>
+Is the world on track to meet either of those temperature targets?
+</P>
+<P>
+Not at the moment. 
+</P>
+<P>
+A new study published in Science on Thursday used climate modelling to extrapolate the impact of countries' most recent climate pledges into the future. In doing so, it found a 34 per cent chance of limiting global warming to 2 C and a 1.5 per cent chance of keeping it below 1.5 C.
+</P>
+<P>
+"There's no doubt that the current pledges are insufficient to meet the Paris Agreement," said Matthew Gidden, senior scientific advisor for Climate Analytics, a Berlin-based think-tank focused on climate change science, risk, and mitigation, who co-authored the study.
+</P>
+<P>
+However, the study found that's still a big improvement from 2015, when pledges had only an eight per cent chance of hitting 2 C and no chance at all of hitting 1.5 C.
+</P>
+<P>
+Just before the COP26 climate conference began on Sunday in Glasgow, the UN Environment Programme reported that the new pledges put the world on track for a temperature increase of 2.7 C this century. If countries meet longer-term commitments to reach net-zero emissions by 2050, that could limit the temperature rise to 2.2 C.
+</P>
+<P>
+However, it noted that countries' 2030 commitments "do not yet set G20 members (accounting for close to 80 per cent of GHG emissions) on a clear path towards net zero." And in fact, they "do not have policies in place to achieve even the NDCs, much less net zero," it said, referring to nationally determined contributions.
+</P>
+<P>
+Some announcements at COP26 could bring the world closer, such as India's commitment to reach net-zero emissions by 2070.  But Gidden said, "I personally do not expect COP26 to close the gap to 1.5 degrees."
+</P>
+<P>
+What's Canada's current emissions target?
+</P>
+<P>
+In July, Canada submitted new targets to the UN promising to cut its greenhouse gas emissions 40 to 45 per cent below 2005 levels by 2030. That's an upgrade from its 2015 commitment to reduce emissions 30 per cent.
+</P>
+<P>
+The country also committed to reducing its emissions to net zero by 2050.
+</P>
+<P>
+Why do our goals and targets seem to be changing all the time?
+</P>
+<P>
+The 2015 Paris Agreement has a mechanism designed to ratchet up climate ambition over time. Countries are required to submit more ambitious targets, known as NDCs, every five years — that is, they were supposed to send new ones in by 2020.
+</P>
+<P>
+As of Sept. 30, 2021, 120 countries had done that, while three G20 members (China, Japan and Korea) had announced new mitigation measures but hadn't yet submitted new NDCs, the UN reported.
+</P>
+<P>
+Is getting countries to change their targets and increase their ambition every five years actually productive?
+</P>
+<P>
+Yes. The new study simulated that process through modelling. It found that if countries increase their ambition beyond 2030, the probability of staying below 2 C rises to 67 per cent, and there's an 18 per cent chance of limiting warming to 1.5 C.
+</P>
+<P>
+Allen Fawcett, chief of the climate economics branch of the U.S. Environmental Protection Agency and another co-author of the paper, said the Paris Agreement's "ambition ratcheting" mechanism is "definitely working.... We're dramatically improving our odds, moving in the right direction, and hopefully parties will continue to come to the table with increased ambition."
+</P>
+<P>
+Is Canada on track to meet its new targets?
+</P>
+<P>
+It doesn't appear so. 
+</P>
+<P>
+In July, a report by the Pembina Institute, an energy and climate think-tank, found that Canada was on track to reduce emissions by only 36 per cent by 2030. 
+</P>
+<P>
+A study released in October by the Trottier Energy Institute at Polytechnique Montréal found that if it only factored in existing federal government policies with enough specifics to include in modelling — the carbon tax and the Clean Fuel Standard — Canada's emissions would fall just 16 per cent by 2030.
+</P>
+<P>
+However, at least one study, released by the Toronto-based think-tank Clean Prosperity this past week, showed Canada has a reasonable chance of meeting the target if it fully implements the federal government's plan and oil and gas prices fall.
+</P>
+<P>
+If we don't hit our global climate goals, do we lose the game? Is there still a point?
+</P>
+<P>
+While having goals or targets may make it sound like a sport where you either score or miss and you either win or lose, climate change doesn't work that way, the EPA's Fawcett said.
+</P>
+<P>
+"Every degree matters, every half a degree," he said. Not hitting our climate targets will lead to more severe climate impacts, such as more frequent and severe storms, droughts, wildfires and flooding due to sea level rise. Even 2 C of warming will have significantly more painful, deadly and costly impacts on people around the world than 1.5 C of warming, a UN report showed earlier this year.
+</P>
+<P>
+But on the flip side, every increment of warming we prevent will reduce those impacts. Even if we don't limit warming to 1.5 degrees, Fawcett said, "we want to do everything we can to limit it to 1.8 or 2."
+</P>
+<P>
+Rather than a hockey or soccer game where you're trying to score goals, he likened climate action to a marathon where we're trying reach net zero and halt climate change as soon as possible in order to keep the Earth's peak temperature as low as possible.
+</P>
+<P>
+"We're not racing others," he said. "We're racing the clock and wanting to, you know, set that personal best as low as we can get."
+</P>
+<P>
+What are the consequences if Canada or other countries miss their own targets?
+</P>
+<P>
+Obviously, they'll contribute more to global climate change and reduce the chance that the Paris Agreement targets will be met.
+</P>
+<P>
+But so far, the only legally binding obligation of countries that signed the Paris Agreement is to prepare and communicate their climate targets and plans. There are no built-in penalties for not meeting them.
+</P>
+<P>
+That's a key difference between the Paris Agreement and its predecessor, the Kyoto Protocol. This was so the Paris Agreement would be adopted by more countries. In fact, the penalties were the reason Canada withdrew from Kyoto in 2011 under Stephen Harper's Conservative government — by not meeting its targets, it was going to be found in non-compliance and would have had to pay $14 billion.
+</P>
+<P>
+However, Gidden of Climate Analytics noted that one of the key goals of COP26 is to "finalize the Paris Rulebook." That could include rules about whether countries that miss their targets should pay more into an adaptation fund or how small island states damaged by sea level rise should be compensated.
+</P>
+<P>
+Meanwhile, many countries, such as those in the European Union, are starting to propose carbon tariffs, levies and border adjustments on imports from countries that aren't cutting emissions fast enough. Canada's environment minister, Steven Guilbeault, suggested at COP26 earlier this week that our own country would consider levying such tariffs if the world doesn't press ahead with a standard carbon-pricing program.
+</P>
+<P>
+If there aren't penalties for not hitting targets, what's the point of setting them? 
+</P>
+<P>
+Gidden said setting targets is a "necessary first step" in order for countries to commit to climate action.
+</P>
+<P>
+Simon Langlois-Bertrand, research associate at the Trottier Energy Institute and co-author of the October report on Canada's targets, shares that opinion: "It's certainly not futile because it's the only way to try to get there."
+</P>
+<P>
+And countries have announced plans and implemented actions such as carbon taxes and investments in renewable energy, even if they're not yet enough. 
+</P>
+<P>
+WATCH | Small island nations turn to international court to make major polluters pay: 
+</P>
+<P>
+Fawcett said his new study shows the Paris Agreement has already had a significant impact — without it, there was a 50 per cent chance that the world was headed for a 4 C temperature increase. "That's really catastrophic."
+</P>
+<P>
+"Now there's been a lot of action," he said. "We're no longer on that path." In fact, if the most recent pledges are implemented, the risk of a 4 C increase will be "virtually eliminated."
+</P>
+<P>
+The Trottier Energy Institute's report noted that even long-term targets such as those in the Paris Agreement and Canada's own net-zero emissions targets have an impact — even if there aren't yet policies to implement them.
+</P>
+<P>
+For example, countries trying to trim emissions might consider temporarily switching from coal or oil to lower-emissions fossil fuels such as natural gas. But if they need to switch again to a zero-carbon solution within decades due to a net-zero goal, that's no longer a viable option. A switch directly to a zero-carbon option would make more sense.
+</P>
+<P>
+If we're having trouble meeting targets, are they set too high?
+</P>
+<P>
+Both Fawcett and Langlois-Bertrand say no, because the global targets are set based on science.
+</P>
+<P>
+"The target is not determined by, you know, what can be done," Langlois-Bertrand said. "The target is determined by what should be done ... based on the IPCC [Intergovernmental Panel on Climate Change] assessment of what needs to be done to keep global warming within a reasonable range."
+</P>
+<P>
+In other words, he said, targets are "a translation of how to get to the two degrees and 1.5 degrees."
+</P>
+<P>
+However, Langlois-Bertrand said his modelling found that Canada's target is "completely achievable."
+</P>
+<P>
+Likewise, Gidden said, models show that globally there are "plenty of pathways that take us from where we are today to one and half degrees."
+</P>
+</TEXT>
+</DOC>

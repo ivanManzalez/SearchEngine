@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> CB080423-0001 </DOCNO>
+<DATE>
+<P>
+August 04, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+These clean tech startups launched in Calgary, but most of their sales are in the U.S.; 
+</P>
+<P>
+Business booming for companies that can detect, monitor or reduce harmful methane gases
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A cluster of clean tech firms that got their start in Calgary are growing their operations south of the border as a proposed policy shift in the United States provides a big growth opportunity.
+</P>
+<P>
+Companies like Westgen Technologies, which launched in Calgary in 2019 and now has about 100 employees, were founded in response to a Canadian push to reduce harmful methane emissions from the oil and gas industry.
+</P>
+<P>
+In 2018, the federal government introduced regulations to reduce oil and gas methane, while also increasing the amount of funding toward developing related technologies to detect, monitor, avoid and reduce methane. Those moves gave rise to dozens of startups seeking to find solutions.
+</P>
+<P>
+Westgen specializes in providing remote electricity and compressed air to oil and gas well sites, reducing the need for methane to power valves and pumps, which is eventually released into the air.
+</P>
+<P>
+But the company, like other similar Canadian-born clean tech companies, says more of its clients are now American.
+</P>
+<P>
+The U.S. had lagged its northern neighbour on methane regulations for the oilpatch, but that's changing. The Environmental Protection Agency (EPA) is proposing rules that would surpass the level of stringency in Canada.
+</P>
+<P>
+As a result, many oil and gas producers south of the border are making investments to cut down on their methane emissions to prepare for the regulatory change.
+</P>
+<P>
+Two-thirds of Westgen's sales are already in the U.S. and that will grow closer to 80 per cent in the next few years, said Connor O'Shea, Westgen's CEO. 
+</P>
+<P>
+"Having that certainty that [the new regulations] are coming is creating a whole bunch of action with some of the more proactive oil and gas producers," he said.
+</P>
+<P>
+"We have a whole bunch of peers in the city who have done similar things in a similar period of time." 
+</P>
+<P>
+Made in Canada
+</P>
+<P>
+Westgen received $1.3 million in funding from the Canadian and Alberta governments since 2020.
+</P>
+<P>
+Qube Technologies has collected grant funding from those same governments to develop its software and hardware that detects, measures and records methane emissions at industrial sites.
+</P>
+<P>
+The company started in 2018 and manufactures its equipment at a site near downtown Calgary. It says sales south of the border account for about two-thirds of its business and recently opened an office and warehouse in Texas.
+</P>
+<P>
+"We've definitely seen an improvement in terms of the sales opportunities down in the U.S.," said Eric Wen, Qube's chief operating officer.
+</P>
+<P>
+The new EPA regulations are driving the growth, but there are other factors, too, he said. Some oil and gas companies are wanting to improve their environmental performance to attract more investors and improve their reputation. Reducing methane emissions can also result in companies producing more natural gas.
+</P>
+<P>
+"As the science around methane's impact on the environment changes, regulations around it are likely to become more stringent and punitive, not just in North America but around the world," Wen said. "There are a lot of companies, operators out there that are trying to get ahead on these emissions."
+</P>
+<P>
+Stricter rules
+</P>
+<P>
+Methane is considered to be 25 times as harmful as carbon dioxide for the atmosphere.
+</P>
+<P>
+"To have Canada and the U.S. both acting ambitiously at the same time, I think is really important," said Jan Gorski, a director with the Pembina Institute, a Calgary-based environmental think-tank.
+</P>
+<P>
+"What happens in Canada and the U.S. can really set a precedent for action around the world." 
+</P>
+<P>
+Gorski is not surprised that the proposed EPA rules are providing a boost in business in clean tech firms, since "these rules are a bigger jump for the U.S., which means that's probably spurring some more work down there."
+</P>
+<P>
+The Canadian government is working on increasing the strictness of its own methane regulations, such as rules focused on replacing pneumatic devices, such as equipment and controls at a well site, which run on natural gas, with electric or other non-polluting substitutes. The proposed regulations also call for monthly leak checks and repairs on equipment, compared to the current rule, which requires checks three times a year, Gorski said.
+</P>
+<P>
+Methane regulations vary in different parts of the U.S., since some states have relatively lenient rules compared to others.
+</P>
+<P>
+"Colorado has some of the most stringent regulations in the world, more stringent than than anywhere in Canada," said Thomas Fox, president of Highwood Emissions Management, which works with industrial companies to understand and reduce their emissions.
+</P>
+<P>
+In his comparison of what's proposed in both countries, Fox said the methane policies will be fairly similar in targeting drastic reductions.
+</P>
+<P>
+U.S. moving more quickly
+</P>
+<P>
+Still, the timelines are different, with Canada about a year behind in the process of introducing the new regulations, some experts say, pointing to how the federal government has released a two-page online framework, while the U.S. has posted hundreds of pages detailing its proposed rules.
+</P>
+<P>
+Richard Brown, president of Kathairos Solutions, wants the Canadian government to move more quickly to update its methane regulations. That would provide more opportunities at home for the made-in-Canada, government-supported clean tech startups.
+</P>
+<P>
+"A lot of the technologies to monitor, measure and then mitigate methane, they come out of Canada and so a lot of Canadian companies develop these technologies and then they're getting adopted at scale south of the border.
+</P>
+<P>
+"There's some irony in that. We get all this support to develop the new technology, but at the end of the day, the deployment of it isn't quite at the same scale than in the U.S.," he said.
+</P>
+<P>
+Kathairos has about 40 employees and says the majority of its sales are in the U.S. The company uses low temperature tanks of liquid nitrogen to replace the need for methane to power valves and pumps at well sites.
+</P>
+<P>
+The startup has deployed its technology at about 5,000 oil and gas wells in the U.S. compared to about 400 in Canada.
+</P>
+</TEXT>
+</DOC>

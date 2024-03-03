@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> CB081520-0001 </DOCNO>
+<DATE>
+<P>
+August 15, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+California orders rolling power outages during heat wave; 
+</P>
+<P>
+People urged to check on older adults while still wearing face masks
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+California on Friday ordered rolling power outages for the first time since 2011 as a statewide heat wave strained its electrical system.
+</P>
+<P>
+The California Independent System Operator (California ISO), which manages the power grid, declared an emergency shortly after 6:30 p.m. local time and directed utilities around the state to shed their power loads.
+</P>
+<P>
+Pacific Gas & Electric, the state's largest utility, tweeted that it would turn off power to about 200,000 to 250,000 customers in rotating outages for about an hour at a time. Other utilities were told to do the same.
+</P>
+<P>
+The emergency declaration ended just before 10 p.m. and California ISO said power had been restored statewide.
+</P>
+<P>
+"Extreme heat is really the driver behind this," said Anne Gonzales, spokesperson for the power grid operator.
+</P>
+<P>
+The move came as temperatures around the state rose above 36 C in many areas, and air conditioning use soared.
+</P>
+<P>
+Cloudy weather from the remnants of a tropical weather system reduced power generation from solar plants, Gonzales said.
+</P>
+<P>
+The state tried to prepare for the expected rise in electricity use by urging conservation and buying more power but a high-pressure system building over Western states meant there was less available.
+</P>
+<P>
+Temperatures and energy use were expected to drop during the evening, and California ISO expected the outages to end at midnight.
+</P>
+<P>
+The heat wave is expected to last through next week and the power grid operator will decide whether to continue the rolling outages on a day-to-day basis, Gonzales said.
+</P>
+<P>
+"We're dealing with weather, clouds, wildfires ... these are quickly evolving situations, quickly changing," Gonzales said.
+</P>
+<P>
+The last time the state ordered rolling outages was during an energy crisis in 2011. Blackouts occurred several times from January to May, including one that affected more than 1.5 million customers in March.
+</P>
+<P>
+Power still on in Los Angeles
+</P>
+<P>
+Counties up and down the state reported scattered outages, although the city of Los Angeles, which has its own power generating system, wasn't affected.
+</P>
+<P>
+Police departments warned people to watch out on roads where stoplights were out.
+</P>
+<P>
+In Sonoma County in the wine country, the Santa Rosa Police Department received a flood of calls and pleaded with residents: "Please do not call 911 unless you have an emergency."
+</P>
+<P>
+The heat wave brought dangerously high temperatures, increased wildfire danger and fears of coronavirus spread as people flock to beaches and parks for relief.
+</P>
+<P>
+Heat records fell in several cities. Downtown San Francisco hit 32 C, topping a high for the date of 30 that was set in 1995. Salinas hit 38 C, breaking the record set just last year. Palm Springs hit just under 49 C, breaking a 2015 record by several degrees.
+</P>
+<P>
+Sweltering weather was expected to continue into Wednesday across greater Los Angeles, the Central Valley, Sierra Nevada foothills and parts of the San Francisco Bay Area.
+</P>
+<P>
+Cooling centres
+</P>
+<P>
+Santa Clara, Alameda and Contra Costa counties opened cooling centres that will welcome people this weekend from the afternoon to the early evening. San Francisco officials said the city is recommending people stay home and that if the heat indoors gets intolerable to go outside to a shady place where they can stay cool and distant from other people.
+</P>
+<P>
+"Congregate indoor sites are not safe necessarily during COVID-19. It is better to follow other instructions during this heat wave," said Mary Ellen Carroll, executive director of the Department of Emergency Management.
+</P>
+<P>
+Carroll encouraged residents to check on family, friends and neighbours, especially older adults and those in frail health, and reminded people to always wear a face mask when in the vicinity of people who don't share their household.
+</P>
+<P>
+"We know it's going to be beautiful out this weekend but we just want everyone to remember that we are in a very serious response to this COVID-19 virus."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB080522-0002 </DOCNO>
+<DATE>
+<P>
+August 05, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Renters are feeling the pinch nationwide. These 5 charts break it down; 
+</P>
+<P>
+Prices continue to rise as rental markets recover from pandemic-driven declines
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Many Canadians are finding it harder to obtain housing that fits their budget as rents soar across the country.
+</P>
+<P>
+Rising prices are being driven in part by higher interest rates, which are cooling off the house-buying market and in turn putting more strain on rentals.
+</P>
+<P>
+Here are five charts that show some of the numbers behind the issue.
+</P>
+<P>
+Rents going back up
+</P>
+<P>
+After pandemic-driven declines in 2020 and 2021, Canadian rental rates are on the rise again. The median rent for all property listings on Rentals.ca for the second quarter of 2022 was $1,750, a seven per cent increase over the same period last year.
+</P>
+<P>
+The listings include detached homes, semi-detached homes, townhouses, condominium apartments, rental apartments and basement apartments.
+</P>
+<P>
+The year-over-year increase in the second quarter of 2022 continues a trend. Median rents nationwide also increased year-over-year in the previous two quarters.
+</P>
+<P>
+However, Canada-wide rental prices have yet to reach pre-pandemic levels, which saw the median rent reach $1,825 in the fourth quarter of 2019.
+</P>
+<P>
+British Columbia has seen the highest year-over-year increase in average rent at close to 25 per cent. Meanwhile, Nova Scotia has seen double-digit increases throughout the pandemic. In 2021, the province's business development agency launched a marketing campaign to attract remote workers. In 2022, the province tried to introduce a new tax on homeowners who aren't residents, but later backed down. 
+</P>
+<P>
+Income vs. rent
+</P>
+<P>
+The Canada Mortgage and Housing Corporation defines "affordable" housing as shelter costs that are less than 30 per cent of a household's before-tax income. Taking into account rent and utilities, CBC News calculated how much a household has to earn to keep the average cost of a two-bedroom apartment below that threshold.
+</P>
+<P>
+In Vancouver, where the average monthly rent for a two-bedroom apartment has reached an astounding $3,597, a household would have to earn a gross income above $150,000 in order for that rent to be deemed affordable. In Toronto, a household has to make more than $135,000.
+</P>
+<P>
+Housing costs vs. everything else
+</P>
+<P>
+Breaking down the Consumer Price Index (CPI) also gives a sense of how housing has hit Canadians' wallets. The CPI measures changes over time in the prices of goods and services such as food, clothing, transportation, health care, recreation and, of course, shelter.
+</P>
+<P>
+While prices tend to increase over time in an economy, the cost of shelter has risen at a faster rate than everything else we buy.
+</P>
+<P>
+Between 2002 and most of 2004, the cost of "everything else" rose at a higher rate than the cost of housing.
+</P>
+<P>
+But in late 2004, the increase in housing costs began to outpace the increase in the cost of everything else. Except for a period in August and September 2005, that trend has continued ever since.
+</P>
+<P>
+Roommate households gain popularity
+</P>
+<P>
+Some people have turned to living with a roommate or roommates to alleviate rental costs. Roommate households — which StatsCan defines as two or more people living together who are not part of a census family — are the fastest-growing household type in Canada.
+</P>
+<P>
+While they still account for only a small share of all Canadian households (four per cent), the 663,835 roommate households in 2021 represent a 54 per cent increase from 2001.
+</P>
+</TEXT>
+</DOC>

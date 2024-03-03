@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO> CB020821-0001 </DOCNO>
+<DATE>
+<P>
+February 08, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Why cheap wind power is making Quebec's big, old dams more valuable as a 'battery,' say experts; 
+</P>
+<P>
+$600 million Innu wind project will use province's hydro dams as backup power for when wind doesn't blow
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+You might think that what with having Canada's largest hydroelectric capacity, providing almost 100 per cent of its electricity, including exports, a new $600-million wind power project is the last thing Quebec would need.
+</P>
+<P>
+That was exactly what experts were saying when Premier François Legault cancelled Apuiat, a private but government-supported wind project in Northern Quebec in 2018.
+</P>
+<P>
+But now as the province relaunches the project, power experts say an investment in wind will actually increase the value of Hydro-Québec's existing hydroelectric infrastructure.
+</P>
+<P>
+Beyond providing clean electricity amid growing demand, they can act like enormous grid-scale batteries, addressing the Achilles heel of intermittent, renewable energy sources such as wind and solar: what do you do when the wind doesn't blow or the sun doesn't shine?
+</P>
+<P>
+A change of heart
+</P>
+<P>
+There is a lot of politics in Legault's change of heart, but a contributing factor is the election of U.S. President Biden and his new green agenda, said Pierre-Olivier Pineau, chair in energy sector management at Montreal's Hautes Études Commerciales (HEC).
+</P>
+<P>
+As recently as last summer, the Quebec premier downplayed the chances of restarting the Apuiat wind project because of the province's continuing glut of electric power.
+</P>
+<P>
+"I want to be very clear," Legault told Radio-Canada last July, "We still have a [power] surplus at Hydro-Québec, so we're not yet ready to launch."
+</P>
+<P>
+However, there is the prospect of a growing need for low-carbon electricity — for export to the U.S. and elsewhere, and for use at home to power electric vehicles and other efforts to decarbonize.
+</P>
+<P>
+Add to that, the price of wind power plunging and the price of building new hydroelectric dams on the rise, and last week the outlook changed.
+</P>
+<P>
+"After many months of work with our Indigenous partners, I am proud to present a win-win project for the Innu communities, for Québec and for the planet," said Legault in announcing the relaunch. "This is excellent news for the entire wind energy sector, in which costs have come down considerably."
+</P>
+<P>
+The project will be half owned by Boralex, a Quebec company that has grown into a global green energy giant, with the other half owned by north shore Innu communities.
+</P>
+<P>
+"For the first time, across our nation, we are the master builders of a large project of benefit to the Innu and to Quebecers," said Mike Mckenzie, chief of the Innu community of Uashat mak Mani-utenam, in last week's announcement that the project was back on track.
+</P>
+<P>
+The wind development will provide much-needed stimulus to the Quebec economy and smooth relations between the Innu communities and Quebec City.
+</P>
+<P>
+But according to Richard Carlson, director of energy policy for the national NGO Pollution Probe who has a long history of studying the electricity market, the project will also draw attention to the untapped wealth of Quebec's existing hydroelectric infrastructure as a precious system of power storage and provide a working example for other parts of Canada, including British Columbia and Manitoba.
+</P>
+<P>
+"In places like B.C., Manitoba, Quebec, Norway, Sweden, those are really reservoir systems," said Carlson, referring to the kind of hydroelectric power where a dam can hold back vast quantities of water. 
+</P>
+<P>
+"You have control over when you use that water."
+</P>
+<P>
+Wind cheaper than building new dams
+</P>
+<P>
+The cost of wind and solar power have fallen so much over the last decade that they are much cheaper than building new hydroelectric dams — "The cost declines have been astounding," said Carlson — but they have the disadvantage of being intermittent.
+</P>
+<P>
+"The sun doesn't shine at night," he said someone always tells him on Twitter when he mentions solar's cost advantages, "As if I weren't aware of that."
+</P>
+<P>
+The advantage of combining less-expensive intermittent power with Quebec's existing system of hydroelectric power dams is that it allows the power utility to use up the cheap wind power as it is produced while the water behind the dams is retained, at the ready.
+</P>
+<P>
+"You're saving the more valuable [hydro] electricity for when it's needed and using lower-cost forms of electricity when they are available," said Carlson.
+</P>
+<P>
+In places not as lucky as Quebec, including Ontario, there are hydro systems that consist of a constant flow of water through the Great Lakes or down a river that must be used to produce electricity immediately or wasted.
+</P>
+<P>
+That is why Ontario built the Sir Adam Beck pumped storage facility at Niagara Falls and why it is considering others, including a multi-billion-dollar TC Energy proposal near Collingwood, about 140 km north of Toronto.
+</P>
+<P>
+"The TC Energy pumped hydro project would be a way to replicate [the Quebec system] with a much-higher cost," said Carlson.
+</P>
+<P>
+Despite his many contacts with Quebec's electricity system, Pineau at HEC was caught by surprise by the announcement of the wind project.
+</P>
+<P>
+Pineau said he thinks one reason for the deal was to help Hydro-Québec polish its image in the U.S. where it has been criticized for failing to respect First Nations rights. Another, he said, was to stimulate Quebec's wind industry that is currently hungry for contracts.
+</P>
+<P>
+'A battery in itself'
+</P>
+<P>
+Even though Hydro-Québec's dam-building costs have been some of the lowest in the world, Pineau expects no more will be built, because they are so much more costly than wind and solar are now.
+</P>
+<P>
+But they still confer a particular advantage to Quebec as electricity demand rises.
+</P>
+<P>
+"Quebec is particularly well positioned ... to store it and export it," said Pineau. "Hydro-Québec is a battery in itself with its dams."
+</P>
+<P>
+Just as Norway has been described as Europe's battery, Quebec could play a similar lucrative role in a northeastern North America as it becomes increasingly dependent on cheap, intermittent, green power sources.
+</P>
+<P>
+"Quebec is a great place for this, but there's also huge opportunities for using hydro power from B.C. to help Alberta and hydro power from Manitoba to help Saskatchewan decarbonize," said Carlson. "So it's not just a Quebec story but there are ways of using this across Canada."
+</P>
+<P>
+Follow Don Pittis @don_pittis
+</P>
+</TEXT>
+</DOC>

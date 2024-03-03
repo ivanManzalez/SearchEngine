@@ -1,0 +1,150 @@
+<DOC>
+<DOCNO> CB111921-0001 </DOCNO>
+<DATE>
+<P>
+November 19, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Big banks want to act on climate change — so what's stopping them?; 
+</P>
+<P>
+Warnings about the obstacles the finance sector faces in funding a transition to cleaner energy
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled Our Changing Planet to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+As the dust settles from the recent UN climate summit in Glasgow, there's still plenty of debate about what was actually accomplished at COP26 and how various nations will reach the lofty environmental targets they've pledged.
+</P>
+<P>
+There is little debate, though, that the world's finance sector took centre stage at the two-week event, in a way that hasn't happened over the decades at any of the previous climate talks.
+</P>
+<P>
+That's in large part due to Mark Carney, the former governor of both the Bank of Canada and the Bank of England. His latest task, as the United Nations' special envoy on climate action and finance, was to rally the finance industry to make green investment a priority.
+</P>
+<P>
+At COP26, he announced the formation of a group of 450 global banks, pension funds, insurance companies and other finance firms — with resources totalling $130 trillion US — all pledging to fund the transition to a low-carbon world and to limit global warming. 
+</P>
+<P>
+As Carney told CBC News at the conference, "One of the key messages of this COP is: The money is there." 
+</P>
+<P>
+Having that funding available is important, but it's also only the first step in having the financial sector act more quickly and more substantially to the threat of climate change.
+</P>
+<P>
+WATCH | Mark Carney helped broker an agreement with 450 major financial institutions:
+</P>
+<P>
+Carney's COP26 announcement was met with a level of skepticism by environmental critics, since many of the institutions that signed on, including Canadian banks, still finance fossil fuel projects and have made no commitments to stop doing so. 
+</P>
+<P>
+It will be difficult for any amount of new green investment to offset the continuing growth of oil, natural gas and coal production, said Ben Caldecott, director of the Oxford Sustainable Finance Group at the University of Oxford.
+</P>
+<P>
+Pressure has been building on the sector in recent years to do more; COP26 only drew further scrutiny on the industry.
+</P>
+<P>
+"That pressure is healthy," said John Stackhouse, a senior vice-president with the Royal Bank of Canada, which is one of the world's top bankers to the fossil fuel industry.
+</P>
+<P>
+"We're hearing it from corporate clients, as well as individuals — and we hear from employees. All that is good and there's a range of views," he said.
+</P>
+<P>
+One of the challenges the financial sector faces when pouring more money toward lowering the world's emissions is the risk-averse nature ingrained in the DNA of many banks: Early-stage technologies are inherently risky.
+</P>
+<P>
+Offshore wind projects are often cited as an example of success, though; banks in Europe were hesitant to invest in the technology 15 years ago, but are now much more comfortable with the sector as it has matured.
+</P>
+<P>
+Many technologies that could prove to be critical to decarbonization — the use of hydrogen as a fuel, the continued electrification of the economy, and the growth of carbon capture and storage — are still in development.
+</P>
+<P>
+'Front end of the risk curve'
+</P>
+<P>
+But whether the companies involved in these projects will be financially successful is still far from certain.
+</P>
+<P>
+"Right now, we're at the front end of the risk curve in a lot of the technologies that will be needed for the transition," said Stackhouse. "That's going to require a different financing approach then you would get for established and scaled up technologies."
+</P>
+<P>
+WATCH | The difficulty with predicting the pace of the transition to a low-carbon economy:
+</P>
+<P>
+One solution is to mix funding sources, with banks, venture capitalists and governments — and their different risk appetites — all partnering together.
+</P>
+<P>
+Four years ago, French investment bank Natixis developed a fund that invests in organizations involved in sustainable land use, such as sustainable forestry and agriculture. The UN and the government of Luxembourg are both investors and said they would take the first loss, should the fund lose value. The arrangement provides the bank and other private investors with some added financial security.
+</P>
+<P>
+"Even though the environmental and social performance of those products are very high, they're not always reflected in financial performance," said Karen Degouve, the head of sustainable business development at Natixis, in an interview.
+</P>
+<P>
+Evaluating what is 'green'
+</P>
+<P>
+There are other obstacles, too, she said, including the limited number of low-carbon projects to support and how best to judge how "green" a company or project really is.
+</P>
+<P>
+The global oil sector, for instance, is made up of many large, easy-to-invest-in corporations. But there are very few wind and solar companies that have significant scale. Experts suggest there may need to be consolidation in green industries to increase the amount of investment flowing into the sector.
+</P>
+<P>
+And currently, there is no standard or dominant rating system for how to evaluate which companies are making the biggest difference in tackling climate change.
+</P>
+<P>
+Like many financial players, Natixis decided to develop its own rating system, called the Green Weighting Factor; it assigns each of its clients a colour, from brown to green, on a seven-level scale, to judge the company's environmental progress.
+</P>
+<P>
+Carbon emissions are an important factor in the ranking, Degouve said, but there are other environmental considerations, too, like water use.
+</P>
+<P>
+And choosing which company to support isn't always straightforward when there are varying climate priorities and different paths to net-zero.
+</P>
+<P>
+For instance, one company could reduce its emissions by switching from coal-fired power plants to natural gas, but a different firm could be developing a wind-energy project and another could be investing in small-scale nuclear power.
+</P>
+<P>
+What's more, priorities are likely to shift. Right now, natural gas is generally seen as a transition fuel, said Degouve, but it may be seen differently 10 years from now, as the world increasingly looks to reduce emissions.
+</P>
+<P>
+"There's a lack of a common definition or common methodology to define 'transition,'" she said.
+</P>
+<P>
+WATCH | How difficult it can be to compare the emissions of 2 companies from the same sector:
+</P>
+<P>
+Often data about environmental performance is also not consistent nor comparable, said Jamie Bonham, a Vancouver-based director with NEI Investments.
+</P>
+<P>
+He finds it difficult to evaluate Canadian oil companies, for instance, because they often use different metrics to calculate their climate impacts.
+</P>
+<P>
+"I'm at a bit of a loss at the moment as to which one of these is the most aligned with a net-zero path," said Bonham, who was in Glasgow for COP26. 
+</P>
+<P>
+The finance sector doesn't need to wait for perfect data to take action, he said, but it's still a hurdle to overcome.
+</P>
+<P>
+Considerations that cloud
+</P>
+<P>
+There's also societal and economic considerations that banks may weigh. The world requires reliable electricity and a number of workers and communities could be impacted as nations shift away from certain polluting industries, like thermal coal.
+</P>
+<P>
+The world will also still need oil and natural gas for decades to come, especially for non-combustion uses, like plastics.
+</P>
+<P>
+It's a realization that further clouds the financial sector's ambition, amid the repeated warnings of a looming climate catastrophe.
+</P>
+<P>
+"We have to be really careful not to see all of this as black and white — it's full of grey," said RBC's Stackhouse. "The economy and geography and politics are not always predictable."
+</P>
+<P>
+While COP26 made clear where the world needs to go, it's the ambiguity of the transition that the finance world has to grapple with as it emerges from the sidelines to join the climate change battle.
+</P>
+</TEXT>
+</DOC>

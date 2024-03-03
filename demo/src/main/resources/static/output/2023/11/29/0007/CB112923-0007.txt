@@ -1,0 +1,129 @@
+<DOC>
+<DOCNO> CB112923-0007 </DOCNO>
+<DATE>
+<P>
+November 29, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Oilsands giants continue work on proposed $16.5B carbon capture project, despite lingering questions; 
+</P>
+<P>
+Governments pledge new funding for the technology as new report questions whether it's worthwhile
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canadian oilsands companies are working to develop a proposed $16.5 billion carbon capture project, amid mixed support from local communities and ongoing questions about whether such projects are effective in the global fight against climate change.
+</P>
+<P>
+The Pathways Alliance, a consortium of the country's six largest oilsands companies, says engineering and other work is ongoing for the proposed project in northeastern Alberta, with about 250 employees.
+</P>
+<P>
+Emissions from the oilsands represent about 12 per cent of Canada's total greenhouse gases. The sector has a goal of reaching net zero by 2050, primarily through collecting emissions and storing them underground.
+</P>
+<P>
+Governments are committing new funding to these projects, but a report from the International Energy Agency last week warns against banking on carbon capture and storage technology to reduce emissions, urging companies to start "letting go of the illusion" that "implausibly large" amounts of carbon capture are the solution to the global climate crisis.
+</P>
+<P>
+The IEA released the report on the eve of this year's UN climate summit, also known as COP28, which starts on Thursday.
+</P>
+<P>
+Some experts expect the use of carbon capture and storage will be a point of contention during climate negotiations, because some countries want to use the technology to reduce emissions, while others want limits on its use.
+</P>
+<P>
+The IEA report isn't dissuading the Alberta government from announcing new financial support for the carbon capture sector, which Premier Danielle Smith is expected to unveil on Tuesday. Earlier this month, the federal government announced its own financial incentives for the sector, including tax credits.
+</P>
+<P>
+Ten carbon capture and storage facilities are already operating in Alberta and Saskatchewan, with several more projects in development.
+</P>
+<P>
+The proposed Pathways project has the highest profile because of its focus on reducing emissions specifically in the oilsands.
+</P>
+<P>
+The Pathways group has not yet made a decision to go ahead with the project, which would capture CO2 emissions from more than 20 oilsands facilities in northern Alberta.
+</P>
+<P>
+The gases would be transported south by a proposed 400-kilometre pipeline to the Cold Lake region, where they would be injected underground.
+</P>
+<P>
+"So far, we haven't seen the kinds of investments that are needed to actually make these carbon capture projects a reality, but we have seen some progress in terms of permitting," said Jan Gorski, program director for oil and gas at the Pembina Institute, a clean energy think-tank.
+</P>
+<P>
+"Carbon capture only addresses the emissions from producing the oil. You still have emissions from when it's burned. And I think we need to [address] both." 
+</P>
+<P>
+Proposed carbon capture facilities often face criticism because the projects aren't cheap, and some environmental experts say the money could be better spent on renewable energy and other low-carbon projects. 
+</P>
+<P>
+Jobs, rent and spending
+</P>
+<P>
+At a recent open house in Cold Lake, a city of about 15,000 people located about 300 kilometres northeast of Edmonton, local residents came to learn more about the project, including the location of the proposed pipeline, the safety of transporting CO2, and other possible impacts.
+</P>
+<P>
+"The impact to local residents, I think, will be minimal compared to what the speculation was," said Jerry Smith.
+</P>
+<P>
+Cold Lake has previously experienced boom times because of oilpatch activity, which often provides an economic boost for the community but can have social impacts, too.
+</P>
+<P>
+"I worry about an influx of workers making it really difficult for people working lower-wage jobs to find housing," said business owner Brooke Cory. 
+</P>
+<P>
+"I'm a little bit worried about health care provided here because we're pretty short on health-care professionals, and I'm worried about school spaces for the kids. We're pretty tight already and we're going to have, I assume, a few hundred more kids show up and then we'll be even tighter."
+</P>
+<P>
+Cold Lake Mayor Craig Copeland is a firm supporter of the Pathways project, especially because he expects it will help fill hotel rooms, restaurants and other businesses.
+</P>
+<P>
+The last economic boom from the oilpatch in Cold Lake was about 10 years ago, said Copeland, when the influx of workers contributed about $250,000 every month in rent and hotel bills alone.
+</P>
+<P>
+"This project is a very significant project and if it doesn't go through, it's going to be devastating," said Copeland.
+</P>
+<P>
+He also expects this type of project to help keep more young people in the community, because the industry can provide jobs with a six-figure salary for people graduating high school.
+</P>
+<P>
+"What industry can provide that for any kid right now?" he asked.
+</P>
+<P>
+Indigenous community questions environmental impact
+</P>
+<P>
+On the nearby Cold Lake First Nations, there is much less support for the Pathways project, primarily because of safety concerns and mistrust of industry.
+</P>
+<P>
+There have been pipeline spills in the past, along with other impacts to the First Nations' land because of nearby oilpatch activity and other development, including a the Canadian Armed Forces air weapons range.
+</P>
+<P>
+"We've had nothing but loss from one end to the other," said Daniel Mclaughlin, a member of the Cold Lake First Nations.
+</P>
+<P>
+He understands the urgency of climate change and the need to reduce emissions in the oilsands, but he doesn't want the project to be rushed because of its potential impacts for decades to come.
+</P>
+<P>
+A large section of the planned storage area lies beneath their feet, where they have fished, hunted and lived for generations.
+</P>
+<P>
+"Even with every safeguard in place, nothing seems to work perfectly," Mclaughlin said. "[I have] serious concerns about pressurized carbon dioxide being pumped right across the entire land." 
+</P>
+<P>
+Alleviating those concerns is a central focus for the Pathways group — executives say the project won't proceed without the support of Indigenous groups in the area.
+</P>
+<P>
+"Honestly, we can't envision moving forward with any major infrastructure project without great partnership from Indigenous communities," said Pathways president Kendall Dilling.
+</P>
+<P>
+"They're valid concerns. We're proposing to inject millions of tonnes per year of CO2 deep underground and in proximity to their communities, and those are very natural questions around the safety of that, that any one of us would ask." 
+</P>
+<P>
+Still, the Pathways group wants to move quickly. The group plans to file its regulatory applications in the next few months, while design and other development work continues. Construction could begin within the next 12 months.
+</P>
+<P>
+It will be difficult for the carbon capture facility to be operational by 2030 and there is no time to lose, Kendall said.
+</P>
+</TEXT>
+</DOC>

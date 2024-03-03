@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> CB091318-0001 </DOCNO>
+<DATE>
+<P>
+September 13, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How might Florence compare with recent U.S. hurricanes?; 
+</P>
+<P>
+Forecasters warn approaching storm could be a lot like Harvey. And that's not good
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Think back on some of the most devastating hurricanes of the past decade or so, and chances are the names Katrina, Harvey or Maria come to mind. 
+</P>
+<P>
+Katrina, which hit the southeastern U.S. in August 2005, is the costliest U.S. hurricane on record, according to the National Hurricane Center (NHC). It brought relatively little rain but many deaths, and led to broken levees that devastated New Orleans.  
+</P>
+<P>
+Katrina was a Category 3 storm when it made landfall. Forecasters believe Hurricane Florence could arrive as a slow-moving Category 2, hanging over some areas for prolonged periods and doing more damage, like Harvey in 2017. And it could be even worse, according to CBC meteorologist Johanna Wagstaffe.
+</P>
+<P>
+"Given the size, strength, longevity and extremely rare track of Florence," she says, "whatever happens in the end will likely be outside of historical experience for much of mainland U.S."
+</P>
+<P>
+Here's a look back at the five costliest U.S. hurricanes to date, and the toll they took. The figures come from the National Oceanic and Atmospheric Administration and the NHC, except where indicated. 
+</P>
+<P>
+1. Katrina (August 2005)
+</P>
+<P>
+Damages:  $161 billion
+</P>
+<P>
+Deaths: 1,833 direct and indirect deaths are attributed to Katrina. But the NHC says the true number of direct deaths may never be known. 
+</P>
+<P>
+Peak winds: 278 km/h
+</P>
+<P>
+Highest total rainfall: 36 centimetres, at Homestead Air Force Base, Fla
+</P>
+<P>
+2.  Harvey (August 2017)
+</P>
+<P>
+Damages: $125 billion
+</P>
+<P>
+Deaths: At least 68
+</P>
+<P>
+Peak winds: 212 km/h
+</P>
+<P>
+Highest total rainfall: 154 centimetres, near Nederland, Texas
+</P>
+<P>
+3. Maria (September 2017)
+</P>
+<P>
+Damages: $90 billion
+</P>
+<P>
+Deaths: Initially, 64 deaths were attributed to Maria, most of them on Puerto Rico. But the island's governor raised the toll to 2,975 last month, based on research done by George Washington University.
+</P>
+<P>
+Peak winds: 277 km/h
+</P>
+<P>
+Highest total rainfall: 97 centimetres, in Puerto Rico
+</P>
+<P>
+4. Sandy (October 2012) 
+</P>
+<P>
+Damages: $71 billion
+</P>
+<P>
+Deaths: 147
+</P>
+<P>
+Peak winds: 175 km/h
+</P>
+<P>
+Highest total rainfall: 71 centimetres, in Mill Bank, Jamaica
+</P>
+<P>
+5. Irma (September 2017)
+</P>
+<P>
+Damages: $50 billion
+</P>
+<P>
+Deaths: 47
+</P>
+<P>
+Peak winds: 287 km/h
+</P>
+<P>
+Highest total rainfall: 55 centimetres, in Ft. Pierce, Fla
+</P>
+</TEXT>
+</DOC>

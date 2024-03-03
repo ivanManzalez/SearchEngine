@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> CB092619-0001 </DOCNO>
+<DATE>
+<P>
+September 26, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+What an ice-free Arctic really means, and why it matters so much; 
+</P>
+<P>
+New IPCC report highlights climate change effects on oceans and ice, and the Arctic is front and centre
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+This story is part of a CBC News series entitled In Our Backyard, which looks at the effects climate change is having in Canada, from extreme weather events to how it's reshaping our economy.
+</P>
+<P>
+At Earth's poles, ice and snow is disappearing — and it's transforming our planet. 
+</P>
+<P>
+Snow and ice have long played a vital role in moderating Earth's climate. The white surfaces reflect the sun's radiation, which in turn helps maintain a comfortable temperature for life on the planet.
+</P>
+<P>
+But with a warming planet, that ice melts or thins, exposing the dark water below, which absorbs that radiation. So each year the global temperature rises, melting more ice and snow. It's a positive feedback loop: warming causes ice melt, ice melt causes warming. And that process — also called Arctic amplification — leads to what we are observing now, which is a rapidly changing climate.
+</P>
+<P>
+The Intergovernmental Panel on Climate Change (IPCC) Special Report on the Ocean and Cryosphere in a Changing Climate, released Wednesday, suggests that we could see an ice-free Arctic once every 100 years if we limit warming to 1.5 C above pre-industrial levels. If we warm to 2 C, that would increase to once every three years.
+</P>
+<P>
+Could all that snow and ice at the poles eventually disappear altogether?
+</P>
+<P>
+It's complicated.
+</P>
+<P>
+The potential for an ice-free Arctic has been bandied about for decades, but it's important to know what scientists mean by "ice-free."
+</P>
+<P>
+"Usually when we talk about ice-free, it's virtually ice-free," said Jennifer Francis, senior scientist at Woods Hole Research Center in Falmouth, Mass. "It's really during the late summer at the time when we usually see the minimum occur, which is right about now."
+</P>
+<P>
+So ice-free doesn't mean there's not one bit of ice left. It means that at minimum — which is usually in the middle of September — there is less than one million square kilometres. That may seem like a lot of ice, but the average minimum from 1981 to 2010 was roughly 6.3 million square kilometres. 
+</P>
+<P>
+This year was a bad year for the Arctic. On Sept. 23, the National Snow and Ice Data Center released the Arctic sea ice minimum for 2019, finding that it was the second lowest in satellite record, tied with 2007 and 2016, at 4.16 million square kilometres.
+</P>
+<P>
+The lowest to date occurred in 2012, when the minimum reached a record low of roughly 3.4 million square kilometres. 
+</P>
+<P>
+The 13 lowest sea ice extents have all occurred within the past 13 years. This year, scientists were concerned that we were heading to a 2012 level, but in late August, weather patterns changed and there was some slight growth. 
+</P>
+<P>
+On top of how much area of ice is being lost, there's also the concern about how much old ice — thicker ice — we're losing, which is causing a big drop in the volume of ice contained in the Arctic.
+</P>
+<P>
+"It's been estimated that we've lost about three-quarters of the sea ice in terms of volume. Which is crazy. It's happened within 40 years," said Francis. "It is just a mind-boggling statistic to throw at people. It still takes my breath away."
+</P>
+<P>
+The Arctic versus the Antarctic
+</P>
+<P>
+Both poles play an important, though different, role in Earth's climate. 
+</P>
+<P>
+"The Arctic Ocean is an ocean surrounded by continents, so the sea ice is kind of pinned in there and kind of protected," said Walt Meier, senior research scientist at the National Snow and Ice Data Center. "Whereas the Antarctic is a continent surrounded by oceans, so the sea ice grows outward from there."
+</P>
+<P>
+As a result, most of the Antarctic ice breaks up annually. There isn't much multi-year ice like there is in the Arctic. That means that the reflectivity of that ice — the albedo — doesn't play as large a role as that of the Arctic in regulating Earth's temperature.
+</P>
+<P>
+And while there has been some back and forth with sea ice growth in the Antarctic, that's not the primary concern for glaciologists and climatologists for the region. Instead, it's the melting of the ice sheets, large areas of ice that sit atop land. Data shows that warmer ocean currents are causing rapid surface melting of these ice sheets and glaciers in West Antarctica. And that, in turn, leads to a rise in sea levels. 
+</P>
+<P>
+Effects
+</P>
+<P>
+While some people believe that an ice-free Arctic could be a good thing — opening up a new shipping route, oil and gas extraction, and tourism — there are likely deep repercussions.
+</P>
+<P>
+For one, oil and gas extraction is part of what is contributing to climate change. Exploration in the Arctic would release more of the very greenhouse gases that caused the rapid Arctic ice loss in the first place. 
+</P>
+<P>
+There are also concerns over Canadian Arctic sovereignty, and that a rise in shipping activity also increases the chance of an environmental disaster that could further threaten the already-delicate Arctic ecosystem.
+</P>
+<P>
+But an ice-free Arctic has even more far-reaching effects. As the saying goes: What happens in the Arctic doesn't stay in the Arctic.
+</P>
+<P>
+"It's an experiment on a grand scale," said Paul Crowley, the World Wildlife Fund's Arctic vice-president. "The north, the Canadian Arctic, folks in the north, our communities are already challenged. So this is just another layer."
+</P>
+<P>
+Crowley notes that melting permafrost in the western Arctic is causing houses to sink or collapse; roads are falling apart; airstrips are no longer facing the right direction because of changing winds; and harvesters and hunters, who long relied on traditional knowledge, are now facing new conditions like thin ice that is costing lives.
+</P>
+<P>
+And then there's the weather around the world. The jet stream, a column of air that travels from west to east that drives weather across the northern hemisphere, relies on the temperature difference between the Arctic and the south. But when the temperature difference is not as pronounced, the jet stream begins to develop kinks. This can have widespread effects such as creating systems that prolong heat waves in southern Ontario and Quebec or even Europe, or slow hurricanes to a near standstill, as was seen with Dorian earlier this month.
+</P>
+<P>
+So although most Canadians — and most of the world's population — live far from the Arctic, its rapid changes will have effects felt across the globe. 
+</P>
+<P>
+"I think we have an incredible capacity to adapt, but we're going to push our limits, and we're going to live in a world that is already difficult for very many," Crowley said. But, he added, bluntly, "Of course we can better prepare, and be better at giving ourselves a chance at being resilient, but we need to stop crapping in our own bed."
+</P>
+</TEXT>
+</DOC>

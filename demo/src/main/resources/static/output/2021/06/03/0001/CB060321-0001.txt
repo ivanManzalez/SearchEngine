@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> CB060321-0001 </DOCNO>
+<DATE>
+<P>
+June 03, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Alberta's economic recovery lags behind the rest of Canada, but there is room for optimism; 
+</P>
+<P>
+The post-COVID recovery has been hard, but some sectors are primed to rebound, says economist Trevor Tombe
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+This column is an opinion from Trevor Tombe, an associate professor of economics at the University of Calgary. For more information about CBC's Opinion section, please see the FAQ.
+</P>
+<P>
+Though not yet in the clear, the worst of the pandemic may soon be over. 
+</P>
+<P>
+Impressive vaccination progress may allow provinces to safely reopen. Economically, this will boost much-needed employment in retail, food services, accommodation, recreation, and more.
+</P>
+<P>
+But even today, before COVID is fully controlled, Canada's recovery has been strong.
+</P>
+<P>
+After contracting nearly 18 per cent during the early months of the pandemic, the latest data from Statistics Canada released on June 1 shows that in the first quarter of 2021 Canada's economy grew slightly larger than it was one year earlier — a much stronger recovery than many anticipated and worthy of celebration. 
+</P>
+<P>
+The gains, unfortunately, are not evenly distributed and the recovery has been more difficult for some provinces than others.
+</P>
+<P>
+It's tough to know for sure, but the broadest measure of monthly economic activity suggests every single province has returned to, and then exceeded, their pre-COVID levels. All, that is, except Alberta.
+</P>
+<P>
+Labour compensation lags
+</P>
+<P>
+Canada doesn't measure provincial GDP by month or quarter, only yearly, which doesn't help trace our recovery from COVID in real time.
+</P>
+<P>
+Luckily, Statistics Canada does measure total monthly labour compensation for each province. That is, they measure total earnings from wages, salaries, benefits, and so on, earned by everyone in each province. For Alberta, this is roughly $13.5 billion per month today — an amount that captures roughly half our total economy, so it's a very strong indication of where things are. It's also the most relevant for individuals and families. 
+</P>
+<P>
+Unfortunately, the data paints a disappointing picture. Relative to where we were in February 2020 — the month prior to COVID striking — total compensation in Alberta is roughly three per cent smaller. That's a large improvement from where we were in the early stages of the pandemic, but it's the slowest recovery in the country.
+</P>
+<P>
+This is striking, and it matters. While a percentage point here or there may not sound like much, it is. If Alberta's economy grew with the rest of Canada, total earnings would be approximately $1 billion per month higher. That's nearly $250 million in total lost weekly earnings — the equivalent of roughly $22 per workday per worker.
+</P>
+<P>
+What's behind this lagging performance? 
+</P>
+<P>
+Job losses are an important part of it. In March 2021, for example, the number of jobs in Alberta was nearly seven per cent below its pre-COVID level — the worst of any province. 
+</P>
+<P>
+Oil and gas (of course) is a key reason for this. Total compensation in the mining and oil and gas extraction sector is over $85 million lower in March 2021 than it was that same month a year earlier.
+</P>
+<P>
+Many other sectors also contribute. Professional services, for example, increased in March 2021 throughout the rest of Canada compared to a year earlier. But in Alberta, it's down. Roughly three-quarters of the gap between where Alberta is and where it would have been if growth kept pace with the rest of Canada can be accounted for by weakness in just four sectors: oil and gas, professional services, construction, and finance and real estate.
+</P>
+<P>
+Importantly, Alberta's weakness is not just due to oil sector disruptions or other adverse developments beyond our control. Policy choices also matter. Roughly 10 per cent of the gap between Alberta and the rest of Canada is accounted for by lower compensation in the education sector. Policy choices by the Alberta government to decrease employment there through the pandemic may be a reason why.
+</P>
+<P>
+One hit after another
+</P>
+<P>
+Whatever the underlying cause, the economic hit from COVID comes on the heels of many years of economic challenges following the oil price declines of 2014-16 and our last recession. 
+</P>
+<P>
+Overall compensation is down significantly across Alberta's economy. I plot a simple measure of this below. Specifically, total labour compensation (adjusted for inflation) relative to the number of Albertans aged 15 and over.
+</P>
+<P>
+The results are striking: in March 2021, real per capita compensation is at the same level as it was in late 2004. And it's down by roughly one-quarter from its peak in 2014.
+</P>
+<P>
+The economic road ahead
+</P>
+<P>
+Despite these challenges, there may be reason for hope or, at the very least, cautious optimism. The largest source of job losses that have not yet recovered, after all, are in hotels, restaurants, entertainment and recreation activities. These sectors are primed for a rapid rebound through the summer.
+</P>
+<P>
+Sentiment in the province is also improving. 
+</P>
+<P>
+Recent polling for the CBC by Janet Brown Research finds in April 2021 that 38 per cent of Albertans said their situation was worse than one year earlier — down significantly from 51 per cent in March 2020 and 49 per cent in May 2020. Looking ahead, only one in five Albertans think their household's situation will get worse — again, down significantly from 2020. Most think the next year will neither improve their situation nor diminish it, though slightly more think things will get better than worse.
+</P>
+<P>
+Even further out, this same polling data finds 53 per cent of Albertans are very or somewhat optimistic about the province's economic prospects in 20 years — a share slightly above where it was before COVID hit. 
+</P>
+<P>
+Despite the improved sentiment, there remains a significant number of Albertans — nearly as large, in fact — that are not optimistic. 
+</P>
+<P>
+It's not obvious whose perspective is right. On the one hand, Alberta has many advantages going for it, from a young population to its incredible natural amenities. On the other, the boom-time reference points many of us hold may not be realistic and our economic transition may be slow and difficult. 
+</P>
+<P>
+For what it's worth, despite our recent challenges, count me among the optimistic. 
+</P>
+<P>
+But where we go from here is up to us.
+</P>
+<P>
+Do you have a strong opinion that could add insight, illuminate an issue in the news, or change how people think about an issue? We want to hear from you. Here's how to pitch to us.
+</P>
+</TEXT>
+</DOC>

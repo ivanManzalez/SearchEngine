@@ -1,0 +1,4 @@
+DocNo   : CB120621-0001
+ID      : 1584
+Date    : 06 December 2021
+Headline: Canadian energy, health, manufacturing sectors were major targets of ransomware attacks: cyber spy agency; 2021 ransomware trend report released by Communications Security Establishment, a cyber intelligence agency

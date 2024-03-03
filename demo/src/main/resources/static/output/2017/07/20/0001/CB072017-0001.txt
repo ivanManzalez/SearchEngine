@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> CB072017-0001 </DOCNO>
+<DATE>
+<P>
+July 20, 2017
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Ontarians pay highest rates in Canada for hydro, study shows; 
+</P>
+<P>
+Cost of hydro rose at 4 times the rate of inflation from 2008 to 2015
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The price of electricity grew significantly faster in Ontario than everywhere else in Canada over the past decade, according to a study to be published Thursday.
+</P>
+<P>
+The report by the Fraser Institute, which used data from Statistics Canada, shows from 2008 to 2016 residential hydro costs in Ontario rose 71 per cent, while the average increase across Canada totalled 34 per cent. 
+</P>
+<P>
+The study, called "Evaluating Electricity Price Growth in Ontario," also shows that electricity prices in the province increased at nearly four times the overall rate of inflation in the period from 2008 to 2015.  
+</P>
+<P>
+"What should surprise people out of this is the dramatic extent to which Ontarians are paying so much more for power than their fellow Canadians, and of course their U.S. neighbours as well," said Kenneth Green, the Fraser Institute's senior director of natural resource studies.  
+</P>
+<P>
+"Compared to other provinces, Ontarians are paying much more for their electricity and the rate's going up faster than the other goods and services in the economy," Green said Wednesday in an interview with CBC Toronto. 
+</P>
+<P>
+The study does not take into account cuts to hydro bills this year, which have seen the average household electricity bill drop 25 per cent from its peak in 2016. Greene said that is because the study uses the most recent publicly available data for its comparisons.
+</P>
+<P>
+Using data compiled by Hydro-Québec, the study compares the hydro bill (including taxes) for a typical household using 1,000 kWh per month in selected cities, as of 2016: 
+</P>
+<P>
+The study finds the hydro bill for the typical household grew 62 per cent in Toronto from 2010 to 2016, while rising 36 per cent in Vancouver, seven per cent in Montreal and falling slightly in Calgary. 
+</P>
+<P>
+Report blames green energy, excess supply
+</P>
+<P>
+"Policy choices by the Ontario government have been the leading drivers of increased prices," reads the report. It blames the continued generation of an excess supply of power despite diminishing demand, as well as the Liberal government's decisions to pay premium prices to spur wind and solar energy development in the province. 
+</P>
+<P>
+Over the past year, as electricity prices peaked and became the hottest political issue in Ontario, Premier Kathleen Wynne admitted she'd made a mistake by not paying close enough attention to people's struggles with the cost of hydro.
+</P>
+<P>
+The Wynne government moved to cut the provincial portion of the HST off hydro, an eight per cent reduction, at the start of 2017, then announced a plan in March for a further 17 per cent cut to electricity rates.     
+</P>
+</TEXT>
+</DOC>

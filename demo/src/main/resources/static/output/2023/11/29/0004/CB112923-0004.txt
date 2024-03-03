@@ -1,0 +1,147 @@
+<DOC>
+<DOCNO> CB112923-0004 </DOCNO>
+<DATE>
+<P>
+November 29, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's fossil fuel industry is banking on carbon capture to lower emissions. Is it a viable solution?; 
+</P>
+<P>
+A closer look at the technology — and why researchers say it's not a realistic answer to the climate crisis
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Fossil fuel companies in Canada have made carbon capture a key part of their pledges to reduce greenhouse gas emissions.
+</P>
+<P>
+The idea is to minimize the amount of carbon that ends up in the atmosphere, while continuing to extract more oil and gas.
+</P>
+<P>
+But is that realistic? And should the federal government be footing the bill, in the form a new multibillion-dollar tax credit and other incentives? The Alberta government also announced a new tax credit that could total as much as $5 billion in taxpayer money.
+</P>
+<P>
+Here is a closer look at the technology, where it is being used in Canada, and how it could play into the pivotal climate talks that begin Thursday in Dubai.
+</P>
+<P>
+What is carbon capture?
+</P>
+<P>
+Carbon capture has become something of an umbrella term applying to any technology that captures carbon dioxide (CO2) and injects it underground. That can mean filtering out carbon dioxide at an emissions source — such as a factory, power plant or oilsands facility — through what's known as "carbon capture, utilization and storage" (CCUS), or removing carbon dioxide that's already in the air with a process known as "direct air capture."
+</P>
+<P>
+So far, most carbon capture projects around the world have used the CCUS model. Carbon dioxide concentrations are much higher coming out of a source like a furnace, making it cheaper and easier to extract.
+</P>
+<P>
+Often in these cases, the captured carbon is used to extract more oil and gas from the ground — resulting in more emissions — with a process known as enhanced oil recovery (EOR). Carbon capture technology was originally developed by oil and gas companies for this purpose, and EOR remains its primary application worldwide.
+</P>
+<P>
+Where is carbon being captured in Canada?
+</P>
+<P>
+In Canada, there are eight commercial carbon capture facilities in operation, all in Alberta or Saskatchewan, according to Natural Resources Canada. That includes five commercial-scale carbon management projects, along with three carbon transport and storage hubs that service multiple capture projects.
+</P>
+<P>
+Six of those projects use at least some of the captured carbon for EOR.
+</P>
+<P>
+More than a dozen additional projects are under construction or in the planning stages, including a proposal by the Pathways Alliance, a group representing major oilsands producers.
+</P>
+<P>
+Pathways' $16.5-billion plan would involve building a massive pipeline to transport carbon from roughly 20 carbon capture facilities at oilsands sites in northern Alberta to an underground hub near Cold Lake, Alta., where it will be pumped into the earth and stored underground.
+</P>
+<P>
+There are also a number of direct air capture projects in the early stages, including one off the coast of British Columbia that would sequester carbon under the ocean, and another in Quebec that received $25 million in provincial government funding.
+</P>
+<P>
+Are these projects actually effective?
+</P>
+<P>
+Not very. The facilities capture about 0.5 per cent of Canada's total emissions, according to the International Institute for Sustainable Development.
+</P>
+<P>
+That equates to roughly 2.7 million tonnes of CO2 equivalent per year — less than three per cent of the reductions needed for the oil and gas sector to contribute a fair share to Canada's 2030 target of a 40-45 per cent reduction below 2005 levels, the IISD says.
+</P>
+<P>
+The analysis concluded the technology is "energy intensive, slow to implement, and unproven at scale, making it a poor strategy for decarbonizing oil and gas production."
+</P>
+<P>
+At the international level, a report by the Institute for Energy Economics and Financial Analysis concluded that "failed/underperforming projects considerably outnumbered successful experiences."
+</P>
+<P>
+In another recent report, the International Energy Agency said oil and gas companies need to start "letting go of the illusion" that "implausibly large" amounts of carbon capture are the solution to the global climate crisis.
+</P>
+<P>
+There are also questions about whether these projects are safe for surrounding communities and how long they will be monitored — and who will pay for that monitoring.
+</P>
+<P>
+In addition, the production of oil and gas is just one side of the equation, accounting for only about 15 per cent of the sector's emissions, according to the International Energy Agency. The bulk of oil and gas emissions come from their end uses, such as driving a car or heating a home.
+</P>
+<P>
+Angela Carter, an associate professor at Memorial University who studies environmental policies, and one of the authors of the IISD report, said carbon capture should not be considered a "viable solution" for reducing emissions.
+</P>
+<P>
+"We have a very short supply of public funds to put towards solving the climate crisis, so public money has got to go towards technology that can give us the kinds of emission reductions that we need," she said in an interview.
+</P>
+<P>
+A United Nations report released last week said the world needs to cut its projected 2030 emissions by 42 per cent to be on track to limit warming to 1.5 C by the end of the century.
+</P>
+<P>
+How much taxpayer money is going into carbon capture?
+</P>
+<P>
+Billions of dollars in Canadian taxpayer money have already been put toward carbon capture in Canada, and much more has been set aside for future projects.
+</P>
+<P>
+The federal government committed to eliminating "inefficient" fossil fuel subsidies earlier this year, but that doesn't include carbon capture projects.
+</P>
+<P>
+A new carbon capture tax credit, confirmed in last week's fiscal update, was initially set to be $2.6 billion over five years, but the federal government has since added another $500 million.
+</P>
+<P>
+Carbon capture projects are also eligible for the Clean Fuels Fund, which totals $1.5 billion over five years, and a host of other subsidy programs.
+</P>
+<P>
+In a statement, Jane Furlong, a spokesperson for Natural Resources Canada, said carbon capture technology is being used "alongside other tools in the broader climate toolbox to help achieve Canada's climate objectives."
+</P>
+<P>
+"There is no credible path to net-zero emissions without carbon management technologies, and their deployment must be rapid and immense, and requires strong policy support," Furlong said in an email.
+</P>
+<P>
+Pathways Alliance is counting on federal money to help bankroll its project.
+</P>
+<P>
+"We view this as an investment in Canada and the future of the industry and the future of Canada as a green tech technology leader," president Kendall Dilling said in an interview.
+</P>
+<P>
+Despite the industry posting record profits in recent years, Dilling said government money is needed to keep it competitive.
+</P>
+<P>
+"We sell our product into an international commodity market," he said. "We're competing against oil-producing nations around the world who won't be making similar investments, and we still have to remain an investable proposition for our shareholders."
+</P>
+<P>
+Can carbon capture be considered part of the solution?
+</P>
+<P>
+Despite questions around the effectiveness of carbon capture when implemented on a larger scale, many climate scientists and energy experts say it can be at least part of the solution in reducing greenhouse gas emissions.
+</P>
+<P>
+In particular, it can be useful in lowering emissions at facilities that produce goods like cement and steel where there aren't many alternatives, Carter said.
+</P>
+<P>
+Environmental groups are concerned carbon capture will be used by oil and gas companies at COP28 as a way to defend record levels of production.
+</P>
+<P>
+Sultan Ahmed Al Jaber, the president of this year's conference, and the head of United Arab Emirates' state-owned oil company ADNOC, has promoted carbon capture as a way to reduce emissions. An analysis by the U.K.-based environmental group Global Witness found it would take 343 years to remove the carbon his company is projected to produce by 2030.
+</P>
+<P>
+"My biggest fear is that because of this promise of carbon capture, we lose a decade," said Julia Levin of the Canadian group Environment Defence.
+</P>
+<P>
+"Then it's 2035 and we're no closer to keeping to eliminating our emissions and we've misallocated huge amounts of public dollars towards these projects."
+</P>
+</TEXT>
+</DOC>

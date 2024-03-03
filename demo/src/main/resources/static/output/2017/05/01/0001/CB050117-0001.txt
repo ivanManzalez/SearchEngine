@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> CB050117-0001 </DOCNO>
+<DATE>
+<P>
+May 01, 2017
+</P>
+</DATE>
+<HEADLINE>
+<P>
+City unveils plans for new $67M public square; 
+</P>
+<P>
+The space will be used as a terrasse in the summer and a skating rink in the winter
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The City of Montreal has unveiled a plan to build a new public square that will be used as an urban terrasse in the summer and a skating rink in the winter.
+</P>
+<P>
+The 5,000-square-metre space on Clark Street between Ste-Catherine Street and de Maisonneuve Boulevard  is situated right next to Place des Arts and the Quartier des Spectacles.
+</P>
+<P>
+The $67-million project will see the currently empty lot turned into a shared space with food stands, a pavilion housing a restaurant and changing rooms and green space where temporary stages can be set up.
+</P>
+<P>
+The work is expected to be completed by 2019, and will also involve the reconstruction of Clark Street.
+</P>
+</TEXT>
+</DOC>

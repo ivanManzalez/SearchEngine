@@ -1,0 +1,225 @@
+<DOC>
+<DOCNO> CB090419-0001 </DOCNO>
+<DATE>
+<P>
+September 04, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Carbon capture: What you need to know about catching CO2 to fight climate change; 
+</P>
+<P>
+Technology may be crucial to reaching climate targets, but cost remains a challenge
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+This story is part of a CBC News series entitled In Our Backyard, which looks at the effects climate change is having in Canada, from extreme weather events to how it's reshaping our economy.
+</P>
+<P>
+If global warming is caused by too much carbon dioxide being released into the atmosphere by human activities, intercepting those greenhouse gases before they reach the atmosphere — or, better yet, sucking them right out of the sky — sounds like a logical solution.
+</P>
+<P>
+That's the promise of carbon capture technologies, one of the few climate change solutions that doesn't just reduce the amount of carbon emitted, but can actually remove carbon from the atmosphere, thereby generating "negative emissions."
+</P>
+<P>
+It may in fact be essential if we are to limit global warming to 1.5 C above pre-industrial times — the more stringent of two targets under the Paris accord that aim to prevent the worst impacts of climate change. Last year's special report from the Intergovernmental Panel on Climate Change (IPCC) found carbon dioxide removal was needed in every successful scenario to cancel out emissions from sources for which no mitigation measures have been identified — things like long-distance air travel and cement production.
+</P>
+<P>
+The International Energy Agency calls carbon capture a "critical tool in the climate energy toolbox."
+</P>
+<P>
+Here's what you need to know about the technology.
+</P>
+<P>
+What is carbon capture?
+</P>
+<P>
+It's a range of technologies that either: 
+</P>
+<P>
+Stop carbon dioxide from entering the atmosphere, often by "filtering out" the carbon dioxide en route to the smokestack of a facility such as a power plant or factory. 
+</P>
+<P>
+Remove carbon dioxide that's already in the air, a process known as "direct air capture." 
+</P>
+<P>
+In both cases, the CO2-containing gases or air are typically absorbed by a solvent or solution, and then separated out again later.
+</P>
+<P>
+So far, most carbon capture projects around the world have been the former, as carbon dioxide concentrations are much higher coming out of a source like a furnace — CO2 makes up just 0.04 per cent of the air — making it cheaper and easier to extract.
+</P>
+<P>
+What happens to the carbon after it's captured?
+</P>
+<P>
+It can either be:
+</P>
+<P>
+Permanently stored underground (carbon capture and storage).
+</P>
+<P>
+Converted into a carbon-containing product (carbon capture and utilization).
+</P>
+<P>
+Most of the projects in Canada so far have been carbon capture and storage, where the carbon dioxide is used to push more oil out of aging oil wells and then stored underground in air pockets in the porous rock of depleted wells, with a "cap stone" on top to prevent leakage.
+</P>
+<P>
+But there are lots of efforts underway to use recovered carbon to make products ranging from fuels to concrete to soap. 
+</P>
+<P>
+In fact, an international competition underway called the NRG COSIA Carbon XPrize is offering $20 million US in prizes to companies that can convert CO2 into valuable products. Four of the finalists were Canadian (although one, Carbicrete, has since pulled out to focus on building a pilot plant in Quebec). The winner will be announced in 2020.
+</P>
+<P>
+Where are carbon capture plants located?
+</P>
+<P>
+As of 2018, there were 18 large-scale commercial facilities in operation around the world, five under construction and 20 in other stages of development, according to the Global Carbon Capture and Storage Institute, a think-tank based in Melbourne, Australia.
+</P>
+<P>
+Four are located in Canada:
+</P>
+<P>
+Boundary Dam, a coal-fired power plant operated by SaskPower that started capturing carbon in 2014.
+</P>
+<P>
+Quest, an oilsands project run by Shell Canada that started capturing carbon in 2015.
+</P>
+<P>
+Weyburn, which captures CO2 from a North Dakota-based coal gasification and power plant, and transports it by pipeline to the Weyburn oilfield in Saskatchewan.
+</P>
+<P>
+Alberta Carbon Trunk Line, which is set to begin operations later this year, and will take emissions from the Redwater Fertilizer factory and the Northwest Redwater (NWR) refinery currently under construction to aging oil reservoirs in central and southern Alberta.
+</P>
+<P>
+Canadian governments and industry have invested billions in those projects.
+</P>
+<P>
+There are also some smaller demonstration projects in Canada, including Carbon Engineering's direct air capture plant in Squamish, B.C., and the Alberta Carbon Conversion Technology Centre in Calgary, where five of the XPrize finalists will be testing their ideas.
+</P>
+<P>
+How much carbon can be captured?
+</P>
+<P>
+In Canada, the Quest and ACTL, together, are expected to capture 2.7 megatonnes of carbon a year, or the equivalent of the emissions of 600,000 cars annually, the National Energy Board estimates. 
+</P>
+<P>
+Around the world, more than 30 megatonnes of CO2 is captured each each year, 70 per cent of it in North America, says the International Energy Agency. That's not much — it would barely make a dent in the 716 megatonnes emitted by Canada alone in 2017.
+</P>
+<P>
+However, the IEA expects carbon capture to ramp up to 2,300 megatonnes per year by 2040, representing seven per cent of global emissions reductions.
+</P>
+<P>
+Why is so little carbon being captured, stored and used?
+</P>
+<P>
+The key problem is that carbon capture is very expensive compared to other climate change solutions, such as planting trees, green energy and energy efficiency.
+</P>
+<P>
+While onshore wind and utility-scale solar projects cost under $30 US per tonne of carbon in 2017, fossil fuel power plants with carbon capture and storage cost an estimated $43 to $95 US per tonne, a 2018 study by Harvard and Yale researchers found.
+</P>
+<P>
+Direct air capture is even more expensive. Steve Oldham, CEO of Carbon Engineering, estimates that his company's technology will cost $100 to $150 per tonne of CO2 captured.
+</P>
+<P>
+That's way higher than Canada's price on carbon, which will top out at $50 per tonne in 2022.
+</P>
+<P>
+That's one reason critics like the environmental group Greenpeace are skeptical.
+</P>
+<P>
+"The fastest way to reduce emissions and the least expensive way to reduce emissions is definitely not in this type of project," said Mike Hudema, a climate organizer with Greenpeace.
+</P>
+<P>
+The Pembina Institute, a Calgary-based non-profit think-tank focused on energy, said other challenges have included limited resources and a lack of regulatory policies to encourage it. 
+</P>
+<P>
+While a demand for carbon dioxide for industrial processes could lower costs, the Pembina Institute estimates that demand represents less than one per cent of global emissions.
+</P>
+<P>
+If it's not making a huge dent in emissions, why do some people think it's so crucial?
+</P>
+<P>
+There are some aspects of our modern lives that generate lots of emissions with no viable low-carbon alternatives. They include long-distance shipping, air travel and cement, steel and fertilizer production.
+</P>
+<P>
+Duncan Kenyon, Alberta's regional director for the Pembina Institute, said that as a result, global use of fossil fuels isn't expected to dry up for decades.
+</P>
+<P>
+At the same time, the Intergovernmental Panel on Climate Change has said that in order to avoid the worst effects of climate change, the world needs to reach net zero carbon emissions by 2050 — that is, one molecule of CO2 has to be sequestered for every molecule emitted.
+</P>
+<P>
+Jackie Forrest, senior director of research for ARC Energy Research Institute, said if carbon capture works, fossil fuels could still be part of that "net-zero" world.
+</P>
+<P>
+Kenyon predicts future demand will be for oil that has a much lower carbon footprint — something that carbon capture can help produce.
+</P>
+<P>
+And in contrast to energy efficiency and tree planting, which may take decades to have an impact, carbon capture "gets us emission reductions now ... as opposed to in the future."
+</P>
+<P>
+Carbon Engineering's Oldham noted that even if we shut down all our emissions tomorrow, the CO2 that has already been emitted will keep warming the Earth for some time: "That doesn't go away." He said direct air capture is the solution.
+</P>
+<P>
+"We can deal with yesterday's emissions, and the day before, and the day before that, which are already up in the atmosphere."
+</P>
+<P>
+That's particularly important because many scenarios considered by the IPCC suggest that our carbon emissions will likely overshoot international targets, and we will have to remove emissions in the air to reach them again.
+</P>
+<P>
+Why are some people skeptical or critical of carbon capture?
+</P>
+<P>
+Greenpeace's Hudema worries that it's "wasting the valuable and limited resources" needed to fight climate change, which might otherwise be invested in other solutions, such as green energy.
+</P>
+<P>
+He also worries that it may slow down the transition to new, lower-carbon industries. "The answer can't be that we simply keep expanding the same industries that got us into this problem," he said.
+</P>
+<P>
+Dianne Saxe, former environment commissioner of Ontario, is concerned that it will make people complacent about reducing emissions.
+</P>
+<P>
+"This idea that it's okay to keep burning gasoline as long as you do an equivalent amount of this carbon capture and storage is really dangerous," she said.
+</P>
+<P>
+What needs to happen for carbon capture to become a practical solution?
+</P>
+<P>
+Government policies and incentives are key, said everyone interviewed for this piece.
+</P>
+<P>
+"I think that in the absence of that, [carbon capture technologies] will never be commercially viable," said Joule Bergerson, a University of Calgary researcher who analyzes the policy implications of energy technology options.
+</P>
+<P>
+Carbon Engineering's Oldham said his company hopes there will be a consumer market for low-carbon versions of products like jet fuel and fertilizer made from captured carbon.
+</P>
+<P>
+"The question becomes … Would we pay extra for a carbon-lower product the way we may choose to pay extra for organic chicken?"
+</P>
+<P>
+He suggested the government may have to introduce an incentive, or penalty, to drive consumer behaviour in the right direction.
+</P>
+<P>
+One option, he suggests, is to set a higher carbon price for dealing with emissions that are already in the air than those that haven't yet been emitted. Without a policy like that, "you won't get to the point where technologies like ours get to market."
+</P>
+<P>
+Forrest at the ARC Energy Research Institute said technology has the potential to bring down the cost of carbon capture.
+</P>
+<P>
+But she thinks the development of CO2-based products could help pay for sequestering and capturing carbon in the future.
+</P>
+<P>
+"It's hard to envision that we get there purely by government paying for it," she added. "If we can find a way for it to be economic on its own, the chances of getting to that magnitude are much higher."
+</P>
+<P>
+Forrest thinks carbon capture is a "very important" technology if we want to meet the "very aggressive" UN targets.
+</P>
+<P>
+Despite the challenges, she thinks they could be a big part of our future.
+</P>
+<P>
+"Just like renewables weren't economic eight years ago and now they are, things can change very quickly here as well."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> CB120923-0001 </DOCNO>
+<DATE>
+<P>
+December 09, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+It now costs more to afford basic necessities in Calgary than in Vancouver, Toronto: StatsCan; 
+</P>
+<P>
+While Albertans earn higher median income they also experience higher income inequality, say experts
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+It now costs more to afford basic necessities in Calgary than in any other major city in the country — including Vancouver and Toronto — according to Statistics Canada's updated market basket measure.
+</P>
+<P>
+The market basket measure is Canada's official measure of household income poverty. It defines how much a family of four would have to earn to afford a basic standard of living, and that's calculated by the cost of a basket of basic goods and services, including food, clothing, shelter and transportation.
+</P>
+<P>
+Families are considered to be living below the poverty line if their disposable income is less than their city's market basket measure.
+</P>
+<P>
+New data, from 2022, shows that Calgary's annual market basket measure is $55,771 — up from $51,861 the previous year.
+</P>
+<P>
+That's compared with $55,727 in Vancouver and $55,262 in Toronto. Edmonton is in fourth place at $55,225, and Ottawa-Gatineau is in fifth spot.
+</P>
+<P>
+Charles St-Arnaud, chief economist with Alberta Central, said he isn't surprised by the numbers.
+</P>
+<P>
+While housing is widely known to cost more in the two larger cities, he said other goods and services cost more in Alberta — like electricity and insurance, for example.
+</P>
+<P>
+But he said the market basket measure on its own doesn't tell the whole story.
+</P>
+<P>
+"We still have higher income than the rest of the country," said St-Arnaud.
+</P>
+<P>
+So while Calgarians' baskets cost more, it's possible people in other provinces feel the pinch more, said St-Arnaud.
+</P>
+<P>
+According to the latest census data, Albertans' median employment income per individual in 2020 was $41,600 — still below Calgary's market basket measure (for a household), but higher than Ontario and B.C. at $38,000 each.
+</P>
+<P>
+But St-Arnaud noted the income gap is shrinking.
+</P>
+<P>
+"[Albertans' incomes are] not increasing as fast as in the rest of the country, so we're seeing a convergence," he said.
+</P>
+<P>
+Farewell to the Alberta advantage
+</P>
+<P>
+Meaghon Reid advocates for strategies to address the root causes of poverty in Calgary, as executive director of Vibrant Communities Calgary.
+</P>
+<P>
+She says it's important to remember that Alberta has some of the highest income inequality in Canada — meaning the province has the biggest gap between people who make a lot, and people who make very little.
+</P>
+<P>
+"Because of that, we know that a lot of people at those lower income levels are really far away from even being near that market basket measure line, and I think we have to take that into consideration," said Reid.
+</P>
+<P>
+In conversations with those living around and below the poverty line, Reid says people are feeling anxious, panicked and resigned that the situation will continue worsening.
+</P>
+<P>
+She says Calgarians need income-geared solutions to tackle poverty, such as revisiting income support rates and ensuring wages increase with the cost of living.
+</P>
+<P>
+"If we don't do that, my fear is that people fall further and further into poverty, and we know that it's really expensive to service poverty in the long-term," she said.
+</P>
+<P>
+"This is something that, with the wealth we have in this province, we can tackle pretty quickly — but there needs to be some urgency behind it."
+</P>
+<P>
+For now, she says, these rising costs could mean farewell to the Alberta advantage.
+</P>
+</TEXT>
+</DOC>

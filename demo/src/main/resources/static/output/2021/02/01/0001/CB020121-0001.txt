@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> CB020121-0001 </DOCNO>
+<DATE>
+<P>
+February 01, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How growing global electric car sales could be a boon for Alberta; 
+</P>
+<P>
+Lithium used in batteries found in brine already pumped by oil operations
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+It may sound paradoxical, but electric cars could soon be an economic driver for oil-rich Alberta.
+</P>
+<P>
+Global sales of electric vehicles grew by 43 per cent in 2020, according to numbers recently released by sales database EV Volumes. A key component of their batteries is lithium, a mineral found in Alberta — if you know where to look.
+</P>
+<P>
+"There's a lot of opportunities for lithium in Alberta," said Roy Eccles, a senior consultant with Apex Geoscience in Edmonton, in an interview with CBC's Radio Active.
+</P>
+<P>
+Eccles says exploration in the last decade by companies of the Devonian-aged oil and gas reservoirs — between 1,600 and 3,330 metres below the surface — has confirmed the accompanying salt-water brine is enriched with lithium.
+</P>
+<P>
+The Leduc Formation, the source of Alberta's first big oil boom, is also a rich lithium deposit. There are about 10.6 million tonnes of lithium carbonate equivalent identified in the province, according to the Canadian Lithium Association, and the potential could be even higher.
+</P>
+<P>
+LISTEN | Geologist explains the potential for lithium in Alberta: 
+</P>
+<P>
+London-based commodity researcher and market consultant Roskill released an August report that notes demand will grow for the mineral at least until 2030. 
+</P>
+<P>
+Eccles says current major lithium extraction areas in arid climates near the equator use evaporation pods that can take months to years and leave a large environmental footprint. 
+</P>
+<P>
+That's not possible in Canada's climate, he said. Instead, companies are attempting to develop new technology that will rapidly extract lithium from the brine.
+</P>
+<P>
+Existing infrastructure 
+</P>
+<P>
+The Alberta advantage is that it can use already existing oil operations and technologies.
+</P>
+<P>
+"It's essentially using infrastructure that's already in place," Eccles said, adding that petroleum production is measured in short timelines, pumping up hydrocarbons before reinjecting the brine back underground.
+</P>
+<P>
+There is also an environmental feature to the process, according to University of Alberta associate professor of earth sciences Daniel Alessi.
+</P>
+<P>
+"They're taking something that's already being produced, essentially, and adding value to that with very little carbon footprint," Alessi said. 
+</P>
+<P>
+"It's exciting because there's certainly a green aspect to it."
+</P>
+<P>
+Alessi said it would also be advantageous for Canada to have its own internal source of lithium.
+</P>
+<P>
+The limiting factor is technology to convert the brine into a usable product.
+</P>
+<P>
+"We're at the point right now where the technology is, I would say, holding back the commercialization of the process," he said. Alessi added that some key players have reached the pilot stage with aims to reach an industrial scale process in two to five years.
+</P>
+<P>
+Canadian companies developing processes
+</P>
+<P>
+In December, Vancouver-based Lithium Standard announced it had successfully completed a proof-of-concept to extract lithium from a brine in Arkansas.
+</P>
+<P>
+There are a number of companies in Alberta developing their own processes, including Summit Nanotech.
+</P>
+<P>
+The Calgary-based startup delayed plans for testing in 2020 due to the pandemic but further developed its process, which CEO Amanda Hall says resulted in improved operating expenses and reduced end-to-end greenhouse gas emissions.
+</P>
+<P>
+"The opportunity to grow a sector that supports the future of renewable energy storage and electromobility while in parallel continuing efforts to create a low carbon barrel of oil sets Alberta apart in the energy landscape," she said in an email.
+</P>
+<P>
+"We are excited to be a part of this."
+</P>
+<P>
+Hall said a pilot is on schedule to be commissioned in Chile this year. 
+</P>
+<P>
+Reducing greenhouse gas output
+</P>
+<P>
+Calgary-based E3 Metals was founded in 2016 and hopes to run a pilot of its own lithium extraction process by the end of this year. It aims to eventually drill its own project into the Leduc Formation.
+</P>
+<P>
+CEO Chris Doornbos said the eventual operation's greenhouse gas output will be mitigated by using electricity from its own gas-fired power plant, creating a net zero emission for the product.
+</P>
+<P>
+He also said that compared to mining a more traditional lithium operation, the model uses only about three per cent of the land use and will not consume fresh water or leave tailings.
+</P>
+<P>
+"When you look at it from that perspective, producing lithium in Alberta is much more environmentally responsible than most other production of lithium in the world."
+</P>
+<P>
+Doornbos said lithium extraction presents an opportunity for expertise already present in Alberta's energy sector to be put to a new use.
+</P>
+<P>
+"At the end of the day, it's still putting Albertans back to work — it's nothing we don't know how to do or haven't done before."
+</P>
+<P>
+E3 Metals' current roadmap aims for commercial operations by 2024.
+</P>
+</TEXT>
+</DOC>

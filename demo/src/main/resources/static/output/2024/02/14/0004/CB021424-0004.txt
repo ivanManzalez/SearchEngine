@@ -1,0 +1,144 @@
+<DOC>
+<DOCNO> CB021424-0004 </DOCNO>
+<DATE>
+<P>
+February 14, 2024
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Imagine a furnace that heats the whole neighbourhood, not just your home; 
+</P>
+<P>
+District heating and cooling networks are getting to be a hot climate-friendly trend
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+What if you never had to buy, fix or maintain a furnace or air conditioner to keep your home comfortable? What if your heating and cooling worked during power outages, and you could count on it becoming more efficient and climate-friendly over time?
+</P>
+<P>
+That's the promise of district heating and cooling or district energy, where entire communities share a heating and cooling system. That allows them to tap into many low-carbon energy sources they couldn't before, more efficiently than any individual building could.
+</P>
+<P>
+"We have to move from thinking just about the building and start thinking about the society — society's efficiency and society's renewable efficiency use," said Michael Wiggin, director at the Boltzmann Institute, a Canadian group focused on research and education on district energy systems. 
+</P>
+<P>
+As governments look to tackle carbon emissions from buildings — the third largest source in Canada behind the oil and gas industry and transportation — it's an idea that more of them are considering and implementing. 
+</P>
+<P>
+What is district energy?
+</P>
+<P>
+District heating and cooling networks bring heating and air conditioning to many buildings at once — potentially entire neighbourhoods or communities. Typically, they do this with a network of underground pipes that exchange the heat with buildings — using water to carry heat inside in the winter and remove heat in the summer (similar to the networks that bring gas, water or electricity to buildings). From there, equipment connected to a thermostat in each building or unit lets occupants adjust how much heat to receive or reject for their comfort.
+</P>
+<P>
+Where does the heat or cooling come from?
+</P>
+<P>
+The heating and cooling can come from a variety of sources.
+</P>
+<P>
+Heat can include waste heat from industrial plants or a central plant burning a fuel such as natural gas or wood biomass. But it doesn't have to be that hot — it can come from geothermal networks, lakes or rivers, wastewater or buildings such as data centres and ice rinks. Technology such as heat exchangers and heat pumps can be used to "upgrade" the heat to a higher temperature.
+</P>
+<P>
+In Toronto, cold water from Lake Ontario is used to cool buildings on a district network in the summer.
+</P>
+<P>
+Why district heating instead of heating individual buildings?
+</P>
+<P>
+Wiggin said a big advantage is unlocking new heating sources, including "waste heat."
+</P>
+<P>
+"We have all kinds of renewable energy resources that are available and within our communities, but they're not necessarily available or usable to individual buildings."
+</P>
+<P>
+In many cases, using them requires little or no additional energy. 
+</P>
+<P>
+Peter Ronson is chief operating officer for Markham District Energy (MDE), a network in a Toronto suburb that heats and cools 14 million square feet in more than 200 buildings, including condo buildings up to 44 storeys tall, a hospital, data centres, hotels and two schools. Some, like the data centres, produce a lot of heat, while others may use lots of hot water.
+</P>
+<P>
+"We got all sorts of stuff on the system," Ronson said. "When [some are] throwing away energy, I can recover and give it to somebody else." That kind of heat-sharing is efficient.
+</P>
+<P>
+Excess heat in the system can also be stored (underground in water or rock, for example), Wiggin said — and much more cheaply than electricity.
+</P>
+<P>
+All that means converting buildings that burn fossil fuels to district energy can potentially put less strain on the grid than electrifying individual buildings using heat pumps or baseboard heating.
+</P>
+<P>
+It could also be a faster way to decarbonize, since entire neighbourhoods can be built or retrofitted at once, and more affordable for customers, who don't have upfront costs for the equipment — the district energy utility covers that, and the customers pays their share back over a long period of time through their utility bill.
+</P>
+<P>
+Ronson said district heating systems are also more resilient, since they have far more redundancy and backups than, say, individual furnaces connected to the hydro system: "You just don't see outages." MDE reports that it has had only three hours of service interruption in 22 years. That said, any outages that do occur in district energy networks can affect a large number of people.
+</P>
+<P>
+Ronson added that there are other advantages for customers; they don't have to worry about heating and cooling equipment — it's the utility's problem, and it's mostly not located in the building itself anymore, freeing up space. "Now they've got a much bigger roof deck for amenities or a green roof or whatever," he said.
+</P>
+<P>
+Do all district energy systems use green energy?
+</P>
+<P>
+No. Currently, 90 per cent of district heating networks around the world burn fossil fuels, according to the International Energy Agency (IEA). That applies to most in Canada, including MDE, which relies mainly on natural gas-fired combined heat and power plants.
+</P>
+<P>
+But Ronson said that's changing — MDE is now testing other sources such as biomass and recovered heat from data centres, with the help of Environment Canada's Low Carbon Economy Fund and some funding from gas utility Enbridge.
+</P>
+<P>
+"I'm taking these existing buildings down the low-carbon path with us," he said, adding that swapping heating sources will have no noticeable impact on customers. "They don't even know."
+</P>
+<P>
+The IEA says it sees "great potential" in transitioning district heating networks to renewable energy sources.
+</P>
+<P>
+How big is district heating in Canada?
+</P>
+<P>
+As of 2019, there were 217 district heating systems across Canada, supplying 2.2 per cent of the country's heating, reported the non-profit environmental group Pollution Probe on its educational Energy Exchange website. 
+</P>
+<P>
+The systems are far more prevalent in Europe and Asia — Russia alone has over 17,000, serving 44 million customers. In Europe, there are 6,000 district energy systems serving 100 million people across 32 countries, and they provide at least half of the heating in Denmark, Sweden, Estonia, Lithuania and Slovakia, reported W.E. District, an EU-funded project that aims to demonstrate fossil fuel-free heating and cooling in new and existing district heating systems. 
+</P>
+<P>
+Ronson said in the past, district energy made sense in high-density areas with more expensive energy.
+</P>
+<P>
+In Canada, with access to cheap natural gas, "it makes the business case really tough."
+</P>
+<P>
+But now, the federal government has put a price on carbon and is aiming for Canada to have net-zero emissions by 2050. 
+</P>
+<P>
+Buildings are the third largest source of greenhouse gas emissions in Canada, behind the oil and gas industry and transportation, Environment Canada reports. And more than 78 per cent of building emissions come from space and water heating.
+</P>
+<P>
+Buildings will need to be decarbonized, and district energy is getting another look. 
+</P>
+<P>
+Toronto lists district energy as a "key component" of its climate action plan, and is building or expanding a number of networks. District energy is also part of Edmonton's Community Energy Transition Strategy. And it's a solution backed by the Canada Infrastructure Bank, which has helped fund upfront costs for systems that include MDE and Lulu Island in Richmond, B.C.
+</P>
+<P>
+Other networks are being built, upgraded or expanded across the country, including Vancouver, Halifax, Charlottetown, Iqaluit, communities in Yukon and the Northwest Territories.
+</P>
+<P>
+What would it take to build more district energy?
+</P>
+<P>
+Proponents say district energy faces a lot of challenges. For one thing, governments and businesses need to build them. 
+</P>
+<P>
+"The individual can't make that choice," Wiggin said. "They can't decide, 'Oh, I want district heating or thermal networks.'"
+</P>
+<P>
+Ronson said the high upfront cost can make them challenging to get started, especially if they need to be funded by the gradual build-out of new development over time.
+</P>
+<P>
+Retrofits are even more challenging, since they require streets to be dug up, and many buildings already have a lot of costs sunk into existing infrastructure.
+</P>
+<P>
+But Wiggin argued that because district energy is so efficient, it could cut the cost of decarbonization by requiring less build-out of the electricity network: "District heating systems can actually compare quite favourably."
+</P>
+</TEXT>
+</DOC>

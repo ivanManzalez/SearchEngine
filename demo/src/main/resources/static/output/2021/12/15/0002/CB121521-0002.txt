@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO> CB121521-0002 </DOCNO>
+<DATE>
+<P>
+December 15, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's energy regulator criticized for not modelling a net-zero future; 
+</P>
+<P>
+The federal agency's projections seen as out of step with climate commitments
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The federal agency tasked with projecting Canada's supply and demand of energy for the next few decades is drawing criticism for what's missing in its latest annual report: A roadmap for the sector to reach net-zero carbon emissions by 2050.
+</P>
+<P>
+That's Canada's legislated climate goal, in order for the country to do its part in limiting global warming to 1.5 C and avoid the catastrophic impacts of runaway climate change. 
+</P>
+<P>
+Why the report is getting criticism
+</P>
+<P>
+The latest energy future report from the Canada Energy Regulator (CER) sees the country's oil production continuing to rise until 2032, and natural gas until 2040 — seemingly inconsistent with reaching Canada's emissions targets.
+</P>
+<P>
+To arrive at these projections, the CER assumed that climate action and policy-making in Canada and abroad will continue to grow at the same pace it has in recent history.
+</P>
+<P>
+But experts say there's no time to waste, and climate commitments will need to become increasingly ambitious.
+</P>
+<P>
+"We have seen horrifying floods in B.C., wildfires throughout the summer, an extremely difficult season of drought for Canadian farmers — we are already experiencing the impacts of climate change," said Vanessa Corkal, policy advisor at International Institute for Sustainable Development, a think-tank that studies climate policy in Canada.
+</P>
+<P>
+"So this report does not provide the information that helps us deal with and prevent those types of climate disasters."
+</P>
+<P>
+Who uses the report – and how
+</P>
+<P>
+The CER's energy future report is used by governments to plan energy projects and policies for the future, and by businesses to make investment decisions. Its projections are vital in ensuring Canadian businesses are investing in the right things as the world transitions to cleaner sources of energy, said Corkal.
+</P>
+<P>
+"Canada needs to catch up to that analysis if we're going to have a competitive Canadian economy that thrives in a net-zero economy and one that avoids climate disaster," she said. 
+</P>
+<P>
+"We need to have data that's granular and detailed enough at the domestic level to help Canadian businesses and investors plan."
+</P>
+<P>
+Will net-zero modelling be in the next report?
+</P>
+<P>
+Responding to the report in a tweet last week, Natural Resources Minister Jonathan Wilkinson said: "Going forward, I have asked the CER to look into how they could provide even more data in line with Canada achieving net-zero emissions by 2050." 
+</P>
+<P>
+(2) Going forward, I have asked the CER to look into how they could provide even more data in line with Canada achieving net-zero emissions by 2050.
+</P>
+<P>
+The CER's chief economist Darren Christie said the agency is already in the process of planning for the next iteration of the report, and "central to the conversation" is what their net-zero analysis is going to look like.
+</P>
+<P>
+"What we have highlighted … is that with the assumptions of increasing policy action in the coming years, where the increase is at a pace like what we've seen in recent years, we see a lot of change," Christie said. 
+</P>
+<P>
+"But it's not enough change, in all likelihood, to get us to net zero in 2050."
+</P>
+<P>
+What the report projects for future oil and gas production
+</P>
+<P>
+The report projects that Canadian use of unabated fossil fuels (meaning carbon emissions are not captured and stored) will drop 62 per cent by 2050. But despite this decline in local consumption, oil production in Canada will continue rising to 2032, after which it will decline slowly to 2050, when total oil production will only be a little less than it is today. 
+</P>
+<P>
+Most of Canada's oil is exported — mainly to the U.S. — and global oil demand is a big factor in how much oil Canada produces. 
+</P>
+<P>
+"International demand for crude oil is a significant factor in the production of Canadian crude oil," Christie said. "And we talk in the report about the fact that future global demand is a key uncertainty when we think of what the production of Canadian oil could be."
+</P>
+<P>
+Why modelling a net-zero future would be a change for CER
+</P>
+<P>
+Modelling a net-zero emissions future would be a reversal of the approach the CER generally takes, which is starting with a set of policies and projecting energy supply and demand from that. 
+</P>
+<P>
+A net-zero analysis entails "starting instead from an outcome and working backwards," Christie said.
+</P>
+<P>
+The CER did include a separate net-zero analysis of the electricity sector in Canada, laying out different scenarios of how electricity could be produced from non-emitting sources like nuclear, hydropower, solar and wind energy.
+</P>
+<P>
+Why lack of net-zero modelling is a problem
+</P>
+<P>
+A lack of net-zero modelling risks derailing Canada's climate plans, because governments and businesses won't have the right data to base their decisions on, said Julia Levin, senior program manager for climate and energy at the advocacy group Environmental Defence.
+</P>
+<P>
+"When you have a report that assumes that Canada won't even meet its own existing climate targets, and then that leads to a lock-in of decisions, that will make it more difficult for us to meet our climate targets," she said.
+</P>
+<P>
+"There's a bit of a self-fulfilling prophecy."
+</P>
+<P>
+Christie said the CER is holding discussions on future net-zero analyses, and the agency will have more to say in the coming months on what that work will look like.
+</P>
+<P>
+It's something that Levin says needs to come soon.
+</P>
+<P>
+She pointed to the International Energy Agency (IEA), an intergovernmental agency best known for its yearly report on the world's energy supply, which released a net-zero emissions roadmap earlier this year, spelling out the changes needed around how the world produces and uses energy to reach a net-zero future.
+</P>
+<P>
+"The IEA has shown us that this is something governments should be doing, and it really was disappointing that this year's [CER] energy future failed to do what the IEA has done," Levin said. 
+</P>
+<P>
+"We need to make sure that this is the last year that our energy regulator can get away with energy forecasting that sets us up for failure."
+</P>
+</TEXT>
+</DOC>

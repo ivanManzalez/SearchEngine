@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO> CB091522-0001 </DOCNO>
+<DATE>
+<P>
+September 15, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Nova Scotia needs more measures in place to protect renters, expert says; 
+</P>
+<P>
+Scott Leon of the Wellesley Institute says province should look to other jurisdictions for solutions
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+As Nova Scotia grapples with a severe affordable housing crisis, a Toronto-based housing analyst says the province should look to other Canadian cities for their approaches to the problem.
+</P>
+<P>
+Scott Leon holds the housing portfolio at the non-profit Wellesley Institute in Toronto.
+</P>
+<P>
+In Canada, the accepted definition of affordable housing is spending 30 per cent or less of a household's income on mortgages or rents and electricity, Leon said.
+</P>
+<P>
+According to Leon, when a household starts to spend over the 30 per cent threshold it cuts into other expenditures that households need to live healthy lives. 
+</P>
+<P>
+When the amount exceeds 50 per cent of a household's income it can have serious consequences on people's health and well-being, he told CBC Radio's Information Morning Halifax host Portia Clark.
+</P>
+<P>
+This is a condensed version of their conversation that has been edited for clarity and length.
+</P>
+<P>
+Do you have a sense of how many people are paying over 30 and over 50 [per cent] in Canada?
+</P>
+<P>
+Far too many, especially our lower income Canadians and especially renters. I do a lot of research in the Greater Toronto Area; we see among low income renters only one in four have housing costs below 30 per cent of their income. The 70 per cent are spending above that level set out by the Canadian government.
+</P>
+<P>
+During the pandemic, we started to pay a lot of attention to our tenancy act here and how well it's serving people who rent. Can you talk a little bit about how the fixed term lease setup makes renters in Nova Scotia more vulnerable?
+</P>
+<P>
+There are two important components, one of them being fixed term leases, and in many large Canadian provinces when renters complete their first year of a lease they roll over into a month-to-month kind of permanent lease which provides stability for renters being able to plan more than a year out.
+</P>
+<P>
+In Nova Scotia this is not the case. With fixed term leases in Nova Scotia at the end of the lease, landlords have the opportunity to effectively evict their tenants. Coupled with this is the importance of rent control. In Nova Scotia, rents can be increased by any level. There's a rent cap in place for existing tenants until the end of next year, but in general sense, rents can be increased at the end of the lease term and people can be displaced from their homes.
+</P>
+<P>
+So the end of the lease term might be an opportunity for a landlord to say, hey, market conditions have changed or whatever and bump up the rent to make it unaffordable or to evict them for any number of reasons?
+</P>
+<P>
+That's exactly the case and many tenants cannot afford a $400 or $300 a month rent increase. In these cases they end up being economically affected.
+</P>
+<P>
+There's also the Nova Scotia Tenancies Act, which many people are saying doesn't really have the teeth that's necessary to protect renters. Do you have a sense of that ?
+</P>
+<P>
+In Nova Scotia, protections for renters to protect their tenancy and stability are weaker than in other areas of the country, in particular around fixed term leases and around the lack of rent control. It does not provide long term stability for renters — knowing that they'll be able to stay in their homes and continue to be able to afford them.
+</P>
+<P>
+So in other provinces and perhaps territories, rent control is permanent. It's not just been tied to the pandemic?
+</P>
+<P>
+In Ontario, if a renter remains in their home year over year, landlords can only increase their rent by an inflation amount, whereas in Nova Scotia that's not the case.
+</P>
+<P>
+I suppose those would be a couple of areas where improvements could be made. Is that something that your research points to or recommends?
+</P>
+<P>
+Increasing protections for renters to be able to stay in their homes and increase their tenure security — our research shows that this can help avoid eviction, can help avoid displacement, and can benefit tenants' health and well-being.
+</P>
+<P>
+What about that situation where the apartment or the home is allowed to degrade, the landlord doesn't make any investments in it and makes it uncomfortable, if not unsafe, for the renter. They still are able to renew their lease, for example, but they're in a situation where the landlord's not reinvesting?
+</P>
+<P>
+Landlords and tenants each have rights and responsibilities. One of the responsibilities of landlords is to maintain their rental housing in a state of good repair. Governments can incentivize this and disincentivize disrepair. So things like fines, sometimes even with things like subsidies, in order to improve repair. These are ways that the government can increase repair and maintain healthy conditions and rental housing.
+</P>
+<P>
+We're hearing in this province from some advocates who are calling for the introduction of a licensing system for landlords, sort of how a restaurant has to apply to have a licence and get annual inspections to serve food. Are there places in Canada that have started doing this and to what effect?
+</P>
+<P>
+Yes. In Toronto, we have a program like this called rent safe, where landlords with rental buildings that have more than three storeys or more than 10 units must register, pay a small fee, and then inspectors come in a proactive sense in order to assess the conditions of buildings and make sure that landlords are keeping them in good repair.
+</P>
+<P>
+Does that system cost a lot of money to run?
+</P>
+<P>
+It is operated on a cost-recovery basis, so for each unit that a landlord has, they pay a small fee that goes into a pool of money in order to pay for the inspectors.
+</P>
+<P>
+So that's working well in Toronto?
+</P>
+<P>
+It is helping us move from a complaints-based system which we had previously and still exists in many places where the onus is on individual tenants to know their rights and to bring cases against their landlords where their rental housing is impacting their health negatively. We've moved to a more proactive system where it doesn't require tenants to be the impetus for change where city inspectors can come in and make assessments and provide information to landlords on what needs to be fixed.
+</P>
+<P>
+We've been doing quite a few stories here about renovictions and are those something that other jurisdictions have banned and how have they managed to do that?
+</P>
+<P>
+We've been seeing this a lot in Toronto over the past five years as well. [We've] completed some research showing that formal renovation applications — when landlords file eviction applications for rent evictions — have increased I think two and a half times over the past five years. So we're seeing a lot more of these in Ontario. And we've also seen the City of Toronto step up to provide increased protections for tenants facing renovictions, as well as the government of Ontario increased the fines for landlord who illegally renovict their tenants.
+</P>
+<P>
+What are some of the biggest or most impactful things that Nova Scotia could take away from the research that you've done on housing issues?
+</P>
+<P>
+It would be really thinking about how to improve tenure security for renters. I think other provinces in Canada show some of the paths forward in particular around protecting tenants from large annual rent increases and so including some form of rent stabilization or rent control as well as having tenants be able to access permanent leases, month-to-month leases. That would be limiting the ability of landlords in Nova Scotia to put their tenants on fixed term leases.
+</P>
+<P>
+I suppose to increase the housing supply, which would give renters more options in general?
+</P>
+<P>
+Yes, for sure. We also have seen evidence of a historic undersupply of, in particular, rental housing. Increasing the market supply of rental housing can help in the medium term to moderate rent costs across the broad market. But especially for lower income and moderate income renters, increasing market supplies is unlikely to solve the problem. We still need to have non-market social, affordable and supportive housing for people on very low incomes in order to maintain their housing stability. 
+</P>
+<P>
+MORE TOP STORIES
+</P>
+</TEXT>
+</DOC>

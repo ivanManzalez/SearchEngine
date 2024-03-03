@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> CB011524-0003 </DOCNO>
+<DATE>
+<P>
+January 15, 2024
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Alberta emergency power alert underlines challenge of energy transition on Prairies; 
+</P>
+<P>
+Flexibility needed in regulations to decarbonize the country’s electricity grids, says energy economist
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Saturday evening's emergency alert from the province of Alberta, warning of rotating power outages because of pressure on the electrical grid caused by the extreme cold, underlines just how difficult the energy transition is going to be in the Prairie provinces, according to economist Andrew Leach.
+</P>
+<P>
+It also demonstrates why more flexibility is needed in Ottawa's Clean Energy Regulations to decarbonize the country's electricity grids, he says.
+</P>
+<P>
+Alberta's electrical grid recovers after extreme cold prompts threat of rolling power outages
+</P>
+<P>
+The emergency alert was issued at 6:44 p.m. Saturday. Residents were asked to immediately reduce electricity use to essentials only. The Alberta Emergency Management Agency (AEMA) urged Albertans to turn off unnecessary lights, avoid cooking with a stove and delay charging electric vehicles.
+</P>
+<P>
+The Alberta Electric System Operator (AESO) ended the grid alert for the system just before 9 p.m.
+</P>
+<P>
+Leach is an energy and environmental economist and a professor of economics and law at the University of Alberta. 
+</P>
+<P>
+In an interview with CBC News on Sunday, he said the emergency alert was a result of a confluence of extreme conditions. 
+</P>
+<P>
+"You had, for much of Alberta, the coldest night in 50 years, you had … a particularly acute low wind event, and last night a lack of import availability because of a lot of pressures on the Saskatchewan grid and on the B.C. grid at the same time as we were facing pressures. Add to that the unexpected outage of a gas plant. That alone puts you there," Leach said.
+</P>
+<P>
+The province's energy grid had as little as 10 megawatts in reserve power at one point on Saturday night, according to the AESO supply demand report. 
+</P>
+<P>
+Shortly after the alert was issued, Saskatchewan Premier Scott Moe put out a tweet, saying his province was providing 153 megawatts of power to Alberta to help them during the shortage. The tweet included a pointed barb aimed at the prime minister.
+</P>
+<P>
+SaskPower is providing 153 MW of electricity to AB this evening to assist them through this shortage.<br> <br>That power will be coming from natural gas and coal-fired plants, the ones the Trudeau government is telling us to shut down (which we won’t). <a href="https://t.co/DxdBl8i03V">pic.twitter.com/DxdBl8i03V</a>
+</P>
+<P>
+"That power will be coming from natural gas and coal-fired plants, the ones the Trudeau government is telling us to shut down (which we won't)," Moe wrote.
+</P>
+<P>
+Leach says he understands where that impulse to fight back against Ottawa's new Clean Energy Regulations comes from.
+</P>
+<P>
+He says just because other markets in the U.S. and Canada can make this switch to largely renewable systems without risking grid reliability, that doesn't mean that Alberta and Saskatchewan are being too pro-fossil fuel when they push back.
+</P>
+<P>
+"That presents a really big challenge and I think people have been too quick to wave that away," Leach said.
+</P>
+<P>
+Leif Sollid is the communications manager for AESO. He says the last time the province was this close to implementing rotating power outages was during another extreme weather event.
+</P>
+<P>
+"The last time we had rotating outages — which means we've run out of our backup reserves — was back in July of 2013, during the flood. So it's been 11 years since we've been in this tight of a supply situation," he told CBC Radio's Daybreak Alberta on Sunday morning.
+</P>
+<P>
+If rotating outages are required, they would occur simultaneously in small pockets across the province and they would be approximately 30 minutes in duration. 
+</P>
+<P>
+"What the outages do is basically bring down overall system demand, so we can balance supply and demand. Supply and demand balance is absolutely critical," Sollid said.
+</P>
+<P>
+Pointing to the fact that the province had a 12 per cent increase in power generating capacity last year, and is expecting similar growth this year, Sollid said grid alerts, like those issued over the past few days, should become less necessary in the future.
+</P>
+<P>
+"The supply picture is actually very positive, and that will help us over the longer term," he said.
+</P>
+<P>
+But Leach says not all additional capacity is created equal, especially on the Prairies.
+</P>
+<P>
+"A lot of that increase last year was solar power, so solar capacity doesn't change anything at all for a 7 p.m. January spike," he said.
+</P>
+<P>
+"You could have had 50,000 megawatts, all the solar farms and wind farms in the world located in Alberta, and it still wouldn't have come anywhere close to closing that gap."
+</P>
+<P>
+That's why Leach says regulatory flexibility is needed for the part of the country that is awash in cheap energy in the summer, from wind and solar, but in the depths of winter, during really cold conditions and really high energy loads, those resources do not generate a lot of power.
+</P>
+<P>
+"A solution relying exclusively on wind power, solar power and trade isn't going to get you through a really cold, dark night in Alberta," he said.
+</P>
+<P>
+AESO's Leif Sollid said immediately after Saturday's emergency alert was issued, people in the system control room could see a drop in power demand. 
+</P>
+<P>
+"It immediately fell by 100 megawatts and a couple of minutes later, it fell another 100 megawatts. So, a 200-megawatt drop, and that got us through what we call the hump," he said.
+</P>
+<P>
+Until the cold snap ends, Albertans can continue to help by reducing power and conserving electricity during the peak period, Sollid said.
+</P>
+<P>
+"It's simple things… things like not running your dishwasher, not doing laundry, not plugging in your car, putting your block heater on a timer so it's drawing power outside of that 4 to 7 p.m. window. Very small things like that, but when done across the province, as we saw last night, things like that will make a difference and will help us out."
+</P>
+<P>
+Leach agrees. Looking ahead to Sunday evening, he says electricity reduction will remain important.
+</P>
+<P>
+"It's really not looking great. We're not at the crisis level that we had last night, but 5 and 9 p.m. the market's still going to be pretty tight," he said.
+</P>
+<P>
+"We need a small drop in demand. We don't need everybody to change everything."
+</P>
+</TEXT>
+</DOC>

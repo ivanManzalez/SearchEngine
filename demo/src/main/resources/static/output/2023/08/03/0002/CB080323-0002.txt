@@ -1,0 +1,132 @@
+<DOC>
+<DOCNO> CB080323-0002 </DOCNO>
+<DATE>
+<P>
+August 03, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+New N.B. Power plan shows 'considerable uncertainty' on net-zero emissions; 
+</P>
+<P>
+‘No silver bullet’ to hit federal target in 2035, utility says in new electricity projection
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+N.B. Power is continuing to grapple with major uncertainty as it lays out its plan to decarbonize its electricity grid in time for a 2035 deadline.
+</P>
+<P>
+A mix of wind power, a costly upgrade to the Mactaquac Dam, an extension to the life of its Bayside gas-fired plant and small modular reactors are all essential, the utility says in its latest three-year outlook. 
+</P>
+<P>
+"The general takeaway is that there is no silver bullet," says the 2023 Integrated Resource Plan, filed with the Energy and Utilities Board last week.
+</P>
+<P>
+N.B. Power updates the document every three years with a rolling projection of where and how it can generate electricity to meet demand at as low a cost as possible.
+</P>
+<P>
+That forecast has become increasingly complicated, given the utility's huge debt, increasingly stringent federal emissions-reduction requirements and the looming need to shut down or extend several major power plants.
+</P>
+<P>
+The document acknowledges that there are still big questions on how N.B. Power can comply with national objectives to combat climate change.
+</P>
+<P>
+It says the utility "continues to explore options" for the Belledune generating station, which must stop burning coal by 2030.
+</P>
+<P>
+Another section says there remains "considerable uncertainty on achieving a net-zero electricity system in New Brunswick."
+</P>
+<P>
+Still, the plan shows which way N.B. Power is leaning: toward small modular nuclear reactors and away from a costly linking of five provincial power grids known as the Atlantic Loop.
+</P>
+<P>
+Without small modular reactors, the resource plan says, the utility will have to rely on "variable" renewable power generation, like wind and solar, that depend on weather conditions.
+</P>
+<P>
+That would would mean "completely altering the dynamics of daily operations, creating significant risk." 
+</P>
+<P>
+It also says the cost of developing small modular nuclear reactors are a "significant unknown," and the timing of their deployment will depend on the pace of technology development.
+</P>
+<P>
+"Until more certainty on all of these issues is obtained, a full cost-benefit analysis cannot be completed and therefore is not in this analysis," the plan says.
+</P>
+<P>
+Assessment ordered by province
+</P>
+<P>
+ARC Clean Energy told a committee of MLAs earlier this year that it should have a 100-megawatt reactor ready by 2030, but that wouldn't be enough to replace what Belledune generates with coal.
+</P>
+<P>
+The province announced Thursday it was ordering an environmental impact assessment of ARC's proposal.
+</P>
+<P>
+Moltex Energy, the other company working on a model in New Brunswick, plans 300-megawatt reactors but says they won't be ready for 2030.
+</P>
+<P>
+The report touts the potential job and economic impact of the two companies' SMR models, including a projected $1 billion in additional gross domestic product.
+</P>
+<P>
+The plan has no such promotion of the economic upside of the Atlantic Loop, which would connect the grids in the four Atlantic provinces and Quebec to allow for more sharing of hydroelectric power from Quebec and Labrador.
+</P>
+<P>
+Instead, it pegs the cost of constructing new transmission links and buying extra hydro power from Quebec at $270 million to $310 million in the 2040s, seven to nine per cent higher than the cost of other scenarios that don't include the loop. 
+</P>
+<P>
+The scramble for non-emitting electricity generation is driven by the federal government's climate targets, which include net-zero greenhouse gas emissions by 2050 and net-zero electricity generation even sooner — by 2035.
+</P>
+<P>
+The new resource plan says N.B. Power will have eliminated 98 per cent of its emissions from electricity by then, with the remaining two per cent — about 175,000 tonnes of greenhouse gas, the equivalent of 3,500 cars — needed to ensure the grid is reliable.
+</P>
+<P>
+Plants like Bayside and Coleson Cove might have to remain in service to provide that backup power past 2035.
+</P>
+<P>
+"The small volume of outstanding emissions can be more appropriately addressed in subsequent IRPs as the future landscape and policies become more certain," the plan says. 
+</P>
+<P>
+The utility has asked for proposals for new wind, solar, tidal and battery storage programs and has been promoting energy efficiency. 
+</P>
+<P>
+But those efforts won't get far without a major shift in its large-scale generating capacity away from fossil fuels.
+</P>
+<P>
+That's why the Mactaquac hydro dam — in need of a $3-billion refurbishment to extend its life to 2068 — remains "a key pillar in the transition to a net-zero electricity system," the report says.
+</P>
+<P>
+"Mactaquac plays a valuable role of enabling the low-cost integration of renewables which becomes increasingly important in the future."
+</P>
+<P>
+Without the dam to fill the gap on days with no sun or no wind, "the costs quickly balloon," the report says.
+</P>
+<P>
+The Atlantic Loop is projected to cost $6 billion. 
+</P>
+<P>
+Ottawa announced new policies earlier this year, including loans and tax credits, that could make the project more affordable for provinces and their power utilities.
+</P>
+<P>
+But N.B. Power's plan says the overall price tag remains "a significant hurdle" because the electricity imported from Quebec would not always be available, forcing the utility to maintain costly generation capacity in New Brunswick. 
+</P>
+<P>
+"There would need to be a larger savings on the side of generation and purchased power costs to make the project viable, but we see the opposite happening," the report says. 
+</P>
+<P>
+Debt reduction ordered
+</P>
+<P>
+Cost is a major issue for the utility, whose latest financial statements show its cumulative debt climbing back up to $5.4 billion, or 94 per cent of its equity.
+</P>
+<P>
+The Higgs government has ordered it to reduce its debt to 80 per cent of equity by 2027 — a tall order with several costly projects on the horizon.
+</P>
+<P>
+According to the resource plan, a survey of New Brunswickers showed that customers consider low power rates a higher priority than clean energy or debt management. 
+</P>
+<P>
+In a recent Narrative Research poll, 79 per cent of New Brunswick respondents said they were concerned about climate change, and 70 per cent agreed that the increasing frequency and intensity of heat waves and forest fires are linked to climate change.
+</P>
+</TEXT>
+</DOC>

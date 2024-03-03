@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> CB122217-0001 </DOCNO>
+<DATE>
+<P>
+December 22, 2017
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Alberta's wind farm deal scored 'pretty remarkable price,' energy researcher says; 
+</P>
+<P>
+4 production sites expected to produce power at lower cost than previous agreements
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A renewable energy deal brokered by the Alberta government this week earned "a pretty remarkable price" for wind power, a University of Calgary researcher says.
+</P>
+<P>
+Three companies were picked on Wednesday after a competitive, international auction to build four wind energy farm in the southern part of the province.
+</P>
+<P>
+"They got it at the price of $37 per megawatt-hour," economics PhD candidate Blake Shaffer told the Calgary Eyeopener on Thursday morning.
+</P>
+<P>
+"That might not mean much to most but this is the lowest price we've seen for wind power in Canada, certainly — and it's a fraction of prices we've seen only a few years ago."
+</P>
+<P>
+Edmonton-based Capital Power, Portugal-based EDP Renewables and Enel Green Power Canada will collectively spend about $1 billion to build the farms. The new projects will be able to generate 600 megawatts of power, enough to supply 255,000 homes. The companies will be eligible for some so-far-undisclosed subsidies from the province.
+</P>
+<P>
+The low cost should reduce the risk renewable energy development has carried in the past, said Shaffer, who once worked as trading director for TransAlta.
+</P>
+<P>
+He now works as a fellow-in-residence with the C.D. Howe Institute, where he writes about the economics of energy. On Thursday, he discussed the deal with Calgary Eyeopener executive producer and guest host Jennifer Keene.
+</P>
+<P>
+Q: How does that compare to jurisdictions where they have quite a bit of clean energy like Ontario?
+</P>
+<P>
+A: I think that's one of the fears a lot of people have, to start down this path of increasing the amount of green energy you have in Alberta. Hear a lot of stories coming out of Ontario, what it's done to their home energy prices.
+</P>
+<P>
+In Ontario, when they first got going — rather than doing what Alberta did, which is go forth with a competitive auction, get people to compete on price — they basically stuck a price list at their window saying, "I will pay this for wind, I will pay this for solar."
+</P>
+<P>
+They were paying in the extreme as much as $800 per MWh for some small scale solar. Wind was around $100 to $150 per MWh versus this $37.
+</P>
+<P>
+When energy nerds like myself are getting all excited about this price, it truly is a pretty remarkable price we got for wind here yesterday.
+</P>
+<P>
+Q: This was an auction. They were looking for contractors to bid and they went with three wind companies but no solar companies. Do you know why that is?
+</P>
+<P>
+A: The design of this auction was effectively to elicit the lowest cost, and right now the lowest cost is going to be wind power in this province. But an important caveat on that is, if we're looking for a place to critique yesterday's auction, low cost doesn't always necessarily mean we're getting the best value.
+</P>
+<P>
+Solar, because it costs a little bit more to generate, it didn't win this auction.
+</P>
+<P>
+It produces power in the middle of the day, you know, when the sun's shining. Whereas wind's profile is a bit more shifted towards the night time when power's a little less valuable.
+</P>
+<P>
+In some cases, we might prefer to actually pay a little bit more to get solar's energy profile, which is better. But this auction doesn't do that.
+</P>
+<P>
+I just wrote a piece that came out this morning for the C.D. Howe Institute, where I'm a fellow, where I argue we should be celebrating this price but in the future we need to tweak our auction design to recognize both low cost as well as the value.
+</P>
+<P>
+Because what we really want is the best net benefit between value and cost, not simply low cost.
+</P>
+<P>
+Q: We've heard this before that the knock on wind power is that wind doesn't always blow. It's just not always reliable. So will there have to be backup systems in place for all of these wind turbines and the energy that they intend to produce?
+</P>
+<P>
+A: That's certainly true. The low price doesn't negate the fact that wind is a variable resource. We get the power when the wind blows, not necessarily when we want it.
+</P>
+<P>
+I think the old knock on renewables was that it was both variable and high cost. Now at least we've knocked that second part of it away.
+</P>
+<P>
+It's still variable but what we're getting is a really cheap source of raw energy. So at these low prices, we can afford to pay for different types of things that can allow us to integrate wind when it blows.
+</P>
+<P>
+What I mean by that is find a way to store it, to shape it into the hours that we want, or simply to have backup, like you say, with other types of supply.​
+</P>
+<P>
+There's many ways to do that. You could think of having gas plants in backup, is one method, but that might be a costly one in the long run to have a 100 per cent type backup system.
+</P>
+<P>
+Other methods are storage, so either physical storage through pumped hydro or chemical storage with batteries, which is probably the direction we're headed here in the future.
+</P>
+<P>
+The other one is increasing our ability to move power back and forth between other regions, like B.C., where they have large hydro reservoirs that can store power when say Alberta's wind is abundant. We can ship it over there and bring power back in times of need
+</P>
+<P>
+This interview has been edited for length and clarity.
+</P>
+<P>
+With files from Lisa Robinson and the Calgary Eyeopener
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,144 @@
+<DOC>
+<DOCNO> CB112123-0002 </DOCNO>
+<DATE>
+<P>
+November 21, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Will switching to a heat pump save you money? Here's how to find out; 
+</P>
+<P>
+Your current heating system, location and type of heat pump can all impact costs and savings
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Many CBC readers have asked about the costs of swapping their heating and cooling system to a heat pump — a key strategy for cutting the main source of residential greenhouse gas emissions, which is burning fossil fuels for water and space heating.
+</P>
+<P>
+A new report and online calculator from the Canadian Climate Institute are the latest to show that many Canadian households could save money by making the switch.
+</P>
+<P>
+The researchers calculated that replacing a gas furnace and an air conditioner with an air-source heat pump (which does both heating and cooling) would typically save money in Vancouver, Toronto, Montreal and Halifax.
+</P>
+<P>
+"Despite our analysis being conservative, heat pumps are the lowest-cost option for most households," said Christiana Guertin, research associate at the institute and co-author of the report released Thursday. It was accompanied by a calculator designed to help Canadians get better estimates for their own situation.
+</P>
+<P>
+The new report is the most recent showing that heat pumps don't just cut greenhouse gas emissions relative to fossil fuel heating, but often save money. 
+</P>
+<P>
+But that depends on several questions. What kinds of homes are they installed in? In which regions? With what kind of heating? And what kind of heat pump system would they be adopting?
+</P>
+<P>
+Here's a closer look at those studies, the costs and savings, and the factors that impact them.
+</P>
+<P>
+Your current heating system makes a difference
+</P>
+<P>
+While the Canadian Climate Institute study only looked at households with gas furnaces, a 2022 federal government study considered other kinds of heating systems.
+</P>
+<P>
+The federal study found that by installing a cold-climate air-source heat pump, Canadian households switching from an electric furnace would save an average of $700 to $1,900 a year in utility bills, and those with furnaces that run on heating oil would save $1,000 to $3,500 a year. That was despite the study using data from 2020, when oil prices were low due to the COVID-19 pandemic.
+</P>
+<P>
+"Those types of heating systems are very expensive, and in that context, choosing a heat pump is a very smart economic choice to make," said Alex Ferguson, research officer at CanmetENERGY in Ottawa and co-author of the study.
+</P>
+<P>
+WATCH | Atlantic Canada leads country in switch to green heating 
+</P>
+<P>
+If you're using natural gas, where you live makes a difference
+</P>
+<P>
+For those with natural gas heating, both the Canadian Climate Institute study and the federal government study show that regional differences in climate and in energy prices impact how much money, if any, you save with a heat pump.
+</P>
+<P>
+The federal study estimated average savings of $50 to $150 a year in utility bills across Canada in 2020, but found savings were higher in Quebec and the Atlantic provinces. 
+</P>
+<P>
+The Canadian Climate Institute focused on households with gas furnaces and air conditioners in five cities: Vancouver, Edmonton, Toronto, Montreal and Halifax. Unlike the federal study, it included costs and savings over the lifetime of the equipment, assumed to be 18 years. That included purchase and installation, government incentives and rebates, maintenance, and utility bills (taking into account the rising carbon price and projected future energy prices from the Canada Energy Regulator).
+</P>
+<P>
+A heat pump cut costs an average of 13 per cent in the cities studied. 
+</P>
+<P>
+The study found most buildings in Vancouver, Toronto, Montreal and Halifax would save money with a heat pump, including single-family homes, townhouses and many apartments.
+</P>
+<P>
+The exception in Toronto was multi-residential buildings heated centrally. Guertin said that was due to the heat pump technology required for such large buildings and a lack of government rebates for that equipment.
+</P>
+<P>
+In Montreal and Halifax, heat pumps save money even without any government incentives or rebates, the report found.
+</P>
+<P>
+WATCH | Heat pumps can cool a home in the summer and heat it in the winter:
+</P>
+<P>
+When the report was first published last week, gas furnaces beat out heat pumps in Edmonton, due to its low gas prices compared to other parts of the country and its cold winter climate, as heat pumps are less efficient in very cold weather and systems may need to rely more on electric backup systems, which are less efficient. However, the Canadian Climate Institute told CBC News this week that after adding in a missing rebate that had been overlooked, a heat pump with a gas backup comes out slightly ahead for houses and townhouses in Edmonton in most scenarios.
+</P>
+<P>
+The new report's Toronto findings were consistent with two 2022 reports by the Ontario Clean Air Alliance, which found the average Ontario homeowner with a gas furnace and air conditioner would save $10,000 or more over the lifetime of their equipment when switching to an air-source heat pump, and up to $24,000 when switching from a gas furnace and air conditioner  to a ground-source heat pump, which performs better in extreme cold. 
+</P>
+<P>
+Standard vs. cold-climate heat pump
+</P>
+<P>
+Canadians can generally choose between two types of heat pumps:
+</P>
+<P>
+The Canadian Climate Institute report found that a standard heat pump with an electric backup was the cheapest option across Canada.
+</P>
+<P>
+Standard heat pumps have existed for a long time, and are now not much more expensive than air conditioners. Meanwhile, cold-climate heat pumps are a new technology and are still priced at a premium. In its report, the Canadian Climate Institute assumed that for a townhouse or single-family home:
+</P>
+<P>
+The report assumes that a cold-climate heat pump would need a backup heat source, adding an additional cost (see next section). Heather McDiarmid, a climate and energy consultant who prepared the reports for the Ontario Clean Air Alliance, questioned whether that would be necessary across Canada.
+</P>
+<P>
+"There are some homes in Ontario that have a cold-climate ASHP [air-source heat pump] with no backup heater and they work just fine," she wrote in an email. "I see no reason why a home in Vancouver would need one at all." She added that the heat pump in her Kitchener, Ont., home has run for three years, and in that time, outdoor winter temperatures have never been cold enough to trigger the backup heating system.
+</P>
+<P>
+Kate Harland, mitigation research lead for the Canadian Climate Institute and co-author of the new report, acknowledged that cold-climate heat pumps may be more suitable for the Prairies. But she said they are expected to come down in price over time.
+</P>
+<P>
+WATCH | Last fall's announcement of new federal grants for replacing oil furnaces with heat pumps
+</P>
+<P>
+Electric vs. natural gas backup
+</P>
+<P>
+Backup heat systems can be either:
+</P>
+<P>
+In the Canadian Climate Institute study, for those with standard heat pumps, the temperature at which the backup was triggered was 0 C for Toronto, Edmonton and Halifax, and –5 C for Vancouver and Montreal, where electricity is cheaper. For those with cold-climate heat pumps, it was –8.3 C.
+</P>
+<P>
+The study found that an electric backup was cheaper, at $300 to $1,500, compared to a gas furnace, estimated at around $4,000.
+</P>
+<P>
+The federal study also found that an electric backup would be cheaper if a homeowner disconnected from gas altogether, as they would save money in fixed monthly charges for gas distribution. But if they kept a gas connection for use with appliances such as water heaters or stoves, they would save more money with a hybrid system, while still cutting their greenhouse gas emissions 15 to 35 per cent.
+</P>
+<P>
+WATCH | Childhood asthma study reignites debate over gas stoves: 
+</P>
+<P>
+Both McDiarmid and CanmetENERGY's Ferguson said a gas backup or hybrid system is also typically cheaper in older homes, which usually need an electrical panel upgrade in order to run a heat pump with electric backup, but not with a gas backup. The Canadian Climate Institute study assumed that all homes built before 1980 would need this electrical upgrade, at a cost of $3,400 to $5,100, regardless of whether they chose a gas or electric backup.
+</P>
+<P>
+Need more info?
+</P>
+<P>
+Both the Canadian Climate Institute's report and calculator and Natural Resources Canada have lots of additional details that may be helpful to anyone interested in learning more about heat pumps.
+</P>
+<P>
+Ferguson suggested that people shouldn't get caught up in small differences in costs between different heating or heat pump systems.
+</P>
+<P>
+"The cost between all these systems are pretty comparable," he said, noting that wasn't the case in the past, when heat pumps were more expensive and less technologically advanced. "I think the story here is that Canadians have more options than they've had before to reduce their carbon footprint [and] to bring cooling to homes that didn't have cooling before."
+</P>
+</TEXT>
+</DOC>

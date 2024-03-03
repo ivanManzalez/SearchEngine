@@ -1,0 +1,258 @@
+<DOC>
+<DOCNO> CB020924-0002 </DOCNO>
+<DATE>
+<P>
+February 09, 2024
+</P>
+</DATE>
+<HEADLINE>
+<P>
+This gas utility will heat customers' homes without gas; 
+</P>
+<P>
+Also: What's Canada doing about greenwashing?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This weekly newsletter is part of a CBC News initiative entitled "Our Changing Planet" to show and explain the effects of climate change. Keep up with the latest news on our Climate and Environment page.
+</P>
+<P>
+Sign up here to get this newsletter in your inbox every Thursday.
+</P>
+<P>
+This week:
+</P>
+<P>
+This gas utility will heat customers' home without gas
+</P>
+<P>
+To meet net-zero emissions goals, many jurisdictions are starting to ban fossil fuel heating.
+</P>
+<P>
+That's a big challenge for gas utilities, which is why some have responded by fighting the bans, both in Canada and the U.S.
+</P>
+<P>
+But a few are trying to evolve and transition into a new business that takes advantage of some of their existing skills and expertise — namely, geothermal (also known as geoexchange) heating and cooling networks, a form of district heating.
+</P>
+<P>
+This spring, Massachusetts-based Eversource is set to switch on decarbonized heating and cooling for 140 customers in 37 buildings in Framingham, Mass., including a low-to-moderate income apartment complex, single-family homes, a fire station and a school building.
+</P>
+<P>
+Many occupants are excited to get central air conditioning in their homes, said Eric Bosworth, manager of clean technologies at Eversource's gas business. 
+</P>
+<P>
+"You know, seeing the customers really excited about a new HVAC system … it makes me even more excited to flip the switch here," he said.
+</P>
+<P>
+The buildings will be heated and cooled with a network of underground pipes filled not with gas but with water mixed with propylene glycol, a non-toxic antifreeze. Their heat source is the ground 150 metres below the surface, where the temperature is consistently around 13 C all year round. That makes geothermal heating and cooling extremely efficient compared to air-source heat pumps, which have to extract heat or remove heat from air that can be much colder or hotter.
+</P>
+<P>
+In winter, the ground warms the liquid, which is pumped back up to the surface, through shallower pipes, and into buildings. There, a ground-source or geothermal heat pump extracts the heat and distributes it through ductwork. In summer, the reverse happens to cool the buildings.
+</P>
+<P>
+"It's still a very similar business to the gas business, with buried infrastructure, pipes, services and … a distribution system," Bosworth said.
+</P>
+<P>
+Previously, the neighbourhood relied on a mix of heating sources, from natural gas to electric heating to "delivered fuels," such as propane and oil.
+</P>
+<P>
+Bosworth said the idea for the project was brought to Eversource by HEET, a non-profit climate solutions incubator, five or six years ago. The group was concerned that gas utilities were spending billions on new gas infrastructure that customers would be paying off for decades, despite net-zero emissions mandates.
+</P>
+<P>
+"We thought, there's got to be some better use of that money," said Audrey Schulman, HEET's co-executive director. "So we came up with the idea of networking ground source heat pumps."
+</P>
+<P>
+Eversource is also an electric utility, and recognized the challenge posed by Massachusetts's mandate to go net-zero by 2050.
+</P>
+<P>
+"We're looking at, potentially, how do we electrify or decarbonize a lot of customers very quickly?" Bosworth said. 
+</P>
+<P>
+One option is switching to air-source heat pumps, but networked geothermal is far more efficient. "It may make sense to put these networks in and avoid a lot of electric side build-out potentially in some areas where we would need new transmission lines, new distribution lines."
+</P>
+<P>
+Eversource proposed a pilot that was approved by regulators in 2020, and construction started in 2023.
+</P>
+<P>
+For the pipes, "the materials are exactly the same as what we're putting in every day on the gas side of the business," Bosworth said, and Eversource was able to use its regular contractors.
+</P>
+<P>
+And for a utility, getting approval to install infrastructure in public roadways was "a routine process."
+</P>
+<P>
+But there were some new skills required — drilling, for example. And the cost and logistics of retrofitting the heating systems for dozens of buildings meant Eversource needed to take care of that to get the owners on board.
+</P>
+<P>
+Schulman believes Eversource is the first gas utility in the world to do this kind of installation. But it won't be the last — New York, Colorado, Massachusetts and Minnesota have all passed laws allowing or mandating gas utilities to undertake thermal energy network pilot projects. Plans for 13 such projects have already been submitted in New York state alone.
+</P>
+<P>
+Schulman says there haven't been any in Canada so far (although there have been some networked geothermal installations in new developments in communities such as Edmonton and Markham, Ont.), but she has had inquiries from gas utilities in Ontario and Alberta.
+</P>
+<P>
+— Emily Chung
+</P>
+<P>
+Old issues of What on Earth? are here. The CBC News climate page is here. 
+</P>
+<P>
+Check out our podcast and radio show. This week: columnist Chúk Odenigbo on how to build climate resilience in Black communities in Canada. What On Earth drops new podcast episodes every Wednesday and Saturday. You can find them on your favourite podcast app, or on demand at CBC Listen. The radio show airs Sundays at 11 a.m. ET, 11:30 a.m. in Newfoundland and Labrador. 
+</P>
+<P>
+Watch the CBC video series Planet Wonder featuring our colleague Johanna Wagstaffe here.
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+Speaking of ground-source heat pumps, Vic Reimer wrote in about the heat source he uses for his ground-source heat pump – his water well.  
+</P>
+<P>
+"Our well is 180 feet deep, and when the heat pump operates, the well supplies the water. The water is not circulated. After it circulates through the heat pump, it is discharged in a pipe below frost level into a river about 200 feet distant. The system works well. We have been told this is the most energy efficient of the heat pump systems. The well is also our source for potable water."
+</P>
+<P>
+We also got a lot of feedback about last week's Big Picture item on the mega-cruise ship Icon of the Seas, including this note from Ivan Zubot:
+</P>
+<P>
+"My wife and I have never taken a cruise and never plan to! To go further, I would suggest that all cruise ships (floating hotels and spas) be banned from operating unless powered by the wind! They should also not be allowed to dump anything overboard! How can they be allowed to create such tremendous carbon emissions and ocean pollution in this day and age of global warming?"
+</P>
+<P>
+Write us at whatonearth@cbc.ca. 
+</P>
+<P>
+Have a compelling personal story about climate change you want to share with CBC News? Pitch a First Person column here.
+</P>
+<P>
+The Big Picture: Ice Bed
+</P>
+<P>
+This week, the photo Ice Bed by the U.K.'s Nima Sarikhani was announced as the winner of the Wildlife Photographer of the Year's people's choice award. The award, which was voted on by more than 75,000 wildlife photography and nature fans, is part of the annual competition produced by the Natural History Museum in London, U.K. 
+</P>
+<P>
+The photo depicts a young polar bear falling asleep on an iceberg. Sarikhani spent three days on an expedition vessel searching for polar bears in the far north off Norway's Svalbard archipelago. When he decided to change course and head southeast, he encountered two bears. He witnessed the younger bear climb onto a small iceberg and claw away at the ice to carve out a spot to sleep. The statement from the Natural History Museum accompanying the photo said:  "[Sarikhani's] thought-provoking image is a stark reminder of the integral bond between an animal and its habitat and serves as a visual representation of the detrimental impacts of climate warming and habitat loss."
+</P>
+<P>
+The photo, along with the rest of the exhibition, can be viewed at the Royal Ontario Museum in Toronto until May 26, and at the Royal BC Museum in Victoria from March 1 to June 2.
+</P>
+<P>
+— Anna Spencer
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+Citizens in Paris have voted in a referendum to triple parking costs for SUVs to 18 euros/hour ($26/hour), citing the air pollution and climate impact of drivers in oversized vehicles. 
+</P>
+<P>
+Google says it's trying to help you make better choices by showing which flights and driving routes generate fewer emissions. Heatmap talks to Yael Maguire, vice-president and general manager of the sustainability team at Google Geo, about the impact of such sustainability tools and what else is coming.
+</P>
+<P>
+Pop star Taylor Swift is threatening legal action against a student tracking her private jet flights and their carbon emissions using public data and social media posts. Swift's lawyers say the website is tipping off stalkers to her location.
+</P>
+<P>
+Europe is planning huge emissions cuts — 90 per cent compared to 1990 levels — by 2040. CBC's Ben Shingler takes a closer look at how that could work and what impact it could have on the rest of the world, including Canada.
+</P>
+<P>
+What's Canada doing about greenwashing?
+</P>
+<P>
+"Eco-friendly." "Carbon neutral." "Net-zero."
+</P>
+<P>
+These kinds of claims are a near-constant in advertising campaigns and promotions. But it can be difficult to know if they are true.
+</P>
+<P>
+The federal government wants to strengthen how the Competition Bureau handles complaints about "greenwashing," a blanket term for misleading or unsupported statements about a product or company's environmental record.
+</P>
+<P>
+But advocates say Canada will still be far behind the European Union and other jurisdictions when it comes to making sure a company's statements are accurate.
+</P>
+<P>
+"We are lagging," said Matt Hulse, a lawyer with the Canadian environmental group Ecojustice.
+</P>
+<P>
+The calls for improvements come against a backdrop of increased accusations of deceitful marketing practices, with Canada's largest bank and an oilsands group both the subject of investigations.
+</P>
+<P>
+The Competition Act, which applies to advertising claims, is expected to be amended as part of legislation making its way through Parliament. The proposed changes would require businesses that claim a product has environmental protection or climate change benefits to be able to back up their statements with "an adequate and proper test."
+</P>
+<P>
+Yet these new rules will be difficult to enforce, critics say.
+</P>
+<P>
+"We don't have the level of oversight and enforcement that we need, and that's the result of a lot of different factors, one being the lack of capacity from the Competition Bureau to tackle these issues," Hulse said.
+</P>
+<P>
+In total, eight investigations involving greenwashing have been opened by the Competition Bureau in the past two years, including one against RBC and another against Pathways Alliance, which represents major oilsands producers.
+</P>
+<P>
+Neither has been settled. Others that have resulted in fines have been few and far between. One of the most significant was against Keurig Canada, which was ordered by the Competition Bureau in 2022 to pay a $3-million penalty for making misleading claims that its single-use K-Cup pods can be recycled.
+</P>
+<P>
+Last year, Shell Canada halted a promotional campaign that encouraged customers to fund carbon-offset projects at the fuel pump amid an investigation by the bureau. Greenpeace filed the complaint, arguing there was a lack of evidence Shell could wholly offset emissions from its fossil fuels and major shortcomings with its carbon offsets scheme.
+</P>
+<P>
+Keith Stewart, a spokesperson for the environmental group, said he sees Shell dropping the campaign as a victory. But he said it also highlights Canada's flawed process. The Shell campaign ran for three years, from 2020 until November 2023, ending before the bureau made a decision. 
+</P>
+<P>
+"If you're a company, what you could do is you could start an advertising campaign and when the complaint goes in, you withdraw the advertising campaign," Stewart said.
+</P>
+<P>
+In the Netherlands, by contrast, Shell was quickly ordered in 2021 to discontinue the Dutch version of its campaign, arguing the neutrality claim could not be proven. (Shell disputed the decision, but lost its appeal.)
+</P>
+<P>
+In a statement, Shell spokesperson Stephen Doolan said the company decided to retire the program in Canada. "Our focus remains on providing our customers with the most competitive offers, including low-carbon alternatives that keep pace with consumer demand," Doolan said.
+</P>
+<P>
+In Canada, environmentalists argue the rules against greenwashing should apply not just to claims about a product itself, but also to a company's commitments, such as a promise to achieve "net-zero" by 2050.
+</P>
+<P>
+Such commitments, Hulse said, should be supported with publicly available evidence.
+</P>
+<P>
+A separate department within the Competition Bureau, something like a watchdog unit recently set up in the United Kingdom, would also help speed up the process, he said.
+</P>
+<P>
+"It all starts with the enforcement capacity," he said. "Are we tackling this systemic problem in a systemic manner and not doing a bit of a Whac-A-Mole as complaints happen to come across the doorstep of the Competition Bureau?"
+</P>
+<P>
+The European Union is planning to put in place more specific rules to address deceptive marketing.
+</P>
+<P>
+Under a proposed law, terms like "environmentally friendly," "natural," "biodegradable" and "climate neutral" would be prohibited — unless a company can offer proof.
+</P>
+<P>
+In a statement, Innovation Canada, which oversees the Competition Bureau, said the proposed rules regarding environmental claims build on the bureau's "existing expertise in enforcing the law, and will apply economy-wide."
+</P>
+<P>
+Still, experts warn that without stronger regulations, the faith consumers have in green commitments will be further eroded.
+</P>
+<P>
+Already, more than half of Canadian consumers do not believe most green claims brands make, according to a recent survey by Deloitte.
+</P>
+<P>
+The lack of clarity isn't just an issue for environmentalists. Businesses are also frustrated, says Wren Montgomery, who specializes in corporate sustainability at the Ivey Business School at Western University in London, Ont.
+</P>
+<P>
+She recalled speaking to a group of executives who told her: "'We want to do more and we want to talk about what we're doing, but we're really scared that we're going to be called out for greenwashing.'"
+</P>
+<P>
+"I think that really speaks to the sort of ambivalence and confusing nature of what's out there now," Montgomery said.
+</P>
+<P>
+— Benjamin Shingler
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

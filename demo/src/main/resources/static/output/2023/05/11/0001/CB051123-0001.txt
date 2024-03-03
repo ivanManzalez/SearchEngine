@@ -1,0 +1,129 @@
+<DOC>
+<DOCNO> CB051123-0001 </DOCNO>
+<DATE>
+<P>
+May 11, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Will a heat pump work in my region's climate? How low can it go? Your questions answered; 
+</P>
+<P>
+Also: Do I need a backup heating system? Do I need to upgrade my insulation before installation?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canadians, especially those who heat their home by burning fossil fuels, are being encouraged to switch to electric heat pumps to cut greenhouse gas emissions.
+</P>
+<P>
+But what parts of Canada and what temperatures are they suitable for? Do you need a backup heater? And do you need to insulate your home before installation? Here are some questions asked by CBC News readers.
+</P>
+<P>
+What is a heat pump?
+</P>
+<P>
+An electric heat pump is a form of electric heating far more efficient than traditional baseboard heaters or electric furnaces. While baseboard heaters and electric furnaces generate heat from electricity, a heat pump doesn't generate heat — it simply extracts it from one place (such as outside) and moves it into spaces that you want heated.
+</P>
+<P>
+This allows it to operate at up to triple the efficiency compared to other kinds of heating — that is, you can get up to three units of energy in the form of heat for every equivalent unit of electricity the heat pump consumes.
+</P>
+<P>
+Heat pumps also work in reverse, by moving heat out of a space rather than into it. You probably have at least one heat pump in your home for cooling — they're a key component in fridges, freezers and air conditioners.
+</P>
+<P>
+The heat pump in your freezer can move enough heat to make it –18 C inside your freezer compartment, while making the back of the appliance feel warm. Similarly, a heat pump can heat your home by extracting heat from air outside even when the temperature is well below zero — or work in reverse, as an air conditioner during a heat wave.
+</P>
+<P>
+OK, but how low a temperature can heat pumps operate at?
+</P>
+<P>
+That depends on the type of heat pump.
+</P>
+<P>
+Ground-source heat pumps, also known as geothermal or geoexchange, draw heat from the ground, which tends to be a more even, above-zero temperature year-round in most of Canada. That means they operate quite efficiently even when the air temperature drops to –30 C or below.
+</P>
+<P>
+Martin Luymes, vice-president of government and stakeholder relations at the Heating, Refrigeration and Air Conditioning Institute of Canada, said there's "lots and lots of data to show how these work consistently even in very cold climates."
+</P>
+<P>
+It's also why they're popular in Sweden. However, they have higher up-front costs because a long heating loop needs to be installed deep enough to reach those even ground temperatures.
+</P>
+<P>
+Air-source heat pumps extract heat from the air, and come in conventional and cold-climate models.
+</P>
+<P>
+Conventional models work efficiently in the spring, fall and during mild winter temperatures, but quickly lose heating capacity below freezing. Manitoba Hydro recommends not operating them below –10 C. 
+</P>
+<P>
+However, cold climate heat pumps can operate down to –30 C "and beyond," at least one manufacturer says. Martin Kegel, an engineer who leads heat-pump related projects at Natural Resources Canada's CanmetENERGY research centre in Varennes, Que., said that's due to technology improvements that allow the heat pump's compressor to vary its speed. That makes it efficient over a much wider range of temperatures. (The technology has since been incorporated into conventional heat pumps as well.) Below –30 C, heat pumps still generally have trouble maintaining their efficiency and consistent operation, he said, and will need to be supplemented with a backup heating source.
+</P>
+<P>
+Why have I heard that heat pumps don't heat very well? And why do some contractors discourage installing them?
+</P>
+<P>
+While heat pumps have been around for decades, cold-climate air-source heat pumps are relatively new — Kegel said the first commercial units hit the market around 2010. And previous generations of air-source heat pumps did not work well below the freezing point.
+</P>
+<P>
+Heather McDiarmid, a climate consultant who has done lots of research on the financial and climate impacts of switching to heat pumps, puts it this way: "A car built in the 1980s doesn't look or perform very much like a car built today. And the same is true of heat pumps."
+</P>
+<P>
+CBC News has received a number of messages from readers who have had personal experience with heat pumps installed some years ago that did not properly heat their homes — some struggled with extreme heat or cold or heated some rooms and not others, leading some people to supplement them with a wood stove, for example, to heat the rest of the house.
+</P>
+<P>
+Ruth Talbot, senior director of the Greener Homes division of Natural Resources Canada, said proper sizing, selection and installation of heat pump systems is critical, and some systems in the past may have been designed and sized only to heat certain rooms. She noted that in order to qualify for the federal Greener Homes Grant, heat pumps must be sized to heat an entire home.
+</P>
+<P>
+WATCH | Ottawa announces $250M grant to help homeowners switch to heat pumps:
+</P>
+<P>
+McDiarmid said some installers deliberately undersize a heat pump because they are planning for a "hybrid" system that's designed to partly rely on a secondary heating source: "The installers sometimes don't trust the new [heat pump] technology."
+</P>
+<P>
+She herself ran into that mistrust when trying to get a heat pump installed in her home in the Kitchener-Waterloo area of Southern Ontario. "We called three contractors and two of them tried to talk us out of the heat pump."
+</P>
+<P>
+As well, because the market penetration of heat pumps in Canada is still relatively low, many contractors have limited experience with them. Luymes acknowledged contractors are "predisposed to work with the technology that they're comfortable with."
+</P>
+<P>
+He said training and workforce development is the biggest challenge for the heating industry with regards to the electrification of heating, saying there's a "shortage of competent, qualified people in the sector to do the work that's needed to be done."
+</P>
+<P>
+What parts of Canada can heat pumps operate in? Do you need a backup heat source?
+</P>
+<P>
+Talbot says heat pumps have been installed and work across Canada, but the type and how one is used may depend on the region.
+</P>
+<P>
+Kegel said Natural Resources Canada is currently researching different strategies that would allow ground-source heat pumps to be installed in regions with permafrost. 
+</P>
+<P>
+Talbot confirmed that heat pumps do work even in northern regions, and have been tested successfully in Yukon. In extremely cold parts of Canada, she said, it's possible that they might be used during the "shoulder season" during or near spring and fall, and you'd need to rely on a backup heat source in the coldest parts of winter.
+</P>
+<P>
+In many parts of Canada, whether you need a backup may depend on your individual situation, such as what type of heat pump you have, how it was sized relative to your home, your home's insulation, your local climate and whether your insurance company requires a backup in order for you to get home insurance. Some do for heat pumps, but not for heating technologies that insurers consider "common" or "proven," such as gas furnaces, even though those can also fail.
+</P>
+<P>
+Rob de Ruis, director of consumer and industry relations at the Insurance Bureau of Canada, told CBC News in an email that whether this is required is up to the individual insurer, and varies between providers and region, but is a common requirement in colder parts of Canada.
+</P>
+<P>
+Do you need to upgrade your home's insulation before installing a heat pump?
+</P>
+<P>
+Luymes said heat pumps perform best in homes that are well insulated. But McDiarmid said it may not be worthwhile to wait until you can upgrade your insulation before installing a heat pump.
+</P>
+<P>
+Most homes built after 1980 — about half the homes in Canada — already have sufficient insulation, she said, although it doesn't hurt to add a little more in the attic, or upgrade during renovations.
+</P>
+<P>
+While older homes can benefit from the addition of insulation, McDiarmid said it's unlikely homeowners will add enough to justify a smaller heat pump system.
+</P>
+<P>
+"Delaying installing the heating system because you're planning to do upgrades, in most cases… won't make sense," she said. "When the furnace is getting old, that's when you should be replacing it."
+</P>
+<P>
+Have more questions about heat pumps? Send an email to ask@cbc.ca. 
+</P>
+</TEXT>
+</DOC>

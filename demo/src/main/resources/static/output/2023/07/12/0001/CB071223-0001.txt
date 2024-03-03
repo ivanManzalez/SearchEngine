@@ -1,0 +1,129 @@
+<DOC>
+<DOCNO> CB071223-0001 </DOCNO>
+<DATE>
+<P>
+July 12, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Bank of Canada raises its key interest rate to 5%; 
+</P>
+<P>
+10th rate hike by central bank since March 2022
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Bank of Canada raised its benchmark interest rate by 25 basis points on Wednesday, marking the first time since April 2001 that the figure hit five per cent.
+</P>
+<P>
+The move was expected by economists after Statistics Canada released its June labour force survey last week showing that Canada added 60,000 jobs last month — further contributing to an overheated economy.
+</P>
+<P>
+Some of the country's biggest lenders, including the Royal Bank of Canada, CIBC, Bank of Montreal and TD Bank, have already announced that they will match their increase effective Thursday to align with that of the central bank's.
+</P>
+<P>
+Following the announcement, experts diverged on whether Canadians could expect another increase after the summer. Trading in investments known as swaps — which bet on future central bank moves — imply there is a better than 75 per cent chance of another small hike at the bank's next meeting on Sept. 6.
+</P>
+<P>
+The effects of interest rate hikes can sometimes take a year or a year-and-a-half to play out in the economy.
+</P>
+<P>
+"There's an element of patience, and I think that's why as well you see [the bank] being as noncommittal as they were today, with respect to whether they will be performing more hikes," Desjardins chief economist Jimmy Jean told CBC News in an interview.
+</P>
+<P>
+"They're trying their best to communicate something to Canadians that can provide them with some sense of clarity. But the problem is that they don't have that clarity themselves."
+</P>
+<P>
+Could be mid-2025 before bank hits inflation target
+</P>
+<P>
+Wednesday's rate hike marks the 10th by the central bank since March 2022. It hit pause on those hikes in January for a few months to determine whether the economy had sufficiently cooled, then resumed its campaign in June.
+</P>
+<P>
+"Global inflation is easing, with lower energy prices and a decline in goods price inflation. However, robust demand and tight labour markets are causing persistent inflationary pressures in services," the bank wrote in a release.
+</P>
+<P>
+During a mid-morning news conference on Wednesday, Bank of Canada governor Tiff Macklem said the bank expects inflation to ease but that it could take until the middle of 2025 to hit its two per cent target.
+</P>
+<P>
+That's six months later than was forecast in April.
+</P>
+<P>
+"We've been clear about the indicators we are watching, and it's clearly too early to be talking about interest rate cuts," Macklem said, adding it's also too soon to tell how much impact the rate increases are having.
+</P>
+<P>
+"We are certainly trying to balance the risks of over- and under-tightening, and we'll be taking it one meeting at a time."
+</P>
+<P>
+The bank's Monetary Policy Report noted that the bank would raise its rates because of persistent "excess demand."
+</P>
+<P>
+Canada's population surpassed 40 million people last month and is growing at its highest annual rate since 1957. Population growth is a key factor contributing to job growth, consumer spending on goods and services, and housing demand. 
+</P>
+<P>
+The inflation rate slowed to 3.4 per cent in the year up to May, down from 8.1 per cent last summer, as the central bank's efforts to rein in the number paid off. But rising food prices were still outpacing inflation — an ongoing trend since late 2021.
+</P>
+<P>
+'I've thought about selling'
+</P>
+<P>
+With Wednesday's rate hike, a typical mortgage holder can expect to pay more on their variable rate loan, starting on Thursday.
+</P>
+<P>
+A homeowner with a $500,000, 25-year variable rate loan at a rate of 5.8 per cent on Tuesday would have been paying $2,512 a month. After Wednesday's hike, their rate is likely to jump to 6.05 per cent, which will bump their monthly payment up to $2,571 a month. That's an increase of more than $700 a year.
+</P>
+<P>
+Exact numbers will depend on the specifics of the loan, but on average, mortgage analytics site RateHub.ca says mortgage holders can expect to pay $100 more per month on their mortgage after Wednesday's hike.
+</P>
+<P>
+Leena Chandi, a single mother of three who purchased her Surrey, B.C., townhouse seven years ago, said she would lay down and cry if another hike were announced, as it was on Wednesday.
+</P>
+<P>
+Having started on a fixed mortgage, she switched to a new bank and took on a variable rate about a year-and-a-half ago — before the Bank of Canada began its quest to tame an overheated economy with a series of interest rate hikes.
+</P>
+<P>
+"All of a sudden, boom. The first increase happened and I was like, 'OK, well, whatever, you know, that's fine, I can handle it," Chandi told CBC News.
+</P>
+<P>
+"And then the second increase happened and then the third increase happened, and then the fourth and then the fifth, and now my mortgage payment is doubled."
+</P>
+<P>
+Chandi said her biweekly payments increased from $800 to $1,300 during that period.
+</P>
+<P>
+"I've thought about selling. I really have because ... my townhouse is now probably worth three times, almost 2½ times what I paid for it. But where am I gonna go?"
+</P>
+<P>
+Mortgage rates driving inflation
+</P>
+<P>
+Clément Bonnal, a Quebec City resident who bought his house in 2021, said his mortgage payments have increased by almost $700 per month. 
+</P>
+<P>
+He said that a rate hike by the Bank of Canada is "nonsense" to him, as rising mortgage costs are now driving inflation, having climbed by 30 per cent in Statistics Canada data from June.
+</P>
+<P>
+Bonnal questioned why the bank would continue to raise interest rates when inflation is close to its target range — and given that the impact of rate hikes can sometimes take more than a year to appear in the economy.
+</P>
+<P>
+"If they continue to increase the rates, it's like a fireman that puts the fire in the forest," Bonnal told CBC News.
+</P>
+<P>
+Carolyn Rogers, senior deputy governor of the Bank of Canada, said during the Wednesday news conference that while housing is sensitive to interest rates, housing demand is still outweighing supply and driving up prices.
+</P>
+<P>
+"We target inflation," she said. "We don't target house prices, and we don't target any one sector or one item within the [consumer price index] basket."
+</P>
+<P>
+For Chandi, the mother of three in B.C., it's cold comfort as she considers the price of groceries and clothes, on top of paying her university-aged daughter's rent and contributing to her children's RESPs.
+</P>
+<P>
+"Do they actually realize how much of an effect this is having on the average person?" she said.
+</P>
+<P>
+"It just seems like we have no say. We're just at the mercy of the Bank of Canada right now."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> CB121319-0001 </DOCNO>
+<DATE>
+<P>
+December 13, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+World's first all-electric commercial seaplane set for takeoff in Richmond; 
+</P>
+<P>
+Vancouver's Harbour Air announces 1st ever test flight of its newly retrofitted e-plane
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Vancouver-based Harbour Air is getting set for its own version of Kittyhawk on Dec. 11 when founder and CEO Greg McDougall takes to the skies over Richmond for the inaugural test flight of the world's first fully electric commercial aircraft.
+</P>
+<P>
+"The whole process has been exciting and fun because it's something that hasn't been done before," said McDougall. "But at the end of the day there's a financial and economic and environmental goal here, and those are the things that are really important to me."
+</P>
+<P>
+McDougall will be flying solo in a DHC-2 de Havilland Beaver float plane that has been retrofitted with a 750 horsepower electric motor.
+</P>
+<P>
+The plan is to take off from the middle arm of the Fraser River, head west toward Terra Nova Point in Richmond before circling back and landing where he started. 
+</P>
+<P>
+The entire flight will take only 10 minutes, but the repercussions could last long into the future.
+</P>
+<P>
+"We already know the electric propulsion system works," said McDougall. "What that aircraft will be pioneering is the regulatory framework to actually be able to carry passengers on electrified flight. Nobody's done that before."
+</P>
+<P>
+If all goes well, McDougall figures it will take about two years to have his e-plane certified for commercial use. 
+</P>
+<P>
+A quick scan of the internet shows that airlines around the world are working on electric propulsion innovations to reduce green house gas emissions and save on fuel costs.
+</P>
+<P>
+McDougall says the possibility of e-planes has intrigued him for years, but it wasn't until he connected with Washington state propulsion company MagniX that the dream started to become real.
+</P>
+<P>
+He says besides financing, the biggest hurdle to getting the e-plane off the ground was figuring out the best batteries for flying. His team settled on a NASA-approved lithium ion system that was used on the space station.
+</P>
+<P>
+"Those actually have less capacity than what is available currently on the market in terms of watt hours per kilogram, so it actually reduces our flight times. But we wanted to go with something that had a NASA standard to it," said McDougall.
+</P>
+<P>
+Like fossil fuel burning aircraft, e-planes are required to have a reserve of power above and beyond what is needed to get to a destination.
+</P>
+<P>
+The weight of the batteries currently means an e-plane can only fly so far. But just like the evolution in electric cars, advances in technology are rapidly solving the problem. 
+</P>
+<P>
+"The [battery] technology today will do for a certain length of flight, but that will be changing as we work through the timeframe of the regulatory process, and the forecast is that we will easily be able to achieve our destinations with a paying load," said McDougall.
+</P>
+<P>
+Harbour Air flies between the Lower Mainland, Seattle, Vancouver Island, the Gulf Islands and Whistler.
+</P>
+</TEXT>
+</DOC>

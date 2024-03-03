@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB110123-0004 </DOCNO>
+<DATE>
+<P>
+November 01, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Province unveils app aimed at helping Nova Scotians access health services and info; 
+</P>
+<P>
+YourHealthNS app developed for $10 million
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A new mobile phone application in Nova Scotia is aimed at giving people easier access to health services and information, Premier Tim Houston announced Wednesday.
+</P>
+<P>
+Developed at a cost of $10 million, YourHealthNS is touted as a "one-stop shop" to book services, get information and find available health care faster.
+</P>
+<P>
+Houston said providing information for patients is vital as the province attempts to bolster a health system that is constantly evolving with new ways to provide care.
+</P>
+<P>
+"We understand that we need to be innovative and we need to embrace technology to make sure people can access the care that they need," the premier told reporters. "It's all about making sure people understand their options."
+</P>
+<P>
+The app, which is now available, comes with a home screen that can be personalized. Users will be able to book blood tests and X-rays — as long as they have a referral from a doctor — as well as flu shots and COVID-19 vaccine appointments.
+</P>
+<P>
+Patients can also use the app to learn expected emergency room wait times, to access vaccination records, and to receive same-day virtual care.
+</P>
+<P>
+Two virtual health sessions covered each year
+</P>
+<P>
+With the app, all Nova Scotians will be able to get two virtual health sessions a year covered by the province, regardless of whether they have a family doctor, Houston said.
+</P>
+<P>
+"If they [people] are having trouble getting into their primary care provider they can go to virtual care up to twice a year," he said.
+</P>
+<P>
+The number of virtual sessions for people on the province's need-a-family-practice registry is not capped.
+</P>
+<P>
+Officials said the additional virtual coverage through private provider Maple would cost the province $18 million.
+</P>
+<P>
+Tara Sampali, senior director of global health systems planning for Nova Scotia Health, said the free offer shouldn't strain the capacity of virtual care. She said it has not always been clear to patients about what pharmacies and walk-in clinics are available for consults, and the app will help direct people to the specific services they need.
+</P>
+<P>
+"It is giving pathways, so it's not always about virtual care," Sampali said.
+</P>
+<P>
+"So overall we feel it's all these services coming together [in the app] that provide the capacity," said Sampali.
+</P>
+<P>
+'The way people want to navigate'
+</P>
+<P>
+Scott McKenna, chief information officer at Nova Scotia Health and IWK Health, said the app is tied to civic addresses and can help people find the closest health-care provider. For example, if someone is travelling and needs a pharmacy, they can enter their location in the app and immediately learn where the closest one is.
+</P>
+<P>
+McKenna said the app also has a favourites button that gives people quicker access to information they use most frequently. As well, there is a feedback button that will collect users' ideas for features and services that can be added, he said.
+</P>
+<P>
+Officials said the app's functionality is the result of extensive research aimed at making it user-friendly.
+</P>
+<P>
+"The way the app appears, the buttons, the colours and the font size, that's all been informed, including the way people want to navigate," Sampali said.
+</P>
+<P>
+MORE TOP STORIES
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,135 @@
+<DOC>
+<DOCNO> CB111523-0002 </DOCNO>
+<DATE>
+<P>
+November 15, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Heat pump popularity is increasing, but how well do they work on the Prairies?; 
+</P>
+<P>
+Experts say pumps can work through frigid conditions, but may not cut greenhouse gas emissions
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Catherine Gibson hopes she and her husband can age in place in their south Regina home.
+</P>
+<P>
+That's one of the main reasons she installed an air-source heat pump this past summer.
+</P>
+<P>
+"I had been hearing … about heat pumps and how they were the thing of the future," said Gibson. "We had an old furnace and we had an even older air conditioner, so it seemed like a no-brainer."
+</P>
+<P>
+Gibson uses the electric-powered heat pump — along with a natural gas furnace she purchased in 2022 — to heat her home in the colder months. It also cools her home, like an air conditioner, in the summer.
+</P>
+<P>
+A heat pump cools a home by absorbing the heat inside and releasing it outside, but reverses that process in winter — extracting heat from air outside, even when the temperature is well below zero, and transferring it inside.
+</P>
+<P>
+Gibson says she noticed a drop in her power and gas bills with the new gas furnace, and she's hopeful they'll continue to drop now that her pump is carrying part of her heating load.
+</P>
+<P>
+Simon Landsman, a salesman with Regina Plumbing and Heating, has also noticed the growing popularity in the pumps. He estimates he's sold about two dozen so far this year.
+</P>
+<P>
+WATCH | Heat pump popularity in Saskatchewan:
+</P>
+<P>
+"A lot of people want to go greener [and get] a little bit better savings on your energy bills," he said. "It's just clean energy."
+</P>
+<P>
+Landsman thinks their popularity will only increase, especially since the outside units are smaller than an air conditioner.
+</P>
+<P>
+Pumps can work in Prairie winters, say experts
+</P>
+<P>
+In a statement to CBC, the Saskatchewan government says it won't offer rebates through SaskPower and SaskEnergy for heat pumps because "they simply do not work as a primary heat source in the climate across the Prairie provinces."
+</P>
+<P>
+The government of Canada — which offers up to $5,000 in rebates for pump installation and now up to $15,000 for those switching from heating oil — notes on its website on heat pumps that newer models can provide heating in temperatures as low as –15 C to –25 C. 
+</P>
+<P>
+"Below this temperature, a supplemental system must be used to provide heating to the building," it says.
+</P>
+<P>
+WATCH | Here's how a heat pump works:
+</P>
+<P>
+But Sarah Riddell, a policy researcher in clean heat at Efficiency Canada, says laboratory and real-world studies have found newer cold climate heat pump models can heat to around –30 C because of improvements in technology. Even if the temperature drops further, their backup resistance heating will kick in.
+</P>
+<P>
+"You'd still have a completely warm home that can heat to really any temperature that you'd ever see in Canada," said Riddell.
+</P>
+<P>
+There won't be an immediate strain on electrical grids from heat pumps, she said, because around 40 per cent of homes in Canada already use electrical heating through baseboards and boilers and heat pumps won't be installed all at once.
+</P>
+<P>
+Martin Luymes, a vice-president with the Heating, Refrigeration and Air Conditioning Institute, agrees heat pumps are an effective replacement for any other source of heating.
+</P>
+<P>
+"To suggest that we cannot heat a home without natural gas or oil is false," said Luymes. "Really, every household in the country should be at least contemplating purchasing a heat pump."
+</P>
+<P>
+Greenhouse emissions would increase in some cases: study
+</P>
+<P>
+But in Alberta and Saskatchewan, Luymes said heat pumps may be a "less attractive" option partly because electricity in both provinces is generated from fossil fuels.
+</P>
+<P>
+A 2022 Natural Resources Canada study — using data from 2020 — found greenhouse gas emissions would actually increase if a two-storey home built after 1980 in cities like Regina, Calgary and Edmonton switched from natural gas heating to a cold climate air-source heat pump.
+</P>
+<P>
+Despite this, Riddell points to a 2022 report from the International Energy Agency that shows heat pumps still reduce emissions by at least 20 per cent worldwide compared to gas and up to 80 per cent in countries with cleaner electricity.
+</P>
+<P>
+The Natural Resources report noted reductions in greenhouse gases are possible if Prairie homes switched to heat pumps from other electric heat sources (a reduction of up to 11.2 tonnes per household a year) and oil (2.7 to 12.2 tonnes a year).
+</P>
+<P>
+The report also notes yearly savings of over $3,000 on energy bills when switching to a heat pump from oil in Saskatchewan and Manitoba.
+</P>
+<P>
+Cost was front of mind for Jake Dingman, who lives on an acreage near Saltcoats, Sask.
+</P>
+<P>
+He made the switch this fall from oil heating to a heat pump.
+</P>
+<P>
+He was paying nearly $4,000 a year to heat with oil. 
+</P>
+<P>
+WATCH | Do heat pumps work in the Prairie climate?
+</P>
+<P>
+"I looked at natural gas but it's about four miles to get it trenched in here, which was going to be $100,000 plus," said Dingman. "I just decided to go with the [heat pump] because I figured at least the price would be flat once I have it in."
+</P>
+<P>
+After paying $45,000 to have his pump installed — with help from a federal government loan — he believes it will cost him $100 to $200 per month on his electricity bill.
+</P>
+<P>
+Savings with a heat pump compared to a natural gas furnace are not high on the Prairies, since a unit of energy for gas is cheaper compared to electricity, according to the Natural Resources report.
+</P>
+<P>
+"West of Quebec, the estimated costs of operating heat pumps and gas furnaces are approximately equal," the report says.
+</P>
+<P>
+A cold-climate heat pump would save homeowners in most regions $50 to 150 per year compared to gas heating, it says.
+</P>
+<P>
+A Canadian Climate Institute report released earlier this year found a heat pump with a gas backup was about $100 cheaper per year than gas heating alone for single homes and townhouses in Edmonton built around 1980.
+</P>
+<P>
+Gas was still the cheapest heating option for a 20-unit building built around the same time.
+</P>
+<P>
+The same report found upfront costs for air-source heat pumps across the country range from $5,000 to $19,000, while an air conditioning unit is around $5,000.
+</P>
+<P>
+The cost for a natural gas furnace is between $4,000 and $6,500, according to a survey of customers on FurnacePrices.ca.
+</P>
+</TEXT>
+</DOC>

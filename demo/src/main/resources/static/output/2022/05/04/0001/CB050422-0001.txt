@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> CB050422-0001 </DOCNO>
+<DATE>
+<P>
+May 04, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's electricity grid will need substantial changes to help achieve net zero: report; 
+</P>
+<P>
+Failure to improve could lead to missed climate goals or brownouts, co-author says
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada will need to make aggressive changes to its electricity systems to meet increased demand, driven partly by the uptake of electric vehicles, according to a new report.  
+</P>
+<P>
+The report, released Wednesday by the Canadian Climate Institute, says significant changes are required to every aspect of the provincial and territorial power generation and distribution systems to meet the future demand. Otherwise, there could be consequences ranging from not meeting our climate goals to brownouts.
+</P>
+<P>
+"There could be challenges for reliability," said Caroline Lee, one of the report's authors and a senior researcher at the institute, which researches climate policy. "That means outages and certain technical issues in our grids." 
+</P>
+<P>
+The Liberal government has committed to aligning Canada's electricity system with the country's climate goals.
+</P>
+<P>
+But as other reports have warned, in the future, more power generation capacity will be needed to both displace existing fossil fuel generation and meet growing demand while meeting net-zero targets. The federal government has set a deadline of 2035 for achieving net-zero electricity generation. All new car sales will have to be zero-emission by that same time. 
+</P>
+<P>
+The institute's report — called The Big Switch, Powering Canada's Net Zero Future — relies on multiple studies that show the electricity system will need to double or triple its capacity by 2050. As much as 75 per cent of that additional power will need to come from wind and solar if Canada is to meet its climate goals.
+</P>
+<P>
+But it's not just the amount of electricity that needs to be increased; Wednesday's report found that Canada's electricity systems will also need more battery storage and be nimble enough to adjust to peaks in demand as both vehicles and many home heating systems switch to electric.
+</P>
+<P>
+"If we see more people … using electric vehicles, if we see more people switching toward electric heat pumps — and yet the systems are not well equipped to be able to manage that increased demand, as well as the timing of that demand — then there could be some real issues," Lee said.
+</P>
+<P>
+Some early adopters know some of these problems firsthand. Kim Nelson, a film professor in Windsor, Ont., and her family can't upgrade to a faster charger for their Chevy Bolt because their street wouldn't be able to accommodate the extra load if their and other households also upgraded. 
+</P>
+<P>
+WATCH | One driver's challenges with charging her electric vehicle foreshadows future problems:
+</P>
+<P>
+So she uses a slower Level 1 charger. If the car battery is ever drained, it takes about three days to return it to a full charge. Nelson, who loves her electric car, has found workarounds. But she recognizes that poor charging infrastructure could impede others who want to ditch their gas guzzlers. 
+</P>
+<P>
+She says various levels of government have a role to play in updating the country's power infrastructure and making sure neighbourhoods can support quickly charging vehicles like hers in almost every driveway. 
+</P>
+<P>
+"We really are going to rely on the government and making legislative choices to prioritize moving to electric and moving to green energy, which is vital," Nelson said. "We're kind of stuck until those upgrades are made.
+</P>
+<P>
+"So hopefully, the government will take the initiative on it."  
+</P>
+<P>
+Electricity generation is traditionally a provincial jurisdiction, but the report states the federal government should adopt a "broad policy framework" within which provinces and territories would operate.
+</P>
+<P>
+It recommends Ottawa strengthen the price on carbon for the sector and ban the construction of gas-fired power plants. 
+</P>
+<P>
+The institute, through its report, also calls for all levels of government to not burden ratepayers with the costs of helping the sector meet net-zero, saying that governments should defray those costs.  
+</P>
+<P>
+Moreover, the report states Ottawa should use money and its ability to get premiers in one room to encourage collaboration across the sector. 
+</P>
+<P>
+"With provinces acting alone, there is the risk of the kind of slow action and uncoordinated action," Lee said. "So we see a strong federal role kind of working in a co-ordinated manner with provinces to make sure that everybody is moving in that same direction toward net-zero." 
+</P>
+<P>
+Natural Resources Minister Jonathan Wilkinson says the federal government is working to bring provincial and territorial leaders together. Wilkinson also points to the 2022 federal budget that proposed investing $677 million over five years in clean electricity generation. Some of that money is going, Wilkinson said, to helping regions share their abundance of renewable energy with places where "there is a dearth." 
+</P>
+<P>
+Wilkinson says the Atlantic Loop — a project that would bring power from Newfoundland and Quebec to New Brunswick and Nova Scotia — is a priority for him. 
+</P>
+<P>
+"There is a big role for the federal government to play — respecting provincial jurisdiction, but looking to actually help us to build the electricity system we're going to need for the future," Wilkinson said.
+</P>
+</TEXT>
+</DOC>

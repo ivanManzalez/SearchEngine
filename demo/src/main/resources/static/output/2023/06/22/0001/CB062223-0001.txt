@@ -1,0 +1,240 @@
+<DOC>
+<DOCNO> CB062223-0001 </DOCNO>
+<DATE>
+<P>
+June 22, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Waterfront homes tap into lakes for cheaper geothermal heating; 
+</P>
+<P>
+Also: What's going on with the orcas?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This weekly newsletter is part of a CBC News initiative entitled "Our Changing Planet" to show and explain the effects of climate change. Keep up with the latest news on our Climate and Environment page.
+</P>
+<P>
+Sign up here to get this newsletter in your inbox every Thursday.
+</P>
+<P>
+This week:
+</P>
+<P>
+Waterfront homes tap into lakes for cheaper geothermal heating
+</P>
+<P>
+Heating and cooling your home with a ground-source heat pump is climate-friendly and very efficient. But it can require expensive digging or drilling. Waterfront home or cottage owners have a cheaper shortcut: pond or lake geothermal (or geoexchange) heating and cooling.
+</P>
+<P>
+Earlier this year, when I answered questions from CBC readers about heat pumps, I received a note from John Wypich of Port Severn, Ont., who has heated his home with a lake geothermal system for 29 years.
+</P>
+<P>
+"There are many cottages along lake shores that can make use of these simple sources of heat," Wypich said. "In my opinion, your article has missed an opportunity to inform people of this option."
+</P>
+<P>
+Perhaps, but I can always write another article. So I called him up. 
+</P>
+<P>
+Wypich lives in a waterfront home on a peninsula that juts into a lake called Gloucester Pool — one of hundreds of lakes splashed across Ontario's Muskoka region. When he first moved in 50 years ago, his home was heated with oil. But when the oil tanks leaked, he started looking for alternatives. 
+</P>
+<P>
+The area didn't have natural gas access; some of his neighbours heated their homes with propane.
+</P>
+<P>
+"But I wanted to have an environmentally friendly device," Wypich recalled. 
+</P>
+<P>
+His research turned up geothermal (or geoexchange) heating, which uses an electrically powered heat pump to move heat into a home in the winter and out in the summer. 
+</P>
+<P>
+Normally, heat is exchanged with the ground far below the surface, which has a relatively constant temperature throughout the year — even when air temperatures are very cold. That's why it's very efficient, and popular in places like Sweden. 
+</P>
+<P>
+However, digging or drilling to lay the underground heating loop (a closed loop of pipe or tubing containing the liquid that transfers the heat) can be expensive or impractical for many homeowners.
+</P>
+<P>
+But waterfront properties have another option: the loop can simply be sunk to the bottom of a nearby lake or pond — no digging required — as long as it's deep enough so it won't freeze in winter.
+</P>
+<P>
+So Wypich hired a local contractor to do just that.
+</P>
+<P>
+"It was straightforward," he said. The system also has an electric backup heater.
+</P>
+<P>
+Jeff Hunter, founder of Evolved Thermal Energy and president of the Ontario Geothermal Association, said the water typically needs to be at least three metres deep. In Wypich's case, the heating loop is about six metres down.
+</P>
+<P>
+Hunter estimated that where the pond or lake option is available, it can be as little as a quarter of the cost of a vertical ground loop (which requires deep drilling) and 60 to 80 per cent of the cost of a horizontal ground loop (which requires a lot of land).
+</P>
+<P>
+In some cases, there may be a permit required — typically, similar to one required to modify the shoreline for a dock, Hunter said. But "overall, it's generally accepted." 
+</P>
+<P>
+He noted that the heating loop is closed, and no water is taken from the lake. Wypich doesn't recall requiring a permit.
+</P>
+<P>
+He did experience a glitch about 15 years ago when the system started leaking. He suspects someone may have dropped an anchor that punctured the heating loop, and it had to be replaced.
+</P>
+<P>
+But generally, over 30 years, he said, "we've had good service from it." 
+</P>
+<P>
+Hunter said more people should look into the option of lake or pond geothermal. 
+</P>
+<P>
+"I would say absolutely investigate that first if you have ready access to a water source."
+</P>
+<P>
+— Emily Chung
+</P>
+<P>
+Old issues of What on Earth? are here. The CBC News climate page is here. 
+</P>
+<P>
+Check out our radio show and podcast. This week: an intimate look at how climate action and anxiety can become intertwined. Twenty-five-year-old activist Emily Kelsall tells What on Earth host Laura Lynch how the threat of climate change scared her, causing her to take actions that led to jail and nearly destroyed her mental health. What On Earth airs on Sundays at 11 a.m. ET, 11:30 a.m. in Newfoundland and Labrador. Subscribe on your favourite podcast app or hear it on demand at CBC Listen.
+</P>
+<P>
+Watch the CBC video series Planet Wonder featuring our colleague Johanna Wagstaffe here.
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+Will Morris:
+</P>
+<P>
+"I read your article on rain gardens with interest. However, there needs to be more emphasis on how to speed the return of the collected water to the water table. Mosquitoes are endemic to southern Ontario. They lay eggs in standing water and are a natural vector for viruses, such as West Nile, that are pathogenic to humans. An effective alternative may be to use rain barrels to collect water from eavestroughs to use for watering vegetable and flower gardens, especially during dry periods."
+</P>
+<P>
+Editor's response: According to groups that tout rain gardens as a flood prevention solution, such as the Toronto and Region Conservation Authority, a properly constructed rain garden should drain within 48 hours — not long enough for mosquitoes to breed. That said, rain barrels are also a solution recommended by the TRCA, and it has a step-by-step guide for how to install one.
+</P>
+<P>
+Write us at whatonearth@cbc.ca. Have a compelling personal story about climate change you want to share with CBC News? Pitch a First Person column here.
+</P>
+<P>
+The Big Picture: Those enigmatic orcas
+</P>
+<P>
+In recent months, many news consumers have been gripped by a maritime enigma — namely, what's going on with the orcas?
+</P>
+<P>
+In early May, we started hearing reports of orcas — also known as killer whales — ramming yachts off the coast of Portugal and Spain. For example, on May 5, three orcas allegedly attacked a Swiss sailing yacht called Champagne, damaging and ultimately sinking it. 
+</P>
+<P>
+There have been at least 60 incidents of orca interactions off the southwestern coast of Europe this year alone. The Atlantic Orca Working Group (GTOA), based on the Iberian peninsula, has been monitoring the situation and reports that since an initial incident in the Strait of Gibraltar in May 2020, there have been more than 500 cases.
+</P>
+<P>
+Marine biologists have been press-ganged into trying to explain what's happening. The explanations include: it's a collective response to past trauma involving boats; a few juvenile orcas are trying to establish their superiority to other whales; they're just doing it for kicks. 
+</P>
+<P>
+There's no consensus, but one popular narrative is that the orcas are exacting revenge on humans — particularly for rampant capitalism. Scientists have dismissed the idea of interspecies contempt, but that hasn't slowed the proliferation of memes, as well as speculation that the whales have something to do with the submersible that went missing off the coast of Newfoundland.
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+Almost every gas station that's ever existed has left behind a toxic mess that's a major source of groundwater contamination. Grist takes a closer look at how big the problem is and what it will take to clean it up.  
+</P>
+<P>
+Stockholm is building the largest "wooden city" in the world — a cluster of 30 mass timber buildings spanning 25 blocks. 
+</P>
+<P>
+Many of Canada's greenest apartments are ultra-affordable. Here's why
+</P>
+<P>
+Think you can't afford an eco-home? Some of Canada's greenest apartments go for as little as $85 per month — thanks to social housing providers who have embraced energy efficiency standards and green building techniques.
+</P>
+<P>
+These builders say it's a way to use public money to solve multiple problems at once — including mitigating and adapting to climate change and tackling growing housing unaffordability and homelessness.
+</P>
+<P>
+What kind of green affordable housing is being built?
+</P>
+<P>
+From Whistler, B.C., to Halifax, there's been a building boom in social housing that aims to meet the passive house standard.
+</P>
+<P>
+It's a global standard for airtight, energy-efficient buildings that require very little space heating and cooling and maintain a comfortable temperature year-round. The standard also emphasizes features like natural light and ventilation with fresh air. 
+</P>
+<P>
+Mass timber is a form of green construction some are using — engineered wood panels and beams replace some components typically made of carbon-intensive steel and concrete in construction. The wood also stores carbon captured during the growth of the trees it came from. Because the panels and beams are pre-fabricated in a factory, construction is quick. 
+</P>
+<P>
+Abla Tsolu, director of homelessness and housing at YWCA Kitchener-Waterloo, said that's one reason her non-profit chose a mass timber design for a new complex in Kitchener for homeless single women and families headed by single mothers.
+</P>
+<P>
+How affordable is it?
+</P>
+<P>
+Municipally owned CityHousing Hamilton has nearly completed its latest project, the King William modular passive house. 
+</P>
+<P>
+Sean Botham, manager of development for CityHousing Hamilton, said most of the 24 units are part of the group's "deep affordability" program and will go for $85 a month.
+</P>
+<P>
+"A selection of the folks who will move into this building will be homeless, others will be precariously housed, and some of them will have been folks waiting for housing for a long time," he said. 
+</P>
+<P>
+Graham Cubitt is director of projects and development for Indwell, a Hamilton-based Christian charity that builds supportive housing and has embraced the passive house standard. He said Indwell's rents are typically about $525 per month, reflecting the amount of money available to most tenants for shelter as part of provincial support for people with disabilities.
+</P>
+<P>
+Botham said making rents affordable is only possible when governments offer grants and subsidies starting right from construction. But he said designing and constructing a green building doesn't cost much more than a conventional one.
+</P>
+<P>
+"It's not actually difficult to do. But the benefits are tremendous."
+</P>
+<P>
+Why is it so popular with social housing providers?
+</P>
+<P>
+Cubitt said social housing providers are responsible for their buildings for decades, so they have to think long term. And governments are putting in measures to deal with climate change.
+</P>
+<P>
+"We wouldn't have the money to retrofit buildings," he added. 
+</P>
+<P>
+Many nonprofit housing providers say they also aim to solve multiple problems at once.
+</P>
+<P>
+"Every public investment should achieve more than one end," Cubitt said. "So how do we make sure that we're achieving climate goals or achieving, you know, equitable goals at the same time as building housing?"
+</P>
+<P>
+What does living in a green building mean for tenants?
+</P>
+<P>
+Daniel Bentum lives in a one-bedroom apartment in Indwell's James North Landing in Hamilton, Ont., which recently got passive house certification. The 45 units of supportive housing are built on top of a church. Both the housing provider and church offer support, such as meals and activities.
+</P>
+<P>
+The energy-efficient windows give Bentum a view of the Burlington Skyway Bridge and Hamilton Harbour, and fill his apartment with light. When they're closed, they completely block out noise outside. 
+</P>
+<P>
+"It's really nice for getting a good night's rest," Bentum said.
+</P>
+<P>
+Heat pumps allow tenants to adjust the temperature in their own unit. But Bentum rarely needs to turn the heat pump on. His energy bills are so low that he typically gets money back at the end of the year.
+</P>
+<P>
+Cubitt said many tenants couldn't afford to pay for heat or air conditioning in their previous homes and suffered as a result. Now, he said, "They're saving everything. They're saving money, they're saving the planet."
+</P>
+<P>
+— Emily Chung and Alice Hopton
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

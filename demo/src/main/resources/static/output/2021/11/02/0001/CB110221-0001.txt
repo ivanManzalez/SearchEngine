@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> CB110221-0001 </DOCNO>
+<DATE>
+<P>
+November 02, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Biden launching wide-ranging plan to reduce global methane emissions; 
+</P>
+<P>
+U.S. president pledges to work with EU, other countries on methane reduction
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled Our Changing Planet to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+The U.S. on Tuesday launched a wide-ranging plan to reduce global methane emissions, targeting a potent greenhouse gas that contributes significantly to global warming and packs a stronger short-term punch than even carbon dioxide.
+</P>
+<P>
+The plan was announced as President Joe Biden wraps up a two-day appearance at the COP26 climate summit in Glasgow, Scotland. Biden pledged during the summit to work with the European Union and other nations to reduce overall methane emissions worldwide by 30 per cent by 2030.
+</P>
+<P>
+The centrepiece of U.S. actions is a long-awaited rule by the Environmental Protection Agency to tighten methane regulations for the oil and gas sector, as laid out in one of Biden's first executive orders.
+</P>
+<P>
+The proposed rule would for the first time target reductions from existing oil and gas wells nationwide, rather than focus only on new wells, as previous regulations have done.
+</P>
+<P>
+In a statement released Sunday, federal officials said that Canada had in October announced its support "for the Global Methane Pledge, which aims to reduce global methane emissions by at least 30 per cent below 2020 levels by 2030."
+</P>
+<P>
+COP26: What is Canada doing? 
+</P>
+<P>
+EPA administrator Michael Regan said the new rule, established under the Clean Air Act, would lead to significant reductions in methane emissions and other pollutants and would be stricter than an Obama-era standard set in 2016. Congress reinstated the Obama standard last summer in a rare effort by majority Democrats to use the legislative branch to overturn a regulatory rollback under president Donald Trump.
+</P>
+<P>
+"As global leaders convene at this pivotal moment in Glasgow for COP26, it is now abundantly clear that America is back and leading by example in confronting the climate crisis with bold ambition," Regan said, referring to the climate summit.
+</P>
+<P>
+EPA's "historic action" will "ensure robust and lasting cuts in pollution across the country," Regan said. The new rule will protect communities near oil and natural gas sites and advance U.S. climate goals under the 2015 Paris Agreement, he said.
+</P>
+<P>
+The oil and natural gas industry is the nation's largest industrial source of methane, a highly potent pollutant that is responsible for about one-third of current warming from human activities. The oil and gas sector is also a leading source of other harmful air pollutants, including volatile organic compounds that contribute to ground-level ozone, or smog, and air toxins such as benzene that are emitted along with methane.
+</P>
+<P>
+Environmental groups call methane reduction the fastest and most cost-effective action to slow the rate of global warming. Current rules for methane emissions from U.S. oil and gas wells only apply to sources that were built or modified after 2015, leaving more than 90 per cent of the nation's nearly 900,000 well sites unregulated. Many of those sites are smaller, low-producing wells.
+</P>
+<P>
+Fred Krupp, president of the U.S.-based Environmental Defense Fund, called the new rule "an important step that offers a major victory for nine million Americans living near active oil and gas sites." But he said EPA and other agencies must do more to cut down on flaring and leaks from so-called "marginal wells" that have disproportionately high emissions.
+</P>
+<P>
+The American Petroleum Institute, the oil and gas industry's top lobbying group, has said it supports direct regulation of methane emissions from new and existing sources, but opposes efforts in Congress to impose fees on methane leaks, calling them punitive and unnecessary.
+</P>
+<P>
+The industry says leaks of methane, the main component of natural gas, have decreased even as natural gas production has gone up as a result of the ongoing fracking boom. Technological advancements in recent years have made finding and repairing natural gas leaks cheaper and easier.
+</P>
+<P>
+"EPA has released a sweeping proposal, and we look forward to reviewing it in its entirety," said API senior vice-president Frank Macchiarola. The group will work with EPA to help shape a final rule "that is effective, feasible and designed to encourage further innovation," he said.
+</P>
+<P>
+Tightens rules around methane leaks
+</P>
+<P>
+The administration's plan includes new safety regulations by the Transportation Department to tighten requirements over methane leaks from the nation's three million miles of pipelines.
+</P>
+<P>
+The Interior Department, meanwhile, is preparing to crack down on methane waste burned at drilling sites on public lands. And the Agriculture Department is working with farmers to establish so-called climate-smart standards to monitor and reduce greenhouse gas emissions and increase carbon storage.
+</P>
+<P>
+The plan focuses on cutting pollution from the largest sources of methane emissions and uses financial incentives, public disclosure and private partnerships to reduce leaks and waste, protect workers and communities and create union-friendly jobs, the White House said.
+</P>
+<P>
+Biden has previously announced plans to step up efforts to plug leaks at old gas wells and clean up abandoned coal mines. A bipartisan infrastructure bill approved by the Senate includes billions to reclaim abandoned mine land and cap orphaned wells.
+</P>
+<P>
+The administration is also taking aim at methane emissions from landfills, with emphasis on food loss and waste that serves as a major contributor. EPA has set a voluntary goal of capturing 70 per cent of methane emissions from U.S. landfills.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> CB121620-0001 </DOCNO>
+<DATE>
+<P>
+December 16, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Millions of Canadians working from home could qualify for new tax deduction; 
+</P>
+<P>
+CRA announces rules to simplify working-from-home deduction
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Canada Revenue Agency has simplified the rules to make millions of Canadians working from home eligible for a tax deduction.
+</P>
+<P>
+Under the new rules, those who worked from home more than 50 per cent of the time over a period of at least four consecutive weeks in 2020 as a result of the pandemic will now be eligible for the deduction.
+</P>
+<P>
+Eligible employees who opt for the simplified deduction will be able to claim $2 for each day they worked from home during that period, plus any other days they worked from home because of the pandemic, up to a maximum of $400. Their employers will not have to sign a special form.
+</P>
+<P>
+More than one person at the same address can claim the deduction as long as each one qualifies for it.
+</P>
+<P>
+While the temporary simplified deduction applies to the 2020 tax year, many Canadian workers have been told they can expect to work from home for several more months. CRA officials say they expect the number of people who work from home to be higher in the future than prior to the pandemic, but have not yet decided whether the simplified deduction will continue for the 2021 tax year.
+</P>
+<P>
+Those who claim the simplified work from home tax deduction will not be able to claim expenses related to using their vehicles for work.
+</P>
+<P>
+Those with larger claims for home office expenses can still use the existing detailed method to claim a deduction. The CRA is making that easier too.
+</P>
+<P>
+Under the existing rules, those working from home had to get their employers to fill out a special form, T2200, attesting to the fact that working from home was a condition of their employment. But many employers balked at filling out the complicated form. Now, the CRA has launched two new simplified forms (T2200S and T777S) and a calculator to help those who want to claim home office expenses.
+</P>
+<P>
+The CRA also has expanded the list of expenses eligible for the detailed working-from-home deduction and will now recognize home internet access fees as a deduction.
+</P>
+<P>
+According to Statistics Canada's Labour Force Survey, an estimated 2.4 million Canadians who do not normally work from home were doing so in October. In mid-April, at the height of the pandemic lockdown, Statistics Canada reported 3.3 million Canadians had begun working from home because of COVID-19.
+</P>
+<P>
+In a statement, Revenue Minister Diane LeBouthillier said the temporary flat rate method of claiming the working-from-home deduction and the calculator will make it easier to claim the deductions.
+</P>
+<P>
+"The government of Canada remains committed to helping Canadians cope with the impacts of the COVID-19 pandemic by making the home expenses deduction more accessible and easier to claim," she wrote.
+</P>
+<P>
+The $400 work from home deduction was first announced in the government's fiscal update on November 30. At the time, the government estimated the measure will cost $210 million.
+</P>
+<P>
+Elizabeth Thompson can be reached at elizabeth.thompson@cbc.ca
+</P>
+</TEXT>
+</DOC>

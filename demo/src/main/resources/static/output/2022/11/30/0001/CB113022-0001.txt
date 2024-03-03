@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO> CB113022-0001 </DOCNO>
+<DATE>
+<P>
+November 30, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Aging population, pandemic swelled ranks of health-care workers by 204,000, census says; 
+</P>
+<P>
+But job vacancies in health reached record high in 2022
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+An aging population and the stress of managing the pandemic saw the number of health-care workers in Canada swell by 204,000 between 2016 and 2021, according to newly released census numbers.
+</P>
+<P>
+That's a 16.8 per cent increase to the workforce over five years.
+</P>
+<P>
+Even so, the number of job vacancies for non-management-related health-care occupations stood at a record high in 2022, Statistics Canada said.
+</P>
+<P>
+The census said governments are struggling to fill health-care positions because nearly half (45.6 per cent) of non-management jobs require a bachelor's degree or higher, and another 22.8 per cent require two years of college or more. 
+</P>
+<P>
+The remaining third of health-care occupations that do not require a university or college education still require a combination of college and participation in shorter-term training programs.
+</P>
+<P>
+Despite these obstacles, StatsCan suggested there's reason to hope the challenge can be met. It says that between 2016 and 2021, the number of working-age Canadians with a degree in health care rose by 24.1 per cent, compared to a 19.1 per cent rise in the number of Canadians with a university degree.
+</P>
+<P>
+Aging population and health care
+</P>
+<P>
+The health sector is dealing with with both a rise in the number of elderly people seeking care and retirements. The census says that a record number of working-age Canadians are now nearing retirement, leaving employers in general with a much smaller pool to work with.
+</P>
+<P>
+"Although the participation rates of each five-year age group from 55 to 74 increased from 2016 to 2021," the census said, "they remained substantially lower than the rates of those aged 25 to 54 and were not sufficient to offset the downward pressure on labour supply resulting from population aging."
+</P>
+<P>
+The demographic makeup of Canada's health-care workforce also does not align with the makeup of the population as a whole, StatsCan said. 
+</P>
+<P>
+The sector relies heavily on women — more than 80 per cent of Canada's 1.5 million health-care workers are female. 
+</P>
+<P>
+It also relies on people of colour, with almost one third of workers coming from BIPOC communities, despite BIPOC people making up just over a quarter of the population.
+</P>
+<P>
+Professional, scientific and technical workers
+</P>
+<P>
+The growth in health-care workers, while significant, was surpassed by the growth of workers in the professional, scientific and technical services industries, which grew by 219,000 workers, or 17.3 per cent, over the same period. 
+</P>
+<P>
+Workers in these sectors — they include software and web developers, auditors, accountants, data scientists and cybersecurity specialists — are largely men, making up 57.1 per cent of the workforce.
+</P>
+<P>
+StatsCan said that these industries also struggled to fill jobs, with vacancies reaching record highs by the end of 2021. 
+</P>
+<P>
+The push to fill positions is frustrated by the fact that almost 60 per cent of non-managerial jobs in these industries require a bachelor's degree or higher, and another third require a college education or specialized training. 
+</P>
+<P>
+Commuting during the pandemic
+</P>
+<P>
+The 2021 census also shows how commuting in Canada was affected by the pandemic lockdowns — when businesses closed their doors, employment fell by 3 million and another 2.5 million Canadians lost most or all of their work hours. 
+</P>
+<P>
+In May of 2021, there were 2.8 million fewer Canadians commuting to work. About 1.7 million of those commuters stopped traveling to work by car, another million stopped using public transit to get to work and 289,000 stopped walking or cycling to work.
+</P>
+<P>
+Every province saw declines in commuter traffic. Ontario, which saw a decline in car commuters of 20.2 per cent, and Alberta, which experienced a decline of 13.7 per cent, led the pack. Winnipeg had the smallest decline in car commuter traffic at 7.6 per cent.
+</P>
+<P>
+Ontario and Alberta also saw the biggest declines in commuting by public transit — a 56.1 per cent decline in Ontario and a 54.6 per cent drop in Alberta.
+</P>
+<P>
+Employees unable to work from home often lost their jobs; 323,000 fewer people were working in the accommodation and food services industries in 2021 than in 2016, 
+</P>
+<P>
+Many other workers shifted to working at home in order to remain employed — 4.2 million people worked from home in May of 2021, up from just 1.3 million people in 2016.
+</P>
+<P>
+The dramatic decline in car commuting appears to have been temporary. StatsCan reports that by the spring of 2022, the number of drivers and passengers travelling to work by car, truck or van had gone back up to 12.8 million, about the same level as 2016.
+</P>
+<P>
+StatsCan estimates the number of public transit commuters in 2021 at 1.2 million, well below the 2 million taking public transit to work in 2016.
+</P>
+<P>
+StatsCan reports 7.7 per cent of commuters took public transit to work in 2021. In the United States, only 3 per cent of commuters were taking public transit. 
+</P>
+<P>
+Canada leads G7 in university, college grads
+</P>
+<P>
+The census also revealed that Canada has more working-age college or university graduates than any other country in the G7, thanks to more adults studying for a degree and the steady influx of highly educated immigrants.
+</P>
+<P>
+Among working-age Canadians aged 25 to 64, some 57.5 per cent have a university or college degree, the highest in the G7.
+</P>
+<P>
+That ranking is due in part to the one in four working-age Canadians that have a college diploma or certificate qualification. 
+</P>
+<P>
+When it comes to the percentage of working-age Canadians with a university degree, however, Canada sits in fourth place in the G7 at 32.9 per cent after the United Kingdom, at 41.3 per cent, the United States at 39.5 per cent and Japan at 34.2 per cent. 
+</P>
+<P>
+The census also says that while the population is comparatively well-educated, failing to recognize the qualifications of workers educated abroad is "leaving talent on the table."
+</P>
+<P>
+Other census highlights
+</P>
+</TEXT>
+</DOC>

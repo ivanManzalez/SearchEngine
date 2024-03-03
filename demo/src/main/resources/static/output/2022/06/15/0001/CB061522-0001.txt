@@ -1,0 +1,144 @@
+<DOC>
+<DOCNO> CB061522-0001 </DOCNO>
+<DATE>
+<P>
+June 15, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Building code changes could take decades to 'future-proof' homes for extreme heat that's here now; 
+</P>
+<P>
+B.C.'s coroner says heat dome exposed the need for active and passive cooling in existing housing
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled "Our Changing Planet" to show and explain the effects of climate change. Keep up with the latest news on our Climate and Environment page.
+</P>
+<P>
+The B.C. coroner's report into the deaths of 619 people last summer related to extreme heat laid clear the stark reality of how much the climate has changed in Canada in the past century — and how ill-prepared our homes and residences are for absorbing high temperatures.
+</P>
+<P>
+"Current building codes in B.C. do not consider cooling in the same manner as they consider heat," Dr. Jatinder Baidwan, chief medical officer at the B.C. Coroners Service, said during a news conference last Tuesday, following the report's release. "As codes are revised, they will need to reflect the current climate science."
+</P>
+<P>
+While landlords across Canada are required to maintain certain levels of heat in dwellings during colder months — usually about 21 C — and utilities are banned from cutting off heat during the winter, no similar regulation exists to deal with excessive heat in the summer. 
+</P>
+<P>
+The coroner's office says it's time to adapt. 
+</P>
+<P>
+"Building codes that require passive and active cooling (heat pumps, building materials, insulation, ventilation, greening, tree canopy, landscape permeability, solar reflectivity, etc.) can mitigate the effects of extreme heat events," the report determined.
+</P>
+<P>
+It recommended retrofitting current codes to encourage active and passive cooling in existing housing, especially in lower income areas.
+</P>
+<P>
+'Necessary but insufficient'
+</P>
+<P>
+As codes are written now, and with most buildings having a lifespan of anywhere from 50 to 100 years, experts say it would take decades to "future-proof" existing dwellings to adequately address more immediately anticipated climate conditions, particularly around extreme weather or other anomalies of climate change. 
+</P>
+<P>
+Andrew Pape-Salmon calls updating building codes "necessary but insufficient action." 
+</P>
+<P>
+The adjunct professor of civil engineering at the University of Victoria, who has expertise in energy efficiency and building and safety standards, says changing codes would probably be the most impactful way of tackling the issue — since it would be a way of ensuring that specific technical standards would be universally applied for new construction. But it's certainly not the quickest, he said.
+</P>
+<P>
+The City of Vancouver recently approved a plan that would require new multi-family dwellings of a certain size to have mechanical cooling to keep temperatures indoors at no more than 26 C with the windows closed, though it doesn't go into effect until January 2025.
+</P>
+<P>
+"The challenge with the building code is that it really only touches somewhere on the order of four to six per cent of the building stock in any particular year," said Pape-Salmon, since it typically only affects new builds. 
+</P>
+<P>
+Keeping residents cool is not yet a widespread regulatory norm in this country, and Canadian summers are getting hotter. According to Environment Canada, most of Canada's main cities experienced more days over 30 C in 2021 than average, and overall, last year's summer temperatures were higher than average. 
+</P>
+<P>
+Temperatures in parts of B.C. surpassed 40 C for several days during the 2021 heat dome, and most of the people who died were elderly or vulnerable individuals living in buildings without air conditioning.
+</P>
+<P>
+Incentive programs more efficient
+</P>
+<P>
+This is where incentive programs — also encouraged in the coroner's report — might be more efficient, said Pape-Salmon, who previously worked for the B.C. Ministry of Municipal Affairs and Housing in the Building and Safety Standards Branch. 
+</P>
+<P>
+They might spark a landlord to undertake a renovation sooner, rather than waiting until it becomes a necessity. 
+</P>
+<P>
+He said there are many very strong provincial and federal incentive programs, but most have been focused on preparing homes to lose less heat in the winter. 
+</P>
+<P>
+"What we need to do is keep the heat out in the summer. And that is not a central feature of neither the building code nor these incentive programs. So it does require a bit of an adjustment." 
+</P>
+<P>
+In a statement, British Columbia's minister of public safety said that "all recommendations within the BC Coroners Service's report will be carefully reviewed and considered," while noting that many are already underway — including a provincial Heat Alert and Response System, which alerts people, First Nations and local governments of heat warnings and extreme heat emergencies. The provincial government said it has also created an extreme heat preparedness guide, outlining how people can stay safe as temperatures rise.
+</P>
+<P>
+The federal government, meanwhile, currently offers the Canada Greener Homes Grant Initiative, which provides grants to homeowners for evaluations and eligible energy-efficient retrofits. 
+</P>
+<P>
+A move to heat pumps
+</P>
+<P>
+Sheena Sharp, president of Coolearth Architecture in Toronto, says the most immediate solution to deadly heat is to get air conditioning into buildings — even if it means cooling just one room in a dwelling — while also working on more sustainable medium-term solutions, such as heat pumps, which provide heat in the winter and cooling in the summer.
+</P>
+<P>
+"Over the next 15 years, most residential furnaces will break down. That's about their lifetime," she said. "If we replace those with a heat pump combo, heating and cooling, then that would solve our emissions problem and … move us toward better comfort in these heating events." 
+</P>
+<P>
+Sharp, who ran for the Green Party of Ontario in the last provincial election, would like to see the day when, as in some American cities, installing a gas appliance in a home will be prohibited and heat pumps will become the norm. And over the long term, she says, it will be necessary to upgrade the "envelope" of existing buildings — "meaning better windows, better walls, better roofs."
+</P>
+<P>
+Passive cooling
+</P>
+<P>
+As for the short term, scientist Alexandra Rempel says passive cooling is key.   
+</P>
+<P>
+The assistant professor of environmental studies at the University of Oregon just authored a paper looking at how it could have helped during the June 2021 heat wave that hit the Pacific Northwest, including B.C., that will be published in September. 
+</P>
+<P>
+Passive cooling works without the use of mechanical equipment, such as an air conditioner, relying instead on natural ventilation — like cooler night air — as well as shading and greenery, where possible. 
+</P>
+<P>
+Using the U.S. National Weather Service heat index as a term of reference, Rempel's study looked at how passive cooling could have reduced dangerous levels of heat stress during the heat dome. It wasn't about not feeling hot, but rather about avoiding getting to levels where the body would be stressed physically. 
+</P>
+<P>
+Uncomfortable, but not deadly
+</P>
+<P>
+"The important thing is to keep that physiological stress level … out of the danger and extreme danger levels, and closer down to the, you know, kind of like caution levels," she said, which is about 32 C. "It's not going to necessarily be comfortable, but it shouldn't be deadly."
+</P>
+<P>
+The key is to allow cool air in at every opportunity. So any time the outside air is cooler than the indoor air, she says, open windows if it's safe. "In the western part of the country that will be, you know, still about eight to 10 hours overnight."
+</P>
+<P>
+Rempel also recommends using a fan to facilitate the air coming in, where possible. 
+</P>
+<P>
+In the morning, close the windows and fully shade them from the sun — east-facing in the morning, and west or south-facing at night. And it doesn't have to involve costly coverings, such as built-in blinds or heavy curtains. 
+</P>
+<P>
+"Create some kind of a makeshift insert for that window," Rempel said. "It could be foam or cardboard or … wood panels. It could be almost anything that you have to fill in that entire window area, so that air from the inside of the dwelling doesn't circulate against that hot glass surface and come back into the room."
+</P>
+<P>
+Building owners can also look at installing exterior shading on tracks that could be moved over windows as needed, she says, while homeowners can increase tree shading on their property, and open windows on opposite sides of the house and on different levels when it's cooler outdoors. 
+</P>
+<P>
+In Portland, Ore., where the highest temperatures of the heat dome were recorded from June 26-28, Rempel's study found that "integrated shading and natural ventilation eliminated all hours above the danger threshold," during those three days, lowering peak indoor air temperatures by approximately 14 C. 
+</P>
+<P>
+In Vancouver, she said, nighttime heat dome temperatures hovered around the 26 C mark, but even getting that "cooler" air indoors overnight would have helped. 
+</P>
+<P>
+Again, she said, the goal is to move indoors conditions away from a "danger" zone and move it toward a "caution" level.
+</P>
+<P>
+"People are still kind of at risk of heat exhaustion, but you're out of the likelihood of heat stroke area."
+</P>
+</TEXT>
+</DOC>

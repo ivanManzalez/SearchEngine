@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> CB071620-0001 </DOCNO>
+<DATE>
+<P>
+July 16, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Lower panel prices boost interest in home solar power but true cost is complex; 
+</P>
+<P>
+Closing those sales has been problematic since Alberta ended rebate program
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Lockdowns imposed to control the COVID-19 pandemic have sparked plenty of interest in residential solar power systems among people forced to spend more time at home, says installer Paul Rivera.
+</P>
+<P>
+But closing those sales has been problematic, Rivera says, since the Alberta government ended a rebate program that had covered as much as 35 per cent of the initial cost of a typical system.
+</P>
+<P>
+"I've been in the solar business long enough to watch it slowly, slowly increase, then once the grant program was there, it increased quite sharply for the residential market," says the president and co-founder of Calgary's GreenLight Power, which was founded in 2008.
+</P>
+<P>
+"But, once the grants disappeared (last fall), we saw that sharp increase drop drastically. We had 21 customers signed up — the day they cancelled the grant, all but one cancelled their contract with us."
+</P>
+<P>
+The financial argument for investing in a home solar power array in Canada depends, experts say, on how much sun your house receives, how much it costs for electricity from the public grid, the capital cost of installation and, of course, which way the political wind blows.
+</P>
+<P>
+In Alberta's case, the United Conservative Party cancelled a program put in place by the New Democrats. Similarly, after a 2018 provincial election, Ontario's Progressive Conservatives put an end to the main solar rebates program, implemented a previous Liberal-led government.
+</P>
+<P>
+Shifting policy and power prices make it difficult to estimate how long it will take for energy savings to pay off the capital cost of a home system, said Nicholas Gall, director, distributed energy resource, for CanREA, the Canadian Renewable Energy Association.
+</P>
+<P>
+Abundant —and cheap — hydroelectric power in Quebec, for instance, makes it more difficult to justify home solar power on a cost-saving basis there, he said.
+</P>
+<P>
+Still, the declining cost of solar panels makes them a much better deal today than they were a decade ago.
+</P>
+<P>
+"Costs for solar panels have fallen by about 55 per cent between 2008 and 2018," he said, citing the most recently available numbers.
+</P>
+<P>
+"Those costs will represent anywhere from 20 to 45 per cent of the total installed cost. There are fixed costs that haven't come down as much, for labour and permitting and design, but the hardware is continuing to decrease in price."
+</P>
+<P>
+Compensation varies from one jurisdiction to another
+</P>
+<P>
+Installations are long-lived, he said, noting some installed in 1980s are still producing plenty of electricity and panels installed today are expected to last at least 30 years.
+</P>
+<P>
+The systems work best if your roof faces south but east or west can work, too, he said. (Roofs that are shaded by neighbours or trees make poor solar power collectors.)
+</P>
+<P>
+Most provinces have programs where excess power from residential systems is purchased for distribution on the grid, he added, but the compensation varies widely from one jurisdiction to another.
+</P>
+<P>
+Asked which Canadian province is the best in which to buy a solar power system now, Gall was quick to identify Prince Edward Island, which has a "generous" rebate of $1 per watt.
+</P>
+<P>
+"That's around 40 per cent of the total installed cost for a typical system, up to a maximum of $10,000," he said.
+</P>
+<P>
+Nova Scotia has a slightly less generous rebate program that pays 60 cents per watt, up to 25 per cent of system costs, to a maximum of $6,000, he added.
+</P>
+<P>
+There are a hodgepodge of other programs across the country. The Northwest Territories, for instance, will pay up to 50 per cent of the cost of a solar system but only for buildings that are off the grid.
+</P>
+<P>
+Some municipal governments also offer solar rebates — Medicine Hat is an example in southern Alberta. In Calgary, residents can lease their solar power system.
+</P>
+<P>
+'A tonne of interest — but not a tonne of sales'
+</P>
+<P>
+Prospective homebuyers in Edmonton and Calgary, meanwhile, have the option to buy solar power as an included component of their new house — Jayman Built Homes has been putting six-panel, two-kilowatt solar systems on all of its homes since early 2019.
+</P>
+<P>
+The Calgary-based company built 811 homes last year and expects to add more than 700 this year, said Jayman president and chief operating officer Dave Desormeaux.
+</P>
+<P>
+The withdrawal of the provincial rebate program last year meant an additional cost to Jayman of about $1,500 per home, he said, but after much thought, the company kept its solar program going.
+</P>
+<P>
+"We're not making the margins we used to but we don't want to change the brand unless we absolutely had to. And so far that strategy is working," said Desormeaux.
+</P>
+<P>
+He estimates the panels result in annual utility bill savings of about $200 to $250 per home.
+</P>
+<P>
+GreenLight's Rivera says a full-sized home system should generate eight to 12 kilowatts at a non-subsidized capital cost of between $2 and $3 per watt, or $16,000 to $36,000.
+</P>
+<P>
+He said he's fielding plenty of calls these days asking about adding battery storage to improve system reliability, independence from the grid on cloudy days and power quality.
+</P>
+<P>
+But, although battery costs are falling, storage adds thousands of dollars to the cost of the system.
+</P>
+<P>
+"As soon as you add batteries, you're doubling if not tripling the cost of solar because the battery technology is so expensive," he said.
+</P>
+<P>
+"It's a tonne of interest — but not a tonne of sales."
+</P>
+</TEXT>
+</DOC>

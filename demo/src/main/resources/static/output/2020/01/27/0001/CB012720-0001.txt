@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> CB012720-0001 </DOCNO>
+<DATE>
+<P>
+January 27, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Giant Canadian construction project incorporates low carbon heating and cooling: Don Pittis; 
+</P>
+<P>
+The Well rising on the old Globe and Mail site digs for more green innovations
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The company that made an international splash by air conditioning downtown Toronto without air conditioners has more energy-saving innovations in the works.
+</P>
+<P>
+With the help of a gigantic purpose-built thermal reservoir, Enwave Energy will add an entire new neighbourhood to its underground low-carbon heating and cooling network with the project called The Well on the site that used to be headquarters for the Globe and Mail.
+</P>
+<P>
+Not only will the seven-building retail, residential and office complex in the city's business centre be added to Enwave's lake-water cooling system, but the company is in the process of incorporating a series of revolutionary energy and carbon-saving techniques to keep residents and workers at The Well comfortable.
+</P>
+<P>
+Digging deep
+</P>
+<P>
+Even for construction-mad Toronto, the site is large, with more than a million square feet of office space, nearly 2,000 residences and more than 400,000 square feet of retail. The project's backers estimate that it will serve about 11,000 people daily.
+</P>
+<P>
+"It'll be 100 per cent heated and cooled by Enwave," said Carson Gemmill, the company's engineering lead for Toronto.
+</P>
+<P>
+The project's name has a double meaning, as its northern access is onto Wellington Street. But at the core of the project is the well itself, a multimillion-litre underground hole that extends into the bedrock from below the lowest parking level to a few metres above sea level. 
+</P>
+<P>
+The solution stored in the well — it is not just water — will act as a giant thermal battery, said Gemming, cold in the summer for air conditioning and hot in the winter for heating.
+</P>
+<P>
+Enwave, which began life as a publicly owned utility used to heat municipal buildings and hospitals in the city using a centralized or "district" network, garnered global media attention more than a decade ago for its innovation in low-energy cooling.
+</P>
+<P>
+Using the drinking water supply that the city draws from the chilly depths of Lake Ontario, Enwave sucks out some of that coldness from the just-above-zero Celsius lake water, and circulates it in downtown buildings to cool them without the costly electricity usually required for air conditioning.
+</P>
+<P>
+Power cuts
+</P>
+<P>
+Although climate change was not at the top of political agendas in those days, Enwave decreased the city's peak electricity load by cutting the need for power from the coal-generating stations that at that time still supplied much of Ontario's power.
+</P>
+<P>
+One efficiency of the well at The Well is also a matter of peak demand.  The tank is filled overnight with colder water when there are low periods of demand for air conditioning. Enwave, now owned by the conglomerate Brookfield, adds to the thermal battery without increasing its cooling or heating capacity. 
+</P>
+<P>
+While traditional heating for large industrial buildings like hospitals uses steam boiled by natural gas-burning furnaces, the heating loop for The Well will be based on hot water of the type familiar to people who have radiators in their homes.
+</P>
+<P>
+This water to be pumped for heating doesn't need to be boiled and that opens the door to green heating alternatives, including electric heat pumps, an energy efficient method of concentrating heat from lower heat sources. 
+</P>
+<P>
+"One of the things that's kind of interesting about our system is, people may not realize, in the winter months, even on days like today, we still actually have a significant cooling load because of the large data centre clients we serve," said Gemmill.
+</P>
+<P>
+Large urban centres around the world like Toronto have massive centralized server farms to act as nodes in data shared on the web to make it quicker to draw up frequently needed information. Individual companies such as banks have local data centres, as do cloud computing providers.
+</P>
+<P>
+All are huge producers of heat that must be drawn away with cooling systems to prevent system breakdown. But whereas elsewhere that heat is vented to outdoor air, Enwave is engineering a system to capture and reuse it.
+</P>
+<P>
+Pumped heat
+</P>
+<P>
+"Really, like 13 C will be the temperature of our chill water coming back, but you run that through a heat pump," said Gemmill. "So you can produce 60 C on the other side of the heat pump, which is useful for space heating."
+</P>
+<P>
+As Gemmill explains, heat pumps are like using a refrigerator in reverse, where heat is drawn out of air or water that may not feel especially warm.
+</P>
+<P>
+After a recent CBC story on switching to lower carbon power electric heat, a number of readers pointed out that heating with electricity using baseboard resistance heaters can be prohibitively expensive outside Quebec. But as Gemmill explained, using a heat pump cuts that cost dramatically.
+</P>
+<P>
+"Roughly, for every one unit of electricity you use [with a baseboard heater], you get one unit of useful heat," said Gemmill. "Heat pumps are three to one. So they are three times more efficient."
+</P>
+<P>
+Currently the two giant steam generators Enwave operates to create steam for heat run on natural gas but the switch to hot water allows the new system to use leftover heat from the steam furnace, said Julia St. Michael, Enwave's director of sustainability engagement.
+</P>
+<P>
+"That hot water network right now is using waste heat from our facility, but in the future we'll be able to add lower carbon sources of heat," said St. Michael. As carbon taxes make gas more expensive, pumping heat from sewer water, industrial sources, as well as server farms, becomes more cost effective.
+</P>
+<P>
+One of the biggest commercial efficiencies of Enwave's district heating operation is that it means individual building managers don't have to have their own air conditioners and heaters or the staff to run them. Centralized warming and cooling also means they have more space to lease out, said St. Michael.
+</P>
+<P>
+But as Enwave showed with its deep water cooling system, the other advantage is that as new low-carbon technologies come into the mainstream, they can be introduced once at source and instantly apply to every building in the network.
+</P>
+<P>
+Follow Don Pittis on Twitter @don_pittis  
+</P>
+<P>
+ 
+</P>
+</TEXT>
+</DOC>

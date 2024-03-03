@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> CB101019-0001 </DOCNO>
+<DATE>
+<P>
+October 10, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+British Airways owner IAG commits to net zero carbon emissions by 2050; 
+</P>
+<P>
+IAG said it will achieve this target by investing in sustainable aviation fuel and more efficient jets
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+British Airways owner IAG said it will achieve net zero carbon emissions by 2050, becoming the first major airlines group to make such a commitment.
+</P>
+<P>
+The aviation industry is under intense pressure from climate change activists such as Extinction Rebellion, which is aiming to shut down London's City Airport on Thursday.
+</P>
+<P>
+IAG said it would achieve its target with steps such as carbon offsetting for British Airways' domestic flights from 2020, investing in sustainable aviation fuel and replacing older aircraft with more efficient jets over the next five years.
+</P>
+<P>
+"We're investing in new aircraft and innovative technology to reduce our carbon footprint in an industry where there's no current alternative to jet fuel," IAG Chief Executive Willie Walsh said in a statement.
+</P>
+<P>
+IAG said the steps would help the airline contribute both to Britain's goal for a net zero carbon economy by 2050 and a United Nations objective to limit global warming to 1.5 degrees.
+</P>
+<P>
+Protesters say cheap and easy short-haul flying will make it impossible for Britain it meet its climate goals and will have dire consequences for the world.
+</P>
+<P>
+Walsh said that aviation represented only 2 per cent of global CO2 emissions, and that the airline group's steps were one part of a broader solution to make aviation less polluting.
+</P>
+<P>
+"Aviation's dependency on fossil fuels means that it's essential that governments support its efforts to decarbonize by providing incentives to accelerate investment in new technologies," he said
+</P>
+<P>
+"Global warming needs a global solution and all these initiatives will help limit the world's temperature increase to 1.5 degrees."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,138 @@
+<DOC>
+<DOCNO> CB080323-0003 </DOCNO>
+<DATE>
+<P>
+August 03, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Calgarians pay higher access fees than other Albertans as regulated rate soars; 
+</P>
+<P>
+Calgary is the only city that factors in regulated rate with local access fees
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The skyrocketing price of Alberta's regulated rate option means Calgarians are paying higher local access fees on their electricity bills than anyone else in the province.
+</P>
+<P>
+That's according to some energy experts, who are calling on the City of Calgary to change its methodology for how it charges those access fees to Calgarians.
+</P>
+<P>
+That's because Calgary is the only municipality in Alberta that calculates that fee by factoring in the regulated rate option (RRO) — which reached its highest level in Alberta's history this month, at 31.8 cents per kilowatt hour in Calgary.
+</P>
+<P>
+"With RRO prices going up, the local access fee that customers in Calgary pay is also increasing significantly as well," said Thomas Glenwright, senior director of Energy Associates International.
+</P>
+<P>
+"For customers who are on the RRO … the local access fee is adding insult to injury."
+</P>
+<P>
+The local access fee works in lieu of a property tax to run power equipment through the city.
+</P>
+<P>
+Calgarians pay 250% more than Edmontonians
+</P>
+<P>
+Each municipality chooses how to charge the fee.
+</P>
+<P>
+The City of Calgary, through Enmax and other retailers, charges 11.11 per cent of the monthly RRO per kilowatt hour consumed, plus 11.11 per cent of transmission and distribution costs for the access fee.
+</P>
+<P>
+Many other jurisdictions typically charge 10 to 15 per cent of transmission and distribution charges for their access fees. Edmonton currently charges 1.05 cents per kilowatt hour consumed.
+</P>
+<P>
+Glenwright says that structure difference means Calgary homeowners are paying more than 250 per cent more for local access fees than homeowners in Edmonton.
+</P>
+<P>
+Meanwhile, he says Calgary's annual local access fees have doubled since 2018.
+</P>
+<P>
+Calgarians on fixed, floating rates are also hit hard
+</P>
+<P>
+Like many Calgarians, Gordon McKercher is feeling the squeeze.
+</P>
+<P>
+His latest Enmax bill was $151. Only $54 was for energy used — the rest was add-on fees, including a $19 local access fee.
+</P>
+<P>
+"65 to 75 per cent of my bill is user fees," said McKercher, who's on a five-year fixed rate.
+</P>
+<P>
+"This used to be a high bill in the winter, and now it's a regular bill in the summer."
+</P>
+<P>
+That's part of the catch, says Glenwright. The access fee isn't only affecting RRO customers; every single homeowner and business in Calgary is facing the same increase charge.
+</P>
+<P>
+He says the unpredictability of the RRO, and subsequently the access fee, makes it especially difficult for commercial businesses to budget month to month.
+</P>
+<P>
+"Even if you signed a fixed price contract for your commodity or you're a large commercial user who the RRO doesn't even apply to, you are still being impacted by this RRO indirectly through the local access fee."
+</P>
+<P>
+Expected windfall for the city
+</P>
+<P>
+Revenue from the access fee has been a windfall for the City of Calgary in recent years. CBC Calgary previously reported that the city raked in an extra $47 million from the fee in 2021.
+</P>
+<P>
+Because of the rising RRO, Glenwright says that windfall has only increased since then.
+</P>
+<P>
+Using data from the City of Calgary's 2023-2026 service plan and budget and Enmax's quarterly financial statements, Glenwright says the city budgeted an estimated $35 million in revenue from the fee from the first quarter of 2023, and actually made $91 million in that time.
+</P>
+<P>
+"We're looking at potentially as much as $300 million in actual revenue [in 2023]," said Glenwright.
+</P>
+<P>
+Calling for changes from the city
+</P>
+<P>
+Darren Chu, program development manager for Utility Network, has been sounding the alarm about this issue for years, but he says it's especially important now with the rising RRO rates.
+</P>
+<P>
+While the RRO was capped at 13.5 cents per kilowatt hour in the first three months of 2023, Chu says Calgarians were paying uncapped prices, which was more than double the price.
+</P>
+<P>
+He says he wants the municipal government to either remove the fee from utility bills or introduce a standardized methodology to calculate the fee.
+</P>
+<P>
+"It shouldn't be tied to something like the RRO, which fluctuates so vastly over the course of the year, especially at times when bills are high," said Chu.
+</P>
+<P>
+"To ask an average consumer to understand what the [local access fee] is and how it's calculated and how it factors into their bill — it's a losing battle. It's too complicated."
+</P>
+<P>
+Chu says the only way to mitigate the cost is to use less electricity or switch to energy-efficient appliances.
+</P>
+<P>
+"But to ask a vulnerable Albertan to do that, it's untenable."
+</P>
+<P>
+'We're constantly working to act'
+</P>
+<P>
+Oyin Shyllon, an economist for the City of Calgary, says the municipality has been using this approach since the late 1990s.
+</P>
+<P>
+Historically, RRO rates have been much lower than they are today. Shyllon says in the last eight years, Calgary has received more revenue than Edmonton from the fees for half of that time.
+</P>
+<P>
+"It's just a methodology. When prices go low, we receive less and when prices go high, we receive more."
+</P>
+<P>
+Shyllon says the fee currently goes to general revenue.
+</P>
+<P>
+He says city council is constantly aware of the financial hardships citizens face, and ultimately, they decide how administration should move forward. Last year, council members debated introducing support programs.
+</P>
+<P>
+"We're constantly looking at the rates we charge. We're constantly looking at the impact. And when we believe that changes are necessary, we're constantly working to act," said Shyllon.
+</P>
+</TEXT>
+</DOC>

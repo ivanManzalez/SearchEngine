@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CB080623-0002 </DOCNO>
+<DATE>
+<P>
+August 06, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Smog warnings in effect for parts of southern Quebec, including Montreal; 
+</P>
+<P>
+Smoke from forest fires in northern parts of the province continue to affect air quality
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Environment and Climate Change Canada has issued smog warnings for parts of southern Quebec as smoke from forest fires in northern parts of the province continue to affect air quality.
+</P>
+<P>
+Montreal, Laval, the Laurentians and Eastern Townships were among the areas under a smog warning as of 3:30 p.m. Sunday.
+</P>
+<P>
+Quebec's forest fire prevention agency says blazes burning in the James Bay region in the north, coupled with those elsewhere in Canada, are producing large plumes of smoke that can travel great distances.
+</P>
+<P>
+The agency, called SOPFEU, says it is possible that people will continue smelling polluted air in several parts of the province over the coming days.
+</P>
+<P>
+There were 54 fires burning in Quebec as of Sunday afternoon.    
+</P>
+<P>
+Since the start of the fire season, more than 15,000 square kilometres have burned in the southern half of the province, known as the intensive zone, and over 35,000 square kilometres have burned in northern areas.
+</P>
+</TEXT>
+</DOC>

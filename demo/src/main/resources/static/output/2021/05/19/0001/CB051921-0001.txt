@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> CB051921-0001 </DOCNO>
+<DATE>
+<P>
+May 19, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Investing in new coal, oil and gas projects must stop to hit climate goals, global energy agency says; 
+</P>
+<P>
+New report sets out 400 steps needed to transform energy sector, meet climate goals by 2050
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A report by the International Energy Agency says immediate action is needed to reshape the world's energy sector in order to meet ambitious climate goals by 2050, including ending investments in new coal mines, oil and gas wells.
+</P>
+<P>
+The Paris-based global agency is an autonomous intergovernmental organization that provides analysis, data, and policy recommendations to promote global energy security and sustainability.
+</P>
+<P>
+It said in a report released Tuesday that it has determined there is a narrow but viable pathway for building a global energy sector with net zero greenhouse gas emissions by 2050.
+</P>
+<P>
+Several countries, including the United States and members of the European Union, have pledged to achieve net zero emissions — meaning only as much planet-warming gas is released into the atmosphere as can be absorbed — by mid-century.
+</P>
+<P>
+The IEA report sets out 400 steps needed to transform how energy is produced, transported and used. These include no investment in new fossil fuel supply projects, an end to the sale of new internal combustion engine passenger cars by 2035 and a fourfold increase in the deployment of solar and wind power by 2030 compared to last year's record level.
+</P>
+<P>
+The IEA's executive director, Fatih Birol, said the transformation would create millions of new jobs and boost economic growth worldwide.
+</P>
+<P>
+But he warned that while countries and companies have begun to set bold targets for cutting emissions of carbon dioxide and other greenhouse gases in the coming decades, actual emissions continue to rise substantially. The IEA said last month that 2021 will see the second-largest annual increase in emissions since 2010 as the world economy bounces back from the pandemic.
+</P>
+<P>
+"There is a growing gap between the rhetoric we hear from governments and industry leaders, and what is happening in real life," Birol said.
+</P>
+<P>
+Power sector targeted to lead the way
+</P>
+<P>
+The agency, whose 30 members are mostly in North America, Europe and East Asia, said the power sector needs to lead the way, with electricity generation achieving net zero by 2035 in advanced economies and worldwide five years later.
+</P>
+<P>
+"Beyond projects already committed as of 2021, there are no new oil and gas fields approved for development in our pathway, and no new coal mines or mine extensions are required," it said.
+</P>
+<P>
+Dave Jones, an analyst at the energy think-tank Ember, said the report's recommendations mark a turnaround from the IEA's past position and were "truly a knife into the fossil fuel industry."
+</P>
+<P>
+Large developing countries such as China, India and South Africa will require help to achieve the report's suggestion of closing down the most polluting coal-fired power plants by 2030.
+</P>
+<P>
+Laura Cozzi, one of the IEA report's main authors, said that in addition to a huge increase in renewable power sources and electric car sales, energy efficiency must be increased significantly over the next decade. Power grids and electric vehicle charging networks should also be expanded to cope with the shift from fossil fuels to electricity, she said.
+</P>
+<P>
+Her co-author, Timur Gul, said that while the technologies exist to decarbonize the energy sector, they aren't yet available for sectors such as aviation or heavy industry.
+</P>
+<P>
+"We need to bring them into the market," said Gul. 
+</P>
+<P>
+He said such future technologies may need to include effective and scalable ways of capturing carbon dioxide from the atmosphere.
+</P>
+<P>
+Role of biofuels questioned
+</P>
+<P>
+Environmental groups have in the past criticized proposals that rely on unproven technology, arguing that making sharper cuts in actual emissions is a more effective approach.
+</P>
+<P>
+The charity ActionAid warned that the report emphasizes the use of biofuels made from crops. While such fuels are considered a form of renewable energy, they are often produced at the expense of food crops and require large areas of land to grow. But Cozzi said the models in the report don't require converting forests into cropland.
+</P>
+<P>
+Experts say achieving net zero emissions across all parts of the economy is essential to meet the Paris climate accord's goal of keeping global warming below 1.5 C by the end of the century compared with pre-industrial times. The world has already warmed by 1.2 C since the late 19th century, scientists say.
+</P>
+</TEXT>
+</DOC>

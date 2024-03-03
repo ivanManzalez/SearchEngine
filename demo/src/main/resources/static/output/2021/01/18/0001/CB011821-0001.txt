@@ -1,0 +1,132 @@
+<DOC>
+<DOCNO> CB011821-0001 </DOCNO>
+<DATE>
+<P>
+January 18, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's spy-catching system caused delay, anxiety in Delisle case: former FBI official; 
+</P>
+<P>
+Episode highlights flaw in way CSIS and RCMP investigate espionage, Frank Figliuzzi writes
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The U.S. Federal Bureau of Investigation's former head of counter-intelligence says it fell to him to tell the RCMP about a spy in the Canadian navy, even though the Canadian Security Intelligence Service was already well aware of Jeffrey Delisle's sale of sensitive secrets to the Russians.
+</P>
+<P>
+In a newly published book, Frank Figliuzzi casts a critical eye on the Delisle case, pointing to the episode as a prime illustration of systemic problems with how Canadian agencies investigate espionage.
+</P>
+<P>
+As a sub-lieutenant at the Trinity intelligence centre in Halifax, Delisle had access to a databank of classified secrets shared by the Five Eyes community — Canada, the United States, Britain, Australia and New Zealand.
+</P>
+<P>
+The RCMP arrested Delisle, a junior navy officer, on Jan. 13, 2012, for violating the Security of Information Act. He pleaded guilty and was sentenced to 20 years in prison. Delisle had given secret material to Russia in exchange for upward of $110,000 over more than four years.
+</P>
+<P>
+The official story detailed in court records suggested the FBI tipped Canadian authorities to Delisle's relationship with the Russians on Dec. 2, 2011, through a letter to the RCMP.
+</P>
+<P>
+However, as The Canadian Press reported in May 2013, the story actually began months earlier.
+</P>
+<P>
+CSIS kept investigation quiet
+</P>
+<P>
+Senior CSIS officials were called to Washington, where U.S. security personnel told them a navy officer in Halifax was receiving cash transfers from Russian agents. The Canadian spy service soon got court approval to begin electronic surveillance of Delisle.
+</P>
+<P>
+"The United States and its allies were hemorrhaging our most sensitive Russian reporting for as long as five years. As soon as we learned of Delisle, we knew we had to tell the Canadians and stop this guy. Easy, right?" Figliuzzi writes in "The FBI Way: Inside the Bureau's Code of Excellence."
+</P>
+<P>
+"Not so much. Not when dealing with a system that's so very different from ours," the book says.
+</P>
+<P>
+"The problem arose when it came time for someone to put Delisle in handcuffs."
+</P>
+<P>
+CSIS watched Delisle pass top-secret information to Russia for months without briefing the RCMP. The spy agency, acting on legal advice, opted to keep its investigation sealed for fear of exposing sources and methods of the intelligence trade in open court proceedings.
+</P>
+<P>
+ "Someone had to call Canada's cops. Strangely, that task went to me," says Figliuzzi, who led the FBI's counter-intelligence division as an assistant director.
+</P>
+<P>
+"I wrote a simple letter on FBI stationery to the RCMP explaining that Jeffrey Delisle was a spy. I flew up to Ottawa and sat in a conference room with RCMP officials and verbally briefed the Mounties. Now the RCMP had to start their own investigation to be used in court," he recalls in the book.
+</P>
+<P>
+"Again, the cycle started from scratch, all while Delisle continued to spill everyone's secrets to the Russians. This was taking so long that we considered luring Delisle into the United States so we could arrest him on our own charges."
+</P>
+<P>
+Figliuzzi says Bob Mueller, the FBI director at the time, even placed a call to his counterparts in Canada and "torqued up the pressure for someone to put an end to the madness. The end couldn't come fast enough."
+</P>
+<P>
+'Bad guys don't respect our rules'
+</P>
+<P>
+CSIS was created in 1984 after a series of scandals led to the dissolution of the RCMP Security Service. The new civilian spy service would gather information and tell the federal government of threats from suspected spies and terrorists, but would have no arrest powers.
+</P>
+<P>
+CSIS must hand over a criminal case to the RCMP or work in parallel with the Mounties, then pass along the file when it comes time to take suspected spies or terrorists into custody.
+</P>
+<P>
+"Next time you hear someone suggest the FBI should be split, you have my permission to tell them the Delisle story," writes Figliuzzi, who retired from the FBI in 2012.
+</P>
+<P>
+Canada should rethink the way it approaches counter-intelligence probes, Figliuzzi said in an interview.
+</P>
+<P>
+"I thought that from Day 1 with Delisle, and my position on that hasn't changed. And I think it can be done with civil liberties still remaining paramount," he said.
+</P>
+<P>
+Authorities don't have the luxury of waiting for different agencies to independently develop the same information because their protocols and regulations require that they not share with each other, Figliuzzi said.
+</P>
+<P>
+"The bad guys don't respect our rules and our protocols. And in fact, they learn to exploit them quite skilfully. And this is an age that requires a swift response to breaking threats."
+</P>
+<P>
+Delisle case worst breach since Cold War, professor says
+</P>
+<P>
+To this day, the Delisle case remains the worst breach of Canadian secrets in the post-Cold War world, said Wesley Wark, an adjunct professor at the University of Ottawa and a senior fellow with the Centre for International Governance Innovation.
+</P>
+<P>
+"There has never been any public accounting of the handling by Canadian authorities of the counter-intelligence investigation," said Wark.
+</P>
+<P>
+The RCMP mounted a crash investigation of the navy spy case over the December 2011 holidays, he noted. "But how much time was lost, and how many secrets, before the Mounties put the cuffs on Delisle?" he asked.
+</P>
+<P>
+The RCMP did not respond to a request for comment.
+</P>
+<P>
+CSIS cannot discuss the Delisle case beyond what was presented in court, said John Townsend, a spokesperson for the intelligence service.
+</P>
+<P>
+He said that disclosing sensitive information could limit CSIS's ability to protect and recruit human sources, significantly affect the service's relationship with partners and reveal its covert methods.
+</P>
+<P>
+"Protecting CSIS information from disclosure means it cannot be relied upon to support a particular case, decision or action," Townsend said. "In some cases, this could lead to the staying of criminal charges, settlements in civil litigation and the reversal of administrative decisions."
+</P>
+<P>
+CSIS works with the RCMP through the "One Vision" framework, which guides how the agencies collaborate on security cases.
+</P>
+<P>
+Over the last decade, CSIS and the RCMP have worked to improve the framework, Townsend said. This has allowed each agency to maintain appropriate separation between respective investigations "while ensuring a functional operational relationship."
+</P>
+<P>
+Federal agencies face challenges when attempting to use intelligence in a form that is admissible as evidence, said Mary-Liz Power, a spokesperson for Public Safety Minister Bill Blair.
+</P>
+<P>
+"This is a long-standing issue considering that an accused individual cannot be tried based on evidence that cannot be disclosed to them in some fashion," she said.
+</P>
+<P>
+CSIS, the RCMP and the Department of Justice are constantly working together to improve their intelligence gathering and address national security threats, Power said.
+</P>
+<P>
+"By breaking down the silos that come to exist over time, the government is confident it will avoid future roadblocks and better manage litigation."
+</P>
+</TEXT>
+</DOC>

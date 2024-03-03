@@ -1,0 +1,183 @@
+<DOC>
+<DOCNO> CB101520-0001 </DOCNO>
+<DATE>
+<P>
+October 15, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+OPINION | Alberta's shift away from coal power is a climate action success story; 
+</P>
+<P>
+Once the backbone of the province’s electricity system, coal power has plummeted
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+This column is an opinion from Andrew Leach, an energy and environmental economist at the University of Alberta, and Blake Shaffer, an assistant professor of economics and public policy at the University of Calgary.
+</P>
+<P>
+If Rachel Notley had stood on the podium in 2015 announcing her government's signature climate change policies and declared that "by 2020, we will use 50 per cent less coal power than we use today," she would likely have been heckled off the stage.
+</P>
+<P>
+"It can't be done!" they would have said. "The lights will go out! Costs will soar! Booooo!"
+</P>
+<P>
+Fast forward to 2020 and here we are. Look at us. 
+</P>
+<P>
+Coal power has plummeted in Alberta. Once the backbone of the province's electricity system, coal now supplies roughly one-quarter of Alberta's electricity.
+</P>
+<P>
+So how did we get here? And what are the consequences of coal's demise?
+</P>
+<P>
+Before we go further, some disclosures: Both of us have worked extensively on climate and electricity policies affecting Alberta's market. Leach chaired Alberta's climate leadership panel, responsible for many of the changes we are discussing today, and we have both advised governments in Edmonton and in Ottawa on electricity-related matters before and since 2015. Shaffer also held a senior trading position at TransAlta, Alberta's largest electricity generator, from 2010 to 2013.
+</P>
+<P>
+Now, back to what happened to coal.
+</P>
+<P>
+Two words: carbon pricing
+</P>
+<P>
+Alberta has had carbon pricing on its large emitters since 2007, making us the first jurisdiction in North America with a carbon price. That policy, the Specified Gas Emitters Regulation, or SGER, encouraged emitters — be they a power plant, an oilsands project or a pulp mill — to reduce their emissions intensity by 12 per cent.
+</P>
+<P>
+Facilities which did not meet this reduction would pay a price of $15 per tonne for emissions in excess of that baseline, while facilities which outperformed could accumulate emissions credits that could be sold or saved for future years.
+</P>
+<P>
+For a typical coal power plant, this policy added roughly $2 per megawatt-hour to their average costs of generation. (For context, a typical power price in Alberta is roughly $60 per megawatt-hour.) No one really expected this would change behaviour or alter the electricity landscape in Alberta.
+</P>
+<P>
+That all changed in 2015. 
+</P>
+<P>
+In a series of annual changes, the carbon price was increased, eventually hitting $30 per tonne in 2017, while at the same time the baseline for free emissions credits was reduced. But a much more significant change occurred in 2018 when the SGER was replaced by a new large emitter scheme. 
+</P>
+<P>
+The new scheme, Carbon Competitiveness Incentive Regulation (or CCIR for those who enjoy their climate policy acronyms), changed how the baseline for free emissions credits was set.
+</P>
+<P>
+Rather than facility-specific allocations, which provided more protection to historically dirtier facilities, the new scheme set a common baseline for all electricity generators at the emissions intensity of an efficient combined cycle natural gas plant. Dirtier facilities would pay more, cleaner ones would benefit. 
+</P>
+<P>
+The effect of this policy change was substantial for coal plants. Their carbon costs, previously around $2 per megawatt-hour in 2015, increased to nearly $20. Whereas, the most efficient natural gas plants in the province saw their carbon costs actually decrease slightly, and low-emission generation came out further ahead, receiving the now higher-valued emissions reduction credits.
+</P>
+<P>
+At the same time, falling natural gas prices further increased the cost advantage of natural gas over coal as a fuel for power generation.  
+</P>
+<P>
+The end result? Since 2015, multiple coal plants have retired while those that remain are running much less often, producing on average less than 50 per cent of their capability.
+</P>
+<P>
+When the UCP came to power in 2019, although they replaced CCIR with their own large emitter scheme (TIER — the acronyms never stop!), it was a change in name only for the electricity sector — they left the details of the NDP policy unchanged.
+</P>
+<P>
+All told, coal is now down to roughly a quarter of Alberta's electricity supply.
+</P>
+<P>
+In addition to carbon pricing, the Notley-era 2030 coal phase-out regulation is also playing an important role, in part because of how it was imposed. In 2016, the Alberta government agreed to compensate coal plant owners for the regulatory shutdown to the tune of roughly $95 million per year over 14 years.
+</P>
+<P>
+While you might not like the idea of compensation, it bought durability and created a coalition of the willing. Rather than fighting their demise, coal generators turned to the future, armed with dollars to finance clean power projects.
+</P>
+<P>
+When the government changed, many — likely including Premier Jason Kenney — thought the coal phase-out would be reversed. Instead, there was very little appetite by industry to give up their coal compensation agreements while still facing low natural gas prices, carbon pricing and federal coal phase-out regulations.
+</P>
+<P>
+The compensation, along with overlapping policies and poor market conditions, provided a defence in depth against a coal resurgence. 
+</P>
+<P>
+The consequences
+</P>
+<P>
+Let's start with the good.
+</P>
+<P>
+In 2015, GHG emissions from Alberta's electricity sector were 47 megatonnes (MT). By 2018, the most recent year of official statistics, that number had already fallen to 33 MT. With the accelerating decline in coal generation, we estimate that Alberta's electricity system emissions will be roughly 25 MT for 2020 — down nearly 50 per cent since 2015.
+</P>
+<P>
+Alberta's coal phase-out is a climate action success story. 
+</P>
+<P>
+Aren't we going to pay for this with higher prices?
+</P>
+<P>
+Alberta's power prices are set by competitive market forces, so the answer to whether prices will go up as a result of these changes is complicated.
+</P>
+<P>
+Low natural gas prices, lower-than-expected demand growth due to challenging economic conditions, and some new power plant construction has led to lower prices than might otherwise have been the case. Rather than coal's decline causing higher prices, it is likely that lower market prices have caused some of the accelerated exit of coal plants. 
+</P>
+<P>
+We certainly have not seen high prices since coal generation started to decline rapidly. Some of the lowest power prices in Alberta's history were seen in 2016 and 2017, and the three years since have seen prices slightly below 15-year average prices, even without adjusting for inflation.
+</P>
+<P>
+It's perhaps too early to judge the long-term effect of Alberta's coal phase-out on prices, but futures markets currently show no sign of significant expected increases.
+</P>
+<P>
+As coal plants retire and the economy recovers from COVID-19, less total supply could lead to the previously feared spike in prices, but that seems unlikely.
+</P>
+<P>
+The market is responding to the coal phase-out, and projects like the recently-announced Cascades natural gas plant, the conversion of several coal plants to run on natural gas, Suncor's (now-delayed) cogeneration expansion, and substantial new wind and solar generation suggest that Alberta will remain well-supplied with reasonable prices for years to come.
+</P>
+<P>
+There were costs involved with phasing out coal. The transition payments paid to the owners of the coal plants might seem large, but it amounts to roughly one fifteenth of a cent per kilowatt-hour.
+</P>
+<P>
+This cost doesn't show up on your power bills; it is borne by the government directly. But that doesn't make it any less real. Nonetheless, it remains a small fraction of the cost of delivered power.
+</P>
+<P>
+The unprofitable Power Purchase Arrangements that were returned to the government in the wake of policy changes made in 2015 also came with large total costs, but they have only added roughly $2 per month to a typical household's bill.
+</P>
+<P>
+Importantly, these costs have occurred because prices have been low. Had prices spiked as some had predicted, these contracts would have proven lucrative!
+</P>
+<P>
+The Alberta government also entered into contracts with renewable energy producers but, despite low prices, the low strike price of these contracts have seen the government come out, so far, slightly ahead, once the value of emissions reduction credits are taken into account.
+</P>
+<P>
+In no sense are Albertans paying substantially more for power because of the changes we've seen in the generation mix.
+</P>
+<P>
+Didn't we just replace our coal power with imported coal power?
+</P>
+<P>
+No. Alberta's electricity market is relatively isolated, and we don't have the capacity to import enough electricity to compensate for the decrease in coal generation. Power imports have increased from 2016 lows, but still constitute only five per cent of Alberta's total supply.
+</P>
+<P>
+The notion that power imports are dirty is also a misnomer. Most of Alberta's 1,200-megawatt import capacity links us to British Columbia's clean, hydro-electric system.
+</P>
+<P>
+Our total import capacity from relatively emissions-intensive markets in Saskatchewan (153 MW) and Montana (300 MW) is barely larger than our largest coal plant. And even in those places, emissions intensities are falling. Like in Alberta, Montana's coal share is on the decline, and its fastest growing source of electricity supply is wind power. 
+</P>
+<P>
+Costs of the energy transition
+</P>
+<P>
+As we celebrate the decline in emissions that comes with the shuttering of coal power plants, we must not ignore the communities hardest hit by these changes.
+</P>
+<P>
+Many of Alberta's communities are deeply tied to coal and, as plants close, there will be jobs lost and businesses shuttered. The rapid decline in coal generation risks outrunning any government plans for a just transition.
+</P>
+<P>
+The impacts on these communities will be magnified by the broad malaise in Alberta's economy.
+</P>
+<P>
+With all the attention focused on job losses in the service and oil and gas sectors due to the combined effects of the pandemic and the oil price crash, we must not lose sight of the structural changes affecting communities like Hanna, Keephills, and Forestburg. 
+</P>
+<P>
+Conclusion
+</P>
+<P>
+Alberta's shift away from coal power should be the most talked-about climate policy story in Canada today. That it's happened without the large increases in prices or concerns regarding reliability that were so loudly predicted five years ago is all the more remarkable.
+</P>
+<P>
+The market can move quickly when policies provide clear price signals and create opportunities for new entrants to take the place of incumbents and for new technology to replace the old.
+</P>
+<P>
+This column is an opinion. For more information about our commentary section, please read our FAQ.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,93 @@
+<DOC>
+<DOCNO> CB040522-0001 </DOCNO>
+<DATE>
+<P>
+April 05, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+'Nation-building' investments in electricity grid needed to reach net-zero: experts; 
+</P>
+<P>
+Provinces, Crown corporations, and electric utilities would all have to agree, non-profit head says
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A price tag in the tens or hundreds of billions of dollars, and a project scope akin to that of the construction of the Canadian Pacific Railway in the 1800s.
+</P>
+<P>
+That's the scale of the massive investment in Canada's electricity grid that experts say will be required in the near future, as the phase-out of fossil fuel-fired power generation combined with a rapid increase in demand for electricity puts never-before-seen demands on Canada's electrical grid.
+</P>
+<P>
+"The general consensus is that we will need to double or triple the size of our electricity system between now and 2050," said Bruce Lourie, chair of the non-profit advisory organization The Transition Accelerator.
+</P>
+<P>
+A 'monumental' task
+</P>
+<P>
+"I don't think Canadians ... are recognizing or prepared for how monumental a task this is ahead of us."
+</P>
+<P>
+The federal government, in its emissions reduction plan released last week, describes the need for "nation building" interprovincial transmission lines if Canada is to have a shot at meeting its climate target of cutting emissions by 40 per cent below 2005 levels by 2030, and net-zero emissions by 2050.
+</P>
+<P>
+Canada already has one of the cleanest electricity grids in the world, with over 80 per cent produced by non-emitting sources. But in order to slow the pace of climate change, electrifying more activities — everything from vehicles to heating and cooling buildings to various industrial processes — will be required. And not only will the country need more electricity, but more of it will need to come from non-emitting sources.
+</P>
+<P>
+Moving renewable power
+</P>
+<P>
+One way to do that would be to build new transmission lines that could move renewable power from jurisdictions like Quebec, Manitoba, and British Columbia — which have vast supplies of clean hydropower — to jurisdictions like Alberta, New Brunswick, Nova Scotia, and Saskatchewan, which are all still reliant on fossil fuels for electricity generation.
+</P>
+<P>
+But it's not a straightforward task. In Canada, electricity falls under provincial jurisdiction, and each province's system has developed independently from the rest.
+</P>
+<P>
+Alberta, for example, has a fully deregulated electricity market, while electricity in neighbouring B.C. is produced and sold by a Crown corporation.
+</P>
+<P>
+"The provinces, Crown corporations, and electric utilities would all have to agree on this," Lourie said. "At the end of the day, politicians are going to have to sit down and sort this stuff out."
+</P>
+<P>
+The federal government has already pledged $25 million to help proponents begin developing regional net-zero electricity interties.
+</P>
+<P>
+Ottawa has said it wants to "lead engagement" across Atlantic Canada for the proposed Atlantic Loop initiative, which is intended to connect Nova Scotia and New Brunswick with clean hydropower from Quebec and Newfoundland.
+</P>
+<P>
+But a great deal more work will be required to make the Atlantic Loop, or any other regional intertie project, a reality. Not only are new transmission lines expensive (Lourie estimates creating a true east-west system of regional interties across Canada could cost upwards of $100 billion), they tend to be controversial — often attracting pushback from local residents and other interest groups.
+</P>
+<P>
+Recently, for example, voters in Maine rejected a planned $1 billion U.S. transmission line that was to carry electricity through the state from Hydro-Quebec's network to Massachusetts.
+</P>
+<P>
+"It's a fairly narrow group of people who don't want a power line running through their state, but what it means is we're going to have greater costs and more difficulty getting to our climate targets because of these campaigns," Lourie said.
+</P>
+<P>
+Building support
+</P>
+<P>
+Binnu Jeyakumar, director of clean energy for the environmental think tank The Pembina Institute, said Canada's political leaders must start working to build support for these types of projects now.
+</P>
+<P>
+"Transmission projects, we look at them as about a decade long time frame. And we definitely don't have that kind of time frame. We need solutions right away," she said.
+</P>
+<P>
+But Jeyakumar said it is possible for change to happen quickly, if governments send the right market signals. She pointed to what has happened in Alberta, which is expected to be off of coal-fired electricity entirely next year after the provincial government committed in 2015 to a phase-out of coal power by 2030.
+</P>
+<P>
+She said the federal government's promised Clean Electricity Standard, which aims to support a net-zero electricity grid by 2035, will send another clear signal to investors and will incentivize spending on grid upgrades and intertie projects.
+</P>
+<P>
+"What this is going to do is put in regulatory carrots and sticks to make sure the grid decarbonizes," Jeyakumar said. "This is how policy can be really impactful."
+</P>
+<P>
+While electricity infrastructure may not be as headline-grabbing as a shiny new Tesla or a cutting-edge solar farm, Jeyakumar said other efforts at decarbonization will fail if we don't build a grid that can support them.
+</P>
+<P>
+"It's one of those basic building blocks that needs to be changed so we can see those types of solar projects and electric vehicles on the road," she said.
+</P>
+</TEXT>
+</DOC>

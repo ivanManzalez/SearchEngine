@@ -1,0 +1,213 @@
+<DOC>
+<DOCNO> CB060521-0001 </DOCNO>
+<DATE>
+<P>
+June 05, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+The U.S. now likens cyberattacks to terrorism. Here's what that could mean; 
+</P>
+<P>
+Recent digital attacks targeting pipeline, hospitals and meat processors may bring new resolve to Washington
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The director of the FBI compares this moment to 9/11: A time of reckoning about a threat that's increasingly proven its ability to destabilize society.
+</P>
+<P>
+He's referring to cyberattacks.
+</P>
+<P>
+Recent digital ransom attacks have accelerated an acknowledgment in Washington that the current trajectory is untenable. 
+</P>
+<P>
+That's after meat plants were shuttered temporarily including in Canada this week; after cars lined up at empty U.S. gas stations when a major pipeline was hacked. 
+</P>
+<P>
+A hacker recently tampered with chemical levels at a water-treatment plant in Florida. Nuclear and other power facilities, voting systems, political parties, hospitals and governments have all been compromised.
+</P>
+<P>
+"This is our new normal," said Nicole Perlroth, a cybersecurity reporter at The New York Times and author of a new book on the history of cyberattacks.
+</P>
+<P>
+Unless governments start taking the threat more seriously, she said in an interview: "This is only going to keep happening." 
+</P>
+<P>
+The issue appears on the U.S. political agenda now.
+</P>
+<P>
+U.S. lawmakers next week will grill the CEO of Colonial Pipeline, the company at the centre of a recent cyber attack, at two separate hearings in the House and Senate. The Justice Department has labelled the threat as on par with terrorism.
+</P>
+<P>
+U.S. President Joe Biden intends to raise hacking in his first meeting with Russian President Vladimir Putin later this month.
+</P>
+<P>
+The Biden administration is also reportedly mulling cyberattacks of its own against Russians, enraged at ransomware attacks from that country.
+</P>
+<P>
+Yet Americans must weigh such attack plans against the reality that in a tit-for-tat exchange, their highly connected nation is as exposed as any on Earth and filled with potential targets for reprisal.
+</P>
+<P>
+Meanwhile international talks are inching along at the United Nations toward a so-called digital Geneva Convention — a global pact on what cybercrimes must be off-limits. 
+</P>
+<P>
+That effort remains a long way off and human rights groups are wary of the Russian-led initiative, fearing authoritarian governments might use it to crack down on political dissent.
+</P>
+<P>
+Perlroth's new book, This Is How They Tell Me the World Ends, explores two key questions: How did we get here? And where do we go next?
+</P>
+<P>
+How a market was born
+</P>
+<P>
+It begins with programmers in the 1990s who hacked as a hobby, probing software for security flaws and trying to alert companies.
+</P>
+<P>
+They were treated as a nuisance or worse by companies like Microsoft that resented their products being picked apart.
+</P>
+<P>
+Eventually, an entrepreneurial Texan had an insight: Why not monetize this work? 
+</P>
+<P>
+John Watters bought a cash-strapped tech company and began paying hackers for what they discovered in the early 2000s, then published their findings in security reports he sold to corporate clients.
+</P>
+<P>
+A market was born. 
+</P>
+<P>
+It involved a brand new commodity, the discovery and sale of so-called zero-days — software flaws that allow intruders to inflict damage with zero warning.
+</P>
+<P>
+Intelligence agencies came calling. Perlroth writes that deep-pocketed buyers affiliated with the U.S. government transformed the market.
+</P>
+<P>
+Zero-days Watters once bought for $400 were suddenly going for $150,000 to U.S. government contractors; employees at the National Security Agency were quitting government jobs and doubling their annual salary by selling just one hack.
+</P>
+<P>
+WATCH | The rising cost of a ransomware attack: 
+</P>
+<P>
+The power of military cyberweapons came to public light in a 2010 attack on an Iranian uranium plant that slowed Iran's nuclear program.
+</P>
+<P>
+Foreign states and criminal gangs awoke to the possibilities of stockpiling zero-days. Unknown buyers were now offering hackers multimillion-dollar paydays.
+</P>
+<P>
+'This would only end badly'
+</P>
+<P>
+Perlroth's book describes a hacking conference in Vancouver a decade ago where one NSA veteran scanned a room filled with attendees from all over the world and shook his head, realizing that the United States was about to lose control of weapons it helped create.
+</P>
+<P>
+"This, the man told himself, would only end badly," she writes.
+</P>
+<P>
+Catastrophe struck a few years later, in the aftermath of the public revelations by Edward Snowden of the NSA's programs. 
+</P>
+<P>
+Suspected Russian hackers dumped online the NSA's stockpile of zero-days, which have since been used around the world in countless criminal attacks.
+</P>
+<P>
+The 2017 WannaCry attack, for example, using the NSA's tools knocked hundreds of thousands of computers offline.
+</P>
+<P>
+Criminals demanded ransom payments and disrupted hospitals in Britain, numerous government offices and companies in 150 countries, in sectors including automobiles, rail, and package-delivery.
+</P>
+<P>
+The economic damage from cyberattacks had already far surpassed the economic toll of terrorism, Perlroth writes.
+</P>
+<P>
+A 2018 paper from the Rand Corporation think-tank estimated cyberattacks had already cost the global economy trillions of dollars.
+</P>
+<P>
+Fuming at Moscow
+</P>
+<P>
+U.S. officials fume that Russia has given cybercriminals carte blanche to operate on its soil, even using them as allies against the West.
+</P>
+<P>
+Putin has compared Russian hackers to talented artists. 
+</P>
+<P>
+Perlroth's book says Putin laid down two rules for Russia's hackers: First, no attacks against Russians, and second, when the Kremlin asks for a favour, do it.
+</P>
+<P>
+WATCH | Cyberattack targets major U.S. pipeline:
+</P>
+<P>
+An official who led cybersecurity operations for the Obama White House said in an interview that he recalls one ground-shifting moment in 2014.
+</P>
+<P>
+It occurred even before attacks on the U.S. election, which the Mueller report blamed on the Russian government.
+</P>
+<P>
+As U.S.-Russia tensions escalated after the invasion of Ukraine in 2014, American officials found Russian hackers in numerous federal networks, says Michael Daniel.
+</P>
+<P>
+An unusual thing happened when American IT kicked them off the networks: Instead of hiding their tracks and disappearing, they kept popping up.
+</P>
+<P>
+"They came back. And they contested control of the network," says Daniel, now president and CEO of the Cyber Threat Alliance, who was the White House cybersecurity coordinator from 2012 to 2017.
+</P>
+<P>
+"[They] were willing to be upfront and brazen in a way we had not seen before. And that was very much a signal that I think that things had changed." 
+</P>
+<P>
+What's next
+</P>
+<P>
+So what now?
+</P>
+<P>
+A recent U.S. ambassador to Russia, Michael McFaul, says don't expect much from the Putin-Biden summit on June 16. He says the Russian leader has no interest in better relations with the West. 
+</P>
+<P>
+On the domestic front, Biden issued executive orders this month aimed at upping America's cybersecurity game.
+</P>
+<P>
+One on May 12 calls for changes in federal contracting so that companies doing business with the U.S. government abide by stricter security protocols like two-factor authentication, use cloud storage, and keep records for every login.
+</P>
+<P>
+WATCH | Concerns hackers are trying to disrupt COVID-19 vaccine supply chain: 
+</P>
+<P>
+It also created a digital equivalent of the National Transportation Safety Board: as the NTSB investigates plane crashes, the new Cyber Safety Review Board would review computer incidents.
+</P>
+<P>
+Cryptocurrency is another concern.
+</P>
+<P>
+Multimillion-dollar ransoms are being paid in digital currencies not subject to the same identity disclosure and money-laundering requirements as standard financial transactions.
+</P>
+<P>
+Perlroth says she's frustrated that people are slow to run software updates. After the NSA weapons were unleashed in 2017, for example, software companies released updates; she says too many people failed to download the patches.
+</P>
+<P>
+She wants the U.S. Congress to pass new laws making cyber-hygiene a requirement for companies. 
+</P>
+<P>
+What's causing sleepless nights
+</P>
+<P>
+She also urges more funding for research like the Pentagon-supported program studying the design of new microchips that stop suspicious code from spreading.
+</P>
+<P>
+Her book says covering cyberwarfare has caused her numerous sleepless nights. Asked what sort of attack keeps her awake, she says it's not just one thing, like signs of hacking into voting systems and computers at nuclear plants.
+</P>
+<P>
+It's everything. 
+</P>
+<P>
+At the very moment she sat for an interview with CBC News last week, she saw a headline pop up about a ransomware attack on the Nantucket Ferry.
+</P>
+<P>
+Instead of a digital Pearl Harbor attack, she says, we're witnessing a slow-rolling plague: theft of intellectual property, public agencies paralyzed, infrastructure, even democracies, more vulnerable.
+</P>
+<P>
+"What else is left?" she said.
+</P>
+</TEXT>
+</DOC>

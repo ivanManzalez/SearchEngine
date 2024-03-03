@@ -1,0 +1,195 @@
+<DOC>
+<DOCNO> CB080523-0001 </DOCNO>
+<DATE>
+<P>
+August 05, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Why are Calgarians paying so much for electricity lately? Here are answers to 5 common questions; 
+</P>
+<P>
+'Local access fee' tied to price of electricity, amplifying swings on your power bill
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+There have been some wild swings in Alberta's electricity prices lately, and Calgarians have received some especially shocking news when they've opened up their power bills.
+</P>
+<P>
+That's because Calgary is unlike other municipalities in how it calculates one of the many components of your electricity bill — the "local access fee."
+</P>
+<P>
+Like the price of electricity, itself, this particular fee is a lot higher than it used to be.
+</P>
+<P>
+And that's by design.
+</P>
+<P>
+The City of Calgary has chosen to tie its local access fee to the price of electricity. So, when prices go up, so does the fee. And when prices go down, the fee comes down too.
+</P>
+<P>
+It's been this way for decades and, for the most part, people haven't really noticed or complained too much. After all, when electricity prices were low, this meant even lower bills for Calgarians than people were paying in, say, Edmonton.
+</P>
+<P>
+But these days — for a number of complicated reasons related to Alberta's complex electricity market — things have swung the other way.
+</P>
+<P>
+Calgary homeowners are on track to pay an average of about $260 in local access fees this year, versus about $80 in Edmonton, according to Thomas Glenwright with the energy consulting firm Energy Associates International.
+</P>
+<P>
+So what's going on?
+</P>
+<P>
+Here are answers to five common questions about the whole situation.
+</P>
+<P>
+What is the local access fee, anyway?
+</P>
+<P>
+Enmax Power, Calgary's electricity distributor, collects the fee and pays the money to the City of Calgary in lieu of property taxes.
+</P>
+<P>
+The fee is mutually agreed upon between the City of Calgary and Enmax Power (which is a subsidiary of Enmax, a city-owned private corporation). The agreement must be approved by the Alberta Utilities Commission.
+</P>
+<P>
+In other municipalities, this type of agreement is also known as a "franchise fee." Essentially, it grants an electricity distributor exclusive rights to access municipal lands and provide electrical services.
+</P>
+<P>
+What makes Calgary's agreement different is how its calculated.
+</P>
+<P>
+While other municipalities tend to calculate their fees based on a fixed rate, Calgary's local access fees fluctuate along with the price of electricity — specifically, the "regulated rate option" or RRO.
+</P>
+<P>
+What is the regulated rate option (RRO)?
+</P>
+<P>
+The RRO is the default price for electricity that you pay if you haven't entered into a pricing contract with your electricity retailer.
+</P>
+<P>
+"The RRO rate fluctuates each month based on market price for electricity in Alberta, which depends on supply and demand across the province," Enmax explains on its website.
+</P>
+<P>
+And lately, those market prices have been through the roof.
+</P>
+<P>
+In Calgary, the rate spiked to 22 cents per kilowatt hour last December, before the UCP government put a temporary cap on the RRO, limiting the price to 13.5 cents for three months.
+</P>
+<P>
+Once that cap ended in April, however, prices surged again.
+</P>
+<P>
+They reached nearly 32 cents per kilowatt hour in August.
+</P>
+<P>
+Why is the RRO so high lately?
+</P>
+<P>
+There are several factors at play here.
+</P>
+<P>
+The biggest factor is a "reduction of competition," according to Blake Shaffer, an economist with the University of Calgary who specializes in electricity markets.
+</P>
+<P>
+"There's more concentration of ownership of the power plants within a few companies, which allows them to raise their offer prices," Shaffer said.
+</P>
+<P>
+That ownership concentration is related to Alberta's power purchasing agreements coming to an end.
+</P>
+<P>
+Another factor is the hangover from the temporary rate cap that the provincial government put in place for January, February and March.
+</P>
+<P>
+Costs above the temporary cap were effectively deferred, and the deficit is now being made up by tacking it on to the RRO.
+</P>
+<P>
+"That's adding about 2.5 cents," Shaffer said.
+</P>
+<P>
+Those costs will continue to be tacked on until December 2024.
+</P>
+<P>
+What role does the carbon tax play?
+</P>
+<P>
+Other people have pointed to carbon pricing as a factor in the energy-price spike, given that natural gas is the dominant source of electricity generation in Alberta.
+</P>
+<P>
+Shaffer, however, says there are numerous misunderstandings surrounding the role that carbon pricing plays.
+</P>
+<P>
+First and foremost: the federal carbon tax doesn't even apply to electricity generation in Alberta.
+</P>
+<P>
+Rather, gas-fired power plants and other, large-scale industrial emitters fall under Alberta's provincial carbon-pricing system.
+</P>
+<P>
+Alberta was the first province in Canada to put a carbon price on large industrial emitters back in 2007.
+</P>
+<P>
+The province's pricing system has gone through several iterations since then and, under the current system, not all electricity generators pay a carbon price.
+</P>
+<P>
+That's because the pricing system has two components:
+</P>
+<P>
+The system is designed so that the carbon price and value of the output credits effectively cancel each other out when it comes to high-efficiency natural-gas power plants.
+</P>
+<P>
+Shaffer said this creates a baseline level of emissions intensity. Power plants that emit above the baseline end up having to pay, while plants that emit below the baseline actually earn credits and reduce their generating costs. 
+</P>
+<P>
+"That baseline is set at roughly the level of the Shepard gas plant here — owned by Enmax — in the city of Calgary," Shaffer said.
+</P>
+<P>
+"That plant can effectively emit for free ... and plants like that are the marginal price-setters some hours, meaning [the carbon tax] has no impact on prices."
+</P>
+<P>
+However, he said, when less efficient plants (often former coal plants that have been converted to run on natural gas and fire up during peak demand periods) are setting wholesale prices, the provincial carbon tax does add to the cost of electricity by about two cents per kilowatt hour.
+</P>
+<P>
+Wholesale market prices fluctuate from hour to hour, so the overall effect on electricity prices will vary.
+</P>
+<P>
+But, Shaffer says, when you add it all up, the net effect of Alberta's carbon tax on electricity prices is roughly one cent per kilowatt hour.
+</P>
+<P>
+Why does Calgary tie the local access fee to the RRO?
+</P>
+<P>
+This is a question many people have been asking since the RRO price has surged, pushing the local access fee up with it.
+</P>
+<P>
+Oyin Shyllon, an economist with the City of Calgary, told CBC News the city has been using this method for calculating the local access fee since the late 1990s.
+</P>
+<P>
+"When prices go low, we receive less and when prices go high, we receive more," he explained.
+</P>
+<P>
+Coun. Andre Chabot defended the city's approach to calculating the local access fee, saying it acts as a "natural hedge" for the city's own electricity costs.
+</P>
+<P>
+"It adjusts our revenue to to compensate us for additional costs or additional savings depending on what we have to negotiate new contracts for," he said Friday on The Calgary Eyeopener.
+</P>
+<P>
+In Shaffer's view, however, that's not a good reason to tie the local access fee to the RRO.
+</P>
+<P>
+"I don't really like that answer, because that's basically saying, 'We want to hedge on the backs of Calgarians. Let them face the risk, not us.'"
+</P>
+<P>
+Shaffer says the city uses other methods to hedge against price fluctuations for diesel fuel, and it could do something similar for electricity, as well.
+</P>
+<P>
+The problem with the city's current methodology, in his view, is that it "amplifies affordability pressures."
+</P>
+<P>
+"When power prices are high and people are struggling to afford things, the local access fee also increases," he said.
+</P>
+<P>
+"This is actually making the problem worse."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,150 @@
+<DOC>
+<DOCNO> CB030621-0001 </DOCNO>
+<DATE>
+<P>
+March 06, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Green air travel is still decades away. Here's why; 
+</P>
+<P>
+Airplane manufacturers are making big moves to decarbonize — but is it too little too late?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Travellers grounded by the COVID-19 pandemic may be dreaming of returning to the skies, but it's going to be at least 15 years before passengers can fly long distances in a more environmentally friendly way, according to top aviation industry experts.
+</P>
+<P>
+Car manufacturers such as General Motors, Ford and Volkswagen have significantly sped up their plans to create all-electric vehicles and decarbonize their operations.
+</P>
+<P>
+But the aviation industry has been slower to evolve. While manufacturers like Airbus are promising to create a fleet of hydrogen-fuelled planes that could be in service by 2035, the future of green travel is still up in the air.
+</P>
+<P>
+That's in large part because little has been done to push the industry to adopt greener measures, said Andrew Murphy, director of aviation for Transport and Environment, a European non-profit that works with government and industry to decarbonize transportation.
+</P>
+<P>
+"Governments have stepped in over the years in areas like car efficiency, building standards and renewable electricity, and they've put a lot of laws in place, and they've put a lot of targets and financing in place," Murphy said in an interview with What on Earth guest host Johanna Wagstaffe.
+</P>
+<P>
+"As a result, we're starting to see other sectors cut their emissions. In the aviation sector, I think it's fair to say we haven't really even been trying."
+</P>
+<P>
+'The airline sector doesn't have a plan'
+</P>
+<P>
+Part of the problem is that individual countries don't properly count their aviation emissions, especially those from international travel, he said. Instead, the industry has focused on smaller, incremental changes and carbon offsets, which Murphy said amount to a distraction from the larger problem.
+</P>
+<P>
+Offsets tend not to work because they often end up paying to plant trees that get cut down, or funding green energy projects that were going to happen anyway, he said. What's more the emissions people are offsetting are still going into the atmosphere.
+</P>
+<P>
+"You're basically just postponing the problem by five years or 10 years," said Murphy. "The aviation sector has constantly put off having to reduce its own emissions … And that's catching up with it because it doesn't have the technologies and the solutions in place."
+</P>
+<P>
+Murphy applauds Airbus's commitment to developing zero-carbon aircraft, but says it will be extremely challenging and costly, and that the manufacturer has been vague about how much money it will commit to the project.
+</P>
+<P>
+At the same time, governments around the world are adopting net-zero climate targets to meet their Paris agreement commitments.
+</P>
+<P>
+"It's getting harder for the aviation sector to just say, 'Well our aircraft are more efficient, [which] was their big selling point. The Paris Agreement isn't about burning fossil fuels more efficiently. … The Paris Agreement is about stopping powering your economy or your planes with fossil fuels," said Murphy.
+</P>
+<P>
+"The airline sector doesn't have a plan to date, and it's kind of scrambling to come up with one."
+</P>
+<P>
+'One of the most carbon intensive activities we can do'
+</P>
+<P>
+Aviation is responsible for roughly two per cent of global carbon emissions, and if you take into account the amplified damage that takes place from flying at high altitude, said Murphy, that number is likely substantially higher.
+</P>
+<P>
+"In our daily lives, getting on a flight is one of the most carbon intensive activities we can do. Dollar for dollar or hour for hour, it is the thing we do that warms the planet most."
+</P>
+<P>
+The biggest culprit are long-haul flights. In Europe, 50 per cent of emissions come from just six per cent of flights, he said. "So the big problem we have is long-haul aviation — and long-haul aviation is the one which is hardest to decarbonize."
+</P>
+<P>
+David Zingg, a professor at the University of Toronto's Institute for Aerospace Studies, agrees.
+</P>
+<P>
+Large airliners powered by hydrogen are still a long way off, and given the weight of our current batteries, electrification isn't a realistic option for anything but short-haul flights. (In 2019 Vancouver's Harbour Air conducted what it says is the world's first all-electric flight of a commercial plane, and it hopes to have passengers flying in all-electric seaplanes in two years.)
+</P>
+<P>
+Watch | The world's first test of a fully-electric plane
+</P>
+<P>
+Instead, Zingg has focused on creating aircraft designs that have different body and wing configurations that reduce both weight and aerodynamic drag — and in turn limit the amount of fuel required to fly them.
+</P>
+<P>
+"When you reduce drag, you reduce fuel burn in proportion," he said. "So if you can reduce drag by 10 per cent, you can reduce CO2 emissions by the same amount."
+</P>
+<P>
+'It's not like an iPhone'
+</P>
+<P>
+At the same time, if manufacturers make the engines more fuel efficient, and use a larger proportion of biofuels, they can substantially reduce emissions from existing aircraft, said Zingg.
+</P>
+<P>
+On average, fuel efficiency has improved two per cent per year, and is driven primarily by  introducing new planes, which are often 20 to 30 per cent more efficient than their predecessors.
+</P>
+<P>
+"So the faster airlines renew their fleets, the faster we can improve that fuel efficiency," Zingg said. But  that's not  easy to afford.
+</P>
+<P>
+"Normally an airline is going to want to use its aircraft for 25 years. It's not like an iPhone where if a better one comes out, you just discard the old one. With an aircraft there's a bigger investment involved."
+</P>
+<P>
+In 2012, the Government of Canada and the aviation industry released Canada's Action Plan to Reduce Greenhouse Gas Emissions from Aviation and worked with industry to improve aircraft fuel efficiency.
+</P>
+<P>
+Between 2008 and 2018, the industry achieved an 18 per cent improvement in efficiency. The Action Plan ended December 31, 2020, and Transport Canada says it's looking at extending the project.
+</P>
+<P>
+In an emailed statement to What on Earth, it added that the government is working with the aviation industry to accelerate technology development and the deployment of low-carbon fuel options.
+</P>
+<P>
+On February 21, Transport Canada and the U.S. Department of Transportation also released a joint statement about the link between transportation and climate change, saying the organizations are committed to working together on the goal of net zero emissions by 2050. The statement also says the governments will pursue a mix of cleaner fuels and technologies, as well as offsets.
+</P>
+<P>
+'A really big challenge'
+</P>
+<P>
+So how optimistic is Zingg that decarbonizing aviation can be achieved?
+</P>
+<P>
+"I'm very optimistic that aviation can reduce its climate impact to the point where we can continue to fly to some extent. I certainly am not optimistic that we can, in a short time, be flying with zero carbon emissions," said Zingg.
+</P>
+<P>
+"To have 100 per cent biofuels or to have 100 per cent hydrogen? Certainly not before 2035 — and if we make it by 2050, I think it would be a phenomenal achievement."
+</P>
+<P>
+In the meantime, some travellers are taking matters into their own hands. Dr. Erica Frank is a University of British Columbia UBC professor and Canada Research Chair in preventive medicine and population health who took part in a 2018 UBC case study about business travel.
+</P>
+<P>
+It found that business-related air travel by UBC faculty and staff accounted for between 63 and 73 per cent of the university's total operational emissions. The study also found that 50 per cent of the emissions were produced by between eight and 11 per cent of the university's population.
+</P>
+<P>
+Frank has travelled to 69 countries for both business and pleasure. But long before COVID clipped most travellers' wings, she decided to almost entirely give up flying after a friend showed her a graph revealing how the carbon impact of flying stacks up against other activities.
+</P>
+<P>
+"It was astonishing and humbling," said Frank. "One round trip flight to Toronto economy class had a bigger carbon footprint than the average person in Nepal or the Philippines would have in a whole year."
+</P>
+<P>
+Frank still takes the occasional plane trip for work or family, but tries to combine trips for less flying overall — and she always books economy class because it's more efficient.
+</P>
+<P>
+But for the most part, Frank has learned to connect with people online — and because of the pandemic, the rest of the world has joined her.
+</P>
+<P>
+"We've all had a year plus long tutorial in the necessity of doing this from a pandemic perspective," she said.
+</P>
+<P>
+"And now hopefully, we can apply some of those lessons and address the necessity of flying less from a climate change perspective."
+</P>
+</TEXT>
+</DOC>

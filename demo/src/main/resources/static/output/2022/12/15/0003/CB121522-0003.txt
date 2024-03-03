@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> CB121522-0003 </DOCNO>
+<DATE>
+<P>
+December 15, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Major Canadian grocery chain says cyberattack cost $25 million; 
+</P>
+<P>
+The report does not clarify the nature of the attack, whether it was ransomware or if it was paid
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The parent company of the Sobeys grocery store chain says a cyberattack last month will cost $25 million.
+</P>
+<P>
+The grocery store operator disclosed the estimate in second quarter results released Thursday by Empire Co.
+</P>
+<P>
+"Empire estimates, based on available information, that the financial impact on fiscal 2023 annual net earnings will be approximately $25 million, net of insurance recoveries," the company said.
+</P>
+<P>
+The report does not clarify the nature of the attack, whether it was ransomware or if any ransom was paid.
+</P>
+<P>
+The company owns 1,500 stores across Canada, including Sobeys, Lawtons, IGA, Safeway, Foodland, FarmBoy, Needs and other grocery outlets. Empire reported it earned $189.9 million in its most recent quarter, up eight per cent from $175.4 million in the same quarter last year.
+</P>
+<P>
+Employees have told CBC News the cyberattack did involve ransomware and caused turmoil at Empire-owned stores across the country. Staff at in-store pharmacies were unable to access their computers to fill prescriptions for several days following the attack and some outlets ran short of items.
+</P>
+<P>
+The company is still investigating whether customers' personal data was stolen in the attack.
+</P>
+<P>
+If it finds data has been removed, it will take steps with privacy regulators and impacted individuals, it said.
+</P>
+<P>
+"The company takes the protection of personal information as critically important."
+</P>
+<P>
+Nov. 4 attack
+</P>
+<P>
+Sobeys was hit with what it now calls a "cyber security event" on Nov. 4.
+</P>
+<P>
+It was previously described as an "information technology systems issue."
+</P>
+<P>
+Empire says cyber security experts were immediately hired, the source isolated and measures taken to prevent further spread.
+</P>
+<P>
+Pharmacy services were shut down for four days.
+</P>
+<P>
+Self checkouts, gift cards and points were impacted for about a week, the company said.
+</P>
+<P>
+Empire CEO Michael Medline said the company's initial press release "was as specific as we could make it due to security reasons."
+</P>
+<P>
+He refused to provide any more details, saying "we will not elucidate further on this subject beyond these prepared remarks in our published disclosure."
+</P>
+<P>
+Medline told analysts on Thursday "our customers would have noticed very few changes to their usual shopping experience. We have been able to fully serve customers for several weeks now and we are in a very good position to help customers celebrate the holidays."
+</P>
+<P>
+Empire chief financial officer Matt Reindel said the company will not provide the total cost of the attack. The $25-million figure is after expected insurance payouts.
+</P>
+<P>
+That includes loss of product and direct costs such as informational technology, professional expenses and legal expenses. Empire said it has cyber insurance but there may be a lag between "the incurrence of costs and confirmation of insurance proceeds."
+</P>
+<P>
+It says the attack will not have a material impact on its bottom line in 2023.
+</P>
+</TEXT>
+</DOC>

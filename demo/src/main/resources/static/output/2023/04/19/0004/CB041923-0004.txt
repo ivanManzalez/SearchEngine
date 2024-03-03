@@ -1,0 +1,69 @@
+<DOC>
+<DOCNO> CB041923-0004 </DOCNO>
+<DATE>
+<P>
+April 19, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Banking regulator OSFI flags housing market as risk for Canada's economy; 
+</P>
+<P>
+Office of the Superintendent of Financial Institutions is reviewing mortgage stress test rules
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada's bank regulator said it is preparing for strain in the housing market to potentially last throughout the year as it flags the sector as a growing concern.
+</P>
+<P>
+The Office of the Superintendent of Financial Institutions (OFSI) said Tuesday in its latest annual risk outlook that the housing market is its top source of worry, as high rates mean higher default probabilities.
+</P>
+<P>
+"OFSI is preparing for the possibility, but not predicting, that the housing market will experience sustained weakness throughout 2023," said superintendent Peter Routledge on a media conference call.
+</P>
+<P>
+Credit quality, however, so far looks quite strong and residential real estate remains sound, he said.
+</P>
+<P>
+"What's interesting now is how benign conditions have remained. Underlying that is a very strong economy, unemployment is still very low. And because of that, Canadians are servicing the higher cost of debt quite handily."
+</P>
+<P>
+The risk outlook is meant to remind everyone that while finances look strong, the risks are still out there, he said.
+</P>
+<P>
+Mortgage stress test rules under review
+</P>
+<P>
+To better prepare for future risks, the regulator is working through its review of B-20 mortgage underwriting rules that include the stress test. Public consultations closed April 14 on the first phase looking at debt servicing measures to control risks around high consumer debt levels, while further consultations are planned as part of the process that is expected to run much of the year.
+</P>
+<P>
+The regulator is also taking a closer look at how banks are handling variable rate fixed-payment mortgages, which keeps monthly payments the same even as interest rates rise by putting less and less of the payments toward the principle. The payments for some borrowers aren't even covering interest costs through, so banks have been stretching out the amortization period.
+</P>
+<P>
+The specific mortgage product isn't an immediate concern, said Routledge, but it could become one in the next two or three years as the terms begin to reset and be repriced and borrowers feel a greater hit from higher rates.
+</P>
+<P>
+The regulator is actively assessing the risk and looking into whether banks are putting enough capital aside for potential issues from borrowers with the product.
+</P>
+<P>
+Liquidity, commercial real estate also of concern
+</P>
+<P>
+Outside of the housing market, OFSI also noted liquidity concerns as a top risk as banks pull back on lending and higher rates act as a form of tightening.
+</P>
+<P>
+"Generally we're seeing across all lending sectors, including commercial lending, slowdown in credit growth," said Routledge. "Anecdotally, I would characterize it as so far as a manageable, not extraordinary slowdown."
+</P>
+<P>
+The collapse of Silicon Valley Bank and Credit Suisse have also raised concerns that banks will become more cautious on lending, but Routledge said that so far, he's seen a deceleration in credit growth, not a decline.
+</P>
+<P>
+Commercial real estate is another source of risk as office values have plunged because of the shift to remote work. The regulator said it is conducting targeted monitoring and considering whether to develop specific guidelines for the sector.
+</P>
+<P>
+Other key areas of concern include the growth of private credit from providers like hedge funds and pensions as lending in the space has boomed in the last decade with little to no prudential regulation; digital innovation in finance through areas like cryptocurrency and artificial intelligence; climate change issues related both to physical risks and transition risks; cybersecurity, especially amid higher geopolitical tension; and third-party risks from banks relying on systems like cloud computing.
+</P>
+</TEXT>
+</DOC>

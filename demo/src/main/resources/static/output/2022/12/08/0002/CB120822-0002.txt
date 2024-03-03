@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> CB120822-0002 </DOCNO>
+<DATE>
+<P>
+December 08, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Halifax Transit fare-paying app rolling out in 2023; 
+</P>
+<P>
+Municipality, Masabi in the process of finalizing contract
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The mobile app that will allow Halifax Transit riders to pay for a bus or ferry ride with their phone won't roll out until 2023.
+</P>
+<P>
+There was some talk about the app potentially being ready in December, but a spokesperson for the Halifax Regional Municipality told CBC News in an email the contract with the U.K. company Masabi is still being finalized.
+</P>
+<P>
+The municipality estimates the app could be available eight weeks after a contract is signed.
+</P>
+<P>
+Halifax regional council originally approved the plan to move to a mobile app in July 2020, with a goal of going cashless by 2025.
+</P>
+<P>
+In July, council voted to award Masabi the job of delivering the service to buses and ferries.
+</P>
+<P>
+Masabi's app works by displaying a ticket on the screen to show the driver. It would be similar to using a paper bus transfer.
+</P>
+<P>
+Eventually, the buses and ferries will have scanners for the app, but that's expected to come about nine months after the app first launches.
+</P>
+<P>
+After the scanners are installed, the next move will be to allow payment through tapping a debit or credit card on their screens.
+</P>
+</TEXT>
+</DOC>

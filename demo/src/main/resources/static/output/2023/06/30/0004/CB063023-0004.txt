@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> CB063023-0004 </DOCNO>
+<DATE>
+<P>
+June 30, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+4,200 Nova Scotians removed from family doctor wait-list; 
+</P>
+<P>
+Invalid health cards primary reason for removal, says Nova Scotia Health
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Nova Scotia Health says 4,200 people were removed from the family doctor registry following a recent review.
+</P>
+<P>
+The review found almost all of those people had invalid health cards, spokesperson Brendan Elliott said in an email to CBC News.
+</P>
+<P>
+Those people would have received an email informing them of the change. Elliott said there are a number of reasons a health card could be considered invalid, but did not provide any examples.
+</P>
+<P>
+But he said as long as people can sort out the issues with their health cards, they won't lose their spot on the list.
+</P>
+<P>
+The number of Nova Scotians on the doctor wait-list was 148,431, as of June 1, according to a provincial dashboard. This represents 15 per cent of the population.
+</P>
+<P>
+Elliott said anyone with an expired health card should contact MSI to have it renewed, and then call 811 to have their profile on the registry updated.
+</P>
+<P>
+Some people removed had valid health cards
+</P>
+<P>
+But some — about one to two per cent, according to Elliott — of the people who received an email did have valid health cards.
+</P>
+<P>
+"If anyone with a valid Nova Scotia health card was mistakenly removed, they can call 811 to re-register, and we will ensure their place on the list is maintained," Elliott said.
+</P>
+</TEXT>
+</DOC>

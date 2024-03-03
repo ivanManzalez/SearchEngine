@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> CB051523-0001 </DOCNO>
+<DATE>
+<P>
+May 15, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Average Canadian house price rose to $716,000 in April — up by $100K since January; 
+</P>
+<P>
+After tumbling for much of 2022, the average price has risen 4 months in a row
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+After plunging due to interest rate hikes throughout last year, the average price of a Canadian resale home has now increased for four months in a row, new numbers showed Monday.
+</P>
+<P>
+The Canadian Real Estate Association said Monday that the average selling price of a home that sold on its MLS system in April went for $716,000. That's the fourth monthly increase in a row, and it marks a collective increase of more than $100,000 since the start of the year.
+</P>
+<P>
+After peaking at just over $816,000 in February 2022 — right before the Bank of Canada began its aggressive campaign of rate hikes — Canada's housing market went ice cold for much of last year, as drastically higher mortgage rates made it more expensive to finance the purchase of a home.
+</P>
+<P>
+Average prices bottomed out a few months later, at just under $630,000 in July.
+</P>
+<P>
+But after moving essentially sideways until the start of 2023, the market has seemingly resumed its upward momentum ever since.
+</P>
+<P>
+Much of the rebound stems from an uptick in sales in the Greater Toronto Area and B.C.'s Lower Mainland, two parts of the country that saw both the biggest gains during the early days of COVID-19, and also the largest drawdown once rates went up.
+</P>
+<P>
+If numbers from those two markets are stripped out, the national average price drops by more than $144,000, to an average house price of $572,000 in places that are not Toronto or Vancouver.
+</P>
+<P>
+WATCH | Could empty office buildings could be the fix to Canada's housing crisis?
+</P>
+<P>
+CREA, which represents more than 100,000 realtors across the country, says the number of homes that sold during the month increased by 11 per cent from March's level to 44,059, and it's now back up to its highest level since last June. But it's still almost 20 per cent below what it was during the feverish market of this time last year.
+</P>
+<P>
+"Home sales continue to bounce back (with some force) from the multi-decade low observed at the beginning of the year," TD Bank economist Rishi Sondhi said. "Support has come from solid job markets, lower interest rates and improving buyer psychology from a central bank that's on pause [but] affordability remains significantly strained [and] subdued supply is probably playing an even larger role in pushing prices higher."
+</P>
+</TEXT>
+</DOC>

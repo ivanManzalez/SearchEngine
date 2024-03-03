@@ -1,0 +1,150 @@
+<DOC>
+<DOCNO> CB090523-0001 </DOCNO>
+<DATE>
+<P>
+September 05, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How a parts shortage and corporate infighting hamper efforts to repair Ukraine's Leopard tanks; 
+</P>
+<P>
+Observers warn delays in repairs could undermine Ukraine's war effort
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+High prices, corporate rivalries and a shortage of spare parts hobbled efforts this spring to set up a new repair facility in Poland for Ukraine's Leopard tanks — and in some cases have limited the usefulness of the donated Western vehicles, CBC News has learned.
+</P>
+<P>
+Poland, Germany and Canada began discussions back in the spring to set up a maintenance hub for dozens of armoured vehicles donated to the embattled Eastern European country.
+</P>
+<P>
+The sophisticated main battle tanks were touted in western capitals as a war-winning strategy — one that would help Ukrainians turn the tide and drive Russian troops out of the country.
+</P>
+<P>
+An existing state-owned Polish defence contractor in the city of Gliwice, west of Krakow in southern Poland, finally began receiving battle-damaged Ukrainian Leopard tanks this summer. NATO officials also have talked about establishing another repair base even closer to the border with Ukraine, in Rzeszów.
+</P>
+<P>
+But the Gliwice facility was slow to get started because of a shortage of spare parts for the in-demand weapons.
+</P>
+<P>
+The Polish armaments firm operating the plant — Bumar Labedy SA, a division of the state-owned Polish Armaments Group — has pointed the finger at the German manufacturers of the Leopard 2: Krauss-Maffei Wegmann (which makes the chassis) and Rheinmetall (which makes the cannon).
+</P>
+<P>
+The Polish firm claims the German companies' refusal to share the intellectual property rights for the various components caused the parts shortage and drove up the cost of repairs.
+</P>
+<P>
+Gustav Gressel, a defence expert at the European Council on Foreign Relations who served in the Austrian army, said allied governments' efforts to get industry to speed up the pace of repairs have been "dysfunctional" to date.
+</P>
+<P>
+'A quagmire'
+</P>
+<P>
+He warned the situation could put Ukraine's war effort at risk.
+</P>
+<P>
+"It's been quite a quagmire on multiple fronts, unfortunately," he said. "Personally, I thought that the war in Ukraine would actually make all these people a bit more solution-oriented in their thinking, because it's a war at our doorstep."
+</P>
+<P>
+Half a dozen separate senior sources — Canadians, Ukrainians and European Union citizens working in the defence, diplomatic and business worlds who are familiar with the file but are not authorized to comment publicly — spoke to CBC News for this story.
+</P>
+<P>
+CBC's request to interview Defence Minister Bill Blair was declined.
+</P>
+<P>
+A number of countries, including Canada, Denmark, the Netherlands, Germany, Finland, Sweden, Norway, Spain, Portugal and Poland, pledged earlier this year to donate Leopard 2 tanks to Ukraine.
+</P>
+<P>
+More than 70 of them had been delivered as of August 2023, according to a recent report in Forbes Magazine which quoted a Ukrainian soldier. It's believed five were completely destroyed in this summer's counteroffensive and 10 others have been damaged.
+</P>
+<P>
+Ukraine's allies also have pledged to donate older Leopard 1s.
+</P>
+<P>
+Countries that operate the Leopard 2A4, including Canada, rely on a global pool of spare parts that has been quickly drained by the demands of the war, much like ammunition stocks. Manufacturers are struggling to restock the shelves.
+</P>
+<P>
+That shortage has led to a "long turnaround time for [tank] repairs" in Poland, said Gressel.
+</P>
+<P>
+"It's a problem because it decreases the availability [of the tanks] for Ukraine," he said. "It decreases the useful amount of time that Ukrainians have from a donated vehicle because it takes a long time to service."
+</P>
+<P>
+A fight over IP
+</P>
+<P>
+Bumar Labedy SA claims the German firms' refusal to share their IP prevents it from eliminating the backlog by making the parts itself. Gressel said the German firms have, in turn, accused the Polish firm of overcharging allies for the repairs.
+</P>
+<P>
+"The Poles said the price tag is so high because the parts are so expensive and so rare, because now we have a much higher demand for spare parts," he said.
+</P>
+<P>
+Both Bumar Labedy SA and Rheinmetall did not respond to requests for comment from CBC News, while an official with Krauss-Maffei Wegmann declined to speak about the matter.
+</P>
+<P>
+Poland's ambassador to Canada focused on the positive this week, stating in an interview with CBC News that the allies are working to overcome obstacles.
+</P>
+<P>
+"This hub in Gliwice is there because of the co-operation between Poland and Germany, between governments and businesses," said Witold Dzielski.
+</P>
+<P>
+"We are happy that at this point there is interest from other allies in providing support to that facility. It is important for us to work together on such initiatives [that are] beneficial to the security of the region and beneficial to Ukrainians fighting for their freedom."
+</P>
+<P>
+Even with the repair centre now open, some parts remain in short supply.
+</P>
+<P>
+In a written statement, Canada's Department of National Defence (DND) acknowledged the shortage of spare parts affects Ukraine's allies as well.
+</P>
+<P>
+Many Leopard 2A4 turret components are no longer in production and there are long lead times for many components, including engines, transmissions and optical parts.
+</P>
+<P>
+"The war in Ukraine has led to European countries being prioritized in the supply chain, as the worldwide Leopard supply chain is refocusing its support towards orders of newer variants," said DND.
+</P>
+<P>
+Allied defence ministers met in June to try to resolve the issue, Gressel said.
+</P>
+<P>
+DND said Canada has been involved in discussions led by Germany and Poland and "the supply of spare parts to maintain and repair damaged main battle tanks is a critical point in these discussions."
+</P>
+<P>
+The department said that when it donated eight Leopards 2A4s to Ukraine, the tanks came "with a limited supply of spare parts and ammunition, estimated at an approximate value of $5.1 million."
+</P>
+<P>
+While Allied governments congratulated themselves last spring for cutting deals to get donated tanks to Ukraine, one defence expert in the United Kingdom said the hard work of keeping those armoured vehicles in the field under wartime conditions is just beginning.
+</P>
+<P>
+Corporate infighting was predictable, says observer
+</P>
+<P>
+"It's not a matter of where they've been delivered. It's a matter [of] they are being used and they need to be looked after," said Trevor Taylor of the Royal United Services Institute, a London-based defence and security think-tank.
+</P>
+<P>
+He said allied nations should have anticipated the fight over intellectual property.
+</P>
+<P>
+"Companies like to have as much to say as possible over how those vehicles are looked after," said Taylor, adding that defence contractors also have a vested interest — economic and legal — in how their products are used.  
+</P>
+<P>
+"In very simple terms, you know, when you buy a new car, if you don't get it serviced at the garage of the facility of the manufacturer, then your warranty disappears. It's that, on a bigger scale."
+</P>
+<P>
+Nicholas Todd, of the Canadian Association of Defence and Security Industries, said that under most circumstances, companies are reluctant to part with their IP rights and prefer to remain in control — or to at least retain some control through licensing.
+</P>
+<P>
+The idea of manufacturing a piece of military equipment and then leaving the servicing to someone else is an outdated business model, one that does not ensure an enduring revenue stream for the manufacturer, Todd said.
+</P>
+<P>
+"More and more defence [primary contractors] are looking to do it themselves, and so the IP that they would have been more willing to share with third parties [in the past], they want to keep for themselves," Todd said.
+</P>
+<P>
+Although the details have not been fully announced, Ottawa intends to put significant money into the Gliwice repair facility as a way of shoring up Ukraine's war effort and encouraging other allies to contribute.
+</P>
+<P>
+Negotiations between Canada and Poland are ongoing "to formalize our contribution," DND said.
+</P>
+</TEXT>
+</DOC>

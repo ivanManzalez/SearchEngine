@@ -1,0 +1,138 @@
+<DOC>
+<DOCNO> CB101521-0003 </DOCNO>
+<DATE>
+<P>
+October 15, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+City of Toronto, housing activists demand eviction data from Ontario Landlord Tenant Board; 
+</P>
+<P>
+City has requested data-sharing arrangement with board multiple times, with no luck
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+When it comes to evictions, there's a lot that the City of Toronto and the housing advocates working alongside it don't know. 
+</P>
+<P>
+For example: how many evictions have actually taken place in the city? How many of them were what's known as renovictions, or personal-use evictions? And how many illegal evictions are happening on top of that?
+</P>
+<P>
+The first big issue: Tribunals Ontario, the umbrella organization for tribunals including the Landlord and Tenant Board (LTB) doesn't actually track the outcomes of its eviction hearings. 
+</P>
+<P>
+Then, the second: the LTB does have data that could help answer some of those questions, but isn't sharing it.
+</P>
+<P>
+"The problem is, we don't really know what the problem is," said Julie Mah, who works as an assistant professor at the University of Florida in the urban planning department. 
+</P>
+<P>
+"There's a lack of access to data, and to timely data." 
+</P>
+<P>
+Mah recently released a report through the University of Toronto's Institute on Municipal Finance and Governance in which she called for more collaboration and data-sharing between the province and the city to help Toronto improve its eviction-prevention programs. 
+</P>
+<P>
+"If you're going to be making evidence-based policy decisions, you first need the evidence," she said. 
+</P>
+<P>
+City has 'regularly' requested data-sharing 
+</P>
+<P>
+ That evidence is something the city has been seeking for some time. 
+</P>
+<P>
+According to an email to CBC News from Abi Bond, the executive director of Toronto's Housing Secretariat (formerly known as the Affordable Housing Office,) they are now in early discussions with the province to "explore an information sharing agreement" to have regular access to LTB data. 
+</P>
+<P>
+This isn't the first time: according to a report from Sept. 2020, "the City has regularly requested formal data sharing with the province." 
+</P>
+<P>
+It also made a data-sharing request in a submission on Bill 184, also known as the Protecting Tenants and Strengthening Community Housing Act, but that request was not reflected in the final legislation. 
+</P>
+<P>
+Mah says the city's inability to shape provincial policy that directly affects it points to an even larger problem: Toronto's "limited authority to address the eviction crisis." 
+</P>
+<P>
+"The City of Toronto needs meaningful input into the policy development process at the provincial level. The City's powers can address only the symptoms, rather than the roots of the problem," Mah wrote in her report. 
+</P>
+<P>
+Bond says the city is trying to gather more eviction information from sources other than the LTB, saying it is "in the process of developing a data strategy to support the HousingTO Action plan, and it will consider all possible information sharing options," including turning to researchers and think tanks. 
+</P>
+<P>
+Housing groups struggle to assess extent of problems
+</P>
+<P>
+Housing organizations and advocates say they too need better access to timely eviction data to do their work. 
+</P>
+<P>
+Magda Barrera, a housing and economics policy analyst at the Advocacy Centre for Tenants Ontario (ACTO,) says her group collects its own data and submits freedom of information requests to the LTB to try to fill in the gaps — but still struggles to get a grasp on the full scope of the issues.
+</P>
+<P>
+"Take renovictions," Barrera said. 
+</P>
+<P>
+"Based on the data we have, we know it's been an increasing problem, but if we had a full data set we'd know more about the extent of the problem and who it is affecting the most." 
+</P>
+<P>
+The LTB does release an annual report and quarterly updates on its open data platform, though they don't contain all of the information Barrera is interested in. 
+</P>
+<P>
+On top of that, the 2020-2021 annual report has yet to come out, and the last quarterly report was issued in March 2020 — nearly 18 months ago. 
+</P>
+<P>
+"My concern is that they're doing this because they don't want people to know how bad things are," said Geordie Dent, executive director of the Federation of Metro Tenants' Associations. 
+</P>
+<P>
+Dent says he's found it harder and harder over the years to get access to the data he's looking for, which he ties to the arrival of the Ford government in 2018. 
+</P>
+<P>
+"I've heard repeated concerns from a variety of actors that some data is not being shared, and I don't know why," he said.
+</P>
+<P>
+No numbers for illegal evictions 
+</P>
+<P>
+Dent said he'd most like to know how many eviction applications are waiting in the queue to go before the Landlord Tenant Board, and how many times eviction forms have been downloaded by landlords. 
+</P>
+<P>
+"One thing you have to understand about evictions, is that the bulk of them are informal. A landlord downloads a form, they hand it to a tenant, and the tenant just leaves," he said. 
+</P>
+<P>
+That means the number of times a form is downloaded is one of the only clues to determine how many illegal evictions are taking place, and on what alleged grounds. 
+</P>
+<P>
+Dave Bell, a member of a group called Parkdale Organize, also says there's good reason for the public to have full access to LTB information.
+</P>
+<P>
+Parkdale Organize contributes to the website evictionsontario.ca, which attempts to track what housing activists describe as an eviction crisis in the province. 
+</P>
+<P>
+He says knowing more about evictions allows residents to track whether policies in their communities are effective or not. 
+</P>
+<P>
+"As well as the city, as well as advocacy groups, it's the sort of thing the public should know about. This has a big impact on the makeup of our city." 
+</P>
+<P>
+The province responds
+</P>
+<P>
+CBC News sent a series of questions to Tribunals Ontario about why the LTB is not sharing information, and did not receive a response at publication time.
+</P>
+<P>
+Later in the week, the province followed up, writing in an email that the LTB is guided by the open court principle and committed to transparency, and adding that "most case files and data are available to the public upon request." 
+</P>
+<P>
+It also said that it is already sharing information with the city "when requested," and that its annual report will be posted this fall. 
+</P>
+<P>
+The CBC also asked why the LTB does not track hearing outcomes. 
+</P>
+<P>
+"This is due in part to its historical programming and in part due to the wide variety of orders made at hearings – they are not simply eviction granted or denied," a spokesperson wrote in an email. 
+</P>
+</TEXT>
+</DOC>

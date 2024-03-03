@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> CB030123-0002 </DOCNO>
+<DATE>
+<P>
+March 01, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Travelling soon? Get ready to pay higher cellphone roaming rates; 
+</P>
+<P>
+Roaming fees are a major source of revenue for telecom giants
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Two of Canada's biggest telecom providers are raising the fees they charge customers when they use their devices outside of Canada.
+</P>
+<P>
+Starting March 8, Telus will charge customers $14 a day when they roam on their devices in the United States, and $16 a day when they do so internationally. That's an increase from $12 and $15, respectively. Customers of the Telus-owned discount brand Koodo will see a similar fee hike.
+</P>
+<P>
+Rival Bell is making a similar move starting the following day, raising its U.S. roaming rate from $12 to $13, and going from $15 to $16 internationally. Those  increases will also be in effect at Bell-owned subsidiaries including Virgin Mobile.
+</P>
+<P>
+There's no indication that Rogers has similar plans to raise roaming rates, but as it stands, customers at Rogers and its flanker brands including Chatr and Fido pay $12 to roam in the U.S. and $15 internationally.
+</P>
+<P>
+CBC News reached out for comment to all three companies for this story, asking for an explanation for the move. 
+</P>
+<P>
+A spokesperson for Telus said the company needed more time to respond. 
+</P>
+<P>
+Bell cited Statistics Canada data showing that overall wireless prices have declined in the past year, despite "price increases from our suppliers" and "increasing costs to our business," without elaborating.
+</P>
+<P>
+Rogers outlined the company's roaming rates, but declined comment as to whether they had increased recently or were about to.
+</P>
+<P>
+High prices
+</P>
+<P>
+Canadians pay some of the highest telecom bills in the world, according to numerous international reports. Multiple federal governments have pressured providers to bring prices down, especially for basic plans with limited data, and while official data shows wireless prices have come down by some metrics, that's not the case for high-end packages.
+</P>
+<P>
+A recent report by CBC's consumer affairs program Marketplace found that, on average, Canadians pay seven times more for a gigabyte of data than people in Australia, 25 times more than people in Ireland and France, and 1,000 times more than people in Finland.
+</P>
+<P>
+Wall Communications Inc. publishes an annual report on Canadian telecom services and, while this year's version has not yet been released, on the whole company founder Gerry Wall says the public perception that wireless prices keep going up is unfair, as providers have created many more low-cost plans targeting basic users.
+</P>
+<P>
+"At the very, very low level — I think you can say it's relatively affordable in Canada," he said. "It's when you get up into sort of the mid-level and the higher-level plans that Canada doesn't look as good."
+</P>
+<P>
+A service such as roaming is one of those high-level perks, and prices are going up because consumers have shown that they want that service, Wall says.
+</P>
+<P>
+"When I look at [those companies'] annual reports ... they do point to the fact that that people are traveling a lot more," he said.
+</P>
+<P>
+"If you look back three or four years, all the Big Three were charging considerably lower per-day roaming fees for Canada and U.S. ... I expect it goes up every year and it will continue as traveling continues."
+</P>
+<P>
+Last summer, the European Union passed a law which will ensure that cellphone customers in the EU are entitled to the same quality and price for wireless service when they travel in Europe as they get from their domestic carriers.
+</P>
+<P>
+But Canadian wireless users have no such legal protection.
+</P>
+<P>
+Canada's telecom providers spend billions of dollars every year to grow, maintain and improve their networks, expenditures that have made the country's wireless networks, on the whole, more robust than those in other countries. Cellular users bear the brunt of those costs and improvements in higher bills, but none of those costly infrastructure expenses — on things like cellphone towers and new spectrum — are a factor for roaming internationally, when calls piggyback on existing networks for a small fee. 
+</P>
+<P>
+Keldon Bester, an analyst on competition policy and co-founder of the Canadian Anti-Monopoly Project, says it's hard to know if the carriers are facing some sort of cost increase that would justify the rise in roaming rates, since the deals that they sign with their international partners are a closely guarded secret.
+</P>
+<P>
+"[They can say] 'Our partners are are demanding this of us and and we're trying our best but we can't really do anything,'" said Bester, "but because we don't have access to these roaming agreements we really can't test the validity of that."
+</P>
+<P>
+He says it's not hard to imagine that the major telecom providers may see roaming costs as a way to boost revenue without as much of the scrutiny they face for their domestic plans.
+</P>
+<P>
+"It's a situation where consumers have even fewer options than they might domestically," he said. "It's like buying food at a sports arena — they've got you ... your options are really limited, so there's an opportunity to squeeze more out of the consumer."
+</P>
+<P>
+Janine Rogan has felt that squeeze first hand.
+</P>
+<P>
+On a recent trip to Mexico, she was hit by a roaming charge of more than $100 from her telecom provider, Telus. "From a consumer perspective kind of feels like price gouging," she said. "They're just trying to make every possible dollar they can off of us."
+</P>
+<P>
+She has plans to travel to Europe this summer, and given her recent experience, she says there's no way she will use her phone normally while she's there, and will instead get a short-term phone plan from a local provider for a fraction of the cost.
+</P>
+<P>
+"It's always amazed me how cheap it is to get a SIM card over there and just pop it in while you're traveling," she says. "To see that they're not allowing roaming charges while Canada's increasing them just makes the average person's phone bill go up [by] an exorbitant amount that really isn't necessary."
+</P>
+</TEXT>
+</DOC>

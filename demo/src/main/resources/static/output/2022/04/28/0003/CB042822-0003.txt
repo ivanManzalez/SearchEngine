@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> CB042822-0003 </DOCNO>
+<DATE>
+<P>
+April 28, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+'Historic' census data sheds light on number of trans and non-binary people for first time; 
+</P>
+<P>
+Data collection reflects changing societal perspectives on gender, StatsCan says
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Statistics Canada in its second release of data from the 2021 census has given a comprehensive tally of how many cisgender men and women, transgender and non-binary people live in Canada.
+</P>
+<P>
+Of the more than 30.5 million Canadians aged 15 and over who were counted on the census, 100,815 of them identify as transgender or non-binary. That's 0.33 per cent of the total population, or about one in 300 people.
+</P>
+<P>
+That number is broken up further with 59,460 people as transgender and 41,355 as non-binary.
+</P>
+<P>
+Generation Z Canadians, aged 17 to 24 years, were seven times more likely to identify as trans or non-binary than those in the oldest generation, aged 76 years and older.
+</P>
+<P>
+Statistics Canada says this new way of reporting information is important because Canadians are evolving on how they identify themselves, and the census needs to reflect that.
+</P>
+<P>
+The binary male/female sex question on previous censuses was split in two. One question asked respondents to give the sex they were assigned at birth, which remained male and female. The next question asked for respondents' gender identity, providing male and female as an option and allowing people to specify if they identified as something else.
+</P>
+<P>
+"The main reason for that is to reflect growing social and legislative recognition of transgender and non-binary people in Canada. And it's also a response to feedback that we received," said France-Pascale Ménard, a data analyst on the census.
+</P>
+<P>
+Ménard called the question "historic" as Canada is the first country in the world on a mandatory census question to collect and report numbers of people who identify solely as trans and non-binary.
+</P>
+<P>
+Although the 2021 census conducted in England, Wales and Northern Ireland was carried out slightly earlier than the Canadian census, the question was voluntary. Similarly with the Australian census, the questions there, too, were voluntary and therefore a representative estimation rather than a full count of people in the country.
+</P>
+<P>
+This month, Scotland is asking a voluntary question on its first census about whether a person is transgender or has a trans history. New Zealand is preparing two questions for its census next year that will ask about sex and gender, same as in Canada.
+</P>
+<P>
+The data now gives the opportunity for governments, businesses and other organizations to cater services to the trans and non-binary communities in Canada.
+</P>
+<P>
+Still 'othering' trans and non-binary people, critics say
+</P>
+<P>
+But some in the in the transgender community see it as just a first step.
+</P>
+<P>
+"Quite frankly, they're behind the eight ball," said Calgary transgender advocate Anna Murphy. "This is something that they should have done many years ago. They're now just getting around to it. It's great to see it. But quite frankly, it's stuff that should have been done."
+</P>
+<P>
+Murphy says she wants to see more government and private sector action based on the data, such providing better quality and affirming health care for trans people, addressing underemployment and unemployment and other inequities gender diverse people face.
+</P>
+<P>
+As the numbers show, having only two options for gender or sex excludes more than 100,000 Canadians from a key detail on the census. Statistics Canada has tried to correct this by having three options to the gender question: "male," "female" or "please specify this person's gender."
+</P>
+<P>
+Respondents were able to fill in whatever word they use to describe their own gender, which Ménard says was to accommodate the many different ways to describe gender diversity.
+</P>
+<P>
+This method was developed through consultations and focus groups with trans and non-binary people and then tested through a census trial in 2019 of 150,000 Canadian households, according to Ménard.
+</P>
+<P>
+But critics have said the census gender question continues to "other" those who don't identify as man or woman by including only male and female without some of the other more common options.
+</P>
+<P>
+"You're still calling it an 'other,'" Murphy said.
+</P>
+<P>
+"If you actually care … you would have a box that says 'trans' that a person could check. You would have a box that says 'two-spirit' that a person could check. Because that shows that you or whoever has made this form actually recognizes that rather than just leaving a blank space."
+</P>
+<P>
+With the open-ended question, StatsCan groups responses into categories. For example, someone who entered "gender fluid" as their gender identity would be grouped into the non-binary category.
+</P>
+<P>
+The question also allowed for two-spirit, an umbrella term for many pre-colonial Indigenous genders, which Statistics Canada has released as part of the non-binary category.
+</P>
+<P>
+Jack Saddleback is an educator and public speaker in Saskatoon, originally from the Samson Cree Nation in Mascwacis, Alta. He sees the option to write down one's gender as a step in breaking down binary genders, which were imposed on Indigenous cultures.
+</P>
+<P>
+"I did grow up in this larger Canadian colonial environment, which, at its core, unfortunately does a disservice to each and every citizen in the education system imparted on these lands.… The hierarchy of gender that is put on to each of us puts us into little boxes," Saddleback told Edmonton AM.
+</P>
+<P>
+Regional and urban-rural differences
+</P>
+<P>
+Across the country, the census found a higher proportion of trans and non-binary people in major metropolitan cities, known as census metropolitan areas (CMA), and small to medium-sized cities, known as census agglomerations (CA).
+</P>
+<P>
+One in six trans and non-binary people live in downtown areas of large urban centres and over half of all non-binary people in Canada live in the six largest CMAs.
+</P>
+<P>
+Among the CMA/CAs, Victoria, Halifax and Nelson, B.C., had the highest proportion of non-binary people. Halifax, Victoria and Alma, Que., have the highest proportions of trans people.
+</P>
+<P>
+Overall, Nova Scotia, Yukon and B.C. had the highest proportions of transgender and non-binary people (0.48, 0.47 and 0.44 per cent, respectively) while Quebec had the smallest proportion of transgender (0.14 per cent) and non-binary people (0.09%).
+</P>
+<P>
+Ménard says she didn't know what the roots of the regional differences are.
+</P>
+<P>
+"Over the next few months, with the release of the other census variables, we'll take a closer look and see if we're able to understand these differences better," she said, "but we did consult with experts in Quebec and confirmed this trend."
+</P>
+<P>
+To learn more about gender identity, listen to They & Us, an award-winning CBC podcast that explores first-person stories of transgender and non-binary Canadians, available now on CBC Listen, Apple Podcasts and Spotify.
+</P>
+</TEXT>
+</DOC>

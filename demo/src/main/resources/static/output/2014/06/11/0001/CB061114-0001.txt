@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CB061114-0001 </DOCNO>
+<DATE>
+<P>
+June 11, 2014
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Quebec's Nova Bus gets $32.6M order from TTC; 
+</P>
+<P>
+Company to supply Toronto Transit Commission with 55 diesel buses
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Quebec-based Nova Bus says it has received a $32.6-million order for diesel buses from the Toronto Transit Commission.
+</P>
+<P>
+The transit bus manufacturer says it will supply the Toronto transit authority with 55 buses with delivery set to begin in 2015.
+</P>
+<P>
+Nova Bus says the contract strengthens its presence in Ontario.
+</P>
+<P>
+The buses will be entirely assembled at the company's main plant in St-Eustache, near Montreal, and will include a specially-designed barrier to help protect drivers made from steel and tempered glass.
+</P>
+<P>
+Nova Bus is a leading manufacturer of transit vehicles, including electric-hybrid, natural gas and bus rapid transit vehicles.
+</P>
+<P>
+It's part of the Volvo Group.
+</P>
+</TEXT>
+</DOC>

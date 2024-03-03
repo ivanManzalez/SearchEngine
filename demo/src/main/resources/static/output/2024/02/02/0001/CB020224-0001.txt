@@ -1,0 +1,240 @@
+<DOC>
+<DOCNO> CB020224-0001 </DOCNO>
+<DATE>
+<P>
+February 02, 2024
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How effective a climate solution is removing CO2 from the atmosphere?; 
+</P>
+<P>
+Also: Do we need another giant cruise ship?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This weekly newsletter is part of a CBC News initiative entitled "Our Changing Planet" to show and explain the effects of climate change. Keep up with the latest news on our Climate and Environment page.
+</P>
+<P>
+Sign up here to get this newsletter in your inbox every Thursday.
+</P>
+<P>
+This week:
+</P>
+<P>
+How effective a climate solution is removing CO2 from the atmosphere?
+</P>
+<P>
+When Alex Tavasoli came across a patent filed in Wisconsin that used carbon dioxide to cure cement — essentially capturing and storing CO2 — she was surprised to learn that it was from 1874. 
+</P>
+<P>
+"It wasn't for the sake of climate change that they were inventing these technologies," said Tavasoli, an associate professor and head of the Laboratory of Future Industry research group at the University of British Columbia.
+</P>
+<P>
+She says technologies like this didn't catch on in the 19th century because they weren't economically viable. But she thinks the warming climate could change that. 
+</P>
+<P>
+There are many different ways to remove carbon dioxide from the atmosphere, but "what you want is something additional to what nature's already doing," said David Ho, a professor at the University of Hawaii at Manoa and co-founder of [C]Worthy, a nonprofit that works on verifying ocean-based carbon dioxide removal. 
+</P>
+<P>
+A forest ecosystem naturally removes CO2 from the atmosphere, but experts like Ho are looking to technological solutions to take it further. (These technologies are distinct from carbon capture utilization and storage, which grabs CO2 at the source, like a smokestack of a factory, and puts it to another use.) 
+</P>
+<P>
+He said the effectiveness of CO2 removal technologies in combatting climate change depends a lot on how much greenhouse gas pollution the world is pumping into the atmosphere. He compares it to a time machine. 
+</P>
+<P>
+The world's largest direct air capture demonstration plant, Climeworks' Orca in Iceland (see photo above), removes 4,000 tonnes of carbon dioxide from the atmosphere over the course of a year. By current emissions levels, "that takes us back three seconds … that's the atmosphere you had three seconds ago if you had 4,000 tonnes less CO2," said Ho. 
+</P>
+<P>
+For carbon dioxide removal to become an effective time machine — that is, to remove emissions from past decades, rather than offsetting new emissions — countries need to "decarbonize everything that's possible," said Ho. 
+</P>
+<P>
+His work focuses on ocean alkalinity enhancement. Dissolved carbon in the ocean is always in equilibrium with the air, but by adding certain chemicals to the ocean, dissolved carbon changes form, allowing more CO2 from the atmosphere to be dissolved. (Plans to test this out in the ocean have been met with controversy in places like the U.K.) 
+</P>
+<P>
+Verifying the amount of CO2 extracted from the atmosphere, evaluating the impact on ecosystems and considering how much land any given approach uses are things Ho wants to see more heavily researched. 
+</P>
+<P>
+In Canada, some are eyeing carbon dioxide removal as a potential industry. 
+</P>
+<P>
+"It's an entirely new sector that … needs to be built in response to climate change," said Na'im Merchant, executive director of Carbon Removal Canada, a project launched by the Clean Prosperity Foundation. 
+</P>
+<P>
+In a report co-authored by Merchant, Carbon Removal Canada estimates that building out and operating direct air capture facilities in Canada could create 89,000 permanent jobs by 2050. According to a 2022 report from the International Energy Agency, Carbon Engineering in Squamish, B.C., is Canada's only operational demonstration plant. 
+</P>
+<P>
+The federal government is including direct air capture in a forthcoming investment tax credit, covering 60 per cent of capital costs on new facilities. Merchant thinks "that's going to be attractive to a lot of companies that are interested in starting direct air capture projects in Canada, especially in Western Canada," where there's supportive regulation, a skilled workforce and geologic formations to store captured CO2. 
+</P>
+<P>
+Carbon Removal Canada wants the federal government to come out with a national challenge for carbon dioxide removal projects, awarding grants to innovative projects. The group is also advocating for carbon dioxide removal to be included as a way for polluters to comply with the carbon tax. 
+</P>
+<P>
+Alex Tavasoli's UBC research group will be exploring uses for captured CO2 and waste, as well as ways communities can finance and use these systems. She sees a different way for carbon dioxide removal to be put to use within cities, where there is a higher concentration of CO2 than in less dense areas. For example, highway tunnels that collect exhaust from cars. 
+</P>
+<P>
+"By looking for those pockets where the CO2 concentration is elevated, we could potentially design systems that use less energy and therefore cost less money to capture that carbon dioxide," said Tavasoli.
+</P>
+<P>
+— Molly Segal
+</P>
+<P>
+Old issues of What on Earth? are here. The CBC News climate page is here. 
+</P>
+<P>
+Check out our podcast and radio show. This week: From being the world's biggest carbon emitter to becoming a global leader in renewable energy, we look at how China's clean tech boom could shape the future of the climate. What On Earth drops new podcast episodes every Wednesday and Saturday. You can find them on your favourite podcast app, or on demand at CBC Listen. The radio show airs Sundays at 11 a.m. ET, 11:30 a.m. in Newfoundland and Labrador. 
+</P>
+<P>
+Watch the CBC video series Planet Wonder featuring our colleague Johanna Wagstaffe here.
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+In response to last week's article on whether air-source heat pumps make sense in Canada's coldest cities, several readers brought up an alternative — ground-source heat pumps.
+</P>
+<P>
+Rod Gilmour wrote: 
+</P>
+<P>
+"Back in April, Emily Chung wrote an excellent article on heat pumps, specifically, ground source heat pumps. Here is the article. These units are more expensive than air-source heat pumps because they require a ground loop and pumps to move the transfer fluid, but they are ideal for Canada's coldest cities. Has CBC forgotten about these?"
+</P>
+<P>
+David Bennett: 
+</P>
+<P>
+"I operate a heat pump in Edmonton with zero carbon emissions. You had a major flaw in your Jan. 26 article by ignoring the obvious fact that in Alberta anyone can pay about two cents extra per kWh to buy a green electricity contract. That is what we do. Furthermore, we run a geothermal heat pump, which works efficiently at even –40 since the heat is sourced from the ground, which remains about 8 C all year."
+</P>
+<P>
+Donna Lister: 
+</P>
+<P>
+"One type of heat pump/air conditioner that I didn't hear mentioned — water source. I just had a new air heat pump installed, after thinking about ground source (not feasible in my area — costs higher than return). If the Rideau River was open during the coldest months, that could have been an option."
+</P>
+<P>
+Editor's note: We have previously written about "water-source" heat pumps, also known as pond or lake geothermal, and yes, they're a great option for waterfront homes. They are cheaper than a geothermal or ground-source heat pump system because they don't require any drilling or digging. Also, we haven't forgotten about ground-source heat pumps, and will have more about them in coming weeks. Stay tuned.
+</P>
+<P>
+Write us at whatonearth@cbc.ca. 
+</P>
+<P>
+Have a compelling personal story about climate change you want to share with CBC News? Pitch a First Person column here.
+</P>
+<P>
+The Big Picture: Do we really need a bigger boat?
+</P>
+<P>
+When Royal Caribbean's enormous candy-coloured Icon of the Seas set sail from Miami on its maiden voyage on Saturday, it steered into some rough waters. As the world's largest cruise ship, the Icon breaks records: it's nearly four city blocks long (360 metres) from end to end, weighs more than 250,000 tonnes (roughly equal to 1,250 blue whales) and boasts the largest waterpark at sea, with six waterslides, seven pools and a 17-metre waterfall.
+</P>
+<P>
+Environmental concerns about air, water and land pollution have long troubled the cruise industry. Cruise ships make up less than one per cent of the global shipping fleet, yet produce a quarter of all the waste, from emissions of hazardous dioxins from incineration to the discharge of wastewater from toilets, which can include pharmaceuticals and pathogens. 
+</P>
+<P>
+Cruising also produces more greenhouse gas emissions than taking a similar trip by air. One environmental group calculated that a week-long, 2,000-kilometre cruise generates more than twice as many carbon emissions as a flight and hotel stay.
+</P>
+<P>
+Next-generation cruise ships like the Icon are making efforts to reduce their environmental footprint. They can plug into local power grids when docked instead of burning fuel and capture waste heat from the engines to power onboard turbines and generate electricity. They're also increasingly running on liquefied natural gas (LNG), cutting down on carbon emissions as well as soot-like pollution called black carbon, which traps heat in the atmosphere and speeds up melting when it falls on snow or ice. 
+</P>
+<P>
+But cruise ships' engines still leak unburned methane, a greenhouse gas that traps 80 times more heat than carbon dioxide in the short term.
+</P>
+<P>
+— Hannah Hoag
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+Last week, U.S. President Joe Biden paused approvals of new liquefied natural gas export terminals in the country, surprising Canadian energy companies. The Atlantic takes a closer look at why he made that move and what it means for the upcoming U.S. election.Cold weather can reduce the range of an EV battery, but experts offer strategies for drivers to prepare and offset the impact. 
+</P>
+<P>
+Solar farms can provide more than just renewable energy, including much-needed habitat for insects, including bees, a new study finds.
+</P>
+<P>
+FEMA, the U.S. disaster relief agency, has announced it will start paying for solar panels and heat pumps to be installed in hospitals and schools damaged by extreme weather and other disasters to help them adapt to climate change.
+</P>
+<P>
+Should your next car be an EV, a plug-in hybrid or a conventional hybrid? This Washington Post article aims to help you figure that out.
+</P>
+<P>
+AI is being used to fight climate change, but it has its own emissions problem
+</P>
+<P>
+On a farm in St. Peters Bay, P.E.I., a black four-wheeled rover with two extended arms trundles through a row of thigh-high green leaves. It looks as though it would be more at home in a dusty Martian landscape than on a farm.
+</P>
+<P>
+"There were a few people who stopped on the road to see what was going on," said Aitazaz Farooque, the interim associate dean of the University of Prince Edward Island's (UPEI) school of climate change and adaptation.
+</P>
+<P>
+Meet the AgriRobot, a machine that has been trained using artificial intelligence to identify disease in potato plants.
+</P>
+<P>
+Farooque leads a team of researchers at UPEI (in partnership with the governments of P.E.I. and New Brunswick) who are using AI in new and innovative ways. The AgriRobot was the brainchild of Charan Preet Singh, a master's student in the university's sustainable design engineering department.
+</P>
+<P>
+"It will generate a map with the location information so that even if somebody has to go in, they don't have to be trained ... they can load that map on their cellphone," Farooque said. "It will direct you to where those infected plants are and get those out."
+</P>
+<P>
+From floods, droughts and disease to warmer temperatures and shifts within the growing and harvesting seasons, the agriculture business is rapidly changing, which means farmers — and technology — need to constantly keep up.
+</P>
+<P>
+But there's an irony: While AI is helping in climate adaptation and mitigation, it has its own emissions problem. One that will only grow.
+</P>
+<P>
+"AI is being used in all sorts of ways to address climate action," said Priya Donti, co-founder and chair of Climate Change AI, a global non-profit. "From helping us better forecast solar and wind on the power grid to help us better integrate those into power grids ... to helping us map things like deforestation and emissions using global satellite imagery in order to understand where deforestation is occurring or emissions are occurring in real time."
+</P>
+<P>
+AI runs on computers — a lot of them — hosted in data centres around the world. As the AI models run, they need electricity. (One study suggests that every time AI generates an image, it's using enough energy to charge a cellphone.) 
+</P>
+<P>
+At the same time, the computers generate a lot of heat and need to be cooled, which often requires even more electricity. If all that power comes from a grid that uses fossil fuels, it is creating emissions.
+</P>
+<P>
+The problem is nobody really knows how much AI accounts for emissions in those data centres.
+</P>
+<P>
+"We really have to be on the lookout for the growth in AI emissions footprint," said Donti, who is based in Cambridge, Mass. "There isn't enough transparency among data centre providers, among machine learning entities … in terms of actually monitoring and measuring those greenhouse gas emissions."
+</P>
+<P>
+In the meantime, scientists are attempting to come up with ways to help us deal with the consequences of climate change. 
+</P>
+<P>
+In the Global South, locust outbreaks are increasing, threatening food security. A new tool called Kuzi is helping farmers by providing real-time data using satellites, soil moisture, surface temperature, humidity and more to predict potential outbreaks. It can then send a notification to farmers on their cellphones.
+</P>
+<P>
+And as wildfire risk grows, engineers and scientists are coming up with new tools to sense and even predict when fires start. Dryad Networks, a company based in Germany, has developed solar-powered sensors that can sniff out a fire even before a flame breaks out.
+</P>
+<P>
+"Behind [the] membrane ... is a gas sensor that is sensitive to hydrogen, carbon monoxide and volatile organic compounds," said company CEO Carsten Brinkschulte. "We are running AI in the sensor to actually make it recognize pre-trained machine learning models that have been trained for the smell of fire."
+</P>
+<P>
+The company has already deployed 20,000 around the world, with a pilot project in part of California's forests.
+</P>
+<P>
+AI has tremendous potential, experts say, but there needs to be a better idea of how much it is contributing to emissions, alongside the broader transition to renewables.
+</P>
+<P>
+"We need to make serious choices about both how we make AI models more efficient for the places where we'll use them, but also, like we have to do for every sector, re-evaluate which uses are worth the electricity that's coming in," said Donti of Climate Change AI.
+</P>
+<P>
+"We definitely shouldn't kind of view AI as a cost-less thing."
+</P>
+<P>
+— Nicole Mortillaro
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

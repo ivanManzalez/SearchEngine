@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB110923-0002 </DOCNO>
+<DATE>
+<P>
+November 09, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Some Ukrainian soldiers fear Russian drone capabilities could soar past Kyiv's own; 
+</P>
+<P>
+Moscow has pumped money and resources into its own domestic drone sector
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The soldiers piloting Ukraine's fleet of small, cheap assault drones are voicing concerns that, despite pioneering their use, they are now being leapfrogged by their adversary as Moscow pumps money and resources into its drone sector.
+</P>
+<P>
+The use of agile First Person View (FPV) drones in battle has been one of the most successful of the various low-cost strategies Ukraine has used to defend itself from a full-scale invasion by Russia, its much richer and more powerful neighbour.
+</P>
+<P>
+However, Moscow has also gradually mirrored and increased its use of these drones, which were originally made for racing by hobbyists and enthusiasts but are modified to carry explosives, to devastating effect.
+</P>
+<P>
+Every week, both countries publish onboard camera footage from FPVs, which cost several hundred dollars, flying toward and taking out enemy tanks and radar systems worth millions.
+</P>
+<P>
+'Always in the air'
+</P>
+<P>
+In a field in eastern Donetsk region where they had come to perform a test flight, Ukrainian drone pilots from the 80th Airborne Assault Brigade fighting near Bakhmut said Russia was gaining the upper hand through more organized supplies and greater spending.
+</P>
+<P>
+"Their drones are always in the air, day and night. We can see they've implemented serial production of drones for reconnaissance, surveillance and for strikes," said a 34-year-old drone platoon commander, who introduced himself by the callsign "Komrad."
+</P>
+<P>
+While it is hard to assess Russian numerical superiority in FPVs accurately — and the experiences of the unit near Bakhmut provides only a snapshot of what is happening — Komrad estimated it at around double what Ukraine had on his sector of the front.
+</P>
+<P>
+"Drones are a game changer in this war. If we mess this up, things will be difficult," he said.
+</P>
+<P>
+Komrad says his crews can run as many as 40 strike missions a day — but the number is often much lower due to a lack of drones.
+</P>
+<P>
+The senior sergeant of the brigade's drone company, a 57-year-old former business executive with the callsign "Yizhak," said sometimes a crew may have 10 identified targets but only two or three drones.
+</P>
+<P>
+"So we can hit two or three, and we have to let seven go because we don't have anything to hit them with."
+</P>
+<P>
+Russia ramping up production
+</P>
+<P>
+Russia has ramped up production of FPV drones this year. A Russian state-owned defence enterprise announced this May that it planned to start making up to 3,000 of the devices a month.
+</P>
+<P>
+Samuel Bendett, Senior Adjunct Fellow at the Center for a New American Security, said Russia had significantly boosted FPV production through volunteer groups, which alone were likely making many thousands of drones a month, as well as the defence sector which was also expanding production of such drones.
+</P>
+<P>
+"This year was critical to the Russian efforts to field this tech in large numbers, and an even bigger effort should be expected in 2024."
+</P>
+<P>
+Ukraine's government, meanwhile, has funded production of larger, longer-range drones for reconnaissance and assault, but the vast majority of small, battlefield-level devices have been purchased throughout the war by civic organizations and donations from private individuals.
+</P>
+<P>
+The pilots of the 80th Brigade say this is still the case, although the state is now supplying some FPV drones.
+</P>
+<P>
+Ukrainian Digital Minister Mykhailo Fedorov told Reuters in September that Ukraine had boosted its overall aerial drone production by more than 100 times in 2023. Another minister said in October Ukraine would be making "dozens of thousands" of drones a month by the end of this year.
+</P>
+<P>
+"We have trained people, motivated people. But sometimes we feel a deficit, and if the government gets large-scale manufacturing of these drones on the rails, the (balance of) the war will tip in our favour," Yizhak said.
+</P>
+</TEXT>
+</DOC>

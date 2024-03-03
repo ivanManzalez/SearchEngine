@@ -1,0 +1,144 @@
+<DOC>
+<DOCNO> CB021323-0001 </DOCNO>
+<DATE>
+<P>
+February 13, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+This EV is wiping out indoor air pollution in arenas across Canada; 
+</P>
+<P>
+Electric ice resurfacers that aim to curb climate change also offer health benefits
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Swapping gas-powered vehicles for electric is key to fighting climate change. But Health Canada is also touting the ability of one particular EV to curb indoor air pollution in places where children and adults play and exercise: electric ice resurfacers.
+</P>
+<P>
+In Canada, most arena ice resurfacers such as Zambonis are powered by natural gas or propane.
+</P>
+<P>
+Burning those fuels can generate indoor air pollutants such as carbon monoxide and nitrogen oxide — the same ones produced by gas stoves, sparking concerns about indoor air pollution in people's homes.
+</P>
+<P>
+Health impacts of arena pollution 
+</P>
+<P>
+With indoor arenas, cases have popped up in the news where rinks have had to be shut down, and sometimes dozens of people have been sent to hospital due to high levels of carbon monoxide, which can cause acute poisoning and be deadly.
+</P>
+<P>
+There have also been clusters of pollution-induced illness linked to nitrogen oxides, including one in British Columbia in 2019. Nitrogen oxides can cause respiratory irritation and breathing difficulties, but the effects are not always immediate and can be delayed by a day or two.
+</P>
+<P>
+Nitrogen oxides are also known to trigger asthma, which is common among ice hockey players. Researchers suspect that's exacerbated by a combination of cold air and indoor air pollutants during intensive training.
+</P>
+<P>
+Typically, clusters of illness linked to arenas have been blamed on a combination of malfunctioning ice resurfacers and inadequate ventilation in many older facilities. To make matters worse, cold air sinks, so polluted air tends to remain close to the ice surface, even when there is ventilation — a problem highlighted by COVID-19 outbreaks linked to arenas.
+</P>
+<P>
+Aaron Wilson, a scientific evaluator with Health Canada's indoor air contaminant assessment section, said some years back, he noticed local officials were often asking for advice about how best to prevent, detect and fix air-quality issues in local arenas.
+</P>
+<P>
+"We quickly realized there wasn't a whole lot of information," he said. There wasn't even data on what typical pollution levels were inside ice arenas and what level of ventilation was needed.
+</P>
+<P>
+What researchers learned about air quality in arenas
+</P>
+<P>
+From 2017 to 2020, Health Canada, along with the Saskatchewan Health Authority, conducted a study to find out. They monitored carbon monoxide and nitrogen oxides at 16 arenas in Ottawa and northeastern Saskatchewan.
+</P>
+<P>
+The good news? Carbon monoxide levels were generally within Health Canada guidelines.
+</P>
+<P>
+However, nitrogen oxides exceeded Health Canada's short-term exposure limit at least some of the time at seven out of 16 arenas that were monitored.
+</P>
+<P>
+Those pollutants accumulated throughout the day with repeated ice resurfacing, peaking in the evening. And they were never completely cleared out by the ventilation system overnight. Wilson said that meant nitrogen oxide levels could be up to four times the level outside at the start of the day — "before they even do one resurfacing of the arena."
+</P>
+<P>
+Ventilation vs. electric ice resurfacers
+</P>
+<P>
+The researchers tried a number of different strategies to remove the pollution.
+</P>
+<P>
+Wilson said ventilation was effective in certain types of arenas but not others. Extra ventilation also sometimes made the building uncomfortably cold for people in the arena, such as spectators, and could boost heating costs.
+</P>
+<P>
+But one solution was extremely effective: Replacing gas-powered ice resurfacers with electric more or less eliminated the indoor air pollution, Health Canada found.
+</P>
+<P>
+Even at a rink that had nitrogen oxide levels above health guidelines multiple times, that solution brought them at or below levels outdoors, Wilson said.
+</P>
+<P>
+In 2021, based on the study, Health Canada issued guidelines for improving air quality in arenas. Using electric resurfacers and edgers to maintain the ice, in order to eliminate the main sources of pollutants, was its top recommendation.
+</P>
+<P>
+"In the long run, I think that's the solution to air pollution inside ice rinks," Wilson said.
+</P>
+<P>
+Climate change motivates electric transition
+</P>
+<P>
+Electric ice resurfacers have actually existed for decades — Zamboni introduced its first model at the 1960 Winter Olympics in Squaw Valley, Calif., but didn't start selling a commercial battery-powered model until 1978.
+</P>
+<P>
+Today, several brands of electric ice resurfacers, along with electric edgers for smoothing the sides of the rink, are available in Canada.
+</P>
+<P>
+Steve Kovacevic is general manager of Elmira, Ont.-based Resurfice, which offers both lead-acid and lithium ion battery electric models.
+</P>
+<P>
+While its fossil fuel options, which are still cheaper, used to be more popular, he said he's noticed that now when communities issue tenders looking for new ice resurfacers, "they are looking to switch to electric machines — there's no doubt about that."
+</P>
+<P>
+The Zamboni brand alone has 400 electric machines across the country, according to Greg Dean, the company's vice-president of sales and brand management. The biggest fleet so far is in Montreal, with 31, followed by Strathcona County, Alta., with 13 and London, Ont., with 12.
+</P>
+<P>
+"There has been a strong uptick in interest in electric equipment," he said in an email.
+</P>
+<P>
+Some provinces, such as Alberta and B.C., offer climate change mitigation funding to help offset the higher up-front cost of electric machines, and it appears to have made a difference.
+</P>
+<P>
+Terry Piche, director of training, research and development at the Ontario Recreation Facilities Association, said his province has also seen a shift toward electric over the last 15 years. Now, he estimates a quarter of the roughly 1,000 indoor rinks in Ontario are being serviced by electric ice resurfacers — and the number is growing each year.
+</P>
+<P>
+While electric models are more expensive than fossil fuel versions (about $50,000 more per machine), his group estimates that due to lower fuel and maintenance costs, arenas end up breaking even after eight years.
+</P>
+<P>
+WATCH | Electric resurfacers hit the ice to prevent toxic fumes
+</P>
+<P>
+Does it make a difference for users?
+</P>
+<P>
+Climate change is the top reason communities cite for making the switch, and the health co-benefits aren't usually top of mind — although some communities do mention safety benefits and reducing the strain on ventilation systems.
+</P>
+<P>
+Mississauga, Ont., is one city halfway through its transition to replace all 22 of its ice resurfacers with electric ones.
+</P>
+<P>
+Shari Lichterman, Mississauga's acting city manager, said it's part of the municipality's climate action plan, which includes electrification of the entire municipal fleet, from buses to mowers.
+</P>
+<P>
+Lichterman, who is also chair of Parks and Recreation Ontario, said air quality hasn't been a significant concern in her city's arenas due to monitoring and ventilation systems, although it can be at arenas in other communities.
+</P>
+<P>
+"But to the extent that we can even eliminate that concern at all," she said, "of course we want to do that."
+</P>
+<P>
+Still, clean arena air is something that users notice and appreciate. On a recent weekday afternoon, a group of players with the Mississauga Chargers junior hockey team practised at the city's Port Credit Memorial Arena on ice newly smoothed by the rink's electric Zamboni.
+</P>
+<P>
+Head coach Joe Washkurak said that decades ago, in the old arenas where he first started playing hockey, "you could always smell the propane from the old Zambonis, and that wasn't a very good hockey rink smell." He also recalls games postponed because of gas leaks.
+</P>
+<P>
+These days, he said, the atmosphere in the arena is more pleasant for practising. "No pun intended, but it's a breath of fresh air."
+</P>
+</TEXT>
+</DOC>

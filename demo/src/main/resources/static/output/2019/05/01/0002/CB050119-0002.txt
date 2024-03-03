@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CB050119-0002 </DOCNO>
+<DATE>
+<P>
+May 01, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Federal rebates for electric cars kick in with increased price limit; 
+</P>
+<P>
+Experts say government incentives help drive electric-car purchases
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Federal rebates to encourage Canadians to buy electric cars take effect today.
+</P>
+<P>
+The rebates, announced in the last Liberal budget, will take up to $5,000 off the cost of electric vehicles, and $2,500 off plug-in hybrids, but they initially applied only to cars that cost less than $45,000.
+</P>
+<P>
+Ottawa is raising that to $55,000 to increase the options a buyer can choose and still receive the rebate, which will allow some of the most popular cars, including the Tesla Model 3, to qualify. Tesla recently launched a cheaper Model 3 in Canada with a 150-kilometre-range to qualify for the previous limit, according to Electrek.
+</P>
+<P>
+Nine electric cars and 13 plug-in hybrids are eligible, including the country's second- and third-most popular electric cars, the Nissan Leaf and the Chevrolet Bolt.
+</P>
+<P>
+Electric car experts say there is no doubt government incentives help drive electric-car purchases, noting when the new conservative government in Ontario killed a $14,000 rebate last year, electric-car sales in that province plummeted.
+</P>
+<P>
+Road transportation accounts for as much as one-fifth of Canada's emissions and the incentives are part of the federal government's strategy to meet its international targets for reducing greenhouse-gas emissions to halt climate change.
+</P>
+</TEXT>
+</DOC>

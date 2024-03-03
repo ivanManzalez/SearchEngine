@@ -1,0 +1,93 @@
+<DOC>
+<DOCNO> CB032823-0001 </DOCNO>
+<DATE>
+<P>
+March 28, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Freeland presents a plan to green Canada's electricity supply; 
+</P>
+<P>
+Moving to net-zero is expected to place unprecedented demands on Canada's grids
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The 2023 federal budget promises an ambitious national electricity plan to provide net-zero power from coast to coast to coast.
+</P>
+<P>
+The budget document notes that Canada's electricity demand is expected to double by 2050. Meeting that demand, the budget says, will require "massive investments" to ensure provincial and territorial electricity grids can support neighbourhoods where every garage might soon have an electric vehicle, and can supply energy-intensive industries like steel manufacturing as they switch from fossil fuels to electricity.
+</P>
+<P>
+To unleash those investments, Finance Minister Chrystia Freeland's fiscal plan offers a clean electricity investment tax credit worth $6.3 billion over four years, along with billions of dollars more for a suite of other tax credits and measures.
+</P>
+<P>
+All told, the government plans on spending $20.9 billion in new money on growing the green economy.
+</P>
+<P>
+A senior government official speaking on background called clean electricity "the backbone" of the federal government's plan to tackle climate change and keep Canada competitive in a low-carbon economy.
+</P>
+<P>
+"If there is one single input that is essential to a transition to a low-carbon economy, it is the availability of low-cost, clean electricity," said a government official who spoke to reporters ahead of the budget's release Tuesday.
+</P>
+<P>
+Ottawa has set a policy objective of moving the national electricity grid to net-zero by 2035. Roughly 83 per cent of Canada's electricity currently comes from non-emitting sources like hydroelectricity, solar, wind and nuclear. The rest comes from emitting sources such as natural gas, diesel, or coal.
+</P>
+<P>
+"Under-investment in Canada's electrical grid today would risk our ability to power our economy and deliver cleaner and cheaper energy to Canadians," the budget document says. "It would hamstring Canada's electricity-intensive manufacturing sector."
+</P>
+<P>
+The clean electricity investment tax credit would apply to non-emitting electricity generation systems — wind, solar, hydro, tidal and nuclear. Those eligible would receive a refundable tax credit worth up to 15 per cent.
+</P>
+<P>
+Provinces that rely on natural gas-fired electricity generation would be eligible for the credit as well if they use abatement techniques, such as carbon capture. Unlike other tax credits which target the private sector, this one is also available to Crown corporations, public utilities and Indigenous-owned corporations.
+</P>
+<P>
+The government also revealed more details of its investment tax credits for clean hydrogen and clean technology manufacturing and adoption. Some of these measures are offering tax credits as high as 40 per cent.
+</P>
+<P>
+While these financial incentives may be targeted more at other aspects the clean energy sector, federal officials told CBC the electricity sector could tap into some of them.
+</P>
+<P>
+The budget itself says these measures could support electricity projects in Canada's North such as the Atlin Hydro Expansion Project, the Taltson Hydro Expansion Project and the Kivalliq Hydro-Fibre Link.
+</P>
+<P>
+As for the Atlantic Loop — a proposed network of interprovincial transmission lines that would connect Quebec, New Brunswick and Nova Scotia — the budget says the government is negotiating with provinces and their utilities to get it done.
+</P>
+<P>
+The government admits some of these green investments are part of a direct response to the U.S. Inflation Reduction Act, which the U.S. Congress passed in August. The legislation unleashed an estimated $369 billion US in clean growth incentives and triggered a global race to attract green investments.
+</P>
+<P>
+"We cannot as country afford to be left behind," a finance official told reporters.
+</P>
+<P>
+The federal government has said Canada needs to see investments of $125 billion to $140 billion annually until 2050 to help meet its net-zero ambitions.
+</P>
+<P>
+The budget also mentions the Canada Infrastructure Bank and the $15 billion Canada Growth Fund will be positioned to help mobilize more investments into the clean economy.
+</P>
+<P>
+'Great expectations' mostly met: industry group
+</P>
+<P>
+Reactions from businesses and climate policy researchers to the budget's green measures have been mostly positive.
+</P>
+<P>
+Dennis Darby, president of the Canadian Manufacturers and Exporters, said the budget "for the most part delivered" on the group's "high expectations."
+</P>
+<P>
+Rick Smith, president of the Canadian Climate Institute, said the budget "takes significant strides toward building bigger, cleaner and smarter electricity systems across the country.
+</P>
+<P>
+"Clean electricity is Canada's greatest competitive advantage in attracting investment — and we need more of it."  But Climate Action Network Canada said the budget missed opportunities to end public financing for the fossil fuel industry and to help workers in the oilpatch transition to jobs in the green economy.  "The budget fails miserably at fulfilling Canada's promise to end fossil fuel subsidies this year," said Caroline Brouillette, the acting executive director of the network.  "Also missing: new and transformational investments for a just transition, in public transit and in housing efficiency."
+</P>
+<P>
+The budget also did not clearly state how much the government is on the hook for after it signed an agreement with Volkswagen in March to build a battery manufacturing plant in St. Thomas, Ontario.
+</P>
+<P>
+The government said the agreement has been fully accounted for in its fiscal plan but "further details and announcements will follow in the coming weeks after the finalization of the agreement by Volkswagen."
+</P>
+</TEXT>
+</DOC>

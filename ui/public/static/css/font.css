@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Zero-Cool';
+    src: url('../../font/zero-cool.woff2') format('woff2'),
+         url('../../font/zero-cool.woff') format('woff');
+    /* Add additional font formats if necessary */
+    font-weight: normal;
+    font-style: normal;
+}

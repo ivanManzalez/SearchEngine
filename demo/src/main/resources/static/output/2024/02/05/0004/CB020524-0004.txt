@@ -1,0 +1,129 @@
+<DOC>
+<DOCNO> CB020524-0004 </DOCNO>
+<DATE>
+<P>
+February 05, 2024
+</P>
+</DATE>
+<HEADLINE>
+<P>
+According to a new report, you're likely paying more in rent due to the increase in short-term rentals; 
+</P>
+<P>
+B.C. renters would have saved about $2B in rent, researchers estimate, in 2016-2021 without short-term rentals
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A new report reveals B.C. tenants are paying more in rent due to the impact of short-term rentals, like Airbnb and Vrbo.
+</P>
+<P>
+The study, conducted on a freelance basis by McGill University professor David Wachsmuth, found that between 2017 and 2019, the growth of short-term rental units accounted for 19.8 per cent of rent increases in the province.
+</P>
+<P>
+The report, commissioned by the B.C. Hotel Association (BCHA) and released Wednesday, also said that in June 2023, 16,810 housing units were converted from residential units to dedicated short-term rentals. 
+</P>
+<P>
+McGill University did not provide funding or oversight of the report.
+</P>
+<P>
+"It's actually the first time that research was able to quantify the impact that commercial short-term rental activity has had on rents … in Canada," said Thorben Wieditz, executive director of non-profit organization Fairbnb Canada Network, a national coalition of organizations focused on establishing fair regulations for short-term rentals.
+</P>
+<P>
+Echoing a recommendation from the report, Wieditz says B.C. needs a provincewide short-term rental registry to provide mandatory permits to hosts and to enforce requirements, such as a principal-residence restriction.
+</P>
+<P>
+At the Union of B.C. Municipalities (UBCM) convention on Wednesday, Housing Minister Ravi Kahlon said the province is announcing new legislation in the months ahead. 
+</P>
+<P>
+"We need it to be a provincewide solution, and so that will be reflected in the legislation that's coming this fall where the province steps in and takes out a bigger role in addressing short-term rentals," he said. 
+</P>
+<P>
+Nathan Rotman, policy lead with Airbnb Canada, disputed the claims in the report and said the study was not credible as it was commissioned by a hotel-affiliated group. 
+</P>
+<P>
+He says a survey of B.C. Airbnb hosts found that 83 per cent "share just one home and the average host operates less than 60 nights a year."
+</P>
+<P>
+In comparison, Wachsmuth's report states 48.4 per cent of active listings in June 2023 were owned by hosts with multiple short-term rental properties. 
+</P>
+<P>
+"While we support sensible short-term regulations, the focus needs to be on building more housing to help address the country's housing affordability and supply challenges," said Rotman, adding rental regulations in cities like Vancouver and Toronto have had "an immaterial impact on the housing market."
+</P>
+<P>
+"Rent prices and vacancy rates remain challenging in both cities despite the the massive decrease in short-term rentals in both cities following their regulatory regimes being enacted."
+</P>
+<P>
+Short-term rentals 'at an all-time high'
+</P>
+<P>
+The report by Wachsmuth conducted analysis on the short-term rental market of six tourism regions in the province, including Vancouver Island, Thompson Okanagan, and Vancouver Coast and Mountains. 
+</P>
+<P>
+Compared to June 2022, the total number of rental listings active each day have gone up 17.8 per cent to an average of 28,510 listings in 2023. 
+</P>
+<P>
+The report notes while there was a decline in activity during the pandemic, "B.C.'s [short-term rental] market is now at an all-time high."
+</P>
+<P>
+Wieditz says one of the most crucial findings is that B.C. renters have paid nearly $2 billion more in rent from 2016 to 2021 due to short-term rentals. 
+</P>
+<P>
+To limit the impact on renters and the rental market, Wieditz says a provincewide registry, similar to the model in Vancouver, is necessary. 
+</P>
+<P>
+Vancouver requires registration and a licence to enlist a property online for short-term rental, which the report describes as "a Canadian success story."
+</P>
+<P>
+"[This means] that you and I will be able to rent out our own home when we go on vacation … But we cannot … acquire dozens and dozens and dozens of investment properties for the sole purpose of turning these over into tourist accommodations," said Wieditz. 
+</P>
+<P>
+"With platform accountability comes real-time data sharing," he added.
+</P>
+<P>
+"That registry can then help smaller municipalities with their regulatory efforts so that they know exactly what's going on in the housing market, who rents where [and] what's the intensity of short-term rental activity in their jurisdiction."
+</P>
+<P>
+The City of Toronto's short-term rental regulations from 2021 and Quebec's provincial registration system are also cited as successful Canadian models in the report. 
+</P>
+<P>
+The study also notes that without intervention by summer 2024, the housing market will lose 19,400 units and see an additional $23 in monthly rent increases. 
+</P>
+<P>
+Workforce shortage in hospitality due to unaffordable housing: BCHA
+</P>
+<P>
+Report author David Wachsmuth says while Airbnb is correct that most B.C. hosts "are casual home sharers," nearly half of active short-term rental market listings are owned by a few hosts with multiple units. 
+</P>
+<P>
+"They're the ones that are having an adverse impact on the housing market ... it's misleading to focus on the hosts that way because you don't go to Airbnb and see hosts, you go to [see a listing]," he said.
+</P>
+<P>
+"We showed very clearly ... that Vancouver's short-term rental rules returned hundreds and hundreds of housing units for long-term market, he said, adding there is no evidence to support Airbnb's position that regulations haven't impacted the housing market. 
+</P>
+<P>
+In a statement, Ingrid Jarrett, president of the B.C. Hotel Association, said the study was commissioned due to the workforce crisis in the hospitality industry. 
+</P>
+<P>
+"After hearing from accommodation and tourism operators from across B.C., it became clear that the lack of access to affordable housing is one of the most significant causes of our workforce shortage," she said. 
+</P>
+<P>
+"Our hope is that this research will underscore the need for the government to implement measures ... that have been proven successful and will be a critical part of the solution to both B.C.'s housing and workforce crises."
+</P>
+<P>
+More data needed: minister
+</P>
+<P>
+Kahlon says the province has been looking to other jurisdictions, like Quebec, New York and Louisiana, to see how they are managing short-term rental properties. 
+</P>
+<P>
+He says the ministry is expecting mixed responses when the province announces its new legislation.
+</P>
+<P>
+"But we're in a housing crisis. We need to do something and quite frankly the time of talking is over and we need to get to the action," he said, adding local governments also require additional data to enforce regulations. 
+</P>
+<P>
+"We need to find a way to ensure that there's better data available for local governments so that they can actually enforce the rules that are there."
+</P>
+</TEXT>
+</DOC>

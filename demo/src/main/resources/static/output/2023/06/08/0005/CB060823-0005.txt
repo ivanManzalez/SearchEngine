@@ -1,0 +1,135 @@
+<DOC>
+<DOCNO> CB060823-0005 </DOCNO>
+<DATE>
+<P>
+June 08, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Who really owns key Canadian assets? Regulators aren't sure but they want to find out: internal files; 
+</P>
+<P>
+Transparency advocates say authorities long turned a blind eye to shady money, but change may be coming
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The financial fallout from Russia's invasion of Ukraine hit home a long-standing problem in Canada, according to internal government documents: regulators don't have basic information about who really owns key companies and assets.
+</P>
+<P>
+As Canada ramped up economic sanctions against Russian elites last year, officials across the Western world realized it's impossible to crack down on wealthy beneficiaries of the invasion if the actual — or beneficial — owners of businesses are obscured by layers of front companies or other accounting tricks. 
+</P>
+<P>
+Transparency advocates say Canada had long ignored probing shady investors using anonymous holding companies to buy valuable assets; their money was welcome, often with no questions asked. That is starting to change, according to internal government files obtained via the Access to Information Act.
+</P>
+<P>
+"The Government of Canada has been working with its provincial and territorial partners to improve corporate beneficial ownership transparency," said the Department of Finance document marked "protected" from 2022.
+</P>
+<P>
+"Federal, provincial and territorial Ministers of Finance have committed to requiring corporations to hold accurate and up-to-date beneficial ownership information."
+</P>
+<P>
+A new federal registry mandating the disclosure of this information should be up and running by the end of the year, a Department of Finance spokesperson told CBC News. 
+</P>
+<P>
+However, there are questions about how well it can achieve its goals if provinces and territories aren't on side and sharing information across the country. It also remains unclear how many staff will be working on the project to investigate whether companies are providing accurate information into the registry. 
+</P>
+<P>
+'Everyone turned a blind eye'
+</P>
+<P>
+From mansions owned by anonymous trusts in Vancouver, to numbered companies holding valuable corporate shares registered to Toronto-area post office boxes, money laundering is estimated to be worth between $45 billion and $113 billion annually, according to data from the government's Criminal Intelligence Service.
+</P>
+<P>
+These sorts of tactics, using front companies to obscure the true owners of investments, launder the proceeds of crime and avoid taxes, were publicized in the Panama Papers and similar leaks. 
+</P>
+<P>
+But the war in Ukraine added new urgency to uncovering the beneficial owners of Canadian assets, said James Cohen, executive director of the watchdog group Transparency International Canada. 
+</P>
+<P>
+"Everyone turned a blind eye, because it's money — not realizing this was being weaponized against us," Cohen told CBC News. "Pre-2023 Canada was a laggard [on ownership transparency]. We were far behind many of our OECD and G7 peers.
+</P>
+<P>
+"When Canada has our registry online, we will have jumped from the back of the class to the front," he said. "Russia's invasion of Ukraine was a big final push to get this over the finish line."
+</P>
+<P>
+The plan to create a "public and searchable beneficial ownership registry" was launched as part of the federal budget in March, Department of Finance spokesperson Marie-France Faucher told CBC News. 
+</P>
+<P>
+"This registry will cover corporations governed under the Canada Business Corporations Act, and will be scalable to allow access to the beneficial ownership data held by provinces and territories that agree to participate in a pan-Canadian registry."
+</P>
+<P>
+It's unclear exactly what the database will look like when it's rolled out. It could resemble other public disclosure databases online, such as the federal lobbying registry, where a user can plug in the name of a company and find out who really owns it, controls voting rights and will profit from its activities. 
+</P>
+<P>
+'Patchwork regime' on ownership transparency
+</P>
+<P>
+Publicly traded companies, generally larger businesses listed on stock exchanges, must already provide disclosure on their real or beneficial owners, said Cohen.
+</P>
+<P>
+The new rules extend those provisions to determine who is the person ultimately controlling a company — 25 per cent ownership or voting rights— to federally regulated, privately held firms, he added.
+</P>
+<P>
+Previously, tracking whether beneficial owners of a company in Canada had ties to crime, corruption or human rights abuses fell to individual banks who handled their finances, Cohen said. 
+</P>
+<P>
+Most businesses are registered provincially, and the new federal rules won't apply there. But some provinces are stepping up their own beneficial ownership requirements for companies; Quebec launched a system of beneficial ownership transparency in March and similar legislation has been tabled in B.C., Faucher said. 
+</P>
+<P>
+"The federal government will continue calling upon provincial and territorial governments to advance a pan-Canadian approach to beneficial ownership transparency," she added. 
+</P>
+<P>
+Cohen hopes new provincial registries will be expanded, and will be able to communicate with the federal system, so information on who really owns private companies can be gleaned in a simple fashion.
+</P>
+<P>
+The lack of a single database and rules on transparency which cross provincial boundaries could undermine the new initiative, said Malcolm Aboud, a corporate lawyer with the firm Osler in Toronto who tracks white collar crime.
+</P>
+<P>
+"As of now, you have a patchwork regime with different provincial regulations," he told CBC News. "In order to properly fulfil the goals of the legislation, some buy-in would be required with the provinces." 
+</P>
+<P>
+Aboud said the new rules will lead to "some increased regulatory burden on businesses." But he added that companies are already supposed to track their beneficial owners in their internal records, so providing this information to federal regulators shouldn't be too onerous.
+</P>
+<P>
+Real-time impacts
+</P>
+<P>
+Concerns about investors with criminal links, ties to violent regimes or implicated in corruption investing in Canadian assets as beneficial owners aren't merely academic, another set of government documents showed. They are playing out in real-time. 
+</P>
+<P>
+A separate internal briefing note marked "secret" from Nov. 18, 2022 to the Minister of Intergovernmental Affairs Infrastructure and Communities spells out a situation involving sanctioned Russian oligarch Oleg Deripaska.
+</P>
+<P>
+He is "a non-controlling, minority shareholder in the Austrian parent firm (Strabag SE)." That company is "working on major transit projects" in Ontario which to receive funding from the federal and Ontario governments, the note states.  
+</P>
+<P>
+Disclosures about Deripaska's financial stake in vital Canadian infrastructure raised ire from politicians in Ontario and beyond who didn't want to see a billionaire tycoon with interests in energy and metals who faces sanctions across the Western world benefit from government-funded transport projects.
+</P>
+<P>
+A spokesperson from Strabag SE, Marianne Jakl, told CBC News her company's work is ongoing on subway projects in Toronto, and the firm is "ensuring the sanctions in place by various countries, including Canada, are fully implemented." 
+</P>
+<P>
+Strabag "is also taking all possible legal steps to distance itself" from the investment firm Rasperia, which is partially owned by Deripaska and owns shares in the Austrian construction company, she said. 
+</P>
+<P>
+"For example, no dividend payments are made, the board member nominated by Rasperia has been removed and a proposal for capital measures has been tabled to reduce Rasperia's shares."
+</P>
+<P>
+Real-estate blind spot
+</P>
+<P>
+While the new beneficial ownership rules have been welcomed by transparency campaigners as a step in the right direction, they don't extend to real estate investments, a government official said on background.
+</P>
+<P>
+Analysts say Canadian real estate including condos or high-end homes have long been popular investments for shady characters.
+</P>
+<P>
+"The government intends to work with provincial and territorial partners to advance a national approach to a beneficial ownership registry of real property," the government official said.
+</P>
+<P>
+Along with acting as a convenient money laundering vehicle for oligarchs, corrupt politicians or gangsters, "dirty money is that cyanide-filled cherry on top" of Canada's housing price crisis, Cohen said, urging swifter action on ownership transparency for real estate. 
+</P>
+</TEXT>
+</DOC>

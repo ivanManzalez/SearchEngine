@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> CB111122-0001 </DOCNO>
+<DATE>
+<P>
+November 11, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Veterans Affairs Canada has been overestimating the number of veterans for decades; 
+</P>
+<P>
+There could be 156,000 fewer veterans in Canada than Ottawa estimates
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Veterans Affairs Canada has been overestimating the number of Canadian veterans for decades — and newly released census numbers suggest there may be 25 per cent fewer veterans than the federal government previously thought.
+</P>
+<P>
+Statistics Canada and Veterans Affairs Canada (VAC) are scrambling to reconcile the difference between their numbers, CBC News has learned.
+</P>
+<P>
+According to the 2021 census, there are 461,240 veterans in Canada — a huge decline from the 617,800 former military members projected by VAC.
+</P>
+<P>
+The explanation may lie in the way that VAC and Statistics Canada count veterans.
+</P>
+<P>
+The most recent census contained a question about military service for the first time in 50 years. It asked respondents who were 17 years of age or older on May 11, 2021 whether they had ever served in the Canadian military.
+</P>
+<P>
+VAC, on the other hand, arrives at its annual projection of the veteran population by using a mathematical model based on 1971 census data, the 1988 labour force survey and annual survival rates from Statistics Canada.
+</P>
+<P>
+"This has caused VAC and Statistics Canada to re-evaluate the estimates we have been using for the past decades for the estimated veteran population," VAC spokesperson Josh Bueckert said in an email.
+</P>
+<P>
+Other factors could be interfering with efforts to come up with an accurate picture of the veterans population.
+</P>
+<P>
+One of those factors is the incomplete picture provided by the 1951, 1961 and 1971 censuses upon which VAC partially bases its estimates. Previously, said Statistics Canada, the census only asked men aged 35 and older whether they served in the Canadian military or in other allied forces.
+</P>
+<P>
+The 2021 census short form survey, which was sent out to all households, broadened its question to include anyone 17 and older regardless of gender. It asked them whether they served or are currently serving in the military.
+</P>
+<P>
+Statistics Canada said a person could define themselves as someone who served in the Canadian military if they served with "the Regular Force or Primary Reserve Force as an Officer or Non‑Commissioned Member."
+</P>
+<P>
+VAC rethinking the way it counts veterans
+</P>
+<P>
+VAC's estimates were based on their definition of a veteran, which is anyone who completed basic training and was honourably discharged from the forces.
+</P>
+<P>
+The census is also based on self-reporting. A VAC spokesperson said that approach also could provide an incomplete picture because some people who technically qualify as veterans may not have self-identified as veterans. 
+</P>
+<P>
+The discrepancy does not affect funding for Veterans Affairs Canada because its funding model is not based on the number of veterans in the country, said an official in Veterans Affairs Minister Lawrence MacAulay's office. The revised numbers could, however, affect how the department plans policy going forward.
+</P>
+<P>
+In a media statement, VAC told CBC News that it would not provide any further updates on the number of veterans until it re-evaluates the way it counts former military members.
+</P>
+<P>
+"Our department is working with Statistics Canada on continued verification of data collected through Census 2021, with the aim of producing the most accurate and comprehensive view of the Canadian veteran population that we possibly can," the statement said.
+</P>
+<P>
+It's not the first time Veterans Affairs has had trouble with its calculations.
+</P>
+<P>
+An accounting error decades ago led the department to shortchange former soldiers on disability benefits over a number of years — a mistake that eventually cost the federal government more than $165 million to correct.
+</P>
+</TEXT>
+</DOC>

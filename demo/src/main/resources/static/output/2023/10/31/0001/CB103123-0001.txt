@@ -1,0 +1,69 @@
+<DOC>
+<DOCNO> CB103123-0001 </DOCNO>
+<DATE>
+<P>
+October 31, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Is Canada in a recession? Latest monthly GDP numbers show economy hasn't expanded since May; 
+</P>
+<P>
+GDP was greater in May than it is now, Statistics Canada says
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada's economy is showing clear signs of a slowdown, as after shrinking in June, the total value of all goods and services sold was essentially unchanged in July and August — and likely September, too.
+</P>
+<P>
+Statistics Canada reported Tuesday that the country's gross domestic product was flat in August, as the service sector expanded a little but output from goods-producing industries shrank.
+</P>
+<P>
+Canada's GDP in August came in at $2.082 trillion during the month. That's barely ahead of just over $2.081 trillion the previous month.
+</P>
+<P>
+Final numbers for September are not yet available, but early indicators suggest the trend continued into September. That means there's a good chance that Canada's economy has not grown in any meaningful way since May.
+</P>
+<P>
+The numbers for August were worse than the slight 0.1 per cent uptick that economists were expecting — and worse than the 0.1 per cent uptick that the data agency had forecast in its preliminary estimate.
+</P>
+<P>
+WATCH: The economy is slowing down. So why aren't interest rates coming down yet?
+</P>
+<P>
+"That leaves the third quarter showing no growth and actually a slight contraction according to these monthly GDP numbers, which is well below the Bank of Canada's 0.8 per cent growth projection," said Tiago Figueiredo, an economist with Desjardins.
+</P>
+<P>
+The data agency previously reported that the economy shrank in the April-to-June quarter, so the numbers released Tuesday suggest that Canada's economy hasn't grown for at least two quarters in a row.
+</P>
+<P>
+"Whether or not the economy is already in recession is less important than the fact that the lagged impacts of monetary policy are likely to materially depress economic activity moving forward," Figueiredo said. "As a result, we expect the economy to more clearly enter a recession in 2024."
+</P>
+<P>
+Benjamin Reitzes, an economist with Bank of Montreal, called the GDP numbers "one more crystal clear sign that the Bank of Canada should be done hiking," adding that the weak showing will "cause recession chatter to ramp up quickly."
+</P>
+<P>
+"The soft economic backdrop, which still has downside, will drive inflation down over time ... it's just a question of how quickly."
+</P>
+<P>
+Others, however, say it's too soon to use the dreaded "R" word: recession
+</P>
+<P>
+"GDP has basically been trending flat for a while, which doesn't really look like a recession to me," said Derek Holt, an economist with Scotiabank.
+</P>
+<P>
+Impact of wildfires and strikes
+</P>
+<P>
+He notes that numbers for the summer were weighed down by two factors that are unlikely to continue to have an impact moving forward: wildfires and a slew of strikes.
+</P>
+<P>
+With most of those in the rearview mirror, the economy is likely to bounce back a little now to catch up from work that was lost in the past.
+</P>
+<P>
+"Using the monthly GDP figures, we cannot say the economy has entered technical recession. All we can say at best is that it has stalled and is bouncing on bottom," he said.
+</P>
+</TEXT>
+</DOC>

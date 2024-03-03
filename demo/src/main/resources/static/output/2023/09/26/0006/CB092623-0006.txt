@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB092623-0006 </DOCNO>
+<DATE>
+<P>
+September 26, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canadian team identifies alternative tape that prolongs life of most laptop, cellphone batteries; 
+</P>
+<P>
+Researchers at Dalhousie University discover polypropylene tape is more stable than the current standard
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A team of Canadian researchers have identified a new way to prolong the battery life of most laptops and cellphones after discovering a power-drainage flaw last year. 
+</P>
+<P>
+The solution? A different kind of tape. 
+</P>
+<P>
+Typical laptop and phone batteries use tiny pieces of tape made of polyethylene terephthalate (PET), a synthetic resin, to hold its components together. 
+</P>
+<P>
+The team at Dalhousie University's battery lab in Halifax determined in November of last year that this type of plastic can dissolve due to a chemical reaction in the battery, causing its charge to deplete without sending out electrical current — a process called self-discharge.
+</P>
+<P>
+This is why devices that are fully charged can slowly lose their charge even while they're turned off.
+</P>
+<P>
+"Nobody, I think, thought that it could be the tape," Anu Adamson, a PhD student who helped lead the research, told CBC Radio's Mainstreet Halifax.
+</P>
+<P>
+"Because to a degree, self-discharge is seen as something inevitable, really …  like we can't make totally perfect batteries. Most people thought that if there is a fix, then it can't be that simple, but it just turns out that it actually can."
+</P>
+<P>
+Adamson said the team determined that using chemically stable polypropylene (PP) tape instead can increase battery life up to 10 per cent and decrease self-discharge by up to 70 per cent — a discovery that was published in the scientific journal Nature Materials last week.
+</P>
+<P>
+She said the chemical bonds in polypropylene are a lot stronger, which make it more stable, while still being capable of holding the battery together.
+</P>
+<P>
+Polypropylene is typically used to make more durable plastic items like outdoor furniture or reusable water bottles. 
+</P>
+<P>
+Adamson said the tape that is currently used in lithium-ion batteries is relatively cheap, but polypropylene tape costs about the same, so there's no reason to not make the switch.
+</P>
+<P>
+She said battery researchers and manufacturers don't often think about these inactive components because they don't play a significant role in the battery's operation — but they're still important. 
+</P>
+<P>
+"This is really the first time we've seen that something that is generally regarded as very inactive in batteries, is essentially anything but," she said.
+</P>
+<P>
+Jeff Dahn, a professor emeritus in the Dalhousie University's departments of physics, atmospheric science and chemistry, praised Adamson's discovery. 
+</P>
+<P>
+"This is really incredibly nice chemical detective work," said Dahn, who researches lithium-ion batteries.
+</P>
+<P>
+"And it takes a very talented student to do this type of thing — to recognize all the connections between the various things that are going on in a lithium-ion battery and come up with this idea, is incredibly impressive."
+</P>
+<P>
+Dahn, who wasn't involved in this research, said researchers have been puzzled as to why some lithium-ion batteries were self-discharging.
+</P>
+<P>
+He said the tape dissolving has been a "very severe and an enormous problem" and switching to polypropylene will make a huge difference.
+</P>
+<P>
+It makes sense, he said, as polypropylene is well known to be fully stable in both lithium-ion and sodium-ion batteries.
+</P>
+<P>
+"It's something really simple that I think everyone should do, and I'm sure that most manufacturers will make the change," he said.
+</P>
+</TEXT>
+</DOC>

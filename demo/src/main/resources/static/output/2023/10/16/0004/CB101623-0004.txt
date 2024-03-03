@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> CB101623-0004 </DOCNO>
+<DATE>
+<P>
+October 16, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Offshore wind industry in Atlantic Canada could make region energy powerhouse: report; 
+</P>
+<P>
+'We are talking here not of something incremental, but monumental'
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Atlantic Canada is poised to harness the area's offshore wind to become a global leader in renewable energy, according to a new report, generating more renewable electricity than the region consumes annually.
+</P>
+<P>
+Catching the Wind: How Atlantic Canada Can Become an Energy Superpower is a report from Ottawa-based think-tank Public Policy Forum. It highlights the relatively shallow waters off the coast of Nova Scotia's Sable Island as a prime location for offshore wind development.
+</P>
+<P>
+The Sable Island Bank alone could accommodate at least 1,000 offshore turbines, each with a capacity of 15 megawatts. That adds up to around 70,000 gigawatt hours, "enough to supply 6.5 million average Canadian homes, or almost twice the total electricity currently consumed in Atlantic Canada annually."
+</P>
+<P>
+"We are talking here not of something incremental, but monumental," the report adds.
+</P>
+<P>
+The report also says Canada is behind on utilizing the power of one of the world's "longest and windiest coastlines," and there are no turbines, either under construction or operating, in its offshore waters. Other jurisdictions, including China, the United Kingdom and the United States, have all installed offshore wind turbines, with plans to make further investments into offshore wind capacity.
+</P>
+<P>
+Peter Nicholson, author of the report and chair of the Canadian Climate Institute's board of directors, said in an interview with CBC News there's "a tremendous economic opportunity" in investing in offshore wind power for the region, there's also a national opportunity in "decarbonizing" the country's energy system to combat climate change.
+</P>
+<P>
+"The wind blows strong, consistently and there are areas offshore where it is very feasible to install very large numbers of wind turbines," Nicholson said of Atlantic Canada, "and there really aren't many other places in Canada where that opportunity exists."
+</P>
+<P>
+Nicholson said while the country has a "clean" energy grid, by international standards, more work will need to be done to meet greenhouse gas targets, following Canada's commitment to reach net-zero carbon emissions by 2050. And offshore wind development is a key part of reaching that goal.
+</P>
+<P>
+While the report paints an exciting picture of what wind power in Canada could look like, some environmentalists have questions about the scale of potential offshore projects.
+</P>
+<P>
+Brenna Walsh, senior energy co-ordinator with the Halifax-based Ecology Action Centre, said the group is excited to hear the potential of offshore wind projects and it's important to consider the total impacts of such a huge project and planning offshore wind farms in places where environmental impacts are reduced.
+</P>
+<P>
+Walsh said forging ahead with this kind of project means "thinking about kind of what the scale of that industry may look like, what can be accommodated and how it can benefit the electricity system, but also that strikes that balance."
+</P>
+<P>
+Walsh said the effort could use help from the federal government in mapping the best areas for offshore projects in Atlantic Canada
+</P>
+<P>
+The report also notes that wind energy projects are costly. That could be offset by a government-backed, guaranteed-fixed price for energy generated over a number of years, something that was used in Europe when the offshore wind industry was in its infancy.
+</P>
+<P>
+Role of Atlantic Loop 
+</P>
+<P>
+"I think there's been a little bit of hesitancy to jump into those projects, from the Canadian perspective, with larger costs. But I think it's becoming a lot more evident, the advantages and the ways the offshore wind could be used," Walsh said.
+</P>
+<P>
+Last week's announcement from Nova Scotia officials about abandoning the Atlantic Loop hydroelectric transmission project means Atlantic Canada will not be able to fully tap into the resource, Nicholson said.
+</P>
+<P>
+"Atlantic Canada's ability to supply large amounts of offshore wind-generated electricity to the rest of Canada will require, as an essential first step, completion of the Atlantic Loop," the report reads.
+</P>
+<P>
+"That critically important project needs to be seen as providing complementary two-way transmission — hydro power into the region and wind power out to Quebec and beyond."
+</P>
+<P>
+When asked if the region and the country could achieve its greenhouse gas reduction goals without investment in offshore wind in Atlantic Canada, Nicholson said, "No, essentially not."
+</P>
+<P>
+"But the reluctance of Nova Scotia … to complete the Atlantic Loop relates to a view of supplying clean energy just to these [Atlantic] provinces," he added. "That discussion hasn't taken place in the context of major offshore wind development, most of which would be exported west from here."
+</P>
+<P>
+"Nova Scotia may have a good reason to be reluctant if all they're thinking about is their own domestic requirements over the next few years," he added. "The vision that I've put forward is a completely different one, and vastly more ambitious."
+</P>
+<P>
+Others in the offshore wind industry say losing the Atlantic Loop might not be as damaging to Atlantic Canada's wind-power potential.
+</P>
+<P>
+"To bring offshore wind to market [using] a land based loop like that of course is one pathway, but there's also been proponents saying to do direct offshore connection, which go over land," said Scott Urquhart, CEO and founder of Aegir Insights, a Danish software company that serves the offshore wind sector. Some of the firm's findings were cited in Nicholson's report.
+</P>
+<P>
+"To find a route to market for offshore wind, it would be valid to actually study both pathways. A land-based loop would maybe serve other interests we're balancing with Quebec Hydro, but I wouldn't say that we've looked at the comparative economics of one route versus the other," Urquhart said.
+</P>
+<P>
+Lack of demand in Atlantic Canada 
+</P>
+<P>
+The report also tackles what Urquhart calls "the biggest challenge" for getting the offshore wind industry off the ground in Atlantic Canada: finding a market.
+</P>
+<P>
+"The issue that we have is that Nova Scotia doesn't have demand, locally, for many gigawatts of offshore wind [power], so everyone is looking to either hydrogen pathways or else trying to get [electricity] to the U.S."
+</P>
+<P>
+He said the issue highlights the need for the federal government to take a role in the project, easing the pressure on any single jurisdiction.
+</P>
+<P>
+"Really, to actually have a long-term viable industry, we actually need to first figure out this transmission or hydrogen game," he said. 
+</P>
+<P>
+"I do think that we're going at a right pace, but ... this whole route-to-market transmission angle is a top, top priority if we want to make this go faster."
+</P>
+</TEXT>
+</DOC>

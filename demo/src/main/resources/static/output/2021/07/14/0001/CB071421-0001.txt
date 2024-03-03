@@ -1,0 +1,171 @@
+<DOC>
+<DOCNO> CB071421-0001 </DOCNO>
+<DATE>
+<P>
+July 14, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How electric vehicles could transform the power grid; 
+</P>
+<P>
+Bidirectional charging lets EVs store and release energy — and could be key to greening our grid
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+More electric vehicles are becoming capable of not only storing energy for driving, but also for powering buildings and the wider grid, thanks to a capability called "bidirectional charging."
+</P>
+<P>
+It's an emerging technology that could keep fridges, lights and the internet on in homes and other buildings during emergencies, eliminating or reducing the impact of most power outages.
+</P>
+<P>
+Bidirectional charging also has the potential to make the entire power grid greener and more efficient, enabling increased and better use of wind and solar power. Here's a closer look at the technology.
+</P>
+<P>
+What is bidirectional charging?
+</P>
+<P>
+Up until now, most electric vehicles have been designed around a one-way charge, taking energy from the grid to charge their batteries and releasing it only to power the vehicle.
+</P>
+<P>
+With bidirectional charging, vehicles are also able to discharge power from their batteries, feeding it back into buildings and the grid when plugged in.
+</P>
+<P>
+Which vehicles have this capability?
+</P>
+<P>
+The Nissan Leaf and Mitsubishi's Outlander plug-in hybrid are currently the only consumer models on the Canadian market that have bidirectional charging, according to Nova Scotia Power.
+</P>
+<P>
+The utility is running a pilot to test the integration of such vehicles into its grid.
+</P>
+<P>
+But other manufacturers have said their vehicles will have the feature soon, including Ford's F-150 Lightning pickup truck and all Volkswagen EVs. Some non-consumer vehicles, such as school buses made by the Quebec-based Lion Electric, also support bidirectional charging.
+</P>
+<P>
+David Landrigan, vice-president of commercial for Nova Scotia Power, predicts it will eventually be the norm for EVs.
+</P>
+<P>
+"I actually can't see any electric vehicle not allowing bidirectional charging in the future, just because of the amount of value it brings," he said.
+</P>
+<P>
+Why would you want bidirectional charging?
+</P>
+<P>
+The simplest use of this technology is what's being marketed by vehicle manufacturers: spare power when you need it most.
+</P>
+<P>
+"It's your own personal power plant, automatically powering your house for three days during an outage," explained Ford's chief engineer, Linda Zhang, while unveiling the F-150 Lightning.
+</P>
+<P>
+That could be handy — and even life-saving — as climate change increases the risk of extreme weather.
+</P>
+<P>
+It could come into play during lengthy blackouts, like the February outage that cut off power and heat to millions of people for days amid a deadly cold snap in the southern U.S., or during rolling blackouts, like the ones in California in recent years, easing the strain of air conditioners on the grid and lessening the risk of wildfires during heat waves.
+</P>
+<P>
+Sending power from vehicle-to-building is known as V2B.
+</P>
+<P>
+While it might function similarly to a backup battery, like a Tesla Powerwall, a car battery typically has a much higher capacity: 155 kilowatt-hours (kWh) for the F-150 Lightning, for example, which is more than 10 times greater than a Tesla Powerwall's 13.5 kWh.
+</P>
+<P>
+Can this benefit people besides the vehicle owner?
+</P>
+<P>
+Yes. For one thing, electric vehicles can be driven to locations where extra power is needed during natural disasters and mass evacuations.
+</P>
+<P>
+But taking this one step further, feeding power beyond a single building to the grid itself is a concept known as vehicle-to-grid or V2G, which could potentially benefit the whole power system.
+</P>
+<P>
+"It's going to give a lot more grid resiliency," said Landrigan. If a generating unit goes down or a power line falls, he said, "we can use the tremendous power of these batteries for … keeping the power on for everybody."
+</P>
+<P>
+Utilities are also trying to incorporate more wind and solar — cleaner but more variable power sources that don't necessarily generate maximum power when it's most needed.
+</P>
+<P>
+Wind and solar made up 10 per cent of the global power mix in 2019, but need to grow to 60 per cent by 2050 to meet the targets of the Paris climate agreement, according to Francisco Boshell, of the International Renewable Energy Agency (IRENA). 
+</P>
+<P>
+And their variability will require more storage and backup power to manage supply and demand in the system — something electric vehicles could offer through bidirectional charging. 
+</P>
+<P>
+How can vehicles be used for storage and backup power?
+</P>
+<P>
+The simplest case doesn't require bidirectional charging at all — just something known as smart charging. Vehicles would be charged when there is lots of power available — when it's windy or sunny, for example — and not when electricity demand is high. 
+</P>
+<P>
+Utilities can encourage this through variable pricing, which raises electricity prices when there's a shortage of power and lowers rates when there's lots available. 
+</P>
+<P>
+With bidirectional charging, when vehicles aren't in use, they can sell power back to the grid. That could benefit everyone when demand is unusually high, such as during heat waves, when the power consumed by air conditioners can break records.
+</P>
+<P>
+"It would save the utility from having to turn on extra generators or potentially even hitting a brownout situation," said Wayne Groszko, an applied energy research scientist at Nova Scotia Community College who is collaborating with Nova Scotia Power on its pilot project.
+</P>
+<P>
+WATCH | Renewable energy batteries could eventually change how N.S. powers homes:
+</P>
+<P>
+How much power could be available?
+</P>
+<P>
+The number of electric vehicles worldwide is expected to grow from six million in 2018, to 160 million by 2030, and more than one billion by 2050, according to IRENA.
+</P>
+<P>
+That means "a massive electricity storage capacity would be available with all these batteries on wheels," said Boshell.
+</P>
+<P>
+One billion EVs could provide 40 terawatt-hours (tWh) of storage capacity — more than quadruple the nine tWh of storage capacity expected from stationary sources, such as pumped hydro and banks of grid-scale batteries, by 2050.
+</P>
+<P>
+"I think we can call it a game-changing resource," said Landrigan.
+</P>
+<P>
+Why haven't EVs been integrated into the grid yet?
+</P>
+<P>
+A big reason is that bidirectional chargers haven't been available, said Landrigan. Some of those being tested in the Nova Scotia Power pilot haven't even been certified for general use in Canada.
+</P>
+<P>
+"They're hard to get a hold of … they're not kind of at the market stage," he said.
+</P>
+<P>
+Another is that charging and discharging a battery causes it to degrade and reduces its lifespan. 
+</P>
+<P>
+A recent study by researchers at the National Research Council of Canada found that under experimental conditions, a Nissan Leaf's battery life was reduced from 10 years to six years when it was charged and discharged to help stabilize the grid. The process would also reduce the vehicle owner's power bill, it found, but only by 10 per cent — not enough to compensate for the reduced battery life.
+</P>
+<P>
+Researchers anticipate that battery improvements, improvements to the conditions for charging and discharging, and better compensation or incentives could change the equation.
+</P>
+<P>
+A recent pilot study on Lion Electric's school buses in New York found that charging and discharging their batteries to the grid once per day had a "really low" impact on degradation, similar to adding one extra route per day, said Patrick Gervais, the company's vice-president of communications.
+</P>
+<P>
+What needs to happen before EVs are an integrated part of the grid?
+</P>
+<P>
+There are still a lot of unknowns about integrating EVs into the grid, Gervais said. "No one has really done it."
+</P>
+<P>
+That includes programming charging to ensure there's enough power for the right purpose — driving or the grid — at the right time.
+</P>
+<P>
+With the Nova Scotia Power pilot, volunteers allow the utility to control their charging within certain parameters and report whether it causes any disruptions.
+</P>
+<P>
+The utility is also interested in what incentives it needs to provide customers — such as specialized rates — to allow for their battery to be partly controlled by the utility.
+</P>
+<P>
+While the technology and its regulation both need upgrades, Landrigan said he thinks we're "really close" to a future where EVs can be an integrated part of a greener, more reliable grid.
+</P>
+<P>
+"The more we can get the momentum going in terms of more and more people buying electric vehicles and using them to their maximum potential, the better all of us will be," he said.
+</P>
+</TEXT>
+</DOC>

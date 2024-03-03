@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> CB042617-0001 </DOCNO>
+<DATE>
+<P>
+April 26, 2017
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Say what? How a Canadian company can clone your voice; 
+</P>
+<P>
+Lyrebird says it can copy anyone's voice and make them say anything
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The gap between human voices and computer voices is closing. A new Canadian startup called Lyrebird says it can copy anyone's voice and make them say anything.
+</P>
+<P>
+What is Lyrebird?
+</P>
+<P>
+It's a Canadian company that specializes in speech synthesis software. They've developed software they claim can copy anyone's voice and make it say anything.
+</P>
+<P>
+The founders tell me if they can get a high-quality recording of you speaking for just one minute, their software can replicate your voice with very high accuracy.
+</P>
+<P>
+If they get a recording of you speaking for five minutes, they say it would be difficult to tell the difference between your voice and their computer-generated mimic. That's where the name Lyrebird comes from: a lyrebird is an Australian bird that's noted for its mimicry.
+</P>
+<P>
+The team at Lyrebird  has its roots at the University of Montréal, in the Montreal Institute for Learning Algorithms. Their lab has a history of developing speech synthesis software. And in particular, of using deep learning — a type of artificial intelligence — to turn text into audible speech.
+</P>
+<P>
+How does it sound?
+</P>
+<P>
+This week, the team at Lyrebird posted some samples on its website. The voices are entirely artificial, but they were made to sound like Barack Obama and Donald Trump.
+</P>
+<P>
+It's not perfect, the voices sound a bit robotic. But you can definitely tell who's who. Alexandre de Brébisson, one of Lyrebird's creators, told me one of the limitations with those presidential voices is the source material: they used recordings of speeches, which have some background noise and reverb, and you can hear some of that reproduced in the artificial voices.
+</P>
+<P>
+Who else is working on this type of voice technology?
+</P>
+<P>
+Last year, Adobe gave a sneak peek of a feature they call "VoCo," short for "voice conversion." Both VoCo and Lyrebird work in a similar way. They analyze a recording of someone's voice, break it into component parts called phonemes. Then it presents you with a text box, where you can type anything you want. The system uses the voice model to construct new words and phrases, even if they weren't in the original recording.
+</P>
+<P>
+The idea is that with a properly trained voice model, you can make anyone say anything. What's more, Lyrebird's creators say you can also manipulate the tone and emotion of an artificial voice. So in addition to changing what someone says, you can also change how they say it. 
+</P>
+<P>
+Whether it's Lyrebird, Adobe or some other company leading the way, it seems we're entering a future where people's voices can be easily copied or forged. This opens up a big can of worms.
+</P>
+<P>
+What are the ethical concerns of creating fake voices?
+</P>
+<P>
+In some ways, the ethical concerns of manipulating people's voices are analogous to the ethical concerns of using Photoshop to alter a photo or adding CGI special effects to a video.
+</P>
+<P>
+De Brébisson expects the technology to advance to the point where we can't tell the difference between an artificial voice and a real voice. And he understands why that could be problematic. He explains: "One possible concern is that just before elections, some people release some fake recordings that might change the elections.
+</P>
+<P>
+"So really, by releasing our technology with this website, we want also to make people aware that this exists and to be careful for the future about this kind of piece of evidence."
+</P>
+<P>
+We use our voices to build trust in so many aspects of our lives, whether it's your bank verifying your identity with a voiceprint, or a friend recognizing your voice on the other end of a phone line. But soon, the ability to forge or mimic someone's voice may be as commonplace as retouching photos or adding filters in Snapchat.
+</P>
+<P>
+Where will this technology likely show up?
+</P>
+<P>
+Lyrebird is making a bet on the future of voice-controlled computing. They imagine a world where more and more of our interactions with the digital world are done through voice. That means an increased focus on voice recognition, and voice synthesis.
+</P>
+<P>
+Right now Lyrebird isn't a consumer-facing tech company. They want other businesses to take their technology and build on top of it. De Brébisson expects Lyrebird will be used to design better personal assistants — like the ones from Amazon, Google and Apple. He also sees applications for video game makers and in animation, movies and audiobooks.  A studio could record an actor, build a voice model then artificially generate any dialogue they want. And though de Brébisson didn't mention it specifically, I think there are some pretty clear implications for people who work in radio.
+</P>
+</TEXT>
+</DOC>

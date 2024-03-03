@@ -1,0 +1,213 @@
+<DOC>
+<DOCNO> CB120319-0001 </DOCNO>
+<DATE>
+<P>
+December 03, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Solar? Geothermal? Garbage? 6 climate-friendly ways to heat and cool buildings; 
+</P>
+<P>
+From the village of Teslin to the City of Toronto, communities make use of local resources
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Using local energy sources such as lake water, wood waste or even garbage to heat and cool buildings is one way for communities to cut their greenhouse gas emissions — the goal of this week's UN climate summit. 
+</P>
+<P>
+In district energy systems, instead of having an individual heating and cooling system for each building, multiple buildings are hooked up to a central system — similar to how buildings are connected to the municipal water service instead of each one relying on individual wells. Heat is distributed to buildings via pipes that typically carry hot or chilled water. 
+</P>
+<P>
+It's an idea endorsed by the United Nations Environment Programme, or UNEP, which calls district energy a "key measure for cities/countries that aim to achieve 100 per cent renewable energy or carbon neutral targets."
+</P>
+<P>
+Once the distribution is set up, almost any energy source can be plugged in, depending on what's available locally and what will benefit the community.
+</P>
+<P>
+Here's a look at what six communities across Canada have done.
+</P>
+<P>
+Charlottetown District Energy System
+</P>
+<P>
+Location: Charlottetown, P.E.I.
+</P>
+<P>
+Technology: Waste-to-energy/biomass
+</P>
+<P>
+Year: 1986
+</P>
+<P>
+This system, run by Enwave Energy Corp, supplies 125 buildings, including Queen Elizabeth Hospital, with heat and also generates 1200 kW of electricity from burning "black bin" waste (garbage) and wood waste. The wood waste used to come from a sawmill, but that shut down so now the wood is from forestry and land clearing.
+</P>
+<P>
+It was originally built to address a shortage of landfill space. 
+</P>
+<P>
+The local landfill doesn't have systems to collect methane, a powerful greenhouse gas produced by decomposing organic waste. So by sending garbage to be burned in this system, it both prevents the methane from going into the atmosphere (burning generates carbon dioxide, a less potent greenhouse gas, instead) and displaces natural gas that would otherwise be burned to generate electricity, says Carlyle Coutinho, president and chief operating officer for the Canadian region for Enwave Energy Corp.
+</P>
+<P>
+Because P.E.I. relies heavily on power imported from New Brunswick, the availability of a local source of power and heat also makes the island more resilient in case of natural disasters.
+</P>
+<P>
+The company plans to expand to take more of the province's waste and generate more electricity.
+</P>
+<P>
+Deep Lake Water Cooling System
+</P>
+<P>
+Location: Toronto
+</P>
+<P>
+Source: Deep lake water cooling
+</P>
+<P>
+Year: 2004
+</P>
+<P>
+Toronto sits on the edge of Lake Ontario, allowing this system, also run by Enwave Energy, to draw cold water from its depths to cool 85 buildings in downtown Toronto, including hospitals, educational campuses, government buildings, commercial and residential buildings. In January 2019, the federal government announced an expansion to an additional two million square metres of floor space – the equivalent of 40 to 50 buildings. 
+</P>
+<P>
+Coutinho says the system saves electricity that would have been used for air conditioning and water that would have evaporated from cooling towers.
+</P>
+<P>
+He admits working in a built-up environment like Toronto, where distribution pipes need to be installed deeply in order to avoid other underground infrastructure and many buildings need to be retrofitted, is more difficult than installing in a new building. But the high density makes it easier to reach many customers.
+</P>
+<P>
+Drake Landing Solar Community
+</P>
+<P>
+Location: Okotoks, Alta.
+</P>
+<P>
+Source: Solar thermal energy/borehole thermal energy storage
+</P>
+<P>
+Year: 2007
+</P>
+<P>
+Description: This was a federal pilot project designed to see whether a solar thermal heating system, which has been testing in milder climates in Europe, would work in Canada, which gets most of its sun during the summer, but requires a lot of heat during the long, dark winter months.
+</P>
+<P>
+The system provides more than 90 per cent of space heating needs for 52 homes by collecting solar energy with solar-thermal panels on garage roofs and storing it underground during the summer. The heat is then distributed to homes during the winter.
+</P>
+<P>
+Lucio Mesquita, senior engineer of solar thermal renewable heat and power group at Natural Resources Canada's CanmetENERGY group, says there was even one year when the system provided 100 per cent of the heat.
+</P>
+<P>
+Because it requires very little electricity to run the pumps, it's also very resilient in case of extreme weather or natural disasters, he said.
+</P>
+<P>
+All the infrastructure is underground and has a park on top of it.
+</P>
+<P>
+Mequita says the pilot project shows this technology could work in any community in Canada, even in northern communities. 
+</P>
+<P>
+However, it's currently not cost competitive with traditional heating because of the low price of natural gas.
+</P>
+<P>
+"The technology works. It can be competitive," he said. "But you need a scenario that helps with that."
+</P>
+<P>
+Île-des-chênes District Energy 
+</P>
+<P>
+Location: Rural Municipality of Ritchot, Man.
+</P>
+<P>
+Technology: Geothermal
+</P>
+<P>
+Year: 2011
+</P>
+<P>
+Description: While the density of big cities is often required to make district energy projects cost effective, it can be installed in smaller communities, as this rural community of 5,000 shows. A district geothermal system connects an arena, a fire hall, a community centre with a daycare and banquet hall that can hold 500 people, and an ambulance garage.
+</P>
+<P>
+It warms the buildings using heat from deep in the ground, which stays around 18 C even in winter.
+</P>
+<P>
+The arena alone used to consume $40,000 a year in electricity to make ice. By using the geothermal system, it saves $15,000 a year and the quality of the ice is higher (less "chippy" during the shoulder season), allowing for a longer season, says Roger Perron, who was the economic development officer of Richot at the time the system was installed.
+</P>
+<P>
+Perron, who is still president of the community centre, says the geothermal system also displaced two gas furnaces.
+</P>
+<P>
+The muncipality needed a new community centre to replace its previous 70-year-old building anyway and managed to fund the initiative largely with government grants.
+</P>
+<P>
+Perron says the key is convincing local governments to take on a project like this.
+</P>
+<P>
+"I think it's doable in all communities."
+</P>
+<P>
+Teslin Biomass Project
+</P>
+<P>
+Location: Teslin, Yukon
+</P>
+<P>
+Technology: Biomass
+</P>
+<P>
+Year: 2018
+</P>
+<P>
+Description: This is a project of the Teslin Tlingit Council, a self-governing First Nation surrounded by boreal forest near the B.C.-Yukon border. It consists of several biomass boilers that burn low-grade waste wood products, such as sawdust, chips and leftover wood from cut trees, but also whole trees felled as a result of construction work. 
+</P>
+<P>
+It currently heats 18 buildings, including a school, an administration building, a cultural centre and some multi-residential buildings. Eight more will be added soon, says project manager Blair Hogan, president and CEO of Gunta Business Consulting.
+</P>
+<P>
+The district energy system makes it possible to use biomass — a locally produced renewable fuel — that couldn't be used by individual households, Hogan says.
+</P>
+<P>
+While it's not necessarily cheaper than the diesel boilers that heated buildings in the community before, that diesel was imported. The biomass system generates local jobs and keeps the money in the community. 
+</P>
+<P>
+Hogan says it's also an opportunity to make the community more resilient by removing wood that could put the community at risk in case of wildfires. The council plans to build a fire break by clearing more forest. 
+</P>
+<P>
+"This is kind of a proactive measure as well to protect our community."
+</P>
+<P>
+False Creek Neighbourhood Energy Utility
+</P>
+<P>
+Location: Vancouver 
+</P>
+<P>
+Source: Waste heat capture from sewage
+</P>
+<P>
+Year: 2010
+</P>
+<P>
+Description: 
+</P>
+<P>
+The system provides space heating and hot water to 36 buildings, or 5.4 million square feet of space, including the Science World Museum, Emily Carr University of Art and Design and at least 30 condominium buildings.
+</P>
+<P>
+The goal is to provide 70 per cent of the energy from waste heat captured from sewage, with the rest being made up by renewable natural gas.
+</P>
+<P>
+The sewage is warm because of all the hot water that goes down the drain from showers, dishwashing and laundry, says Alex Charpentier, acting manager of the False Creek Neighbourhood Energy Utility, owned by the City of Vancouver, which runs the system.
+</P>
+<P>
+The heat is normally wasted, but a heat exchanger next to the sewage pumping station allows the utility to extract the heat and provide it to local buildings.
+</P>
+<P>
+While a system like this is normally hard to install in a city that's already built, False Creek was a brownfield site redeveloped for the 2010 Vancouver Olympics.
+</P>
+<P>
+The utility has since proposed a huge expansion that could quadruple its generation capacity and allow it to connect with more offices and a hospital.
+</P>
+</TEXT>
+</DOC>

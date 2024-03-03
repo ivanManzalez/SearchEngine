@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> CB122023-0002 </DOCNO>
+<DATE>
+<P>
+December 20, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Colorado's top court rules Trump ineligible to run for presidency, removes him from state's ballot; 
+</P>
+<P>
+Former president expected to appeal ruling, which would ban him under U.S. Constitution's insurrection clause
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Colorado Supreme Court declared former U.S. president Donald Trump ineligible for the presidency Tuesday under the U.S. Constitution's insurrection clause, and removed him from the state's presidential primary ballot.
+</P>
+<P>
+The move set up a likely showdown in the country's highest court to decide whether the front-runner for the GOP nomination can remain in the race. Trump's lawyers had promised to appeal any disqualification immediately to the U.S. Supreme Court, which has the final say about constitutional matters.
+</P>
+<P>
+The decision from a court whose justices were all appointed by Democratic governors marks the first time in history that Section 3 of the 14th Amendment has been used to disqualify a presidential candidate.
+</P>
+<P>
+"A majority of the court holds that Trump is disqualified from holding the office of president under Section 3 of the 14th Amendment," the court wrote in its 4-3 decision.
+</P>
+<P>
+Dozens of lawsuits have been filed nationally to disqualify Trump under Section 3, which was designed to keep former Confederates from returning to government after the Civil War. It bars from office anyone who swore an oath to "support" the Constitution and then "engaged in insurrection or rebellion" against it, and has been used only a handful of times since the decade after the Civil War. 
+</P>
+<P>
+Case could reach Supreme Court
+</P>
+<P>
+The court stayed its decision until Jan. 4, giving time for the U.S. Supreme Court to take up the case.
+</P>
+<P>
+"We do not reach these conclusions lightly," wrote the court's majority. "We are mindful of the magnitude and weight of the questions now before us. We are likewise mindful of our solemn duty to apply the law, without fear or favour, and without being swayed by public reaction to the decisions that the law mandates we reach."
+</P>
+<P>
+Chris Galdieri, a politics professor at Saint Anselm College in New Hampshire, told CBC's Canada Tonight on Tuesday that the Supreme Court, one-third of which was appointed by Trump during his term, will likely be "very reluctant" to rule that someone cannot appear on a ballot, and will probably find a way to maintain his eligibility.
+</P>
+<P>
+"I think we are likely to see this come up again," Galdieri said. "Until the Supreme Court rules, we're in this sort of limbo where you could have a situation where Trump is eligible to run in some states but not in others."
+</P>
+<P>
+The Colorado case is the first where the plaintiffs succeeded. The Minnesota Supreme Court last month decided that the state party can put anyone it wants on its primary ballot. It dismissed a Section 3 lawsuit but said the plaintiffs could try again during the general election.
+</P>
+<P>
+In another 14th Amendment case, a Michigan judge ruled that Congress, not the judiciary, should decide whether Trump can stay on the ballot. That ruling is being appealed.
+</P>
+<P>
+Colorado's highest court overturned a ruling from a district court judge who found that Trump incited an insurrection for his role in the Jan. 6, 2021, attack on the U.S. Capitol, but said he could not be barred from the ballot because it was unclear that the provision was intended to cover the presidency.
+</P>
+<P>
+After a week-long hearing in November, District Judge Sarah B. Wallace found that Trump had "engaged in insurrection" by inciting the Jan. 6 attack on the Capitol. Trump's lawyers convinced Wallace that, because the language in Section 3 refers to "officers of the United States" who take an oath to "support" the Constitution, it must not apply to the president, who is not included as an "officer of the United States" elsewhere in the document and whose oath is to "preserve, protect and defend" the Constitution.
+</P>
+<P>
+The provision also says offices covered include senator, representative, electors of the president and vice-president, and all others "under the United States," but doesn't name the presidency.
+</P>
+<P>
+Ballot deadline approaches
+</P>
+<P>
+The state's highest court disagreed, siding with lawyers for six Colorado Republican and unaffiliated voters who argued that it was nonsensical to imagine the framers of the amendment, fearful of former Confederates returning to power, would bar them from low-level offices but not the highest one in the land.
+</P>
+<P>
+"You'd be saying a rebel who took up arms against the government couldn't be a county sheriff, but could be the president," lawyer Jason Murray said in arguments before the court in early December.
+</P>
+<P>
+Trump didn't mention the decision during a rally Tuesday evening in Waterloo, Iowa, but his campaign sent out a fundraising email citing what it called a "tyrannical ruling."
+</P>
+<P>
+Republican National Committee chairwoman Ronna McDaniel labeled the decision "Election interference" and said the RNC's legal team intends to help Trump fight the ruling.
+</P>
+<P>
+The group that brought the Colorado case, Citizens for Responsibility and Ethics in Washington, hailed the ruling.
+</P>
+<P>
+"Our Constitution clearly states that those who violate their oath by attacking our democracy are barred from serving in government," its president, Noah Bookbinder, said in a statement.
+</P>
+<P>
+Trump lost Colorado by 13 percentage points in 2020 and doesn't need the state to win next year's presidential election. But the danger for the former president is that more courts and election officials will follow Colorado's lead and exclude Trump from must-win states.
+</P>
+<P>
+Colorado officials say the issue must be settled by Jan. 5, the deadline for the state to print its presidential primary ballots.
+</P>
+</TEXT>
+</DOC>

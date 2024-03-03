@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> CB091518-0001 </DOCNO>
+<DATE>
+<P>
+September 15, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Hurricane Florence likely worsened by effects of climate change, researchers say; 
+</P>
+<P>
+'Climate change is actually happening now. It's here,' says professor of atmospheric sciences
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Using a new forecasting method, a team of researchers calculated that Hurricane Florence, a "monster" storm that made landfall early Friday morning in North Carolina, is set to bring 50 per cent more rain to coastal areas than it would have without the influence of climate change.
+</P>
+<P>
+The team from Stony Brook University, Lawrence Berkeley National Laboratory and the U.S. National Center for Atmospheric Research, used a computer model to compile two forecasts: a standard forecast, using observed atmospheric conditions and sea surface temperatures, and a modified forecast that removed the climate change effects of temperature, moisture and sea surface temperatures.
+</P>
+<P>
+Comparing the two, they found that Florence was slightly more intense for a longer period as a result of climate change. It also was 80 km in diameter wider than it would have been without the effects of climate change.
+</P>
+<P>
+Warmer oceans
+</P>
+<P>
+Earth's temperature has risen by roughly 1 C over the last century, with the Arctic warming twice as fast as any other region on the planet. One of the effects of the warming is an increase in ocean temperatures, which help to fuel hurricanes.
+</P>
+<P>
+Kevin Reed, co-author of the paper and a professor at Stony Brook University's School of Marine and Atmospheric Sciences, said the team wanted to see if there was a way to forecast the effects climate change was having on a hurricane, in this case, Florence.
+</P>
+<P>
+"When we run the model … that's our counter-factual world, without climate change," Reed said.
+</P>
+<P>
+But Reed notes that it's a forecast, much like weather forecasts. They are forecasting 50 per cent more rain with climate change, but they'll have to wait and see if that pans out. That's the novelty of this paper: it's forecasting the effects of climate change, rather than looking back at a past event.
+</P>
+<P>
+The researchers aren't saying with certainty that there will be 50 per cent more rain from the hurricane as a result of climate change. "What we're saying is that in our forecast of Hurricane Florence, that it was 50 per cent higher. This is a forecast multiple days before landfall."
+</P>
+<P>
+Fuelling a hurricane
+</P>
+<P>
+Hurricane Florence didn't make landfall as a major hurricane (Category 3 or higher). But it's set to dump a lot of rain over the next few days across the Carolinas as it loses its forward motion. This "stalling" is reminiscent of last year's Hurricane Harvey, and it's something that some studies suggest is also attributable to climate change, however, it hasn't been definitively linked.
+</P>
+<P>
+Warming oceans, however, are linked to climate change, and they're adding fuel to the planet's deadliest force of nature.
+</P>
+<P>
+Still, climatologists say it's difficult to directly attribute a single weather event to climate change. 
+</P>
+<P>
+"I'm a bit skeptical about detection and attribution of specific weather events," said Michael Mann, director of the Penn State Earth System Science Center. "I'm unconvinced that the models capture all of the processes relevant to understanding the impact climate change is having on these events," 
+</P>
+<P>
+Other factors — such as blocking patterns — which some believe are responsible for stalling hurricanes before they make landfall, aren't properly measured by the climate models, Mann said. This may lead to an underestimation of how extreme events are influenced by climate change.
+</P>
+<P>
+'Urgency of acting'
+</P>
+<P>
+Gavin Schmidt, climate scientist at NASA's Goddard Institute for Space Studies, said the paper is an interesting attempt to examine the role of climate change on hurricanes.
+</P>
+<P>
+"What they did is a small ensemble result," he said. But, he added, if researchers want make the study operational — able to gauge the influence of climate change on every extreme weather event — they'd need more model runs. 
+</P>
+<P>
+"The question is: is there a need for real-time forecast attribution?"
+</P>
+<P>
+The paper has not been peer-reviewed. Once Hurricane Florence is over, researchers can begin compiling data on how much rain fell, and other factors, to present a more robust paper, Reed said. Researchers decided to release the brief paper now in order to illustrate the effects of climate change. They wanted to move it from a distant concept in people's minds to something immediate and tangible. 
+</P>
+<P>
+"Climate change is actually happening now. It's here," Reed said. "The climate has warmed, and it's impacting events that are occurring."
+</P>
+<P>
+Mann also wants people to understand that climate change isn't something only future generations have to worry about.
+</P>
+<P>
+"This is where we see most vividly the death and destruction already being caused by climate change," Mann said. "We must help the public connect the dots here and understand the urgency of acting on climate now."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,186 @@
+<DOC>
+<DOCNO> CB020521-0001 </DOCNO>
+<DATE>
+<P>
+February 05, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Rooftop solar power is on the rise, but Canada has yet to embrace its sunny ways; 
+</P>
+<P>
+Also: Electric car ads during the Super Bowl
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+Rooftop solar power is on the rise, but Canada has yet to embrace its sunny ways
+</P>
+<P>
+Canadians seem increasingly interested in living more sustainably, but one option that gets little mention in this country is rooftop solar power.
+</P>
+<P>
+"We have tons and tons of available roof space, plenty of land and a lot of sunlight, [but] we only have around 40,000 solar rooftops in Canada," said Nicholas Gall, director of Distributed Energy Resources at the Canadian Renewable Energy Association.
+</P>
+<P>
+The U.K. and Germany, places Gall said receive less light on average than Canada, have more than 20 times the number of solar rooftops. 
+</P>
+<P>
+Quantity is one measure of uptake but the rate of installations is equally important, and in countries like Vietnam, rooftop solar is booming. Despite a global pandemic and countrywide lockdown last year, Vietnam saw rooftop solar installations increase by nearly 2,435 per cent from 2019, to more than 100,000 systems in total.
+</P>
+<P>
+"Last year, Vietnam installed three times more solar than Canada did in the last 10 years, so it's pretty incredible," said Gall, who added there's no reason Canada couldn't achieve the same growth. 
+</P>
+<P>
+The increase in uptake in Vietnam was partly a result of a new feed-in tariff program, which was introduced last year as the second iteration of a previous model. Feed-in tariffs are a policy mechanism whereby a government offers homeowners or businesses a financial incentive to adopt renewable energy technologies. The utility then pays the energy producer a set rate for the electricity they generate over the length of a contract. 
+</P>
+<P>
+In 2009, Ontario developed its own feed-in tariff (FIT), which the provincial government used to encourage a greater uptake of renewable energy sources. It was responsible for most of the solar installed in Canada up to that point, said Gall, until the province stopped accepting applications in 2016. 
+</P>
+<P>
+He said the feed-in tariff program in Ontario is now obsolete because of the decreasing cost of solar. 
+</P>
+<P>
+"The [feed-in tariff system] is kind of a relic of a time when the technology was a lot more expensive," said Gall. "The upfront cost of solar panels has gone down by about 90 per cent since 2010, so [it] probably makes more sense to help offset those upfront costs rather than a payment for production, like a feed-in tariff."
+</P>
+<P>
+Incentives are just one piece of the puzzle, said Christina Hoicka, associate professor in sustainable energy economics at York University in Toronto. She said that having governments specifically identify a technology like rooftop solar — which sends a positive signal about its future use — and regulating it "can encourage its uptake a lot more."
+</P>
+<P>
+Last December, the Trudeau government unveiled a comprehensive climate change strategy outlining the steps Canada would need to take to reach net-zero carbon emissions by 2050. 
+</P>
+<P>
+The strategy included government grants for homeowners for energy retrofits and highlighted a need for rooftop solar installers as part of a larger plan to green the country's grids. The strategy did not, however, specify whether rooftop solar installations will be included in the home energy retrofit fund.
+</P>
+<P>
+Gall said that southern Saskatchewan, southern Alberta and southern and eastern Ontario are all ideal locations for rooftop solar, as they receive large amounts of sunlight. 
+</P>
+<P>
+"We're hoping that the federal government will recognize the incredible potential of rooftop solar in terms of helping to reduce Canada's [greenhouse gas] emissions and will include it in the $2.6-billion commitment they've made for home energy retrofits," said Gall. 
+</P>
+<P>
+— Jade Prévost-Manuel
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+Last week, Lisa Johnson wrote about the environmental halo around the term natural gas and how its largely positive image might have something to do with its name. Here are some of your responses.
+</P>
+<P>
+Douglas Baker wrote, "Thank you very much for this article. We heated two homes, for 30 years, with natural gas furnaces. We then 'built green' 10 years ago and installed a heat pump instead. But we kept our gas range (I love cooking with gas). Your article has given me very serious pause for thought. I never really thought of natural gas in terms of methane. This needs to be put out there more emphatically."
+</P>
+<P>
+Greg McKone: "Thank you very much for your work to make it clear to the public that natural gas ... is very nearly exactly the same thing as methane. It feels like well-funded oil industries are hiring marketing companies and painting themselves as virtuous and painting natural gas as if it was something clean and good. There is nothing natural about natural gas, including how it is mined, how it is located, how it is transported, how it is burned — all of those steps are completely artificial."
+</P>
+<P>
+Bob Brett: "I liked your article because it made me realize my own cognitive dissonance – I knew natural gas was mostly methane, yet I definitely have a more negative feeling about methane. As a suggestion for a followup article, how about contrasting the cleaner public image of natural gas vs. petroleum, given the massive environmental effects (and potential risks) of fracking? Pretty sure most people would be against fracking but for natural gas."
+</P>
+<P>
+Write us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+There's also a radio show! Two studies commissioned by a government inquiry in Alberta are being labelled "textbook climate denial" by critics. This week, What on Earth looks at how to get beyond debunked arguments against climate science. Listen to What on Earth on CBC Radio One on Sunday at 12:30 p.m., 1 p.m. in Newfoundland, or any time on podcast or CBC Listen.
+</P>
+<P>
+The Big Picture: Electric car ads during the Super Bowl
+</P>
+<P>
+The internal combustion engine has been one of the driving factors in the rise of global carbon emissions in the last century or so, but there are signs everywhere that the transition to zero-emissions vehicles is gathering momentum. The latest splashy example is a new GM ad that will air during this weekend's Super Bowl. At the beginning of the clip, actor Will Ferrell informs the viewer that Norway (pop. 5.3 million) sells way more electric vehicles (EV) per capita than the U.S. This apparently infuriates him and inspires Ferrell to call on friends Kenan Thompson and Awkwafina to join him in an epic quest to show that GM's new Ultium EV battery is going to help "crush those lugers," exhorting the viewer, "Let's go, America!" (The ad explains that GM will produce 30 EV models by 2025.) This isn't the first electric car ad to run during the Super Bowl — as this New York Times interactive shows, the first one appeared in 2011, and there were three during last year's game. But the new GM spot raises the stakes, establishing EV adoption as a point of national pride. Will Americans take up the challenge? Hard to say — although history shows that patriotism has a tendency to move people to action.
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+On average, U.S. cities are under-reporting their greenhouse gas emissions by 20 per cent, according to a new study. Researchers from Northern Arizona University compared the numbers cities provided to those generated by the researchers' state-of-the-art information system for 48 municipalities, and found that under-reporting often occurred when information for particular fuels or sectors was hard to come by. 
+</P>
+<P>
+Ocean acidification could make some marine critters glow brighter, while dimming the light of others. A study at the University of Hawaii at Manoa found that animals like sea pansies doubled their light production in more acidic waters, whereas firefly squid experienced a 70 per cent drop in light production. Changes in bioluminescence — a phenomenon through which organisms produce their own light to glow in the dark — is concerning for species like the squid, which uses luminescence for communication.
+</P>
+<P>
+A new review launched with backing from U.K. Prime Minister Boris Johnson, Prince Charles and beloved broadcaster David Attenborough urges governments around the world to consider nature an economic asset worth protecting. The report states that biodiversity loss and other signs of deterioration will threaten economies and urges governments to look at new measures of success beyond GDP.
+</P>
+<P>
+What a controversy in Alberta tells us about climate change disinformation
+</P>
+<P>
+The argument that climate change isn't real — despite overwhelming scientific evidence — is nothing new, and comes in many forms.
+</P>
+<P>
+Most recently, it's hit the headlines in connection with an Alberta government inquiry into alleged foreign funding of anti-energy campaigns, which highlight the impact of fossil fuel extraction on global warming. The inquiry, led by Steve Allan, commissioned and published a series of reports, including a pair of papers that Martin Olszynski, an associate professor of law at the University of Calgary, called "textbook climate-change denialism."
+</P>
+<P>
+Both reports repeat the debunked idea that natural cycles, and not human activity, are to blame for the changing climate.
+</P>
+<P>
+Olszynski, who was granted standing at the inquiry, said people must be aware of disinformation or the use of alternative facts, particularly in light of the U.S. Capitol riots on Jan. 6. 
+</P>
+<P>
+He said that incident showed "very clearly" how toxic conspiracy theories and alternative realities "can be for our democratic discourse. And so I think that we all need to be much more vigilant. I think about calling that out and making sure that we don't allow it to get out of hand, because I think it clearly can," said Olszynski in an interview with CBC Radio's What on Earth. 
+</P>
+<P>
+The Alberta inquiry has said the published reports do not reflect any findings or positions taken by the inquiry. Allan declined a request for an interview, but in a statement, the inquiry says Allan "does not consider the science of climate change to be part of his mandate."
+</P>
+<P>
+Narratives about climate change, and the emotions they stir up, have a real impact, as rancher John Cross can attest. Cross said that 40 years ago, while he was finding his feet in the family's cattle ranching business in Nanton, Alta., there was a lot of public pressure on the agriculture industry to rein in its environmental impact. 
+</P>
+<P>
+"In those times ... the ag industry felt sort of under attack," said Cross. "And anybody saying, 'Well, you don't have to worry about it' … or anything like that was a welcome voice." 
+</P>
+<P>
+Around that time, he attended a public talk hosted by an agriculture industry group and remembers a Canadian geography professor telling the audience "that carbon wasn't a problem and that we're not going to have a global warming problem." 
+</P>
+<P>
+For Cross, there was no reason to disbelieve what he learned at the time — his mentors in the industry took it at face value and it had the appearance of validity. Cross said the message was warmly received by many of the people around him. 
+</P>
+<P>
+But over the years, Cross started to question what he had heard, eventually coming to realize climate change was real and so was its impact. "It's a good thing for me to speak out now … because [people's thinking about climate change is] not as rigid." 
+</P>
+<P>
+Open conversation about experiences of climate change may be one of the antidotes to false or misleading information, said Genevieve Guenther, the founder and director of the organization End Climate Silence.
+</P>
+<P>
+"It's still uncomfortable to think and talk about climate change, and we really need to break the silence and normalize it," she said. It's not simply a matter of acknowledging that the facts about climate science are real, but how and when people and media outlets connect them to current events. 
+</P>
+<P>
+"The vast majority of news media coverage of the climate crisis actually displays a kind of climate silence," Guenther said, as journalists often fail to relate extreme weather conditions to global warming. "For us, that's actually a form of climate denial."
+</P>
+<P>
+But she said the task doesn't end there, arguing that individuals hold a lot of power as well. 
+</P>
+<P>
+"We can talk about our fear of climate change, our outrage against the people who are blocking the solutions, but also our desire to have a better world for ourselves and our children. I really think that is the most impactful thing that people can do in their daily lives," Guenther said.
+</P>
+<P>
+Older now and better versed in climate science, Cross said he still hesitates to bring the subject up with fellow farmers. But when there's a conversation to be had, he will try to bridge the gap by talking about the changes in weather they've seen over the years and the impacts it's having on their business. 
+</P>
+<P>
+The dialogue is difficult, but "it's worth it," Cross said. 
+</P>
+<P>
+— Manusha Janakiram
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

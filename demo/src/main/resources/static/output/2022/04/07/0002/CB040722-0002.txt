@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> CB040722-0002 </DOCNO>
+<DATE>
+<P>
+April 07, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Electronic espionage agency getting major funding boost to ward off cyber attacks; 
+</P>
+<P>
+CSE says there’s a risk of Russian attacks on critical infrastructure
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada's electronic espionage agency is getting a huge chunk of change to confront the growing threat of cyber attacks by private actors and foreign states.
+</P>
+<P>
+The federal budget, tabled Thursday in the House of Commons, promises to provide $875.2 million over five years and $238.2 million ongoing to fight cyber security threats, with the bulk of the money going to the Communications Security Establishment.
+</P>
+<P>
+"As Canadians grow more dependent on digital systems, the potential consequences of cyber incidents continue to increase, and Canada needs to be ready," says the budget document.
+</P>
+<P>
+The budget includes money to enhance the agency's abilities to launch cyber operations to prevent and defend against cyber attacks — $263.9 million over five years starting in 2022-23, and then $96.5 million annually thereafter.
+</P>
+<P>
+CSE has both active powers — to disrupt foreign online threats to Canada's systems — and defensive powers that allow it to take action online to protect Canadian systems.
+</P>
+<P>
+Using its active powers, CSE could (for example) prevent a terrorist group from communicating about a planned attack by disabling their communication devices.
+</P>
+<P>
+The budget also sets aside more than $180.3 million to boost CSE's ability to prevent and respond to cyber attacks on critical infrastructure, such as hydro plants and provincial health authorities.
+</P>
+<P>
+Newfoundland and Labrador experienced the real-life effects of cyberwarfare last year when a cyberattack threw its health care system into temporary chaos, forcing the cancellation of thousands of procedures ranging from surgeries to chemotherapy to X-rays.
+</P>
+<P>
+CSE has issued multiple warnings this year to power companies, banks and other critical players in Canada's economy, urging them to shore up their defences against Russia-based cyberwarfare activity as the Western world responds to Moscow's invasion of Ukraine.
+</P>
+<P>
+The budget also includes $252.3 million to allow CSE to make critical government systems more resilient to cyberattacks, and $178.7 million over five years — starting in 2022-23 — to expand cybersecurity protection for small departments, agencies and Crown corporations. 
+</P>
+<P>
+Earlier this year, the National Security and Intelligence Committee of Parliamentarians identified potential points of vulnerability in the government's cyber defences. It said Crown corporations and organizations such as airport authorities are known targets for state actors — but they don't fall under the Treasury Board's cyber-related directives or policies and need better protection.
+</P>
+<P>
+A large portion of the new money heading to CSE will go to increasing its staffing complement and tackling the agency's IT needs.
+</P>
+<P>
+Separately, the government is also spending just over $17.7 million over five years to permit CSE to set up up a research chair program to fund academics' research on technologies relevant to its mandate.
+</P>
+<P>
+"This expertise can be leveraged to ensure Canada's security and intelligence community stays one step ahead of our adversaries," reads the budget document —  which didn't say what types of technologies CSE is seeking.
+</P>
+<P>
+After years of warnings from Canada's intelligence and security agencies about vulnerabilities in Canada's research sectors, the budget also pledges millions of dollars to  to protect federally funded research.
+</P>
+<P>
+That includes $125 million over five years, starting in 2022-23, and $25 million annually thereafter to build capacity within post-secondary institutions "to identify, assess, and mitigate potential risks to research security," says the budget document.
+</P>
+<P>
+"Canadian research and intellectual property can be an attractive target for foreign intelligence agencies looking to advance their own economic, military, or strategic interests," reads the document.
+</P>
+<P>
+Canadian Security Intelligence Service director David Vigneault has been warning governments for years now about the risk foreign interference — notably from China and Russia — poses to Canada's security and economy.
+</P>
+<P>
+Last year, Vigneault said his domestic intelligence agency has seen "espionage and foreign interference activity at levels not seen since the Cold War."
+</P>
+</TEXT>
+</DOC>

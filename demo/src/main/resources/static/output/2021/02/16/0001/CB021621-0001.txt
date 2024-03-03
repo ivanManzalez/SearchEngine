@@ -1,0 +1,225 @@
+<DOC>
+<DOCNO> CB021621-0001 </DOCNO>
+<DATE>
+<P>
+February 16, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Why geothermal is a hot trend in new condos; 
+</P>
+<P>
+Also: Building an energy hub on an artificial island
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+Why geothermal is a hot trend in new condos 
+</P>
+<P>
+Building an energy hub on an artificial island
+</P>
+<P>
+Ontario has fewer Canada jays, likely thanks to climate change 
+</P>
+<P>
+Why geothermal is a hot trend in new condos
+</P>
+<P>
+Many condominiums being designed and built right now in Canada are greener than their predecessors — not just from the ground up but also deep down. That's because many are turning to fossil fuel-free geothermal or geoexchange technology for their heating and cooling. 
+</P>
+<P>
+While most geothermal systems in the past 40 years have been installed in single-family homes, those in the industry say growth in the market is now driven by condominiums.
+</P>
+<P>
+"That market is increasing and actually increasing very, very quickly right now," said Stanley Reitsma, president of the Ontario Geothermal Association.
+</P>
+<P>
+Geoexchange is a type of electric heating and cooling that draws heat -- and cooling -- from the ground. (Note: While "geothermal" is the more commonly used term, "geoexchange" is preferred in the industry because it's less likely to be confused with geothermal energy, a different technology for power generation.)
+</P>
+<P>
+In the past five years, the proportion of condos with this type of electric heating has more than doubled to five per cent in Ontario, Reitsma estimates. 
+</P>
+<P>
+Lloyd Jacobs, general manager of FortisBC Alternative Energy Services, which has installed geothermal systems in dozens of multi-residential buildings in B.C., said there is "a huge demand" for alternative heating systems in large buildings that might have been heated by fossil fuels or baseboard heaters in the past.
+</P>
+<P>
+Traditionally, a challenge for geothermal energy is the high cost of digging and installing the borefield — that is, the liquid-filled underground loops that store and supply the heating and cooling to the system. 
+</P>
+<P>
+But Martin Luymes, vice-president of government relations for the Heating Refrigeration and Air Conditioning Institute of Canada, said those upfront expenses are now offset by savings from things like lower energy and maintenance costs in as little as three to five years for large buildings.
+</P>
+<P>
+Luymes and Reitsma said there are a few reasons for that and for why condos might want to install geoexchange systems now. 
+</P>
+<P>
+They include:
+</P>
+<P>
+Green building regulations. Many cities are tightening building standards for efficiency and emissions. For example, the Toronto Green Standard is on track to require new buildings to have close to zero carbon emissions by 2030. Reitsma points out that's not too far away, so many builders want to learn and gain some experience with geoexchange systems now. Similarly, B.C.'s Energy Step Code aims to make all new buildings "net-zero energy ready" by 2032, prompting many condo developers to look for solutions, Jacobs said.
+</P>
+<P>
+New ways to pay. Builders now have an alternative to paying the upfront infrastructure cost themselves — third parties such as FortisBC Alternative Energy Systems and Toronto-based Diverso Energy will build and operate the borefield, then charge a monthly or annual service fee over decades to the condo owners. This way, "the developer gets to offload the risk and the costs associated with geothermal," said Jon Mesquita, Diverso Energy's chief operating officer. In B.C., such utilities are regulated and there are regulatory incentives for signing up with them.
+</P>
+<P>
+Cheaper cooling and more leasable space. Reitsma said a big difference between condo buildings and smaller buildings is the cooling requirements. Highrises usually require bulky, expensive cooling towers. Because geoexchange systems cool as well as heat, they eliminate the need for cooling towers. That often frees up rooftop space that can be used for penthouse suites, rooftop gardens and other amenities. In multi-use buildings, Jacobs said, heat captured from commercial spaces during cooling can often be used in residential parts of the building.
+</P>
+<P>
+Interest in and adoption of geoexchange isn't even across the country. Luymes said that's partly because the emissions reductions — and therefore the incentive to switch away from heating with fossil fuels — are greater in provinces with a clean grid. 
+</P>
+<P>
+He suggested that could change in the future as provincial governments work to decarbonize their electricity grids.
+</P>
+<P>
+Given the current rock-bottom prices for natural gas, he said, "geoexchange probably won't become a predominant or default technology in our industry ever unless and until supportive policies by the government are implemented."
+</P>
+<P>
+— Emily Chung
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+Last week, Jade Prevost-Manuel wrote about the relative lack of rooftop solar installations in Canada compared to other countries and some of the reasons.
+</P>
+<P>
+A number of you pointed out that one disincentive in Canada is our electricity bills have a lot of fixed charges, such as distribution and transmission.
+</P>
+<P>
+Rochelle Jackson wrote: "I've looked into this and if we were to put solar panels on our home and generate our own power, we would still have to pay all those other charges, regardless of how much power we use from the grid. Where is the incentive for homeowners to pay for panels when the bulk of the bill they now pay will still arrive every month?" 
+</P>
+<P>
+There are also some risks with solar in urban areas. Christine Brown wrote: "We have a south-facing roof on our Toronto house, and would gladly install solar panels, except for one problem.  In many neighbourhoods in the city, additional floors are constantly being added to existing residential structures. As there are no real restrictions to prevent this, any solar panels we might install could be rendered useless should our neighbour to the south decide to add another story. Urban planning and licensing need to be part of the solar energy strategy."
+</P>
+<P>
+Some of you also noted that utility-scale solar is much cheaper than rooftop solar.
+</P>
+<P>
+Robert Macinnes wrote: "Community-built fields of collectors are far more efficient in terms of labour and cost. Each municipality should offer its citizens a chance to buy shares in a large solar array. This has been realized the world over with very satisfactory results."
+</P>
+<P>
+Write us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+There's also a radio show! As the rescue in Uttarakhand, India, unfolds after deadly flooding that followed part of a glacier breaking away, scientists are questioning whether climate change was the cause. This week, we explore cascading climate impacts of glaciers, and what can be done to help keep people safe. Listen to What on Earth on CBC Radio One on Sunday at 12:30 p.m., 1 p.m. in Newfoundland, or any time on podcast or CBC Listen.
+</P>
+<P>
+The Big Picture: Building an energy hub on an artificial island
+</P>
+<P>
+Denmark is the largest oil producer in the European Union, but the country plans to phase out fossil fuel extraction by 2050. As part of its transition strategy, the Danish Energy Agency is building an artificial island in the North Sea to gather and distribute green energy from hundreds of offshore wind turbines to countries in Europe. The energy hub, billed as the first of its kind in the world, will be 80 kilometres offshore and cover at least 12 hectares -- the size of nearly 15 Canadian football fields. In the first phase, about 200 wind turbines will generate five gigawatts of energy, or enough to power three million homes. Later, the plan is to expand that to 12 gigawatts, or enough to power 10 million homes. The Danish Energy Agency announced an agreement earlier this month to build the hub as a public-private partnership, although the island itself will be majority-owned by the government. It is scheduled for completion by 2030.
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+Quebec's electricity grid is already low-carbon, with almost all of it generated by hydro. So why is the province investing in a $600-million wind power project? CBC's Don Pittis explains why storing wind power behind hydro dams is beginning to make a lot of sense, and not just in Quebec.
+</P>
+<P>
+Large food companies are studying ways to measure and track carbon stored in soil so that in the future they can compensate farmers in their supply chain for storing carbon in their pastures.The idea is to encourage "regenerative farming" as a way to cut the huge carbon emissions from food production.
+</P>
+<P>
+Last month, France began requiring makers of electronic devices such as smartphones and laptops to tell consumers how repairable their products are via a "repairability index." It's intended to fight "planned obsolescence" and help transition to a more circular economy. But its impact could extend well beyond the borders of France, advocates say.
+</P>
+<P>
+Ontario has fewer Canada jays, likely thanks to climate change
+</P>
+<P>
+The number of Canada jays in southern Ontario is decreasing because of more frequent freeze-thaw days as a result of climate change, according to recently published research.
+</P>
+<P>
+The birds' winter food stock was compromised when fall temperatures fluctuated. The food would defrost, grow bacteria and in some cases become inedible.
+</P>
+<P>
+And that had an effect on the birds' reproduction and population numbers, University of Guelph researchers found in a study recently published in the scientific journal Global Change Biology.
+</P>
+<P>
+"If your food is being spoiled, you have less food that you can devote to survival and reproduction," said Alex Sutton, who was a PhD student at the University of Guelph when he co-led the study with Ryan Norris, an associate professor in the university's department of integrative biology.
+</P>
+<P>
+"What seems to be happening is that they need to decide either to survive or to reproduce," said Sutton, now a post-doctoral fellow at Kansas State University.
+</P>
+<P>
+If the warming pattern in the fall continues to affect reproduction and food supply, the birds could become locally extinct from Algonquin Provincial Park and other southern Ontario ranges, said Sutton.
+</P>
+<P>
+Canada jays are known for storing their food —  which can be anything from berries to roadkill meat —  in nearby trees for the winter.
+</P>
+<P>
+However, when their food supply degraded with the freeze-thaw weather, the non-migratory birds produced fewer young or hatchlings in poorer condition, Sutton said. 
+</P>
+<P>
+ 
+</P>
+<P>
+"On average, the number of nestlings has declined over time, or at least in years where there's unfavourable fall conditions," he said.
+</P>
+<P>
+And that has long-term implications, according to the study with data spanning almost 40 years.  
+</P>
+<P>
+The study looked at the birds in a small part of the park, which is about 280 kilometres northeast of Toronto. However, the Canada jay population that has been studied in the park has ranged from a high of 85 to now between 40 and 50 depending on the year, Sutton said.  
+</P>
+<P>
+"Reproduction was really the key thing that was promoting this decline in Algonquin." 
+</P>
+<P>
+The study used bird population numbers from 1980 to 2018, as well as environment data recorded in Algonquin Provincial Park since 1977 to look at the effects of the fluctuations in temperatures on the bird population and their food supply.  
+</P>
+<P>
+Between 1980 and 1996, which had 10 years of above-average freeze-thaw cycles, the researchers found that the birds' numbers dropped significantly.
+</P>
+<P>
+Although there were fewer above-average number of freeze-thaw cycles and more breeding success in later years, the birds' numbers never rebounded from "a period of poor environmental conditions that occurred several decades prior," according to the study. 
+</P>
+<P>
+David Bird, a retired professor of wildlife biology at Montreal's McGill University, said the amount of detailed data included in the study is impressive but the results are troubling.
+</P>
+<P>
+"There's still lots of challenges out there," he said. "Climate change is very worrisome."
+</P>
+<P>
+Sutton and Bird believe the effects of climate change on the birds' food supply could eventually push the species further north.
+</P>
+<P>
+The Canada jay can be found in every province and territory, but little is known about the effects of climate change on northern populations. 
+</P>
+<P>
+The study said citizen science databases, like Christmas bird counts, "help to fill this gap in our knowledge and be used to estimate population trends at more northern latitudes." The bird is important to many Canadians, so much so there's a campaign led by Bird and others, like Norris, to name the Canada jay the country's national bird.
+</P>
+<P>
+Sutton said it's important that we find out more about the Canada jay. 
+</P>
+<P>
+"I think it's really important that we try to understand how this species is actually responding to climate change throughout its entire range," Sutton said. 
+</P>
+<P>
+"This could be a really key point to understanding how future population declines or even changes might occur with changing climate."
+</P>
+<P>
+— Stephanie Dubois
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

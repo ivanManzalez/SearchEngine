@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> CB090422-0001 </DOCNO>
+<DATE>
+<P>
+September 04, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Russia's Gazprom keeps pipeline shut as Siemens disputes maintenance challenge claims; 
+</P>
+<P>
+Siemens also denies it has been asked to undertake repair, as Gazprom has stated
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Russia kept one of its main gas supply routes to Europe shut on Saturday, stoking fears of winter fuel shortages and spotlighting differences between Gazprom and Germany's Siemens Energy over repair work on the pipeline.
+</P>
+<P>
+Already struggling to tame soaring gas prices, European governments had expected the Nord Stream 1 pipeline to resume flows after a short maintenance this week. But Russia abruptly cancelled the restart, citing an oil leak in a turbine.
+</P>
+<P>
+Europe has accused Russia of weaponizing energy supplies in what Moscow has called an "economic war" with the West over the fallout from Russia's invasion of Ukraine. Moscow blames Western sanctions and technical issues for supply disruptions.
+</P>
+<P>
+The latest Nord Stream shutdown, which Russia says will last for as long as it takes to carry out repairs, added to fears of winter gas shortages that could help tip major economies into recession and energy rationing.
+</P>
+<P>
+The discovery of the oil leak on Friday coincided with the Group of Seven countries proceeding with plans to impose a price cap on Russian oil, intending to shrink Russian President Vladimir Putin's resources to fight the war in Ukraine.
+</P>
+<P>
+Gas shortages also prompted European Union member Sweden on Saturday to unveil a financial support package for energy firms.
+</P>
+<P>
+'Serious risk of disruptions'
+</P>
+<P>
+"If we do not act, there is a serious risk of disruptions in the financial system, which in the worst case could lead to a financial crisis," said Swedish Prime Minister Magdalena Andersson.
+</P>
+<P>
+"Putin wants to create division, but our message is clear: You will not succeed," she said.
+</P>
+<P>
+Gazprom said Siemens Energy was ready to carry out repairs on the pipeline but that there was nowhere available to carry out the work, a suggestion Siemens Energy denied, saying it had not been asked to do the job.
+</P>
+<P>
+Siemens Energy has also said that sanctions do not prohibit maintenance.
+</P>
+<P>
+Before the latest round of maintenance, Gazprom had already cut flows to just 20 per cent of the pipeline's capacity.
+</P>
+<P>
+"Siemens is taking part in repair work in accordance with the current contract, is detecting malfunctions … and is ready to fix the oil leaks. Only there is nowhere to do the repair," Gazprom said in a statement on its Telegram channel on Saturday.
+</P>
+<P>
+Other turbines available: Siemens
+</P>
+<P>
+Siemens Energy said it had not been commissioned to carry out the work but was available, adding that the Gazprom reported leak did not normally affect the operation of a turbine and could be sealed on site.
+</P>
+<P>
+"Irrespective of this, we have already pointed out several times that there are enough additional turbines available in the Portovaya compressor station for Nord Stream 1 to operate," a spokesperson for the company said.
+</P>
+<P>
+Flows through Nord Stream 1 were due to resume early on Saturday morning. But hours before it was set to start pumping gas, Gazprom published a photo on Friday of what it said was an oil leak on a piece of Nord Stream 1 equipment.
+</P>
+<P>
+Siemens Energy, which supplies and maintains equipment at Nord Stream 1's Portovaya compressor station, said on Friday the leak did not constitute a technical reason to stop gas flows.
+</P>
+<P>
+"Global natural gas prices will likely rally hard on Monday as markets readjust to this latest #Gazprom development," Tom Marzec-Manser, head of gas analytics at ICIS, said on Twitter.
+</P>
+<P>
+"The closure of #NordStream1 reduces overall Russian pipeline flows yet further and will make balancing supply & demand this winter all the more difficult."
+</P>
+<P>
+Asked about the halt on Saturday, Economic Commissioner Paolo Gentiloni said the European Union expects Russia to respect energy contracts it has agreed but was prepared to meet the challenge if Moscow fails to do so.
+</P>
+<P>
+German network regulator said the country's gas supply was currently guaranteed but the situation was tense and further deterioration could not be ruled out.
+</P>
+<P>
+Wholesale gas prices have rocketed more than 400 per cent since August 2021, squeezing households already gripped by a cost-of-living crisis and forcing some energy hungry industries, such as fertilizer and aluminum makers, to scale back production.
+</P>
+<P>
+The European Commission has said a full cut-off of Russian gas supplies to Europe, if combined with a cold winter, could reduce average EU gross domestic product by up to 1.5 per cent if countries did not prepare in advance.
+</P>
+</TEXT>
+</DOC>

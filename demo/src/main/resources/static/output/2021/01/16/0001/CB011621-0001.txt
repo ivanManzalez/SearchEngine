@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> CB011621-0001 </DOCNO>
+<DATE>
+<P>
+January 16, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Why playing arena hockey can be risky during the pandemic; 
+</P>
+<P>
+Air quality research and a growing understanding of how the virus spreads help explain arena outbreaks
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+More than 621,000 Canadians play in organized hockey leagues, but community hockey has been suspended in most provinces with high COVID-19 infection rates after a series of arena-related outbreaks. Air quality research and a growing understanding of how the virus spreads are helping to explain why facing-off indoors can be risky during the pandemic.
+</P>
+<P>
+In recent months, there have been COVID outbreaks traced to hockey arenas all over the U.S. and Canada. In Saskatchewan there were 20 separate outbreaks tied to arenas. One old-timers hockey team from the interior of British Columbia travelled to Alberta and brought the infection back with them to their families and co-workers.
+</P>
+<P>
+In Ottawa, a single hockey practice in December led to 89 infections as the players unknowingly brought the disease home to their families.
+</P>
+<P>
+Hugh Campbell has been a minor hockey league director in Barrie, Ont., for more than 40 years. In November, he had to deal with a COVID outbreak in a team of 15- and 16-year-olds after one player became ill the day after a practice.
+</P>
+<P>
+"We immediately isolated the whole team for a 14-day period," he said. "During that 14-day period, eight of the boys actually ended up testing positive. It was a good thing that we got on it right away and managed to curtail it just to the one team and one group."
+</P>
+<P>
+Last October, just two weeks after the Tampa Bay Lightning won the Stanley Cup, the Atlanta Centers for Disease Control issued a little-noticed Morbidity and Mortality Report about the dangers of contracting COVID-19 from playing hockey. The report was based on an amateur hockey game in Tampa Bay last June in which one infected player passed the disease on to 13 of the 22 other players who were on the ice with him, as well as to one rink attendant.
+</P>
+<P>
+All this comes as little surprise to experts who have been studying air quality in hockey arenas for many years.
+</P>
+<P>
+Most of those studies had to do with the exhaust from the Zamboni machines that clean and re-surface the ice before games or between periods. Older versions of those machines have internal combustion engines that pollute the air. Cold air does not rise, and the studies showed that polluted air tends to stay close to the ice level, even when there is building ventilation.
+</P>
+<P>
+That same phenomenon applies to air contaminated with the COVID-19 virus, according to Jeffrey Siegel, a professor of civil engineering at the University of Toronto.
+</P>
+<P>
+"We have a potentially infected player on the ice, and the pollutants get trapped near the ice surface," he said.
+</P>
+<P>
+"Even more respiratory aerosols are being produced because people are working hard, because they're doing this physical activity. Combine that with these higher concentrations near the ice surfaces, people breathing deeply because they're working hard too, and you can end up potentially with some quite high exposures."
+</P>
+<P>
+Professor Qingyan Chen of Indiana's Purdue University has studied the air in hockey arenas in Boston and Halifax.
+</P>
+<P>
+"Suppose you were sick, the particles exhaled by you will be just behind you in the wake of your moving body. We also conducted another study showing this moving wake could carry the particles to different places, and even another player chasing you on the surface could stay in the high concentration zone of the breathed air," Chen said.
+</P>
+<P>
+The risk of infection can be even higher in dressing rooms, and on the bench between shifts when players are often coughing or spitting.
+</P>
+<P>
+Wearing full-length plexiglass face visors that resemble the shields worn by medical personnel doesn't solve the problem, according to professor Siegel.
+</P>
+<P>
+"Plastic visors work great for very large respiratory droplets, but for anything that's small, the air just goes around the visor. And so do they help? Yes. Are they a perfect solution? Absolutely not."
+</P>
+<P>
+Many wonder why the National Hockey League was able to complete its last season and playoffs with relatively few COVID-19 cases. The answer lies at least in part in the strict precautions taken by players and staff off the ice.
+</P>
+<P>
+Infectious disease expert Dr. Isaac Bogoch helped to design elaborate testing and strict bubble protocols for the NHL. Players were tested for days before being admitted to the NHL bubble, were quarantined in their rooms upon arrival, and tested daily thereafter.
+</P>
+<P>
+"What you saw at the end of the day were, I think, very tight protocols that took a lot of buy-in and were adhered to by everyone — not just the players, but all the other personnel in the bubble," Bogoch said. "But of course that takes a lot of resources and a huge commitment. Many of the minor hockey leagues just don't have the resources to do that."
+</P>
+<P>
+One of the few community games still being played in Canada last week was in St. John's, N.L., on Jan. 10. The players had to wear masks in public areas before and after the game. There was no spitting allowed, and plenty of bottles of hand sanitizer were around.
+</P>
+<P>
+Playing in the Newfoundland game was former figure skater Dwan Street, who converted to hockey five years ago. "Hockey's pretty big here. And just being a part of that and the whole hockey culture, you know, it's a huge part of who I am," she said.
+</P>
+<P>
+"It's a social thing as well. Most of my best friends are on the hockey team, and you definitely miss that. I think when it comes down to precautions, we're definitely willing to do what we have to do. Whether that's going back to showing up [for games] fully dressed, where the only thing you had left to put on was your skates, whatever it takes."
+</P>
+<P>
+Air-quality expert Siegel understands that many Canadians are devoted to community hockey.
+</P>
+<P>
+"I really get it," he said. "Physical activity is important, it's important for physical health, it's important for mental health. Playing hockey is really important to a lot of people. But there's kind of a balance here, because it is also a higher risk for infection."
+</P>
+<P>
+So how do you balance those two things?
+</P>
+<P>
+"I think it's going to come down to the individual choices," Siegel said. "If someone lives in a household with a vulnerable family member, maybe someone who's older or someone who's got a respiratory condition that makes them more sensitive to COVID, that might be a good time to say, 'maybe I shouldn't play hockey this season.'"
+</P>
+<P>
+Bogoch thinks one solution would be to move as many community games as possible to outdoor rinks.
+</P>
+<P>
+"I think you can get out on the outdoor ice and have a safe experience, as long as it's done well," he said.
+</P>
+<P>
+"So rather than saying no, no, no, I think we should say, well, is there a way that we can get around this and do this safely? And if careful and if done right, I think you probably can do it on the outdoor ice in a much safer environment."
+</P>
+</TEXT>
+</DOC>

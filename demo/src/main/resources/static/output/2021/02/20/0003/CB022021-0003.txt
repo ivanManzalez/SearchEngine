@@ -1,0 +1,177 @@
+<DOC>
+<DOCNO> CB022021-0003 </DOCNO>
+<DATE>
+<P>
+February 20, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+What caused the deadly power outages in Texas and how Canada's grid compares; 
+</P>
+<P>
+Interconnectivity, regulation, power mix all play a role in making grids resilient, experts say
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Millions of people in Texas were left shivering without power, heat and running water for several days this week and at least 30 died after a severe winter storm crippled power plants and the electricity grid.
+</P>
+<P>
+The storm hit late last weekend, blasting parts of the southern U.S. with snow, sleet, freezing rain and temperatures as low as -20 C. It knocked out power and forced some utilities to implement rolling blackouts in other states as well.
+</P>
+<P>
+But, as The Associated Press reported, "the worst U.S. power outages by far have been in Texas," where 4.7 million homes and businesses lost power Monday, and millions remained without power through much of the week. The outages have cost lives, with some people dying from the cold, and others from carbon monoxide poisoning while trying to keep warm.
+</P>
+<P>
+WATCH |  Southern U.S. hit by severe winter storm:
+</P>
+<P>
+Here's a closer look at the factors that took down the grid in Texas, and how they compare here in Canada as climate change increases the risk of extreme weather events.
+</P>
+<P>
+Why so much of Texas lost power
+</P>
+<P>
+Two things happened at the same time in Texas, a state that doesn't often have to deal with severe winter weather.
+</P>
+<P>
+The combination forced utilities to impose "controlled outages," or rotating blackouts, to stop customers from outstripping supplies.
+</P>
+<P>
+But beyond those very direct causes, a number of other factors were in play that prevented Texas from being prepared for the storm, experts say.
+</P>
+<P>
+Power system wasn't prepared for extreme weather
+</P>
+<P>
+While most power plants in Canada are designed for winter weather and housed in buildings, that's not the case in Texas, said Emily Grubert, assistant professor of environmental engineering at the Georgia Institute of Technology, in an interview with CBC's The Current.
+</P>
+<P>
+"They might not have walls even, in quite the same way," she said. "They might not have insulated pipes.… The whole grid was subject to extreme conditions that it was not designed to handle."
+</P>
+<P>
+LISTEN | What we can learn from the Texas blackout:
+</P>
+<P>
+Gas supplies and water intakes were frozen, for example, and unable to feed the power plants.
+</P>
+<P>
+However, Grubert said, there have been many questions about whether the plants should have been designed to handle this type of weather.
+</P>
+<P>
+In fact, what happened this week in Texas was "unfortunate, but not unforeseen," said Francis Bradley, president and CEO of the Canadian Electricity Association, which represents electricity utilities and companies across Canada.
+</P>
+<P>
+He said a review following a previous extreme freeze in 2014 identified the problems that devastated the state this week and recommended steps such as winterizing generating plants. But upgrades take time.
+</P>
+<P>
+Deregulation, politics may have played a role
+</P>
+<P>
+The problem wasn't just lack of time, but the fact Texas is a fully deregulated electricity market that doesn't necessarily have the same central long-term planning authorities that exist in Canada, Bradley said.
+</P>
+<P>
+"The market signals don't necessarily move in the right direction to facilitate these kinds of long-term investments that are required."
+</P>
+<P>
+Tom Seng, director of the School of Energy Economics, Policy and Commerce at the University of Tulsa, summed up the utilities' perspective in that context: "Up until now, it's been an issue of, 'Well, we don't think that's worth it to ratepayers for what might be a very infrequent weather event.'"
+</P>
+<P>
+WATCH | Millions of Texans without heat, power as politicians play blame game:
+</P>
+<P>
+In Canada, Bradley said, most systems are regulated. Ontario and Alberta have partially deregulated electricity systems, he said, but still have strong regional long-term planning and regulation to ensure the provinces are prepared for extreme events that could impact the electricity system.
+</P>
+<P>
+Prof. Jatin Nathwani, executive director of the Waterloo Institute for Sustainable Energy at the University of Waterloo, said he thinks the organization that oversees Texas's grid, the Electric Reliability Council of Texas (ERCOT), is capable of central co-ordination and planning, but other factors, such as local politics, can hamper upgrades.
+</P>
+<P>
+"It is a political climate, I think, which is a little less receptive to the kinds of investments I'm talking about that would make the system a lot more resilient and stronger," he said.
+</P>
+<P>
+A lack of connections to backup power supplies
+</P>
+<P>
+Electricity systems in Canada — and most systems across North America — have a backup source if their local power generation can't meet demand for whatever reason. They're connected to supplies in neighbouring provinces and states, often as part of larger regional grids, and can import power if needed.
+</P>
+<P>
+"Every province is connected either east-west or north-south, and in many cases both," Bradley said.
+</P>
+<P>
+That's not the case for Texas.
+</P>
+<P>
+"The problem they're having is they don't have a lot of interconnection with other grids." 
+</P>
+<P>
+Of course, there can be a downside to that connectivity. In 2003, an issue in Ohio triggered a huge blackout throughout much of the northeastern U.S. and Ontario.  
+</P>
+<P>
+WATCH | The great blackout of 2003:
+</P>
+<P>
+However, Bradley said that type of event has only happened twice since the 1960s, and each time resulted in upgrades to standards and equipment that made the chance of it happening again less likely.
+</P>
+<P>
+Some provinces, such as Ontario, benefit from power imports and exports every single day. Mostly, that benefit is economic, said Leonard Kula, vice-president of planning, acquisition and operations and chief operating officer of the Independent Electricity System Operator, the Crown corporation responsible for managing Ontario's power system and planning for its future. But the imports can also cover shortages in the province when needed, such as during a 2005 summer heat wave, without the public even noticing.
+</P>
+<P>
+"The risk and the potential impact to Ontario of that interconnectedness is a fraction of the benefits that we get from being well connected with our neighbours," Kula said.
+</P>
+<P>
+Bradley has a similar view: "The more bulk power interconnections we have between states, between provinces, between regions, the greater resilience that we're able to have."
+</P>
+<P>
+In Canada, the extent of interconnection and exchange of power varies from province to province.
+</P>
+<P>
+Ontario can import up to 20 per cent of its peak demand, according to the province's Independent Electricity System Operator.
+</P>
+<P>
+Alberta can import less than 10 per cent, prompting University of Calgary economics professor Blake Shaffer and Joshua Rhodes at the University of Texas at Austin to suggest that greater interconnections are needed with neighbouring provinces and states to avoid a situation similar to the one in Texas (and Texas could use some more interconnections, too).
+</P>
+<P>
+Quebec runs an independent grid like Texas, but does have connections to import power if needed — although Hydro-Québec spokesperson Louis-Olivier Batty said that's quite unusual and a last resort for the province.
+</P>
+<P>
+Did the mix of fossil fuel and renewable energy play a role?
+</P>
+<P>
+While some politicians such as Texas Gov. Greg Abbott blamed the state's power problems on the storm shutting down wind and solar plants, Grubert called that "frankly offensive" considering they make up just 10 per cent of the power mix in Texas.
+</P>
+<P>
+"The thermal plants — the natural gas plants, in particular — failed very unexpectedly and in a very spectacular way," she said.
+</P>
+<P>
+Typically, utilities and power authorities forecast supply and demand to be able to match them as closely as possible. They recognize that some types of generation may not produce as much power in winter. For example, Batty said Hydro-Québec prepares to meet peak winter demand without counting on wind.
+</P>
+<P>
+Energy experts tend to agree that having a mix of power generation is beneficial.
+</P>
+<P>
+"Diversity is really, really helpful," said Kula. "If you are having problems with one fuel type, well, then you don't have all your eggs in one basket."
+</P>
+<P>
+In fact, Texas did have a diverse mix of gas, nuclear, wind and coal generation, but in this case, many different kinds of plants proved to be vulnerable to cold.
+</P>
+<P>
+Is Canada's system better prepared for extreme weather?
+</P>
+<P>
+The experts who spoke with CBC News say yes. While the definition of extreme weather may differ between Texas and Canada, this country has faced some widespread and prolonged blackouts caused by the elements. One example would be the 1998 ice storm in Ontario and Quebec.
+</P>
+<P>
+"Extreme weather is a fact of life in Canada," Bradley said. "Canadians know that, and the electricity companies know that as well. And so every time there is a major event, there are lessons learned and those lessons are implemented…. We're constantly adapting the system as we see new and more extreme weather events taking place."
+</P>
+<P>
+WATCH | The ice storm of 1998:
+</P>
+<P>
+Nathwani said most provinces have invested in building up the power supply and making infrastructure more robust, and recognize it's worth the cost, as the crisis in Texas shows.
+</P>
+<P>
+"The risk of not having a power supply — and in this case, people are dying and freezing — is far greater than having a bit of excess supply that costs something."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> CB120921-0001 </DOCNO>
+<DATE>
+<P>
+December 09, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canadian oil output to peak 7 years sooner than previously forecast, regulator says; 
+</P>
+<P>
+Rebound in oil prices after pandemic-related crash last year meant more near-term investment, CER says
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Oil output in Canada, the world's fourth-largest producer, will climb over the next decade and peak at 5.8 million barrels per day (bpd) in 2032, seven years sooner than previously forecast, the Canada Energy Regulator (CER) said on Thursday.
+</P>
+<P>
+The CER said a rebound in oil prices after the pandemic-related crash last year meant more near-term investment would help production grow quicker than previously anticipated, before it starts to slowly decline to 4.8 million bpd by 2050.
+</P>
+<P>
+The level of anticipated peak production is unchanged from last year's projection. Canada's current production is 5 million bpd.
+</P>
+<P>
+The CER said oil production is likely to remain resilient over the next three decades, despite relatively low oil prices and steadily more ambitious climate policies, thanks to northern Alberta's vast oil sands deposits, which account for nearly two-thirds of Canadian production.
+</P>
+<P>
+"The resilience is really owing to the unique nature of the oil sands, once they are built they are very long-lived and operating costs are quite low," Darren Christie, the CER's chief economist, said in a news conference.
+</P>
+<P>
+"The vast majority of oil sands production we have in 2050 is coming from facilities that are already producing today."
+</P>
+<P>
+Energy use in Canada projected to fall 21% by 2050
+</P>
+<P>
+The projection is part of the CER's central "Evolving Policies" scenario, which expects action to cut carbon emissions from global energy systems will continue at a pace similar to that seen recently.
+</P>
+<P>
+Under a scenario in which climate policies do not evolve, the CER expects higher oil prices and Canadian production to rise faster until it reaches a plateau of 6.7 million bpd in 2040.
+</P>
+<P>
+In the central scenario, Canadian natural gas production is expected to remain close to current production levels of 15.5 billion cubic feet a day (bcfd) over the next two decades, before declining to 13.1 bcfd by 2050.
+</P>
+<P>
+Energy use in Canada is projected to fall 21 per cent by 2050 as energy efficiency improves, and CER expects carbon capture and storage to play an increasingly important role in helping cut emissions.
+</P>
+<P>
+The regulator said Canada's fossil fuel use without carbon capture and storage to sequester the emissions will fall 62 per cent by 2050.
+</P>
+<P>
+Overall fossil fuel use is expected to decline 40 per cent by that year, but the regulator said the country will not be able to achieve net-zero emissions unless it makes more drastic changes.
+</P>
+</TEXT>
+</DOC>

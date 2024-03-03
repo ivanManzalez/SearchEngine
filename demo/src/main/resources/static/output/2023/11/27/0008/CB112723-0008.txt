@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB112723-0008 </DOCNO>
+<DATE>
+<P>
+November 27, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Interest in solar energy continues to grow in Nova Scotia, non-profit group says; 
+</P>
+<P>
+Solar N.S. says there have been 2,000 installations so far this year
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Solar power keeps growing in Nova Scotia as more residents look for green energy solutions to heat and power their homes.
+</P>
+<P>
+In 2023, there were 2,000 installations of solar panels, bringing the total number of solar projects in Nova Scotia to around 8,000. That's up from just 200 back in 2018.
+</P>
+<P>
+Dave Brushett is chair of Solar Nova Scotia, a non-profit organization that promotes the use of solar energy.
+</P>
+<P>
+While there have been more people asking questions about converting to solar, he said growth still lags behind other areas of the country.
+</P>
+<P>
+Brushett spoke with Information Morning Cape Breton host Steve Sutherland about where the industry stands in Nova Scotia. 
+</P>
+<P>
+Their conversation has been condensed and edited for clarity and length. 
+</P>
+<P>
+How would you describe the state of the solar industry in this province?
+</P>
+<P>
+So the solar industry in Nova Scotia has been growing for many years now. 2023 has been another record year for installations. We've had about 2,000 installations to date, with a month left to go, and that brings the total number of installations in Nova Scotia to around 8,000. This is up from 200 back in 2018. So there's been amazing growth. There's now hundreds of people working in the solar industry, and there's been some very good incentives for homeowners to install solar on their homes.
+</P>
+<P>
+And when you talk about this increase in installations, what kind of projects are you talking about?
+</P>
+<P>
+So most of the activity to date has been in the residential sector. The reason was there was a cap on commercial solar installations. This cap was removed earlier this year, so now commercial solar installations are allowed to be up to one megawatt. The previous cap was 100 kilowatts. So we're seeing a lot more activity in the commercial sector going forward. An example would be Halifax Regional Municipality installing a one-megawatt solar installation on their new bus depot, which wouldn't have been possible last year.
+</P>
+<P>
+What are the incentives now, and how does the future look for those?
+</P>
+<P>
+Right now, there's a program called the Canada Greener Homes Program. It's a federal program and homeowners are eligible for both a $40,000 interest free loan that they would pay back over 10 years and a grant of up to $5000. However, the program has been tremendously popular and the federal government announced recently that new registrations would be coming to an end after March of next year. So there's still a lot of projects in the pipeline and those will continue to move forward, but no new projects will be eligible for the grant after March of next year. The natural resources minister, Jonathan Wilkinson, did leave the door open to a potential top up. So the federal government is looking at the results of the program and is going to be deciding what to do on a go-forward basis. Solar Nova Scotia obviously supports the continuation of that incentive as it's been a great accelerant to the industry here in Nova Scotia.
+</P>
+<P>
+What would you predict would happen if that federal incentive of the interest-free loan and a $5,000 grant come to an end at the end of March?
+</P>
+<P>
+Well, there's no expectation for the interest-free loan to end. So our understanding is that will continue. In Nova Scotia, we do have a separate provincial incentive called the solar homes program and that provides an incentive up to $3,000. So right now, homeowners have to choose between the federal incentive and the provincial incentive and most go with the federal incentive because it's higher.
+</P>
+<P>
+With the move by Nova Scotia Power last year to try to charge for the grid, I'm hearing that people are concerned about the viability and security of that program in the future. What if I spend, you know, $30,000 to install panels on my house and then next year I have to pay double what I expected to access the grid?
+</P>
+<P>
+Yeah, so that's been taken out of the hands of Nova Scotia Power with the changes to the Electricity Act. So Nova Scotia Power isn't allowed to charge to access the grid like that. It's a unique situation in Nova Scotia and something we should be proud of.
+</P>
+<P>
+How sustainable is that program? If we're unique, what makes that sustainable? Who pays?
+</P>
+<P>
+You know, we still have a very small penetration of solar in Nova Scotia. In the grand scheme of things, it's still less than one per cent of our overall electricity usage. In other jurisdictions, solar represents a much higher percentage of the overall electricity. So there's a long way to go before there would be an issue with having too much solar, and looking ahead there's been big improvements in the cost of batteries. So I'm expecting batteries to be more of an option for homeowners going forward. And that solves a lot of the issues around net metering, as homeowners would be able to store their excess energy and use it. The cost of batteries is expected to come down a lot by 2030. And so I'm looking forward to seeing a lot of the companies installing solar now installing batteries in future as well. So it's an area of potential growth for our members.
+</P>
+<P>
+How much would it cost for an average house to have a battery system that would allow them to function off grid with solar or when the power goes out?
+</P>
+<P>
+A battery system could still be quite expensive. It may be as much as the cost of the solar installation itself, or a little bit less. So right now it's hard to justify the economics of batteries. But when the costs come down, I think it'll be much more of an option for homeowners.
+</P>
+</TEXT>
+</DOC>

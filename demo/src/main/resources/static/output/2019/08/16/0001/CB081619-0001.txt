@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> CB081619-0001 </DOCNO>
+<DATE>
+<P>
+August 16, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Northern Ontario First Nation hooked up to new solar grid to help offset diesel usage; 
+</P>
+<P>
+Kiashke Zaaging Anishinaabek, also known as Gull Bay First Nation, to officially unveil project Friday
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Officials in Kiashke Zaaging Anishinaabek, also known as Gull Bay First Nation, in northwestern Ontario will unveil a new electricity system on Friday which is designed to reduce the community's reliance on diesel generators to supply power.
+</P>
+<P>
+The microgrid system uses more than 1,000 ground-mounted solar panels that are wired to a central controller and battery storage system, according to Ontario's Independent Electricity System Operator (ISEO). 
+</P>
+<P>
+The community will be powered by the solar batteries as long as there is enough of a charge; when that runs out, the controller will seamlessly switch the system back to the diesel generators until the batteries are recharged with solar power.
+</P>
+<P>
+Early results and projections show the system will cut down on the amount of diesel fuel required to power the remote community, which is located about 175 kilometres north of Thunder Bay. Kiashke Zaaging is not connected to the provincial power grid.
+</P>
+<P>
+"It's looking at offsetting about 130,000 litres of diesel fuel a year, which is just over 25 per cent," said project coordinator A.J. Esquega. "So far it's working good, and so far we've offset about 12,000 litres just in the testing phases."
+</P>
+<P>
+Esquega said the First Nation owns and operates the new system.
+</P>
+<P>
+The IESO says there are just under 100 houses in the community, whose population varies seasonally between about 300 and 800 people.
+</P>
+<P>
+"For remote communities, diesel generation used to be the only fuel option," said Tabatha Bull, the IESO's senior manager of  First Nations and Métis relations, who made the statement in a 2018 release.
+</P>
+<P>
+"Today, with advanced technologies, communities like Gull Bay can displace fossil fuel and take steps to ensure they thrive over the long term, both environmentally and economically."
+</P>
+</TEXT>
+</DOC>

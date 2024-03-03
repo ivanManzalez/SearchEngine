@@ -1,0 +1,102 @@
+<DOC>
+<DOCNO> CB021022-0001 </DOCNO>
+<DATE>
+<P>
+February 10, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Despite pandemic, Canada's population grows at fastest rate in G7: census; 
+</P>
+<P>
+Canada's population sits at almost 37 million, increasing by 1.8 million since 2016
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Despite the pandemic, Canada remains the fastest-growing country in the G7, thanks in large part to immigration, according to 2021 census data released Wednesday. 
+</P>
+<P>
+The newly released census numbers put Canada's population at 36,991,981 in the spring of last year, with close to 27.3 million Canadians living in one of Canada's 41 large urban centres. 
+</P>
+<P>
+There are approximately 1.8 million more people living in Canada than there were five years ago, a growth rate of 5.2 per cent between 2016 and 2021.
+</P>
+<P>
+While Canada's population growth sits on top in the G7, it is ranked seventh in the G20, trailing Saudi Arabia, Australia, South Africa, Turkey, Indonesia and Mexico, and is on par with India.
+</P>
+<P>
+The newly released census population figure is a snapshot of Canada at a specific moment in time — in this case from May 2021. Statistics Canada also provides population estimates which differ from census data because of the way the estimates are calculated.
+</P>
+<P>
+Other census highlights:
+</P>
+<P>
+Pandemic impacts growth rate
+</P>
+<P>
+While Canada's overall population growth rate from 2016 to 2021 — at 5.2 per cent — was greater than the five per cent growth seen over the previous five-year cycle, the pandemic had a significant impact.
+</P>
+<P>
+Most of the population growth actually took place before the pandemic kicked off. In 2019, for example, the country's population grew by 583,000, or 1.6 per cent — a record high. 
+</P>
+<P>
+In 2020, however, with the introduction of global border and travel restrictions implemented to slow the spread of COVID-19, population growth from immigration declined to less than one-quarter of what it was the previous year.
+</P>
+<P>
+Deaths from COVID-19 also had an impact on population growth in 2020, but only marginally. 
+</P>
+<P>
+The number of deaths recorded in 2020 stood at 307,000, which was about 22,000 more than the previous year. That increase, combined with the immigration decline, resulted in 2020 seeing the lowest annual rate of population growth since the First World War. 
+</P>
+<P>
+Immigration driving increases
+</P>
+<P>
+Four-fifths of Canada's population growth from 2016 to 2021 was attributable to immigration, while only one-fifth of Canada's growth was due to natural increase, or the difference between the number of births and deaths. 
+</P>
+<P>
+That means the natural increase fell from a rate of 0.3 per cent in 2016, to just 0.1 per cent by 2021 — the lowest rate on record. Despite that decline, Statistics Canada said that unlike the G7 nations of Italy and Japan, where the natural increase has gone negative, Canada is expected to maintain a positive natural increase for the next 50 years.
+</P>
+<P>
+The immigration story, however, is not the same for all provinces. At the time of the 2016 census, Alberta, Saskatchewan and Manitoba had the fastest growth rates, but five years later the story is very different. 
+</P>
+<P>
+While immigration rates in the other provinces increased significantly in the years leading up to the pandemic, they stayed almost the same in the Prairie provinces. Alberta, Saskatchewan and Manitoba also saw more people move out of these provinces than move in from other parts of the country.
+</P>
+<P>
+As a result Alberta, which had led provincial population growth for five consecutive census cycles, has fallen to sixth place, as it marked the first decline in interprovincial migration over a five-year period since the 1991 census. 
+</P>
+<P>
+Urban vs. rural growth rates
+</P>
+<P>
+The number of Canadians living in rural areas in 2021 was 6,601,982, an increase of 0.4 per cent over 2016, but that growth rate was far below that of Canada's urban centres, which grew at a rate of 6.3 per cent.
+</P>
+<P>
+The number of large urban areas, or census metropolitan centres (CMAs), with populations greater than 100,000 in 2021 was 41. That compares to just 35 at the time of the last census.
+</P>
+<P>
+A CMA, according to Statistics Canada, is counted by counting one or more municipalities that are centered on a downtown core. To be considered a CMA, the large urban area must have a population of more than 100,000 with at least 50,000 people living in the downtown core. 
+</P>
+<P>
+Of the six new CMAs, none were in Ontario, Canada's most populous province. Three were in B.C., including Kamloops, Chilliwack and Nanaimo. The others were Fredericton, Drummondville, Que., and Red Deer, Alta. 
+</P>
+<P>
+Resort areas such as Squamish, B.C., Canmore, Alta. and the Ontario towns of Wasaga Beach and Collingwood were among the fastest growing towns in Canada.
+</P>
+<P>
+Toronto remains Canada's most populous CMA with 6,202,225 residents, with Montreal coming second at 4,291,732, followed by Vancouver with 2,642,825 people.
+</P>
+<P>
+From 2016 to 2021, the CMAs fo Toronto and Montreal grew at the same pace of 4.6 per cent. Toronto's pace of growth, however, was slower compared to what was seen in the 2016 census, when Toronto grew at a rate of 6.2 per cent. Montreal, by comparison, grew slightly faster than the 4.2 per cent growth rate recorded in the last census.
+</P>
+<P>
+While the growth of Canada's two largest CMAs was below the national average of 5.2 per cent, they received a record number of permanent or temporary immigrants compared to previous years. 
+</P>
+<P>
+The three other Canadian CMAs with a population over one million in 2021 are: Ottawa–Gatineau at 1,488,307, marking a rise to fourth place again after temporarily losing that title in 2016 to Calgary; Calgary, which now has a population of 1,481,806; and Edmonton, with a population of 1,418,118.
+</P>
+</TEXT>
+</DOC>

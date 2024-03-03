@@ -1,0 +1,195 @@
+<DOC>
+<DOCNO> CB072023-0003 </DOCNO>
+<DATE>
+<P>
+July 20, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Can a heat pump beat the heat and wildfire smoke at home?; 
+</P>
+<P>
+Your questions about how to keep your home cool and smoke-free, answered
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A record-breaking wildfire season and scorching temperatures have many British Columbians searching for ways to keep their homes cool and smoke-free.
+</P>
+<P>
+Since the deadly heat dome that struck B.C. in 2021 — which killed hundreds of people between June 25 and July 1 — portable air conditioners have often been sold out and heating and cooling companies in B.C. say they've been inundated with requests to install energy-efficient heat pumps.
+</P>
+<P>
+"We are getting a lot of interest from people that are looking at heat pumps," D'Arcy Michiel, who owns Salix Energy Advising in Prince George, said. "They can make your house very cold."
+</P>
+<P>
+Heat pumps can be a great option for many, but might not be the right call depending on your home, budget or climate, experts told CBC. 
+</P>
+<P>
+Here are answers to some of your questions about the cooling option.
+</P>
+<P>
+What is a heat pump?
+</P>
+<P>
+Heat pumps are electric heating and cooling systems up to three times as efficient as furnaces or electric baseboard heating systems.
+</P>
+<P>
+They use the same mechanism as fridges, freezers and portable air conditioners to extract heat from one area and transfer it to another, instead of generating heat themselves. 
+</P>
+<P>
+This means heat pumps can cool homes in the summer and heat them in the winter. 
+</P>
+<P>
+"It's basically the same process with a heat pump or AC, but you're getting the heating benefit out of it," Joe Cherieux, who owns Controlled Air Heating and Cooling in Courtenay, told CBC's On The Coast last Thursday. 
+</P>
+<P>
+Air-source heat pumps extract heat from the air outside to heat homes, or extract it from inside and push the heat out to cool a dwelling.
+</P>
+<P>
+Ground-source heat pumps draw heat from a heating loop installed deep below the ground, and push it back out into outside air when switched to cooling mode. 
+</P>
+<P>
+How warm or cool can they keep my home?
+</P>
+<P>
+Heat pumps have improved in the last several years but they might not be the best option for homes in areas that consistently reach below -20 C, says Michiel.
+</P>
+<P>
+Conventional air-intake heat pumps work best in milder climates like coastal B.C., but Manitoba Hydro recommends not using them below -10 C.
+</P>
+<P>
+"As it gets colder they lose their ability to effectively heat the house," said Michiel.
+</P>
+<P>
+A back-up heating option like a furnace, fireplace or baseboard heating is advisable for extra cold days below -30 C, Martin Kegel, an engineer who leads heat-pump-related projects at Natural Resources Canada's CanmetENERGY research centre, previously told CBC.
+</P>
+<P>
+Newer cold-climate heat pumps can work well down to -30 C and beyond, according to one manufacturer, and might be a better option for regions in the province's north. 
+</P>
+<P>
+Ground-source, or geothermal, heat pumps work even when above-ground temperatures dip below -30 C, because the heat sources they draw from stay above freezing year-round in most of Canada (just like in Sweden, which has made them very popular). 
+</P>
+<P>
+Cooling efficiency also decreases the hotter it gets outside, added Michiel, but heat pumps keep homes habitable even in extreme heat.
+</P>
+<P>
+When temperatures in Seattle reached 42 C during the heat dome, an air-source heat pump installed in a Seattle home could keep the indoor temperature below 24 C, according to the Rocky Mountain Institute, an independent clean energy research centre based in Boulder, Colo.
+</P>
+<P>
+"Heat pumps are an effective and climate-friendly solution for addressing increasing cooling needs in regions like the Pacific Northwest," researchers wrote in August 2021.
+</P>
+<P>
+If a home already has electric baseboard heating, Michiel says heat pumps are generally "straight-across positive" to improve heating efficiency and keep the place cool. 
+</P>
+<P>
+"If you have baseboard electric heat and you don't have ductwork in the house or anything like that … a heat pump is definitely the way to go."
+</P>
+<P>
+Do heat pumps keep wildfire smoke out of my home?
+</P>
+<P>
+Air-source heat pumps draw heat from the air outside, but they don't bring outside air or pollutants into the home. 
+</P>
+<P>
+They do usually have a fan or separate air handler to move heated or cooled air around your home, which can have a filter added to it to remove fine particulate matter from wildfire smoke that may have already leaked inside from circulating more, Michiel said.
+</P>
+<P>
+If you want to prevent air inside from getting stale while using a heat pump, heat-recovery and energy-recovery ventilators can also be installed to capture heat from passing air to be sent either indoors or outdoors.
+</P>
+<P>
+They also clean the passing air of pollutants like wildfire smoke if the right filters are used, according to Natural Resources Canada.
+</P>
+<P>
+Portable electric air filters and air conditioners also have filters to remove pollutants from the air, but they must be cleaned often and regularly to ensure they are still filtering correctly.
+</P>
+<P>
+But making your home as air-tight as possible, including new windows, door frames, sealing exposed concrete walls and replacing attic insulation, helps keep the heat and smoke out in the first place.
+</P>
+<P>
+Michiel says these changes also have the bonus of making homes more energy efficient, whether you're trying to heat them up or cool them down.
+</P>
+<P>
+How much do heat pumps cost?
+</P>
+<P>
+The actual pump itself can cost anywhere from $6,000 to $12,000 depending on the model, efficiency and size of the home.
+</P>
+<P>
+Labour costs for installation also vary based on what, if any, changes need to be made to the home's electrical system to accommodate the heat pump or integrate it with a back-up heating source. 
+</P>
+<P>
+Cherieux says installation ranges from about $10,000 to $20,000 depending on how complicated it is, the age of the home and the nature of the current heating system.
+</P>
+<P>
+For multi-unit buildings like condos and stratas, labour can be extensive to ensure all units are integrated and the electrical grid isn't overwhelmed, he added.
+</P>
+<P>
+It's much more expensive to install geothermal heat pumps, which need to be buried deep below ground and are usually intended to service multiple households that can share the cost.
+</P>
+<P>
+How do I qualify for rebates?
+</P>
+<P>
+The province, federal government and some municipalities offer rebates for heat pumps that vary based on the size and age of the home and the type of heating system being replaced.
+</P>
+<P>
+British Columbians can qualify for up to $11,000 in rebates for installing a heat pump to replace a furnace, oil or propane heat system, as part of a series of programs designed to reduce reliance on fossil fuels through CleanBC, FortisBC. and the Canada Greener Homes Grant. 
+</P>
+<P>
+Those replacing an electric heat system like baseboards, radiant ceiling or floor heating can get up to $7,000 in total from B.C. Hydro and the federal government.
+</P>
+<P>
+Applications for all provincial and federal rebates can be done through B.C. Hydro.
+</P>
+<P>
+Many municipalities like Vancouver, which requires homeowners in need of a new furnace to install heat pumps, also have their own rebate programs.
+</P>
+<P>
+Strata owners and renters or owners of multi-unit buildings, however, are not eligible for any heat-pump-related rebates.
+</P>
+<P>
+For federal and provincial rebates, applicants must ensure they have had a certified energy assessment completed and applied for the rebate before work begins. They can request an assessment through their federally designated local service organization.
+</P>
+<P>
+Pre-and post-assessments can cost around $900 combined, Michiel said, but there are rebates available for about $600 of that cost.
+</P>
+<P>
+It's important to read the details of each rebate and speak to a certified installer or energy advisor before purchasing a heat pump, he added.
+</P>
+<P>
+Not all dwellings and heat pumps are eligible, and the installation must be completed by a Home Performance Contractor Network (HPCN) to qualify for the rebates.
+</P>
+<P>
+"It's a lot of fine print," said Michiel.
+</P>
+<P>
+What are my other options?
+</P>
+<P>
+Michiel says a heat pump may not be the most cost-effective option if your furnace isn't at the end of its lifespan yet or you live in a colder climate where you would still need a back-up heating option on very cold days. 
+</P>
+<P>
+Purchasing a portable air conditioner, which start around $500 apiece, for one or two rooms in the home could save money compared to installing a heat pump before the existing furnace needs replacing, he said.
+</P>
+<P>
+But the upfront cost of a heat pump can be worth it for people trying to reduce their carbon footprints and cool their homes in milder coastal climates, where energy costs for the pump are on par with gas prices.
+</P>
+<P>
+Michiel recommends speaking to a professional to discuss what works best for your home, needs and budget.
+</P>
+<P>
+Portable air conditioners are also a good option for people in smaller dwellings or renters, Michiel said. Those who purchase a qualified energy-efficient portable air conditioner can receive a $50 rebate from B.C. Hydro.
+</P>
+<P>
+In a related program, the province is also paying for 8,000 portable air conditioners for low-income, vulnerable British Columbians.
+</P>
+<P>
+Improving the seal around windows and doors, tinting windows and keeping blinds closed, can all go a long way to keeping cool without breaking the bank for smaller homes and renters, Cherieux and Michiel said.
+</P>
+<P>
+"These are going to be your lowest hanging fruit," said Michiel.
+</P>
+</TEXT>
+</DOC>

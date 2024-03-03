@@ -1,0 +1,150 @@
+<DOC>
+<DOCNO> CB071923-0001 </DOCNO>
+<DATE>
+<P>
+July 19, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How rent control can help tenants — or not; 
+</P>
+<P>
+Advocates say it prevents price gouging while developers say it disincentivizes new construction
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+With the cost of rental housing hitting all-time highs, many current and would-be tenants alike have something on their mind: rent control.
+</P>
+<P>
+The average rent for a two-bedroom apartment in a purpose-built building was $1,258 per month in 2022 — much more in Toronto and Vancouver — according to the Canada Mortgage and Housing Corporation (CMHC). 
+</P>
+<P>
+Those rates are an increase of 5.6 per cent over the previous year, says CMHC — well above the 2021 average of just three per cent. 
+</P>
+<P>
+A lot of tenants who are "truly struggling with rising rents" are pushing for more regulation, said Bahar Shadpour, director of policy and communications at the Canadian Centre for Housing Rights (CCHR), a tenants advocacy organization.
+</P>
+<P>
+But rent control works differently in various parts of the country, and there are mixed opinions about whether it's the answer. 
+</P>
+<P>
+What regions have rent control?
+</P>
+<P>
+Five provinces and one territory offer some form of rental regulation: British Columbia, Manitoba, Ontario, Quebec, Prince Edward Island and, recently, Yukon.
+</P>
+<P>
+Nova Scotia has a temporary rent control policy, brought in during the pandemic, which expires at the end of 2025.
+</P>
+<P>
+How does it work?
+</P>
+<P>
+In all provinces and territories, rents can typically only be raised on a leased unit once every 12 months, and landlords must give between one and three months' notice, depending on the length of the lease. 
+</P>
+<P>
+But with rent control, governments set a maximum increase each year. In Ontario, for 2024, it's 2.5 per cent.
+</P>
+<P>
+But in most places, those maximums only apply to tenants currently renting a unit. Generally, landlords can increase rents between leases as high as the market can bear.
+</P>
+<P>
+That's where vacancy control comes into play. P.E.I., for example, regulates rental rates between tenants. The rents are attached to the unit, not the renter, according to the CCHR.
+</P>
+<P>
+Manitoba also offers vacancy control, but only in buildings with four or more units.
+</P>
+<P>
+In Quebec, landlords must notify new tenants of the lowest rent in the preceding 12 months when signing a new lease.
+</P>
+<P>
+For ongoing tenants in Quebec, rent control applies if the tenant refuses an increase within one month of receiving notice and requests a review by the housing tribunal. The tribunal can then determine the increase, according to an annual calculation that the tenant and landlord must agree to. 
+</P>
+<P>
+Are there exceptions?
+</P>
+<P>
+Yes. Landlords can apply for increases beyond the mandated limits to cover changes such as repairs or upgrades to a unit. 
+</P>
+<P>
+They can also evict tenants if the property requires significant repairs or refurbishment — known as a "renoviction" — or if a family member needs to move in. 
+</P>
+<P>
+There are good reasons exemptions like these exist, but they can be abused to sneak in a rent increase, says Mike Moffatt, an economist and assistant professor at Ivey Business School in London, Ont.
+</P>
+<P>
+"What [the landlord] might be able to do is say, 'Oh well, my son's going to go to school, and he needs that unit for a year.' So you sort of give it to a family member for a year, then the son leaves and then you can charge market rent again," he told CBC Radio's Cost of Living.
+</P>
+<P>
+There can also be other exemptions. For example, buildings in Manitoba first occupied after March 7, 2005, are exempt from rent control for 20 years, as are units over $1,570 per month.
+</P>
+<P>
+Does rent control help tenants?
+</P>
+<P>
+Opinions differ. 
+</P>
+<P>
+Moffatt says while regulation can prevent landlords from "taking advantage of market conditions," rent control typically only benefits existing tenants. It can lead to higher rents for new tenants.
+</P>
+<P>
+"Oftentimes, those rents go up [when] the existing tenants leave," he said. "So it tends to advantage one group over another."
+</P>
+<P>
+Shadpour says one solution is to expand vacancy control — to "disincentivize that form of rent gouging."
+</P>
+<P>
+Does it affect construction? 
+</P>
+<P>
+Others say rent control discourages developers from constructing purpose-built rental buildings.
+</P>
+<P>
+"In Ontario in the 1950s and 1960s and early 1970s, there was a huge boom in construction of purpose-built rental apartment buildings," said Tony Irwin, president and CEO of the Federation of Rental-Housing Providers of Ontario (FRPO).
+</P>
+<P>
+"When rent control was introduced — coupled with some other tax incentives, federal tax incentives, that I believe were removed — you then saw purpose-built rental construction go off a cliff."
+</P>
+<P>
+A February 2023 report put out by four groups, including the FRPO, backs that up. It shows between 1960 and 1979, nearly 224,000 rental units were constructed in Ontario. That compares to fewer than 24,000 between 2000 and 2023. 
+</P>
+<P>
+"Most developers and builders have a choice — that they can build something as a purpose-built rental or they could build something as a condo," Moffatt said. 
+</P>
+<P>
+If there are too many restrictions on the former, "developers and builders will say, 'Oh, to heck with it. I would rather just sell these as condo units,'" he said. 
+</P>
+<P>
+Though rent control alone doesn't influence development, Shadpour pushed back against the argument it limits development given historical trends. Ontario removed rent control on buildings built after Nov. 1, 1991, an exception that stayed in place until 2017, hoping that would encourage developers to build rental housing, she says. 
+</P>
+<P>
+"And what we see across the board is that that didn't happen — developers still created condominiums and single-family homes."
+</P>
+<P>
+What else can help?
+</P>
+<P>
+The experts CBC News spoke with all agree that increasing the rental housing stock is critical. 
+</P>
+<P>
+"We've been under-building for decades," said Irwin. "There's such a huge shortage of housing generally, and rental housing specifically, that is putting a huge pressure on rents.
+</P>
+<P>
+"It is a supply and demand conversation."
+</P>
+<P>
+Providing incentives, such as tax breaks, to developers will help spur new construction, Moffatt and Shadpour say. 
+</P>
+<P>
+Meanwhile, municipalities need to streamline approvals so builders can get construction done in a timely fashion, Irwin says.
+</P>
+<P>
+And, as housing prices show no sign of slowing down, Shadpour says developers need to prioritize more accessible options.
+</P>
+<P>
+"We can't have any more luxury purpose-built rentals. People can't afford it." 
+</P>
+</TEXT>
+</DOC>

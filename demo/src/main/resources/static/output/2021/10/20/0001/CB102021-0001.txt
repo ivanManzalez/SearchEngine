@@ -1,0 +1,141 @@
+<DOC>
+<DOCNO> CB102021-0001 </DOCNO>
+<DATE>
+<P>
+October 20, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+The world is aiming for net-zero emissions by 2050. Here's what that means; 
+</P>
+<P>
+In theory, it's balancing emissions with removal of greenhouse gases — but the latter isn't easy
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled "Our Changing Planet" to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+Canada has committed to reaching net-zero emissions by 2050 to fight climate change. At the upcoming COP26 climate summit, hitting net zero globally by 2050 is a key goal.
+</P>
+<P>
+But what does that mean? What does it involve? Why is it so important? Here's a closer look.
+</P>
+<P>
+What does net-zero emissions mean?
+</P>
+<P>
+It means we are no longer adding heat-trapping greenhouse gases to the atmosphere. Some greenhouse gases might still be emitted, but they would be balanced off or "cancelled out" by the removal of an equivalent amount of greenhouse gases. (This is very similar to carbon neutrality, but includes more than just CO2.)
+</P>
+<P>
+Some experts, including the United Nations, take the definition of net zero one step further. In a video, the UN describes it as cutting emissions as close to zero as possible. "Any remaining emissions must be reabsorbed, including by healthy oceans and forests." (More on that later).
+</P>
+<P>
+WATCH | A UN video outlining its definition of 'net zero':
+</P>
+<P>
+What role does net zero play in international climate negotiations?
+</P>
+<P>
+The countries that signed the 2015 Paris Agreement on climate change are meeting in Glasgow, Scotland, for the COP26 summit from Oct. 31 to Nov. 12. The meeting's first stated goal is "secure global net zero by mid-century and keep 1.5 degrees within reach."
+</P>
+<P>
+Under the 2015 Paris Agreement, 196 countries committed to limiting global warming to well below 2 C — and preferably below 1.5 C — compared to pre-industrial times. That means cutting the greenhouse gas emissions that cause global warming.
+</P>
+<P>
+The Paris Agreement itself doesn't include the term "net zero," but it does say that in order to reach those temperature goals, parties must reduce emissions "so as to achieve a balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases in the second half of this century."
+</P>
+<P>
+Some signatories, including Canada, have already submitted or announced new plans with a net-zero target.
+</P>
+<P>
+Why is it so important to reach net zero?
+</P>
+<P>
+It's the only way to stop climate change. As long as greenhouse gases keep being added to the atmosphere, the average global temperature will keep rising.
+</P>
+<P>
+Jason Dion, mitigation director for the Canadian Institute for Climate Choices, a government-funded think-tank, puts it this way: "When we get to net zero… we're not making climate change any worse."
+</P>
+<P>
+The internationally agreed threshold of 1.5°C global warming is perilously close.<br><br>We must accelerate the decarbonization of the entire transport sector in order to get to net-zero emissions by 2050.<br><br>We must act together, smartly, and quickly. <a href="https://t.co/bocEdPYepW">https://t.co/bocEdPYepW</a>
+</P>
+<P>
+Why is 2050 the 'deadline' to hit net zero?
+</P>
+<P>
+Because that's required to keep warming below 1.5 C. The Intergovernmental Panel on Climate Change (IPCC) modelled different scenarios for reaching the Paris targets, and all the simplest paths to 1.5 C required the world to cut emissions to 45 per cent below 2010 levels by 2030 and reach net zero around 2050.
+</P>
+<P>
+That means if we don't hit net zero by 2050, "we'll lose that window [of opportunity] to stay below two or 1.5 degrees by the end of the century," said Jennifer Allan, a lecturer at Cardiff University in the U.K., who is Canadian.
+</P>
+<P>
+Modelling by the IPCC shows the impacts ranging from drought to sea level rise to species extinctions are much, much worse if the temperature increases more than 2 C.
+</P>
+<P>
+Why would you aim for net zero instead of just eliminating greenhouse gas emissions altogether?
+</P>
+<P>
+Some emissions from sectors that provide things industrial societies need are very hard to eliminate, such as the production of cement, steel, fertilizer and food via agriculture. "These are areas where it's really hard to get to zero with current and even foreseeable technologies," said Dion.
+</P>
+<P>
+The idea is that once we have cut emissions as much as possible (e.g. by electrifying power generation and transport), those "residual" emissions could be diverted from the atmosphere into "carbon sinks." They could be natural ones, such as forests, wetlands or oceans, or the carbon could be moved using technology such as carbon capture and storage.
+</P>
+<P>
+Does net zero mean we can keep emitting the same amount of greenhouses gases as long as we remove an equal amount?
+</P>
+<P>
+In theory, yes.
+</P>
+<P>
+"There isn't, kind of, agreement yet on what will really count as net zero," said Allan, who is also a writer and editor for the International Institute for Sustainable Development's Earth Negotiations Bulletin, an online publication focused on UN environment and development negotiations. "Some people worry it could be used to justify increasing emissions or maintaining business-as-usual and then planting a bunch of trees."
+</P>
+<P>
+But in practice, Allan, the UN and many others say it's crucial to reduce emissions as much as possible first. That's because carbon removal options are quite limited at the moment.
+</P>
+<P>
+Natural options such as planting trees are not permanent solutions. 
+</P>
+<P>
+"I'm from B.C. We get forest fires," Allan said, adding that when that happens, "all that carbon dioxide that's been absorbed is re-released into the atmosphere." Any emissions "cancelled out" by planting that forest, she said, are now new emissions instead of net zero.
+</P>
+<P>
+WATCH | Antigonish, N.S., aims to become Canada's first net-zero community:
+</P>
+<P>
+Dion said wildfires, droughts and insect infestations that could release carbon from trees are actually exacerbated by climate change — but that's no reason to be pessimistic about natural carbon removal. "It just means it's something that we should be careful [about] counting on as playing a significant role."
+</P>
+<P>
+Meanwhile, carbon capture and storage technologies can't yet remove carbon on a large scale. According to the International Energy Agency, the capacity of carbon capture facilities around the world was 40 megatonnes per year in 2020. That means, at most, they could remove just 0.13 per cent of the estimated 30,600 megatonnes the world emitted that year, according to the IEA. 
+</P>
+<P>
+How committed is Canada to hitting net zero by 2050?
+</P>
+<P>
+Canada committed to the goal of net-zero emissions by 2050 in the most recent climate targets it submitted to the UN under the Paris Agreement in July. The federal government's Net-Zero Emissions Accountability Act, which became law in June, requires the government to set interim emissions reduction targets and plans every five years starting 2030. The plans also need to explain how they would help Canada reach net zero by 2050.
+</P>
+<P>
+WATCH | Liberals unveil net-zero emissions plan:
+</P>
+<P>
+Under the act, the government has also set up a Net-Zero Advisory Body of 14 experts to "provide advice to the government and consult with Canadians on the most efficient and effective ways to reach this goal."
+</P>
+<P>
+What needs to happen for Canada and the world to achieve their net-zero goals?
+</P>
+<P>
+A report by the Canadian Institute for Climate Choices co-authored by Dion found there are multiple paths Canada could take to reach net-zero emissions, using different combinations of strategies, such as non-emitting power, bioenergy, energy efficiency and land-use changes.
+</P>
+<P>
+However, he said the current problem is that Canada's climate plans so far only look as far ahead as 2030. "There is a gap between 2030 and 2050."
+</P>
+<P>
+Canada's Net-Zero Advisory Body has found that the plans most likely to hit net zero "are the ones that start now, use a carbon budget as a basic tool, and increase ambition to keep the 2050 goal within reach."
+</P>
+<P>
+Allan said that's key worldwide. "If we have any hope of reaching net zero by 2050, we need to start tomorrow and we need short-term plans and immediate-term actions."
+</P>
+</TEXT>
+</DOC>

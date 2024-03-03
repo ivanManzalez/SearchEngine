@@ -1,0 +1,147 @@
+<DOC>
+<DOCNO> CB022521-0001 </DOCNO>
+<DATE>
+<P>
+February 25, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+What experts say Canada needs to do to become a leader in the electric vehicle industry; 
+</P>
+<P>
+Canada could be part of battery supply chain, innovation happening around EVs
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+This week's meeting between Prime Minister Justin Trudeau and U.S. President Joe Biden was a signal of momentum for electric vehicles that those in Canada's industry have been waiting for.
+</P>
+<P>
+In the roadmap released following the meeting, both leaders promised to work together to build supply chains for electric vehicle (EV) battery development so Canada and the U.S. could compete globally.
+</P>
+<P>
+Capitalizing on Canada's access to the minerals and metals needed to make electric vehicle batteries is something experts in the renewable energy industry have long said needs to happen.
+</P>
+<P>
+Now is the time for Canadian companies, researchers and governments to seize on the U.S. and Canada agreement and become leaders in specific areas including battery development, said Flavio Volpe, president of the Automotive Parts Manufacturers' Association.
+</P>
+<P>
+"The highest added-value component in electric vehicles is the battery, the chemistry of the battery," he said. 
+</P>
+<P>
+"Canada has its own in-the-ground opportunity to be a superpower in the battery space, which will drive where some of those investments are. The risk of Canada falling behind is a Canadian risk."
+</P>
+<P>
+The beefing up of the two countries' battery supply chains is one of the ways experts and researchers say Canada can benefit from the push for electric vehicles. 
+</P>
+<P>
+Industry experts say developing Canadian research talent and increasing the investment and production of electric buses are other ways Canada can distinguish itself from other countries already competing in the electric vehicle market.
+</P>
+<P>
+The battery supply chain
+</P>
+<P>
+Canada has a large domestic supply of the metals and minerals like lithium and nickel that go into making lithium-ion batteries, witnesses told a House of Commons natural resources committee Monday. 
+</P>
+<P>
+A quarter of the cost of an EV is the lithium-ion battery, while four-fifths of the cost of the battery itself is the minerals, metals, and chemicals that go into it, said Simon Moores, London, U.K.-based managing director of Benchmark Mineral Intelligence.
+</P>
+<P>
+But there is little ability in Canada to process the raw material into the components that ultimately go into producing batteries.
+</P>
+<P>
+"Relative to the European Union and Asia, Canadian battery metals supply chains are currently in their infancy," said Liz Lappin, president of the Battery Metals Association of Canada.
+</P>
+<P>
+"However, with surging demand for battery metals to serve the expanding EV supply chain, the market opportunity for Canada is growing."
+</P>
+<P>
+Benchmark Mineral Intelligence estimates that by 2030, China will hold 67 per cent of battery capacity and Europe will hold 18 per cent, while North America will hold 12 per cent.
+</P>
+<P>
+"While the world's governments and automakers focus on building EVs and battery plants, a true leader is yet to emerge in building the supply chains to feed them," Moores said.
+</P>
+<P>
+Both Trudeau and Biden promised they would work together to make the U.S. and Canada "global leaders in all aspects of battery development and production," according to a news release from the prime minister's office.
+</P>
+<P>
+The electrification of vehicles has been a priority for Biden's government. Within the last month, Biden has committed to switching the government's fleet to EVs and to setting up 500,000 charging stations across the U.S. in an effort to reduce greenhouse gas emissions.
+</P>
+<P>
+On Monday, Natural Resources Minister Seamus O'Regan announced that a new "federal-provincial-territorial task team" is developing an inventory of Canadian "critical minerals" that would help build an "integrated, all-Canadian critical minerals and battery value chain." 
+</P>
+<P>
+Electric vehicles are supposed to be green, but the truth is a bit murkier
+</P>
+<P>
+Joanna Kyriazis with Vancouver-based energy think tank Clean Energy Canada says the federal government also needs to promote our raw minerals if Canada is to keep up with the global demand. 
+</P>
+<P>
+"What we need now is to move from the discussion, the talk into action," she said.
+</P>
+<P>
+"We need to be a key player at the table and help to work with Biden to position the North American auto industry to compete globally on EVs and their batteries." 
+</P>
+<P>
+Innovation in transit
+</P>
+<P>
+The transition to electric and Canada's position in the market shouldn't only be centred around light-duty vehicles, said Josipa Petrunić, president of the transport non-profit group CUTRIC.
+</P>
+<P>
+She said now is "the moment for transit manufacturing in Canada."
+</P>
+<P>
+As more Canadian municipalities look to add electric buses to their fleets, Petrunić said there's opportunity for innovation and room to grow.
+</P>
+<P>
+She said the federal government's recent announcement of an additional $14.9 billion over the next eight years for public transportation projects is a signal to the industry. Trudeau had said the funding could be used for everything from subway extensions to electrified transit fleets. 
+</P>
+<P>
+"There's no way to misinterpret that, other than to say the federal government is going to invest federal tax dollars and de-risk for the long-term investment into these high-risk, highly complex technologies that are going to transform the transit and mobility landscape. That gives the private sector a reason to stay," said Petrunić. 
+</P>
+<P>
+OPINION: Building electric cars in Canada is key to reaching climate goals, recharging auto industry
+</P>
+<P>
+She pointed to Nova Bus and New Flyer, both based in Canada, which have created electric public transit, said Petrunić. 
+</P>
+<P>
+Keeping manufacturing of electric buses and other zero or low-emission vehicles is a key element to Canada's success, experts say.
+</P>
+<P>
+In a 2020 report on Canada's role in the electric vehicle transition done by the International Council of Clean Transportation, authors say that having domestic manufacturing requirements for the purchasing of public transit vehicles could increase the production of electric buses in Canada.
+</P>
+<P>
+Keeping intellectual property in Canada
+</P>
+<P>
+One professor at the University of Toronto's Electric Vehicle (UTEV) research centre says Canada's electric vehicle strategy should also include keeping intellectual property and talent in Canada.
+</P>
+<P>
+Engineers at the UTEV have been working with industry on new ways to make EVs more affordable and efficient for consumers, including wireless and robotic charging.
+</P>
+<P>
+As electric vehicles age, here's how the batteries are finding a second life
+</P>
+<P>
+"It's not just about manufacturing," said Olivier Trescases, director of the UTEV.
+</P>
+<P>
+"It's also about the intangibles, the knowledge economy and actually owning intellectual property that you can collect money on licensing, scaling and so on. And that's something that Canada needs."
+</P>
+<P>
+The professor of electrical engineering, who has seen many of his students recruited by companies like Tesla, Apple, and SpaceX, said it's important that we keep that talent in Canada as the country moves towards electric mobility.
+</P>
+<P>
+"We need to just be very objective and evaluate the success and the metrics around innovation, not just from the obvious greenhouse gas production standpoint, but the economic benefit for the country," Trescases said.
+</P>
+<P>
+"I think we have a lot to gain. We also have a lot to lose. And we risk missing the boat."
+</P>
+<P>
+With files from a Canadian Press story produced with the financial assistance of the Facebook-Canadian Press News Fellowship, which is not involved in the editorial process.
+</P>
+</TEXT>
+</DOC>

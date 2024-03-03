@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> CB062823-0005 </DOCNO>
+<DATE>
+<P>
+June 28, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Has the Bank of Canada conquered inflation? It's complicated; 
+</P>
+<P>
+When inflation was soaring, hiking rates was a no-brainer. Now it's not so easy
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Whether you are a homeowner facing the cost of renewing a mortgage or a business financial officer looking to renegotiate an essential loan, rising interest rates are causing a world of hurt for Canadian borrowers.
+</P>
+<P>
+The latest data out Wednesday showed inflation had plunged to a two-year low of 3.4 per cent, a trifling few decimal points away from the Bank of Canada's one-to-three per cent target range. So why doesn't it just stop the pain?
+</P>
+<P>
+"The bigger question is: Does the Bank of Canada believe that it can bring inflation back to two per cent without creating recession — and [it] has to ask itself what is the cost of further rate hikes?" Frances Donald, global chief economist at Manulife Investment Management, said in a CBC News interview shortly after the release of the consumer price index (CPI) data.
+</P>
+<P>
+Central bank creates inflation
+</P>
+<P>
+A lot of smart people in the financial sector seem to think a recession is coming. And yet a lot also think that before that, central bankers here, in the United States and overseas are going to raise interest rates some more.
+</P>
+<P>
+The fact is, fighting inflation is complicated and politically divisive. And for central banks, it becomes even more complicated and politically divisive as inflation gets closer to their target, because rate hikes hurt more for less obvious reward.
+</P>
+<P>
+As Donald points out, higher interest rates won't end Russia's war on Ukraine or fix a devastating disease in the California orange crop driving up prices or keeping them high.
+</P>
+<P>
+There are few inflation riddles harder to solve than the fact that the Bank of Canada's own interest rate hikes are actually driving inflation higher, with the mortgage cost component of the CPI climbing 30 per cent in the latest Statistics Canada data.
+</P>
+<P>
+"If you take out mortgage interest rate costs, then inflation is running much closer to 2.5 per cent," Donald said.
+</P>
+<P>
+The problem, said Stephen Tapp, chief economist with the Canadian Chamber of Commerce, is that there are plenty of signs that inflation has not gone away. And it's more complicated than looking at the headline number.
+</P>
+<P>
+Worried about getting stuck
+</P>
+<P>
+I spoke to Tapp because he helped explain the concept of core inflation back in 2022, and why it showed that the new generalized rise in prices at the time was worrying to Tiff Macklem, governor of Canada's central bank.
+</P>
+<P>
+Back then, headline inflation led the way, driven by volatile segments like oil and gas following the Russian invasion.
+</P>
+<P>
+This time, the fall in gas prices makes it look as though inflation is tumbling. But overall price pressures demonstrated by core inflation are actually higher than the headline inflation number — and the Bank of Canada is worried they could become stuck.
+</P>
+<P>
+Survey data from the Chamber of Commerce shows that businesses expect their costs, including the cost of labour — which is currently rising at about five per cent — will mean they'll have to charge more over the coming three months.
+</P>
+<P>
+"They suggest businesses still face broad-based cost pressures — and corporate pricing behaviour that the central bank's been looking to normalize is far from normal at his point," Tapp said.
+</P>
+<P>
+Businesses, he said, expect inflation to remain above the bank's target, and they want to be prepared.
+</P>
+<P>
+Companies plan more price increases
+</P>
+<P>
+"Yes, inflation's slowing, but we still have almost 30 per cent of companies that expect to raise prices," Tapp said. "It looks like we'll get stuck around the three, 3.5, four per cent range."
+</P>
+<P>
+The other complication in reading the inflation data is called the "base-year effect," which distorts the data by making oil prices look incredibly cheap and mortgage costs incredibly expensive. He said that while both are mathematically real, they can be deceptive.
+</P>
+<P>
+Following Russia's invasion of neighbouring Ukraine in February 2022, the global price of crude oil skyrocketed, driving gasoline prices above $2 a litre across Canada. Gas is still expensive in historic terms, but compared with last year's highs, it is much lower — bringing down the annual headline inflation figure. In a few months, one year after oil prices slumped, that effect will disappear.
+</P>
+<P>
+Tapp said the same thing applies to mortgages but in reverse, as rates rose by four percentage points from a very low level. And as with oil, he said, that shocking 30 per cent rise in mortgage rates will soon wash out of the data.
+</P>
+<P>
+"If you fast-forward this movie, the Bank of Canada's not going raise interest rates another four per cent — I certainly hope not," he said. "In the year-over-year comparison, you could have interest costs essentially flat next year."
+</P>
+<P>
+But he said that is of little reassurance to someone trying to get or renew a mortgage now, even if central banks must look past short-term distortions in any single sector.
+</P>
+<P>
+Rate hike still baked in?
+</P>
+<P>
+While economists have said that a quarter-point hike in interest rates at the Bank of Canada's July 12 meeting are "baked in," both Tapp and Manulife's Donald say there are things that could dissuade the central bank from raising rates.
+</P>
+<P>
+On Friday, Canada's economic growth figures could show the economy has begun to slow. A significant economic slowdown could convince the central bank it is done raising rates for now.
+</P>
+<P>
+Also on Friday, the Bank of Canada releases its own surveys of business and consumer expectations. A week later, employment data will offer hints as to whether a tight job market and rising wages have begun to cool.
+</P>
+<P>
+"We're not there yet, and we're unlikely to get there if you look at the overall package of wage pressures, pretty high and growing inflation expectations still above target, and business pricing behaviour," Tapp said.
+</P>
+<P>
+That pricing behaviour is part of the psychological inflationary spiral the Bank of Canada is struggling to break, one where everybody thinks they are not the cause of inflation but only responding to rising costs elsewhere in the economy.
+</P>
+<P>
+"Most companies tell us their profits are going to be shrinking, that margins will be going down," Tapp said. "That's mainly because prices will be going up, but costs will be going up faster."
+</P>
+<P>
+For the Bank of Canada, he said, it's just too early to walk away and say "mission accomplished."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CB110323-0001 </DOCNO>
+<DATE>
+<P>
+November 03, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Calculate how much more your mortgage will cost as interest rates rise; 
+</P>
+<P>
+Use this tool to compare rates and find out how much more you’ll be paying
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada has experienced the biggest interest rate increase since the 1990s, adding to costs for both would-be home buyers and current homeowners.
+</P>
+<P>
+Enter two rates to compare how much more you could be paying weekly, bi-weekly or monthly and see how different rates can impact the total amount you'll pay over the term of your mortgage.
+</P>
+<P>
+Methodology
+</P>
+<P>
+CBC News consulted with Alan Marshall, a finance instructor at York University's Schulich School of Business, for the calculations. The exact formula used can be found here.
+</P>
+<P>
+The calculations only apply to fixed-rate mortgages in Canada, which requires fixed-rate mortgages to be compounded semi-annually by law.
+</P>
+<P>
+The results presented here are estimates and might be different from other mortgage calculators.
+</P>
+</TEXT>
+</DOC>

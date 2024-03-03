@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> CB080316-0001 </DOCNO>
+<DATE>
+<P>
+August 03, 2016
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Alberta households emit most greenhouse gas in the country, study finds; 
+</P>
+<P>
+Montreal households emit average of 5.4 tonnes a year, Calgary households average 18.2 tonnes
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Households in Edmonton and Calgary generate, on average, almost four times the amount of greenhouse gas emissions as their counterparts in Montreal, according to a study released Wednesday by the University of British Columbia.
+</P>
+<P>
+The study from the university's faculty of land and food systems estimated average household emissions in major cities across Canada between 1997 and 2009, based on factors such as weather, population density and the type of energy used for home heating and electricity.
+</P>
+<P>
+Montreal homes were ranked the greenest — at 5.4 tonnes per year — largely because of the widespread use of clean hydroelectric power. The city's dense population also means motorists spend less time commuting and guzzling gas.
+</P>
+<P>
+"If you live in Montreal, you can walk to your grocery store, you can walk your kids to school. You don't have to be driving everywhere, whereas in Edmonton, unfortunately, you do," professor Sumeet Gulati, one of the report's two authors, said Wednesday.
+</P>
+<P>
+Edmonton, followed closely by Calgary, was at the bottom of the pile at 20.7 tonnes per year, partly because of the use of coal-fired home energy and a spread-out population. The colder weather in the two biggest Alberta cities also means more energy is needed to heat homes.
+</P>
+<P>
+Vancouver, despite its very mild temperatures, ranked second behind Montreal because of the West Coast city's use of natural gas in residential utilities. Natural gas is available throughout Montreal, but it is more expensive than hydro.
+</P>
+<P>
+Hydro helps
+</P>
+<P>
+Winnipeg ranked third-lowest for emissions, ahead of fourth-place Toronto. Despite its bone-chilling winters, Winnipeg scored well because of its use of hydro power.
+</P>
+<P>
+"The implications from our analysis are fairly straightforward," the report reads.
+</P>
+<P>
+"If we encourage high-density development or encourage development of low-carbon energy, households lower their greenhouse gas emissions."
+</P>
+<P>
+The report found a positive trend in all cities — greenhouse gas emissions per household dropped by about 16 per cent over the 12-year study period as people, governments and utilities became more energy-conscious.
+</P>
+<P>
+"I think it's actually very hopeful," Gulati said.
+</P>
+<P>
+"In Alberta, we're getting a new carbon tax and Alberta's committed to reducing coal in its electricity generation."
+</P>
+</TEXT>
+</DOC>

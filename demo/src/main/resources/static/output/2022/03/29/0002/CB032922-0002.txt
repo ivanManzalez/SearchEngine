@@ -1,0 +1,171 @@
+<DOC>
+<DOCNO> CB032922-0002 </DOCNO>
+<DATE>
+<P>
+March 29, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada releases plan for a 40 per cent cut in carbon emissions by 2030; 
+</P>
+<P>
+Feds pledge to dramatically curb emissions in oil and gas and transportation sectors to reach 2030 targets
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Environment Minister Steven Guilbeault today released the government's plan to dramatically curb greenhouse gas emissions over the next eight years to meet ambitious 2030 reduction targets.
+</P>
+<P>
+It's a plan that leans heavily on deep cuts in the electricity, oil and gas and transportation sectors.
+</P>
+<P>
+In an effort to slash emissions by 40 to 45 per cent below 2005 levels by 2030, the federal government has announced some $9.1 billion in new investments that will, among other things, boost incentives for zero-emission vehicles (ZEVs), sweeten tax breaks for companies in the fossil fuels sector that embrace carbon capture, utilization and storage (CCUS) technology, and work to make Canada's electricity grid cleaner.
+</P>
+<P>
+Speaking at an event in Vancouver, Prime Minister Justin Trudeau called the report the government's "boldest and most specific step yet. It's ambitious and it's achievable."
+</P>
+<P>
+The report, titled 2030 Emissions Reduction Plan: Canada's Next Steps for Clean Air and a Strong Economy, states that the current carbon pricing regime will remain the cornerstone of the federal climate plan. The carbon price is set to rise steeply from its current level of $50 per tonne of emissions to $170 by 2030 in order to push consumers to cleaner energy sources.
+</P>
+<P>
+WATCH: Prime Minister Trudeau discusses new emissions reductions plan
+</P>
+<P>
+To preserve this carbon levy after the next change in government, the report said Ottawa is "exploring legislative approaches to support a durable price on carbon pollution." Ottawa may also soon adopt a "border carbon adjustment," which would slap tariffs on imports from jurisdictions that don't have a price of carbon, the report said.
+</P>
+<P>
+The single largest contributor of greenhouse gas emissions in Canada is the oil and gas sector. In 2019, that sector accounted for 26 per cent of national emissions, or roughly 191 megatonnes. According to the plan released Tuesday, the federal government wants to see that number reduced to just 110 megatonnes by the end of the decade.
+</P>
+<P>
+As Trudeau announced at COP26 in Glasgow last fall, the government will soon implement a hard cap on emissions — meaning that if companies want to pump out more fossil fuels in the coming decades, they'll have to do so with significantly lower emissions intensity.
+</P>
+<P>
+Ottawa goes all-in on carbon capture
+</P>
+<P>
+To accomplish such a large reduction — the government is projecting a 42 per cent cut from current levels in just eight years — Ottawa is embracing CCUS, a process that captures and reuses or stores carbon dioxide emissions.
+</P>
+<P>
+It's a technology that's already been used, with some success, in Saskatchewan and other places. The federal government said it wants to see the tech deployed more widely to reduce the emissions intensity of Alberta's oil patch and other oil-producing regions.
+</P>
+<P>
+To encourage adoption of CCUS, the government said it will roll out a substantial new investment tax credit. The plan released today doesn't include any details on how such an incentive would be structured.
+</P>
+<P>
+Beyond the forthcoming tax credit, the government is urging oil and gas companies — many of them newly flush with cash thanks to rising fossil fuels prices — to plow more money into emissions reduction projects.
+</P>
+<P>
+Report calls on oilpatch to do its 'fair share'
+</P>
+<P>
+An industry that developed creative ways to extract oil from the ground is also capable of pursuing new technologies to make the whole process cleaner and greener, the report said.
+</P>
+<P>
+"Canada's oil and gas industry is currently generating record cash flow. If deployed strategically, these funds could enhance carbon competitiveness and enable the sector to do its fair share in contributing to the country's climate goals," the report says.
+</P>
+<P>
+To further limit growth in the sector, the federal government said it would eliminate all "inefficient" fossil fuel subsidies and develop a plan to "phase-out financing for the fossil fuel sector, including by federal Crown corporations." That would effectively eliminate a source of financing for companies looking to expand.
+</P>
+<P>
+WATCH: Environment minister describes new emission reduction plan to CBC's Power & Politics
+</P>
+<P>
+Because hundreds of thousands of people directly or indirectly employed in the energy sector face an uncertain future under these more constrained conditions, the federal government said it's working on a "just transition" plan so displaced workers "are able to succeed in the low-carbon economy."
+</P>
+<P>
+The plan says that roughly $2 billion in federal money will be directed to new so-called "futures funds" in Alberta, Saskatchewan and Newfoundland and Labrador to "help workers across sectors upgrade or gain new skills to be on the leading edge of the zero carbon industry."
+</P>
+<P>
+The report suggested that some displaced oil and gas workers could also find jobs in emerging industries like low-carbon hydrogen.
+</P>
+<P>
+"A hydrogen production facility utilizing carbon capture technology will not look much different from an existing refinery – and the same holds true for a biofuels plant," the report reads.
+</P>
+<P>
+Trudeau said "big oil lobbyists have had their time on the field," and it's now "over to workers and engineers who build solutions" to chart a path forward for the industry.
+</P>
+<P>
+Plan cuts oilpatch too much slack, environmentalists say
+</P>
+<P>
+In a statement, the Canadian Association of Petroleum Producers (CAPP), the lobby group that represents oil and gas interests, said the government's plan rightfully recognizes that "global demand for natural gas and oil will continue for decades" and that "Canada has a role to play in providing lower emission resources to the world's energy mix."
+</P>
+<P>
+"We look forward to the consultation process for the elements of the plan and to supporting Canada's role in reducing global emissions while enhancing energy security and affordability," said Terry Abel, the group's executive vice-president.
+</P>
+<P>
+Environmental groups welcomed the government's push to curb oil and gas-related emissions — but some said they wanted to see Ottawa go further to rein in the industry.
+</P>
+<P>
+It's unfair to require the oil and gas industry to cut less than other sectors over the next eight years, the groups said. Oil and gas sector emissions are projected to be 31 per cent below 2005 levels by 2030 — less than the 40 to 45 per cent economy-wide reduction.
+</P>
+<P>
+"As a result of big oil's relentless lobbying, the sectoral targets are set too low and must go up if oil and gas is to do their fair share," said Tzeporah Berman, a director at Stand.earth.
+</P>
+<P>
+"As long as these targets are lower than the rest of the economy, that means other sectors will have to do more in order to allow big oil to continue to pollute."
+</P>
+<P>
+In a statement, Greenpeace said the plan "isn't enough" and is too heavily focused on what it calls "risky techno-fixes" like carbon capture.
+</P>
+<P>
+Keith Brooks, Environmental Defence's programs director, said "the level of ambition reflected in this plan continues to fall short." He said Ottawa must pursue a complete phase-out of oil and gas development.
+</P>
+<P>
+"This plan lets the oil and gas sector off from doing its fair share. Avoiding catastrophic climate change requires winding down production of oil and gas over the next decade," he said.
+</P>
+<P>
+Meanwhile, Merran Smith, executive director of Clean Energy Canada, said while some groups may suggest the planned oil and gas cuts are not enough, she considers it "a fair and significant reduction."
+</P>
+<P>
+Zero-emissions vehicles
+</P>
+<P>
+The second largest source of emissions is the transportation sector. According to data from the most recent National Inventory Report, emissions from transportation were 186 megatonnes in 2018, accounting for 25 per cent of total emissions in Canada. The government wants to see that drop to 143 megatonnes by 2030.
+</P>
+<P>
+To achieve that goal, the government is proposing more aggressive action to get more people into ZEVs — zero-emissions vehicles that do not emit exhaust gas or other pollutants.
+</P>
+<P>
+The government says it will spend $1.7 billion to extend existing incentives that offer credits to people who buy zero-emissions cars and trucks. The upcoming federal budget will "provide additional detail on the program's design," the report said.
+</P>
+<P>
+The government will also mandate that 20 per cent of all new light-duty vehicles sales in Canada be ZEVs by 2026 — a quick turnaround in a country where the overwhelming majority of new cars sold still have internal combustion engines. According to the market research firm IHS Markit, the ZEV share of light-duty vehicles sales in Canada was just 5.6 per cent in 2021.
+</P>
+<P>
+The federal mandate will then dictate that at least 60 per cent of all new vehicles sold in 2030 are ZEVs, before rising to 100 per cent in 2035. Under this plan, Canadians won't be able to buy a new internal combustion engine car or truck by the middle of the next decade.
+</P>
+<P>
+"With rising consumer demand for ZEVs, and exciting new products being offered by both traditional and new manufacturers, the world is nearing a tipping point. The global electric car stock reached 10 million in 2020 and the trend line is curving upward for 2021," the report reads.
+</P>
+<P>
+That transition will require a dramatic expansion of the ZEV charging station infrastructure. The government is promising $400 million in new funding to help add 50,000 chargers to Canada's network. The Canada Infrastructure Bank, the federal body that supports revenue-generating infrastructure projects that are in the public interest through public-private partnerships, will also spend some $500 million on large-scale ZEV charging and refueling infrastructure.
+</P>
+<P>
+The government also wants to drive emissions reductions in medium- and heavy-duty vehicles, which have been slower to adopt zero-emission technology.
+</P>
+<P>
+In a statement, a group of auto industry representatives said they're "fully committed to decarbonizing [their] products" but they need more guidance from Ottawa on its push to dramatically ramp up ZEV sales in the near-term.
+</P>
+<P>
+"The minister's report released today lacks clarity," said David Adams, president and CEO of Global Automakers of Canada. "We need some assurance that the consumer is going to join us on this ride, and at this point that is not entirely clear."
+</P>
+<P>
+Brian Kingston, president and CEO of the Canadian Vehicle Manufacturers' Association, said automakers are already playing their part in the fight against climate change by building multi-billion dollar plants in Canada to make new ZEV models.
+</P>
+<P>
+"Government efforts to improve electric vehicle charging infrastructure, enhance purchase incentives and educate consumers will determine whether or not Canada will keep pace," Kingston said.
+</P>
+<P>
+The transition from gas-powered vehicles to ones that rely on electricity will result in a sizeable increase in electricity demand — and the government wants the future grid to be zero-emitting by 2035.
+</P>
+<P>
+The government says it will work with the provinces and territories to establish a "a Pan-Canadian Grid Council" to promote clean electricity infrastructure investments and develop emerging technologies like geothermal, tidal and small modular nuclear reactors (SMRs).
+</P>
+<P>
+For its part, the federal government is promising to spend $850 million more than previously budgeted to help build renewable energy capacity through new wind and solar projects.
+</P>
+</TEXT>
+</DOC>

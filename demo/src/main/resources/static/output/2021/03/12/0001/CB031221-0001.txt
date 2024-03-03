@@ -1,0 +1,219 @@
+<DOC>
+<DOCNO> CB031221-0001 </DOCNO>
+<DATE>
+<P>
+March 12, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Compressed air, flywheels and more: Energy storage solutions being tested in Canada; 
+</P>
+<P>
+Also: Barcelona decides to get wild
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+Compressed air, flywheels and more: Energy storage solutions being tested in Canada
+</P>
+<P>
+Last week, we looked at some of the hydro- and gravity-based energy storage technologies being explored, along with batteries, in order to integrate wind and solar power more effectively into the grid. That's because clean energy isn't necessarily generated at the times when people use the most power, and often needs to be saved for later.
+</P>
+<P>
+Here are some other energy storage technologies that have been tested in Canada in recent years or are being tested and used right now.
+</P>
+<P>
+Compressed air energy storage
+</P>
+<P>
+This is similar to pumped hydro, except that it involves using surplus power to compress and pump air instead of water into a space such as a cave or mine shaft. The air is later released to drive a turbine.
+</P>
+<P>
+The first commercial installation of this kind was built in salt caves in Germany in 1978, and it's still operating.
+</P>
+<P>
+In Canada, Toronto-based Hydrostor built two demonstration plants:
+</P>
+<P>
+A plant in a former salt mine in Goderich, Ont., billed as the world's first emission-free compressed air facility. It can feed 10 megawatts of power into the grid for up to five hours.
+</P>
+<P>
+A smaller demonstration that stored the air in balloons 55 metres below the surface of Lake Ontario.
+</P>
+<P>
+Flywheels
+</P>
+<P>
+Flywheels (or rotors) spin at very high rates (up to 50,000 revolutions per minute), typically in a vacuum so air friction doesn't slow them down. Power is stored as kinetic energy by using a motor to accelerate the flywheels, and energy can be discharged by reversing the process so the flywheel drives a motor or some other electrical generation device.
+</P>
+<P>
+While this can happen very quickly compared to other types of energy storage, flywheels are not good for long-term storage, but work well to balance supply and demand on a short-term basis.
+</P>
+<P>
+In Canada, Toronto-based NRStor has a flywheel storage facility that has operated in Minto, Ont., since 2014, and recently bought a second flywheel storage project in Clear Creek, Ont.
+</P>
+<P>
+A flywheel is used by Montreal-based Tugliq Energy Co. to manage variations in wind power at Glencore's Raglan Mine Renewable Electricity Smart-Grid Pilot Demonstration Project in northern Quebec. (In the image above, it's located in the dark buildings at the back left.) 
+</P>
+<P>
+Thermal energy storage
+</P>
+<P>
+Energy can be stored by heating or cooling materials such as rocks, salts or liquids and keeping them insulated to prevent the energy from escaping as heat. Later, the heat can be used to produce steam to turn turbines and generate electricity, or can be used directly for heating and cooling. 
+</P>
+<P>
+At least two projects in Canada have done the latter by drawing power from the grid at night during off-peak times:
+</P>
+<P>
+Fredericton-based Stash Energy's system was first tested in Summerside, P.E.I., a few years ago. It's a heat pump that stores heat in what the company describes as a chemical. The heat can be released to warm homes during the day.
+</P>
+<P>
+The Toronto Zoo ran a test of California-based Ice Energy's Ice Bear system, which freezes water into ice at night during the summer. It slowly melts during the day to cool the air at the zoo's Caribou Café. However, Ice Energy filed for bankruptcy in December 2019.  
+</P>
+<P>
+Hydrogen
+</P>
+<P>
+One other way to store energy is to use electricity to generate hydrogen from water using an electrolyzer. The energy can be released later by feeding the hydrogen into a fuel cell, which operates much like a battery. It's only 25 to 45 per cent efficient, which is much less than most other energy storage methods, but it is reliable, quiet and takes up little space.
+</P>
+<P>
+The Markham Power-to-Gas facility in the Toronto area, which was commissioned in 2018, is used to help balance electricity supply and demand in Ontario by converting electricity to and from hydrogen.
+</P>
+<P>
+Hydrogen systems have also been used at a number of projects across Canada in remote locations, including:
+</P>
+<P>
+The Ramea Wind-Hydrogen-Diesel Project off Newfoundland.
+</P>
+<P>
+The Hydrogen Assisted Renewable Power project in Bella Coola, B.C., run by Surrey, B.C.-based Powertech Labs, where hydrogen was used to store off-peak power generation from run-of-river hydro generation.
+</P>
+<P>
+Glencore's Raglan Mine Renewable Electricity Smart-Grid Pilot Demonstration Project, where it's used for longer-term power storage. (In the photo above, it's the white tanks in the front.)
+</P>
+<P>
+If you're interested in a more detailed look at energy storage projects in Canada, Prof. Ian Rowlands at the University of Waterloo has compiled a list here.
+</P>
+<P>
+— Emily Chung
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+Following our article last week on gravity energy storage, a number of you wrote in about our inconsistent use of two units of measurement for power: watts and watt-hours. We agree this was confusing and, in one case, incorrect. (Energy Vault's demonstration is a 35 megawatt-hour plant, not a 35-megawatt plant.) 
+</P>
+<P>
+When it comes to energy storage, both units are important, says Prof. Jatin Nathwani, executive director of the Waterloo Institute for Sustainable Energy at the University of Waterloo. That's because energy storage serves two functions: It can balance short-term fluctuations in the transmission grid on the scale of seconds or minutes, and it can store and release energy over many hours. 
+</P>
+<P>
+Watts are a measure of power capacity — the rate at which a facility can feed power into the grid, which is important for short-term balancing. Watt-hours are a measure of energy capacity, or how much energy can feed back into the grid before the stored energy runs out. Put another way: Power capacity is similar to the rate at which water can come out of a hose. Energy capacity is the total amount of water that could come out.
+</P>
+<P>
+The specifications for a given project include both numbers. For example, Energy Vault says one of its units can have a storage capacity of 20 to 80 MWh, with the ability to provide continuous power of four to eight MW for eight to 16 hours.
+</P>
+<P>
+Write us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+There's also a radio show! Carbon offsets are billed as a necessary tool for climate action, but decades of projects have largely failed to reduce emissions. With a new Canadian system in the works, What on Earth looks at the problems with offsets and how we can make them work. Listen to What on Earth on CBC Radio One on Sunday at 12:30 p.m., 1 p.m. in Newfoundland, or any time on podcast or CBC Listen.
+</P>
+<P>
+The Big Picture: Barcelona gets wild
+</P>
+<P>
+Along with the (temporary) reduction of carbon emissions, one of the key environmental developments of the COVID-19 pandemic has been the return of nature in places where it has historically been a second-class citizen — namely, cities. Largely because of lockdown measures, all manner of flora and fauna has been able to live more freely in urban areas, and many cities are cultivating ways to increase the rewilding. Barcelona has witnessed a burst of life during the pandemic — for example, 74 per cent more butterflies in May and June of 2020 than in 2019 — and is undertaking a variety of measures to further "naturalize" the city, from creating 783,300 square metres of open green space to building specific housing structures for birds, bats, bees and more. One apartment building features a rooftop garden that has 10,000 native perennials and provides a home for pollinators year-round. As Francisco Bergua, president of the Spanish Association of Parks and Public Gardens (AEPJP), told the Guardian newspaper, "The lockdown gave us a glimpse of nature in the city, and we liked it."
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+The wonders of nature never cease. In addition to being beautiful, this species of sea slug can decapitate itself and keep on living, according to a report in a biology journal. The researchers who discovered this believe the slug probably developed this trick in order to fight off parasites.
+</P>
+<P>
+In China, eating meat has long been seen as a symbol of prosperity. But a government push to reduce consumption as part of a larger emissions-reductions strategy has opened the door to meat alternatives — and they're gaining popularity. One report suggested China's plant-based meat market could grow 20 to 25 per cent annually.
+</P>
+<P>
+Halifax company first in Nova Scotia to harvest single-cell organisms
+</P>
+<P>
+A Nova Scotia company is harvesting a new source of protein, but you'll need a microscope to see it.
+</P>
+<P>
+Smallfood, based in downtown Halifax, holds the province's only aquaculture licence for single-celled marine microalgae. Their unique microbe was picked after studying more than 20,000 others, and is in the same family as brown seaweed, according to Smallfood CEO Marc St-Onge.
+</P>
+<P>
+"This is probably the most primitive food that has existed ... it is the origin of food," St-Onge said. "Yes, we've gone through, you know, three, four billion years of evolution, but we still have that original food that's available today."
+</P>
+<P>
+Like the processes used to make yogurt or kimchi, St-Onge said their microbe produces protein through biomass fermentation. They grow and harvest the proteins in industrial-scale vertical tanks, giving their space a brewery-like appearance.
+</P>
+<P>
+Once they separate the biomass from the water, St-Onge said they can process those cells into a "suite of different food ingredients." Their main focus at the moment is a vegan ingredient with about 90 per cent protein content that they can sell to food, beverage or supplement manufacturers.
+</P>
+<P>
+St-Onge believes his company is not only the first in N.S. but the first in Canada to get an aquaculture licence for a single-celled organism.
+</P>
+<P>
+"This is a continually evolving field and we are excited to have a company pursuing this type of innovative development in Nova Scotia," said Bruce Nunn, spokesperson for the province's Fisheries and Aquaculture Department, which issued Smallfood's licence in March 2020.
+</P>
+<P>
+St-Onge said a long list of criteria went into finding this organism. They wanted to find a microbe that produced proteins, fats and amino acids similar to animal proteins, which are considered the "gold standard." As well, the microbe needed to grow quickly.
+</P>
+<P>
+Starting from scratch, St-Onge said a small vial of this microorganism could lead to "tractor-trailer loads of protein going out the door in seven days." For comparison, he said soy or peas take seven to nine months, while beef takes several years for cattle to grow.
+</P>
+<P>
+Since the food production industry is one of the major drivers of climate change, St-Onge said it's important to rapidly adapt to alternative proteins like microbes, which are more sustainable than meat or fish.
+</P>
+<P>
+"Feeding 10 billion people by 2050, there's only one way that we can continue to use these traditional forms of agriculture in a way that is more caring and supportive for the planet," St-Onge said. "We need to shift the base, the foundation … enter microbes."
+</P>
+<P>
+Smallfood is one of several microbe companies setting up shop in Halifax. 
+</P>
+<P>
+DeNova has been working out of the city since 2017, and developed technologies that "convert greenhouse gases into a high-quality, sustainable microbial protein product" from sources in Alberta, company spokesperson Talia Boates said in an email.
+</P>
+<P>
+"Bacteria are the world's most efficient carbon recyclers, requiring dramatically less land and water resources per tonne of product compared to traditional agriculture," Boates said.
+</P>
+<P>
+There's also Mara Renewables, who have a marine microalgae strain from the shores of Atlantic Canada that produces omega-3 fatty acids, according to their website.
+</P>
+<P>
+For those still unsure about the idea of eating this type of protein, people should not see them as "scary little alien particles in the ocean" but simply very small and abundant plants, said Stephen O'Leary, a research officer with the National Research Council of Canada's aquatic crop and resource development centre in Halifax. 
+</P>
+<P>
+They consume carbon dioxide, produce oxygen and create sugars, fats and proteins, O'Leary said, and what's "really exciting" is humans only really know a fraction of them.
+</P>
+<P>
+With so many microbes still undiscovered, O'Leary said the possibilities are limitless.
+</P>
+<P>
+— Haley Ryan
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

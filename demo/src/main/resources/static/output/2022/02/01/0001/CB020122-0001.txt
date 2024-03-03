@@ -1,0 +1,171 @@
+<DOC>
+<DOCNO> CB020122-0001 </DOCNO>
+<DATE>
+<P>
+February 01, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Why oil and gas heating bans for new homes are a growing trend; 
+</P>
+<P>
+With growing push toward electric heating, gas industry touts carbon-neutral gas
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Vancouver and Quebec recently banned certain kinds of fossil fuel-based heating in new home construction. Similar — and, in some cases more extensive — bans are happening around the world, from Norway to New York City. The goal? To cut CO2 emissions from buildings by replacing fossil fuel burning with electric heating. But are such bans necessary? And what impact will they have on people who live in those cities? Here's a closer look.
+</P>
+<P>
+Where are fossil fuel heating bans happening in Canada so far?
+</P>
+<P>
+At least two jurisdictions have implemented recent restrictions on fossil fuel heating:
+</P>
+<P>
+Vancouver: Starting Jan. 1, 2022, equipment for space and hot water heating in new low-rise residential buildings must be zero emissions. By 2025, all new and replacement heating and hot water systems must be zero emissions.
+</P>
+<P>
+Quebec: Starting Dec. 31, 2021, oil-powered heating has been banned in new construction projects. After Dec. 31, 2023, it will be illegal to replace existing furnaces with any sort of heating system powered by fossil fuels.
+</P>
+<P>
+Why are fossil fuels for heating being banned now?
+</P>
+<P>
+It's happening now because of attempts to: 
+</P>
+<P>
+reach net-zero emissions.
+</P>
+<P>
+drastically cut methane. 
+</P>
+<P>
+Reaching net-zero emissions by 2050 is a key goal of the Paris Agreement on climate change. Canada itself has also committed to reaching net-zero emissions by 2050.
+</P>
+<P>
+During the recent United Nations COP26 climate summit in Glasgow, Canada and more than 80 other countries signed a Global Methane Pledge to cut emissions of methane — a greenhouse gas far more potent than carbon dioxide — by at least 30 per cent below 2020 levels by 2030.
+</P>
+<P>
+How would banning fossil fuel heating help Canada and the world reach net zero?
+</P>
+<P>
+In 2019, buildings were the third largest source of greenhouse gas emissions in Canada, after oil and gas and transport.
+</P>
+<P>
+Space and water heating represent about 85 per cent of residential greenhouse gas emissions and 68 per cent of commercial emissions.
+</P>
+<P>
+A 2021 report from the Canadian Institute for Climate Choices on different ways to get Canada to net zero said its modelling consistently shows "electrification of heating as a necessary part of the transition to net zero in Canada's building sector."
+</P>
+<P>
+It's a strategy endorsed by the International Energy Agency (IEA), an intergovernmental organization affiliated with the Organization for Economic Co-operation and Development that's focused on secure and sustainable energy.
+</P>
+<P>
+The IEA recommended in May that bans on new fossil fuel boilers need to start being introduced globally in 2025 and that most old buildings and all new ones must comply with zero-carbon-ready building energy codes. That's because the lifetime of heating equipment can be a couple of decades.
+</P>
+<P>
+How would banning fossil fuel heating help to cut methane emissions?
+</P>
+<P>
+Methane is emitted in the production of all fossil fuels, including coal and heavy oil, even if it isn't collected for use in the process.
+</P>
+<P>
+It's also the main component — 95 per cent — of natural gas, the source of 52 per cent of the energy used to heat Canadian homes in 2018.
+</P>
+<P>
+Chris Bataille is an associate researcher with the Institute for Sustainable Development and International Relations (IDDRI), a think-tank based in Paris, and an adjunct professor at Simon Fraser University in British Columbia who researches decarbonization of the economy.
+</P>
+<P>
+Bataille said the entire system is leaky right from the production wells to consumers' stoves and furnaces. Eliminating methane from people's homes would reduce leaks throughout the system.
+</P>
+<P>
+What is replacing fossil fuel heating?
+</P>
+<P>
+In most cases, fossil fuel combustion is being replaced with electric heating. That can include more traditional but less efficient options, such as baseboard heaters and electric furnaces. However, there has been a big push to instead choose more efficient heat pumps. The Canadian Institute for Climate Choices report found that to drive deeper emissions cuts, the switch to heat pumps "would play an essential and growing role."
+</P>
+<P>
+Are similar bans being implemented in other parts of the world?
+</P>
+<P>
+Yes. They're most widespread in Europe, which imports 90 per cent of its gas, mostly from Russia, representing a strategic vulnerability beyond climate change itself.
+</P>
+<P>
+Breaking News: The U.S. plans to arrange alternative fuel sources for Europe, in case Russia cuts off gas and crude oil supplies as tensions over Ukraine continue to rise. <a href="https://t.co/QVmQVIl697">https://t.co/QVmQVIl697</a>
+</P>
+<P>
+Some of the leaders include Denmark, which banned installation of oil-fired boilers and natural gas heating in new buildings in 2013, and is now subsidizing the electrification of older buildings, and Norway, which banned the use of oil heating in 2020 and has almost completely electrified its building heating.
+</P>
+<P>
+Meanwhile, in the United States, there are bans in dozens of municipalities, which are being tracked by S&P Global Market Intelligence. The largest is in New York City. It passed legislation in December that bans fuel-burning systems in new buildings and major renovations. The ban includes heating, hot water and cooking appliances, although there are exceptions for laundromats and commercial kitchens. It goes into effect on Dec. 31, 2023, for buildings fewer than seven storeys, and on July 1, 2027 for taller buildings.
+</P>
+<P>
+Mike Henchen is the principal of the carbon-free buildings program at RMI, a U.S.-based think-tank focused on the clean energy transition. He said such policies are popular at the municipal level in the U.S. because cities want to take climate change action, and building codes are something over which they have jurisdiction.
+</P>
+<P>
+Why is new construction being targeted?
+</P>
+<P>
+New construction is being targeted largely because electrification of a new home is cheap and relatively simple, Bataille said. He estimates it would add between $5,000 and $20,000 to the cost of a home, which is "virtually nothing" on the scale of the total average Canadian home price of $720,850.
+</P>
+<P>
+In comparison, retrofitting an older home could cost up to $100,000, he estimates.
+</P>
+<P>
+WATCH | Montreal neighbours share geothermal heat source
+</P>
+<P>
+Henchen said targeting new buildings also stops the emissions problem from getting worse by preventing the installation of new fossil fuel infrastructure. And it helps to expand the market and industry expertise for solutions such as heat pumps.
+</P>
+<P>
+What is the natural gas industry's response to bans?
+</P>
+<P>
+The industry has lobbied hard against them. There are now state laws pre-emptively outlawing municipal gas bans in close to 20 U.S. states, eliminating one option for local climate action, Henchen said.
+</P>
+<P>
+"These are certainly backed and encouraged by the gas industry, which is concerned about losing some of their market and especially some of their growth with new customers," he added.
+</P>
+<P>
+The Canadian Gas Association says it disagrees with bans on energy sources "because they take away customers' ability to choose what is best for them, based on their needs and circumstances." It told CBC's What On Earth that they also kill opportunities for developing solutions such as renewable natural gas (RNG), hydrogen and carbon capture. RNG is derived from biological sources such as food waste from plants that absorbed carbon as they grew and therefore can be theoretically carbon-neutral.
+</P>
+<P>
+Enbridge Inc. says the company sees itself as a "bridge to a cleaner energy future," and its approach is "to continue to provide people with the energy they need while taking steps to reduce the carbon content of the natural gas we distribute" through technologies such as RNG and hydrogen.
+</P>
+<P>
+FortisBC, which delivers natural gas and electricity to customers in British Columbia, successfully lobbied for Vancouver to allow an exception for renewable natural gas in its new regulations. Doug Slater, the utility's vice-president of external and Indigenous relations, said that will allow customers to gradually decarbonize using existing gas infrastructure. It aims to have 15 per cent of its gas supply from renewable sources by 2030.
+</P>
+<P>
+Are these gas bans working? And are they enough?
+</P>
+<P>
+"They definitely work in eliminating the burning of fossil fuels in new buildings," Henchen said.
+</P>
+<P>
+But both he and Bataille acknowledged that they're not enough to decarbonize cities.
+</P>
+<P>
+Henchen said governments also need to stop allowing gas companies to subsidize the expansion of gas infrastructure and the connection of new customers through existing customers' bills (something that's happening in Ontario). He said there are already proposals in Colorado and California that will require customers to pay the full cost of new gas connections.
+</P>
+<P>
+Policies are also needed to electrify existing buildings, and gas bans alone aren't the right solution, given the cost of retrofits, Bataille said. "We do need some sort of federal and provincial support for people to switch," he said.
+</P>
+<P>
+Some municipalities, such as Halton Hills, Ont., and Ithaca, N.Y., are already offering support in the form of zero-interest loans for retrofits.
+</P>
+<P>
+LISTEN | The slow build toward net-zero homes
+</P>
+<P>
+In the meantime, Bataille urges homeowners to think ahead about decarbonization of their heating systems. He suggests they look at hybrid gas and electric heat pump systems now and take the option to use renewable natural gas if the option is offered.
+</P>
+<P>
+"Those kinds of things really do help — and they help build the market in the long run."
+</P>
+<P>
+WATCH | Joe Biden promises major global cut to methane: 
+</P>
+</TEXT>
+</DOC>

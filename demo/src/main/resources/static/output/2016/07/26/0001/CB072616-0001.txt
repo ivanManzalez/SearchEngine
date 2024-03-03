@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> CB072616-0001 </DOCNO>
+<DATE>
+<P>
+July 26, 2016
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Company hopes to 'Stash' energy for consumers during peak hours; 
+</P>
+<P>
+Developer team has been approached by several power companies for pilot project to test product
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Three recent University of New Brunswick graduates have devised a way to alleviate power usage during peak hours, which would put less stress on power grids and save consumers money. 
+</P>
+<P>
+Erik Hatfield, a developer with the Stash Energy System, said other jurisdictions are already changing people differently depending on when they consume their energy.
+</P>
+<P>
+"In Nova Scotia and Ontario and 13 States power companies charge you more when you use electricity during peak times," said Hatfield. 
+</P>
+<P>
+"So what we're doing we just store energy when it's cheap and then use it when it's expensive so that people always pay the cheap rate for heating and cooling." 
+</P>
+<P>
+Hatfield said the developers have spoken with NB Power and the Crown corporation told the group they would offer rebates to customers for using their product.
+</P>
+<P>
+Picking partners
+</P>
+<P>
+The group is now choosing among several large power companies to partner with, including P.E.I.'s Summerside Electric, to begin a pilot project which would bring the power units into real-world testing.
+</P>
+<P>
+Jordan Kennie said the program runs heat pumps overnight during the so-called "off-peak" times to store the thermal energy .
+</P>
+<P>
+"Then we use that thermal energy in the morning and early evening when peak times are the highest," Kennie said.
+</P>
+<P>
+The group says their system will also work for storing energy from wind and solar sources for use on days that are cloudy or there is not enough wind to power a turbine. 
+</P>
+<P>
+The team credits their team member, Daniel Larson of Prince Edward Island with the concept. 
+</P>
+<P>
+"He'd heard on the radio they were building a power station in Charlottetown for millions that would run for just 15 minutes a day to deal with peak power times," said Kennie.
+</P>
+<P>
+"He just kind of thought that stupid, really." 
+</P>
+<P>
+Unique chemical used
+</P>
+<P>
+Kennie likened P.E.I.'s situation with that of New Brunswick's Coleson Cove Generating Station near Saint John.
+</P>
+<P>
+Coleson Cove sees minimal usage, powering up mostly to serve heavy electrical needs during extremely cold weather in winter. 
+</P>
+<P>
+"Our system uses a chemical that we've developed in order to store thermal energy from heat pump systems,"Kennie said.
+</P>
+<P>
+"Currently there are no other products doing that." 
+</P>
+<P>
+He said there are some products that use bricks to store heat from heating elements
+</P>
+<P>
+"But this heat pump method is the most energy efficient model, and much cheaper," he said.
+</P>
+<P>
+The team expects to have some units available for early adopters next year. 
+</P>
+</TEXT>
+</DOC>

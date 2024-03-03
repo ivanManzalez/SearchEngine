@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CB111523-0001 </DOCNO>
+<DATE>
+<P>
+November 15, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How heat pumps work: A visual guide; 
+</P>
+<P>
+There's a lot of talk about heat pumps. This is how they heat and cool homes
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Heat pumps are having a bit of a moment. 
+</P>
+<P>
+Once considered a novel and fringe technology, these home heating and cooling units are gaining in popularity, and have been getting enthusiastic endorsements from many government officials.
+</P>
+<P>
+Heat pump use in Canada has increased in recent years, and that shift may accelerate as a result of new federal cash to help households make the switch.
+</P>
+<P>
+Heat pumps — which use electricity and don't burn fossil fuels — are more efficient than traditional means of indoor climate control because they transfer warm and cold air rather than generate it.
+</P>
+<P>
+Here is a visual to help you better understand how they work.
+</P>
+</TEXT>
+</DOC>

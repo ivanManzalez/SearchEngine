@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> CB120420-0001 </DOCNO>
+<DATE>
+<P>
+December 04, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Building electric cars in Canada is key to reaching climate goals, recharging auto industry; 
+</P>
+<P>
+It will be hard to meet federal government's pollution targets without addressing Canada's car conundrum
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+This column is an opinion by Merran Smith and Sarah Petrevan. Smith is the executive director and Petrevan the policy director of Clean Energy Canada, a climate and clean energy program within the Morris J. Wosk Centre for Dialogue at Simon Fraser University. For more information about CBC's Opinion section, please see the FAQ.
+</P>
+<P>
+Canada has a car conundrum. Our transportation emissions are up, and our auto manufacturing sector is down. While these two challenges might sound only tangentially related, they share a common solution.
+</P>
+<P>
+Let's start with the problem. According to the International Energy Agency, Canadians drive the most polluting cars in the world. Literally, when it comes to tailpipe emissions, we take the global top spot. Over the past 20 years, carbon pollution from transportation has increased by nearly 30 per cent thanks to a growing appetite for SUVs and trucks.
+</P>
+<P>
+Over that same two-decade period, vehicle manufacturing in Canada fell by 37 per cent or more than one million vehicles a year. Once a global top-five vehicle manufacturer, Canada now doesn't even crack the top 10.
+</P>
+<P>
+So, that's the conundrum: pollution from the vehicles we drive is increasing, while the auto sector has been shifting to other shores. It's a bad news story for both our environment and our economy.
+</P>
+<P>
+But while various causes explain these challenges, a singular solution exists to overcome them both: zero-emission vehicles.
+</P>
+<P>
+Already, most Canadians lean toward an electric car for their next vehicle purchase, according to a 2019 survey, and a majority see EVs becoming mainstream soon.
+</P>
+<P>
+The problem? Most car dealerships in the country don't have a single EV available to test drive or purchase.
+</P>
+<P>
+A 2020 Transport Canada study prepared by Dunsky Energy Consulting found that waiting lists of three to six months are typical. And if you want to buy electric and Canadian, you're limited to a single plug-in option: the Chrysler Pacifica hybrid minivan.
+</P>
+<P>
+But very recently, things have started shifting into gear.
+</P>
+<P>
+An agreement between Ford Motor Co. and Unifor, Canada's largest union, will see nearly $2 billion go toward the production of five EV models in Oakville, Ont.
+</P>
+<P>
+A separate $1.5-billion deal between Unifor and Fiat Chrysler also targets EV production, creating 2,000 jobs at the latter's Windsor, Ont.-based plant.
+</P>
+<P>
+We may want to hold off on the confetti, however, as Canada still has a way to go to catch up with EV trends worldwide. Prior to these fall 2020 funding announcements, an analysis of 29 global automakers had identified $300 billion US flowing into EV development, with not a single dollar destined for Canada.
+</P>
+<P>
+Building cars isn't the whole automotive story for Canada.
+</P>
+<P>
+Quebec's Lion Electric Co. is already selling electric trucks to CN Rail and Amazon, and is North America's largest producer of electric school buses. Warren-Buffett-backed BYD is manufacturing electric buses in Ontario and delivering them to the Toronto Transit Commission. And Canada's auto parts manufacturers are leading the charge on a zero-emission concept car to showcase what Canada's supply chain can do.
+</P>
+<P>
+The opportunities also extend beyond building vehicles. Indeed, Canada has been cited as a potential competitor in the global EV battery industry.
+</P>
+<P>
+Canada is home to many of the metals and minerals needed to make EV batteries. What's more, Canadian miners can produce them with less pollution thanks to our nation's relatively clean power grid, a feature that's already caught the eye of Tesla.
+</P>
+<P>
+While Canada will ultimately chart its own course — leveraging its unique workforce and geographic strengths — there's another competitively positioned jurisdiction that might offer some inspiration. California has used regulations and rebates to become North America's EV leader in terms of adoption, while simultaneously supporting the development of an EV auto sector to meet growing demand. Today, the state is home to 275,600 EV-related jobs. Electric vehicles are its eighth-most-valuable export.
+</P>
+<P>
+The federal government recently enshrined its national pollution targets into law. But with transportation responsible for a quarter of emissions, it will be hard to meet these targets without addressing Canada's car conundrum.
+</P>
+<P>
+With a national EV rebate program, a growing network of charging stations, and a couple of promising EV production deals, Canada isn't starting at zero. But nor are we moving fast enough to win this race, according to a new report by Clean Energy Canada. Recommendations include implementing an industrial strategy and a package of policies that drive long-term investment in, and the adoption of, zero-emission vehicles.
+</P>
+<P>
+If we have the will, Canada can overcome its car conundrum by taking the wheel and steering the transportation sector in the direction of both a cleaner environment and stronger economy.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> CB060923-0002 </DOCNO>
+<DATE>
+<P>
+June 09, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's wildfires: Where they are, how much has burned and how it's changing air quality; 
+</P>
+<P>
+Tracking the fires and their effects across the country
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+For Canada, the summer of 2023 is shaping up to be the worst wildfire season in recent years.
+</P>
+<P>
+Four million hectares already burned by June 6, surpassing the annual totals for every year going back to 2016. A government forecast suggests this will continue to be a severe year.
+</P>
+<P>
+This is a look at how this year is shaping up.
+</P>
+<P>
+In the west, Alberta and B.C. are enduring wildfires that came early in the season. In the east, communities in Nova Scotia not used to the threat of wildfires were were evacuated.
+</P>
+<P>
+Here, we see all the fires currently burning in Canada and how big they are.
+</P>
+<P>
+Even those in parts of the country not facing imminent danger are seeing and breathing the effects. Smoke from fires in Quebec drifted over Ontario and down the eastern seaboard in the United States, turning our wildfire battles into an international news story.
+</P>
+<P>
+Here's a look at the latest air quality data for Canada, and a zoomed-out view of air quality across the United States.
+</P>
+</TEXT>
+</DOC>

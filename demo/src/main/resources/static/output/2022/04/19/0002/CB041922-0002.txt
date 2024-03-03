@@ -1,0 +1,177 @@
+<DOC>
+<DOCNO> CB041922-0002 </DOCNO>
+<DATE>
+<P>
+April 19, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+After seeing how gas stoves pollute homes, these researchers are ditching theirs; 
+</P>
+<P>
+Burning natural gas generates high levels of nitrogen oxides, linked to asthma in children
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Gas stoves produce more indoor air pollutants than even some scientists expect. After taking measurements, many of these researchers are switching to electric stoves — and warning the public about the health risks of cooking with gas.
+</P>
+<P>
+When Tara Kahan took pollution readings inside homes after cooking with a gas stove in 2017 and 2018, the University of Saskatchewan chemist and her colleagues were surprised by both how high the levels of nitrogen oxides were and how long they lasted.
+</P>
+<P>
+Exposure to nitrogen oxides, produced when gas is burned, is linked to respiratory problems such as asthma and decreased lung function, especially in children. For example, a 2013 meta-analysis of 41 studies found that children living in a home that used gas for cooking had a 42 per cent increased risk of having asthma.
+</P>
+<P>
+Kahan's measurements found that not only did levels of nitrogen oxide pollutants sometimes exceed Health Canada guidelines for a one-hour exposure, but the pollutants often lingered for a couple of hours.
+</P>
+<P>
+"It really took a long time to go away," said Kahan, associate professor and Canada Research Chair in Environmental Analytical Chemistry. "All of the researchers were pretty horrified."
+</P>
+<P>
+Kahan immediately applied the new knowledge to her own life.
+</P>
+<P>
+"After that, as soon as it was feasible, I switched from a gas stove to [electric] induction," she said.
+</P>
+<P>
+She's not the only one.
+</P>
+<P>
+Rob Jackson, professor of environmental sciences at Stanford University, co-authored a recent study that found gas stoves leak unexpectedly high levels of methane, a powerful greenhouse gas, even when they're off — and they generate significant levels of indoor air pollution.
+</P>
+<P>
+What he found pushed him to work on electrifying his home too. 
+</P>
+<P>
+His gas stove has an electric oven, but it doesn't seem possible to swap out just the burners. 
+</P>
+<P>
+"I am reluctant to throw away a perfectly good electric oven," he said. "But we're going to do that."
+</P>
+<P>
+The combined health and climate impacts of stoves are also starting to catch the attention of celebrity chefs, such as John Horne, Angus An and John Kung, who have become evangelists for electric induction stoves in a field where gas stoves were once considered an essential tool for anyone serious about cooking.
+</P>
+<P>
+WATCH | Why scientists and chefs  are ditching their gas stoves — and touting this alternative
+</P>
+<P>
+Health impacts of gas stoves
+</P>
+<P>
+Dr. Melissa Lem is a Vancouver family physician and president-elect of the Canadian Association of Physicians for the Environment. The group ran an ad campaign last year highlighting the negative health impacts of natural gas, including those linked to:
+</P>
+<P>
+Pollution from natural gas extraction, such as birth defects and cancer.
+</P>
+<P>
+Climate change caused by leaking methane, the main component in natural gas and a far more potent greenhouse gas than carbon dioxide. 
+</P>
+<P>
+Indoor air pollution from cooking with natural gas.
+</P>
+<P>
+Lem noted that in 2015, Health Canada issued new residential air quality guidelines for nitrogen dioxide — one of several pollutants created when cooking with a gas stove — due to its negative health impacts. 
+</P>
+<P>
+"Most gas ranges in Canada do not even come close to meeting these air quality standards," she said. "And research shows that this can harm your health, like worsening asthma … in kids" or exacerbate chronic obstructive pulmonary disease in adults.
+</P>
+<P>
+Lem added that nitrogen oxides aren't the only pollutants released when cooking on gas stoves — others include formaldehyde, nitric oxide and carbon monoxide, which can be deadly.
+</P>
+<P>
+I loved my gas stove, but two years ago I had the chance to move to induction. I took it &amp; never looked back - and never will. Why not? Because gas stoves aren't just bad for climate change, they're bad for YOU. <a href="https://t.co/wOtkIS4B7k">https://t.co/wOtkIS4B7k</a>
+</P>
+<P>
+What can be done to reduce the health risks?
+</P>
+<P>
+The experts we talked to recommend replacing your gas stove with an electric one if you can. But if that's not possible – for example, if you're a renter or can't afford a new stove — there are other things you can do to reduce your risk.
+</P>
+<P>
+Use other cooking methods. Jackson has started using his microwave more, along with a portable countertop electric induction burner. 
+</P>
+<P>
+Ventilate while cooking. "Before this study, I never turned the hood on," Jackson said, noting that studies show most people don't because they're noisy. 
+</P>
+<P>
+But he's changed his habits after seeing the pollutant measurements. "Now I always turn the hood on, and I nag my friends and family to turn the ventilation hoods on when they use the gas stove, every time." 
+</P>
+<P>
+Jackson cautioned that many hood fans don't actually vent outside — they simply run air through a filter before dumping it back into the room. "And that is problematic because those filters do not scrub noxious gases."
+</P>
+<P>
+Kahan said hood fans can help, but they only cut pollutant levels in half.
+</P>
+<P>
+She said other forms of ventilation, such as opening a window, are also a good idea when possible. 
+</P>
+<P>
+Use the back burners. More gases from the back burners are captured by your range hood fan compared to the front burners.
+</P>
+<P>
+What about other gas-burning appliances?
+</P>
+<P>
+Jackson said that while other appliances such as furnaces, water heaters and fireplaces burn gas, most — unlike stoves — are required to be vented outside.
+</P>
+<P>
+That said, there's some evidence that furnaces can also cause nitrogen oxide pollution.
+</P>
+<P>
+Michael Thomas, founder of Carbon Switch, a website focused on living sustainably, said he never worried much about having a gas stove, because it was only on for a short time each day.  But while expecting his first child, he started reading about the pollutants generated by gas stoves. That prompted him to buy and install some indoor air quality monitors in his house. He reported the results in a blog post earlier this year.
+</P>
+<P>
+Sure enough, they showed that nitrogen dioxide spiked after cooking with his gas stove. That alarmed him.
+</P>
+<P>
+But there were also spikes between midnight and 4 a.m.
+</P>
+<P>
+Thomas soon realized that's when his gas furnace was running to keep the home warm during cold nights.
+</P>
+<P>
+"And so I realized that the gas furnace was actually leaking nitrogen dioxide into our home throughout all of the vents."
+</P>
+<P>
+LISTEN | Cooking without gas: why cities are cutting methane from homes
+</P>
+<P>
+Thomas consulted an environmental epidemiologist, Josiah Kephart, who said that while individual homeowners are often told this is unusual and linked to faulty equipment, his tests have shown high levels of indoor nitrogen dioxide are the norm.
+</P>
+<P>
+"My opinion is that we just shouldn't be allowing these appliances to be installed in homes, given that they so often fail and end up ultimately creating a lot of unsafe indoor air pollution," Thomas said. 
+</P>
+<P>
+He and his wife haven't decided yet if they're going to stay long-term in their Boulder, Colo.-home, but if they do, "then the plan would be to get an induction range and cooktop and then electrify all the space heating and water heating."
+</P>
+<P>
+How worried should I be? Should I get rid of my gas stove?
+</P>
+<P>
+Jackson said he's not sure how the indoor air pollution from gas stoves compares to other sources of pollution in people's lives, such as those from highways, but it's pollution that people don't need to be exposed to.
+</P>
+<P>
+"I think it makes sense to eliminate all sources of pollution in our lives that we can, especially if there's another technology available that's just as good and is much cleaner," he said.
+</P>
+<P>
+A bonus is that going electric also cuts greenhouse gas emissions. Not only did Jackson's study find that gas stoves leak more methane than thought, but newer, more expensive stoves were no less leaky than older, cheaper ones. He suspects there's no other way to fix the problem.
+</P>
+<P>
+"I view electrification as a win for climate, but also a way to improve the air that we breathe — improve our health. And so I think it's a good idea to do that, particularly if you're a family with young children in your home."
+</P>
+<P>
+Thomas acknowledged this isn't an option for everyone, but suggested thinking about it especially if you are considering getting a new stove or building a new home.
+</P>
+<P>
+In fact, his advice is to electrify if you're replacing any gas appliances, whether it's your furnace, water heater or stove.
+</P>
+<P>
+"If you have the choice, then I think putting in a gas stove is crazy at this point, given all the research on the health impacts and the methane leaks." 
+</P>
+<P>
+WATCH | The debate over gas and induction stoves
+</P>
+</TEXT>
+</DOC>

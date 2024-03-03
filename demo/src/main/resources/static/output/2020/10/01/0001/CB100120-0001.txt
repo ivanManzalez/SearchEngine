@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> CB100120-0001 </DOCNO>
+<DATE>
+<P>
+October 01, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How to interpret COVID-19 disease models and projections; 
+</P>
+<P>
+Governments are releasing projections of how many people could die from COVID-19. But how accurate are they?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Governments have released models with dire projections about how many people could die from COVID-19 to help get people onside with physical distancing measures. But experts caution models aren't a crystal ball.
+</P>
+<P>
+What do the provincial and federal projections all mean? Here are some basics to help interpret the modelling headlines.
+</P>
+<P>
+What is a disease model?
+</P>
+<P>
+Models are mathematical representations that are often simplified to help us understand complexity, from weather forecasts to trends in the economy.
+</P>
+<P>
+Epidemiologists look at how and why a disease like COVID-19 passes from person to person to control infectious diseases.
+</P>
+<P>
+WATCH | Flattening Canada's COVID-19 curve again:  
+</P>
+<P>
+Dr. Ross Upshur, a professor in the Dalla Lana School of Public Health at the University of Toronto, said disease models are only as good as the data fed into them.
+</P>
+<P>
+Disease models rely on strong public health surveillance to identify cases of infection quickly, isolate and treat them and then carefully trace who patients have been in contact with to smother any sparks of disease transmission from igniting into a blaze.
+</P>
+<P>
+What data goes into the model?
+</P>
+<P>
+Ontario's model included cases and deaths by age group to estimate the case fatality ratio, as well as observed data from other countries.
+</P>
+<P>
+Good data exists on some aspects, such as how long people are sick if they show symptoms. Others, such as the transmission rate when someone has symptoms that are too mild to seek medical care, are less solid.
+</P>
+<P>
+What's the goal of COVID-19 disease models?
+</P>
+<P>
+Chris Bauch, a professor of epidemiology at the University of Waterloo who uses mathematical and computer models of infectious disease outbreaks, said the goal is to predict how many cases and deaths of COVID-19 could occur under different scenarios.
+</P>
+<P>
+The statistics help predict the outbreak's path, ferocity and impact as measured by the number of people sickened, hospitals overwhelmed and lives lost.
+</P>
+<P>
+What cautions should we keep in mind?
+</P>
+<P>
+The models use estimates of cases, intensive care capacity and deaths that include wide ranges.
+</P>
+<P>
+That's because they include assumptions and uncertainty, which increases the further into the future that the projections are made.
+</P>
+<P>
+Just how accurate are the models?
+</P>
+<P>
+While the accuracy varies, models of previous epidemics have helped to inform public health policy.
+</P>
+<P>
+The classic example is Dr. John Snow's map of cholera cases in London in 1866. He showed a link between the infectious disease and contaminated drinking water traced to a particular water pump.
+</P>
+<P>
+Combining different models from different researchers can be more reliable than the results of a single model.
+</P>
+<P>
+Bauch said that with time, researchers will also gain a better sense of the COVID-19 death rate and incubation period (the time between when an infection occurs and symptoms start). This will help researchers refine their models.
+</P>
+<P>
+How useful are they?
+</P>
+<P>
+Even with uncertain data, modellers could come up with useful estimates, Bauch said, such as whether the number of cases will exceed capacity in intensive care units. That's important because so many resources are scarce, such as personal protective equipment like masks, gloves and gowns as well as specialized equipment like ventilators and the highly trained healthcare professionals who know how to administer them.
+</P>
+<P>
+"Even though models aren't a crystal ball, the models are based on the best epidemiological knowledge that we have, and they indicate that physical distancing is likely having an effect and preventing more deaths than would otherwise be the case," Bauch said.
+</P>
+<P>
+What's missing?
+</P>
+<P>
+Raywat Deonandan, an epidemiologist and associate professor in the Faculty of Health Sciences at the University of Ottawa, said it's important for governments to be transparent with data models, he said, because letting the public know when to expect peak cases and deaths to occur is useful.
+</P>
+<P>
+"Citizens are part of this process. If they don't feel as though they're part of this process, they won't co-operate with doing their part," he said.
+</P>
+<P>
+He said the best ways to allow society to return to normalcy are deploying rapid, frequent, public testing at a national scale, such as what's happening  in Iceland, along with strong physical distancing measures and shuttered businesses as in the Institute for Health Metrics and Evaluation's state models.
+</P>
+<P>
+Deonandan said Canadian health officials haven't answered how long physical distancing measures will be in effect. The more lax they are, the longer it will take for the disease to get under control.
+</P>
+<P>
+Epidemiologists and infectious disease experts also caution that the effects of measures only become apparent two weeks down the road because of the lag when someone is newly infected, develops symptoms, gets tested and receives the result.
+</P>
+</TEXT>
+</DOC>

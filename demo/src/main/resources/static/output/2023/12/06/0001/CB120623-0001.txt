@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> CB120623-0001 </DOCNO>
+<DATE>
+<P>
+December 06, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+As expected, Bank of Canada holds interest rate steady at 5%; 
+</P>
+<P>
+Economists starting to think rate cuts will start happening in 2024
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Bank of Canada decided to keep its benchmark interest rate steady at five per cent.
+</P>
+<P>
+The move was widely expected, as after raising its trendsetting rate 10 times since early 2022 to slow down runaway inflation, the bank has been signalling recently that it thinks it may be nearing the end of that hiking cycle.
+</P>
+<P>
+The bank's rate influences the rate that Canadians get on things like variable-rate loans and some savings accounts.
+</P>
+<P>
+The bank raised the rate to its current level in July, but has stood still ever since, as the Canadian economy shows signs of cooling.
+</P>
+<P>
+"The slowdown in the economy is reducing inflationary pressures in a broadening range of goods and services prices," the bank said in announcing its decision.
+</P>
+<P>
+Economists who monitor the central bank think it is indeed now done with hiking, and expectations are that the bank will in fact start to cut its rate some time in 2024.
+</P>
+<P>
+In its statement, the central bank noted that the economy "stalled" in the middle quarters of this year, with GDP contracting in the third quarter and the jobless rate ticking higher from multi-decade lows.
+</P>
+<P>
+"The economy is no longer in excess demand," the bank said.
+</P>
+<P>
+Questions about future hikes
+</P>
+<P>
+Under normal circumstances, a statement like that would be a clear sign that a central bank is getting to stand on the sidelines, but the bank took great pains to note that it is in fact still willing to raise rates by even more, should the need arise.
+</P>
+<P>
+"Governing Council is still concerned about risks to the outlook for inflation and remains prepared to raise the policy rate further if needed," the bank, led by governor Tiff Macklem, said.
+</P>
+<P>
+For economist Royce Mendes with Desjardins, however, that's mostly an empty threat aimed at making sure markets don't react too forcefully in assuming cuts are coming.
+</P>
+<P>
+"Officials are probably just hesitant to prematurely declare victory in their battle with inflation," Mendes said.
+</P>
+<P>
+Despite what the bank is saying every six weeks in their policy decisions, Mendes has detected a change in the messaging from bank officials in recent weeks. 
+</P>
+<P>
+"In a recent speech, [Macklem] stated that the economy is approaching balance," Mendes said. "In central bank speak, that means higher interest rates are working as intended. He also said that interest rates look restrictive enough to bring inflation back to the two per cent target, which is a pretty clear indication that rates will be held steady."
+</P>
+</TEXT>
+</DOC>

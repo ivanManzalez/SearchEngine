@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO> CB120621-0001 </DOCNO>
+<DATE>
+<P>
+December 06, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canadian energy, health, manufacturing sectors were major targets of ransomware attacks: cyber spy agency; 
+</P>
+<P>
+2021 ransomware trend report released by Communications Security Establishment, a cyber intelligence agency
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+More than half of the known ransomware victims in Canada this year were critical infrastructure providers, according to a new threat assessment from Canada's cyber spies — and the number is likely even higher.
+</P>
+<P>
+As part of a new awareness campaign, the Communications Security Establishment (CSE), Canada's foreign signals intelligence agency, released a ransomware bulletin Monday looking at the key trends of ransomware in 2021.
+</P>
+<P>
+In its report, CSE's Cyber Centre said ransomware attacks are "brazen, sophisticated, increasing in frequency, and, for the cybercriminals, very profitable.
+</P>
+<P>
+"The impact of ransomware can be devastating, and the severity of the financial consequences related to a ransomware attack can be profound."
+</P>
+<P>
+For the first time, the agency also confirmed publicly Monday that it has used its new cyber attack powers, granted to it through legislation back in 2019.
+</P>
+<P>
+"The Communications Security Establishment Act gives CSE the legal authority to conduct cyber operations to disrupt foreign-based threats to Canada, including cybercriminals," said CSE spokesperson Evan Koronewski.
+</P>
+<P>
+"Although we cannot comment on our use of foreign cyber operations (active and defensive cyber operations) or provide operational statistics, we can confirm we have the tools we need to impose a cost on the people behind these kinds of incidents.
+</P>
+<P>
+"We can also confirm we are using these tools for such purposes, and working together with Canadian law enforcement where appropriate against cybercrime."
+</P>
+<P>
+Ransomware is a form of malware used by threat actors and criminals who encrypt files on a device then demand a ransom in exchange for decryption. Once successfully hacked, ransomware victims are often attacked multiple times.
+</P>
+<P>
+CSE said it's aware of 235 ransomware incidents against Canadian victims from Jan. 1 to Nov. 16 of this year and more than half of those targets were critical infrastructure providers, including those in the energy, health and manufacturing sectors.
+</P>
+<P>
+The number is likely higher, as the agency said most ransomware events go unreported. 
+</P>
+<P>
+"The COVID-19 pandemic has made organizations like hospitals, governments and universities more mindful of the risks tied to losing access to their networks and often feeling resigned to pay ransoms," notes the report.
+</P>
+<P>
+"Cybercriminals have taken advantage of this situation by significantly increasing the value of their ransom demands."
+</P>
+<P>
+Canadian hospitals hit
+</P>
+<P>
+Newfoundland and Labrador is still reeling after a cyber attack hit its health-care system, cancelling thousands of medical procedures ranging from chemotherapy to X-rays.
+</P>
+<P>
+Sources have told CBC the security breach is a ransomware attack, but so far government officials have not confirmed the nature of the cyberattack and will not say if they have received a ransom demand.
+</P>
+<P>
+This summer Humber River Hospital in the Toronto area was forced to shut down its IT systems in order to prevent a ransomware attack. 
+</P>
+<P>
+Staff were unable to access electronic patient records and diagnostic test results leading to long waits in the emergency department and prompting the hospital to cancel clinics and redirect some ambulances to other hospitals.
+</P>
+<P>
+CSE said it expects high-impact targeting to continue. 
+</P>
+<P>
+"We assess that ransomware operators will almost certainly continue to target large organizations with operational technology (OT) assets, including organizations in Canada, to try to extract ransom, steal intellectual property and proprietary business information, and obtain personal data about customers," it warned. 
+</P>
+<P>
+Canada is far from alone. This year has been marred by the highest ransoms and the biggest payouts around the world.
+</P>
+<P>
+Earlier this year the Colonial Pipeline, the largest fuel pipeline in the U.S., was hit by an attack attributed to the Russia-based DarkSide RaaS cybercriminal group.
+</P>
+<P>
+As a result, the company's operations were affected, resulting in record price increases, panic-buying, and gasoline shortages
+</P>
+<P>
+Ransomware operators will likely become increasingly aggressive: CSE
+</P>
+<P>
+In Canada, CSE said the estimated average cost of a data breach, which includes but is not limited to ransomware, is more than $6 million. The average price has stabilized over the past years, a trend CSE attributes to cybercriminals becoming better at tailoring their demands to what their victims are most likely to pay. 
+</P>
+<P>
+Ransomware operators will likely become increasingly aggressive in their targeting in 2022, including against critical infrastructure, warned the agency. 
+</P>
+<P>
+Part of the problem fighting ransomware is that many operators and their affiliates are based in countries with lax or non-existent laws against cybercrime, said CSE.
+</P>
+<P>
+"Mitigating the increasing risks will require concerted national efforts to improve cyber security and adopt best practices to harden critical systems, as well as co-ordinated international actions to undermine criminal infrastructure and tactics," said the report.
+</P>
+<P>
+As part of that effort, CSE, working with the RCMP, has published what they call a "playbook" that outlines steps organizations and businesses can take to protect against ransomware, and what to do if attacked.
+</P>
+<P>
+Organizations urged to implement cyber safety measures
+</P>
+<P>
+A handful of cabinet ministers have signed an open letter to Canadian organizations urging them to implement basic cyber security measures.
+</P>
+<P>
+The letter, co-signed by Defence Minister Anita Anand, Emergency Preparedness Minister Bill Blair, Public Safety Minister Marco Mendicino and International Trade Minister Mary Ng, said the federal government is working with its allies to pursue cyber threat actors and disrupt their capabilities. 
+</P>
+<P>
+"We are also assisting in the recovery of organizations compromised by ransomware and helping them to be more resilient going forward," they wrote.
+</P>
+<P>
+"Our message is clear: taking basic steps to ensure your organization's cyber security will pay swift dividends." 
+</P>
+</TEXT>
+</DOC>

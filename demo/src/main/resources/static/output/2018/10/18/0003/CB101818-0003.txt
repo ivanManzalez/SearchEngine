@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> CB101818-0003 </DOCNO>
+<DATE>
+<P>
+October 18, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Earthquake sensor network aims to give B.C. crucial seconds to prepare for the 'Big One'; 
+</P>
+<P>
+New system was put to the test with a Canada Line simulation
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A network of eight underwater sensors and 32 land-based seismic and GPS sensors on Vancouver Island is up and running and could make all the difference when a big earthquake hits.
+</P>
+<P>
+It's part of Ocean Networks Canada's early warning system for southwestern British Columbia. The research group from the University of Victoria was awarded $5 million for the venture.
+</P>
+<P>
+The system will estimate how powerful an earthquake is and issue a warning to a network of alarms across B.C. —indicating how much time before the destructive shockwaves hit.
+</P>
+<P>
+Earthquake simulation
+</P>
+<P>
+The system was put to the test recently in the Canada Line control room. It simulated a 7.8 magnitude earthquake. Staff had 38 seconds to prepare.
+</P>
+<P>
+"The first thing we'd do is get those trains to stop as close as possible to a station," explained Ron Powell, the general manager of the Canada Line.
+</P>
+<P>
+"Depending upon where they are and how much time we have, that may be very possible ... That's the safest place for trains to be. That's where all of our emergency response, our evacuations take place at those stations."
+</P>
+<P>
+Scientists are preparing for the so-called "Big One." That's the magnitude 9.0 megathrust earthquake that will happen along the Cascadia subduction zone off the coast of Vancouver Island.
+</P>
+<P>
+When it does, Ocean Networks Canada's sensors will pick up the earthquake's waves of energy at the moment they are triggered. Those sensors will then send a warning to the rest of the South Coast that will get there up to 90 seconds before the destructive shock waves arrive.
+</P>
+<P>
+Teron Moore is a business analyst with Ocean Networks Canada. 
+</P>
+<P>
+"Even a few seconds of warning is enough time to take actions like slowing down trains ... opening bay doors at firehalls or simple things like turning off stoves or getting under a table to protect yourself from falling objects."
+</P>
+<P>
+Seismologists say early-warning systems can save lives. It's been proven in quake-prone countries like Japan where the infrastructure has been in place for over a decade. Even giving people a few seconds to drop, cover and hold on is crucial considering most deaths and injuries are caused by falling objects.
+</P>
+<P>
+"For me, this is most meaningful product we can deliver scientifically," said Kate Moran the president of Ocean Networks Canada. "Because it really directly saves lives. And infrastructure. And it sets the stage for doing more with resiliency."
+</P>
+<P>
+Working together
+</P>
+<P>
+Different groups have been working for years on an earthquake early warning systems in B.C.: the government, private sector, universities, as well as groups in the United States, who share fault lines. Ocean Networks Canada says it is working to bring all of these groups together, as part of one cohesive network.
+</P>
+<P>
+On March 31, 2019, it says the system will be installed, tested and delivered to Emergency Management B.C., ready for other major infrastructure — and eventually every individual — to get an early warning and figure out what to do with those few precious seconds.
+</P>
+<P>
+With files from Johanna Wagstaffe 
+</P>
+<P>
+Read more from CBC British Columbia
+</P>
+</TEXT>
+</DOC>

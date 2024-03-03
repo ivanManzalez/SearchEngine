@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> CB041322-0001 </DOCNO>
+<DATE>
+<P>
+April 13, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Public problem, private solution: Warehouse biomass project reduces N.W.T. carbon footprint; 
+</P>
+<P>
+System reduced government warehouse emissions by 145 tonnes in 1st year
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A wood pellet heating system that warms four buildings in Yellowknife has, after a year of operation, helped its biggest client — the territorial government — cut oil-use by 92 per cent. 
+</P>
+<P>
+J&R Mechanical, a local plumbing and heating contractor, turned the 390-kilowatt system on in mid-March last year. It heats two of the business's buildings and a vet clinic. But half of its capacity goes into heating one structure: the territorial government's central warehouse on Byrne Road.
+</P>
+<P>
+Remi Gervais, the territory's manager of energy policy and programs, said the government would, on average, use 60,000 litres of oil to heat the space for a year. Because it was connected to the biomass heating system instead, he said that figure had dropped to 4,800 litres. 
+</P>
+<P>
+The Woolgar District Heating System also reduced the warehouse's greenhouse gas emissions by 145 tonnes of carbon equivalent, he said — slightly less than the 160 tonne reduction that had been expected. The territory expects those reductions to increase, as more customers are added to the system.
+</P>
+<P>
+"It's not necessarily something that is the silver bullet," said Gervais, noting that wood pellet heating systems don't work for every space. But, he said, it's one of the "most reliable and cost effective" ways the territory can reduce greenhouse gas emissions. 
+</P>
+<P>
+Profit in the years ahead
+</P>
+<P>
+J&R Mechanical entered the biomass business in 2019 when it established Enterprise Pellets — a separate company that supplies pellets, installs residential and commercial pellet boilers, sells heat, and operates district heating plants. 
+</P>
+<P>
+The Woolgar District Heating System is behind their office on Woolgar Avenue and it has two large components: a shipping container in which the boiler is stored and a silo from which it draws wood pellets. 
+</P>
+<P>
+At the front of the boiler there is a tiny window — roughly an inch in diameter — which offers a peek into a blazing combustion chamber that can, according to J&R Mechanical owner Ken Miller, reach temperatures of 900 C. 
+</P>
+<P>
+As its name suggests, the flames heat water, and that water travels to neighbouring buildings through a series of underground pipes. The heat from that water is then transferred into each building's space heating system, said Miller. 
+</P>
+<P>
+Miller said the entire project — from the design to the repaving of a parking lot — cost $1.1 million. 
+</P>
+<P>
+He said the containerized boiler was the bulk of the cost, in part because it had to be shipped from Europe, assembled locally, and built to Canadian standards. 
+</P>
+<P>
+"It's not hugely profitable," said Miller. At least not yet. 
+</P>
+<P>
+The territory awarded J&R Mechanical $274,000 for the project under a greenhouse grant program. Miller said the company paid the remaining 75 per cent of the cost, and that the business plan was to pay off that capital investment in four to five years. 
+</P>
+<P>
+"It carries its own. So it's not costing us money to operate over time," he said. "We'll eventually pay that capital investment and it'll become more profitable." 
+</P>
+<P>
+Miller said it has the capacity to heat another one or two buildings in the area, and if there's more interest — they might upgrade it. 
+</P>
+<P>
+How it's better
+</P>
+<P>
+The driving forces behind interest in biomass heating is that it saves money and reduces greenhouse gas emissions, said both Miller and Gervais. 
+</P>
+<P>
+Miller said smoke from the wood pellets, which come from Alberta, contains water vapour and carbon dioxide that would have been released into the atmosphere during a tree's decay, if it hadn't been cut down and processed. Sometimes the smoke can also contain ash, if the system isn't properly maintained, he said. 
+</P>
+<P>
+"They're more efficient and technically they burn the fuel better than a campfire." 
+</P>
+<P>
+Because the carbon comes from a "young, organic source," Gervais said it is counted differently — as per Environment Canada and Intergovernmental Panel on Climate Change (IPCC) guidelines — than carbon that comes from fossil fuels. 
+</P>
+<P>
+In an email to CBC News, a spokesperson for the territory's department of infrastructure wouldn't say how much it's spending on the heating contract, but that the price of heat was close to the cost of heating oil. The goal of the contract, he said, was to both reduce emissions and promote the local economy. 
+</P>
+<P>
+Using bulk wood pellets, however, is approximately 70 per cent cheaper than using heating oil at $1.50 a litre, he said. 
+</P>
+<P>
+Gervais also pointed out that pellets are a "fairly dense" type of fuel, meaning they can be shipped to remote N.W.T. communities and still be cost effective. 
+</P>
+<P>
+N.W.T. a 'leader' in biomass heating
+</P>
+<P>
+The territory said the first place it installed an external wood pellet heating system was at the North Slave Correctional Facility in Yellowknife in 2006.
+</P>
+<P>
+Since then, it's set up more than 40 of them. In the past few years, there have been installations at Chief Sunrise School on the Kátł'odeeche First Nation, a territorial lab and warehouse in Fort Simpson, the Woman's Territorial Corrections Centre in Fort Smith and the Inuvik Territorial Hospital.
+</P>
+<P>
+According to the territory's most recent energy initiatives report, all of those systems reduced emissions by 11.7 kilotonnes in the 2020-2021 fiscal year. The territory generated 1,377 kilotonnes of carbon dioxide equivalent in 2019, and has to reduce its emissions by 283 kilotonnes in order to reach its reduction goals.
+</P>
+<P>
+The report says the N.W.T. has "become a national leader" in heating space with biomass. It also says wood pellets account for 36 per cent of all of the territorial government's heating fuel supply.
+</P>
+</TEXT>
+</DOC>

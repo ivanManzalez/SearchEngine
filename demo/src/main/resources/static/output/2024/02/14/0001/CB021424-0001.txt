@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> CB021424-0001 </DOCNO>
+<DATE>
+<P>
+February 14, 2024
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Rent hits another record high in January as average asking price reaches $2,196; 
+</P>
+<P>
+Highest jump was in Edmonton, with prices up 17% since last year
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The average asking price for rent in Canada reached $2,196 in January, a 10 per cent increase from this time last year — marking another record high amid a deepening rental crisis.
+</P>
+<P>
+According to data released Wednesday by Rentals.ca and market research firm Urbanation, the average asking price of rent went up by 20 per cent (or $373 per month) compared to rental prices from January 2020, two months before COVID-19 pandemic lockdowns began.
+</P>
+<P>
+Rent prices soared last year as supply struggled to keep up with demand, leading to the lowest national vacancy rate on record since the Canada Mortgage and Housing Corp. began tracking that data in 1988.
+</P>
+<P>
+While prices are rising across the country overall, the picture differs between markets.
+</P>
+<P>
+While Vancouver is still the most expensive city for renters in Canada, rents in Vancouver fell by three per cent in January compared to last year.
+</P>
+<P>
+Edmonton's rental prices grew at the fastest rate, meanwhile, averaging $1,479 for purpose-built and condo rentals — a 17.1 per cent increase from this time last year. Calgary's rents were up by 12.8 per cent since last year, for an average price of $2,047.
+</P>
+<P>
+The cost of a one-bedroom rental also continued to increase, with annual growth of 12.6 per cent in January.
+</P>
+<P>
+Vancouver had the highest average asking price for one-bedrooms at $2,683, with Burnaby, B.C., close behind at an average asking price of $2,551, followed by Toronto at $2,511. Saskatoon was the least expensive city for a one-bedroom rental, with an average asking price of $1,192.
+</P>
+<P>
+Across four provinces — Alberta, B.C., Ontario and Quebec — the average asking rent for living spaces shared with a roommate went up by 18.5 per cent annually to $1,010 in January.
+</P>
+<P>
+The CMHC said in a report last month the vacancy rate for purpose-built rental apartments sat at 1.5 per cent during the first two weeks of October 2023, when it conducted its annual survey.
+</P>
+<P>
+That was down from 1.9 per cent a year earlier, which at the time was the lowest national vacancy rate in more than two decades.
+</P>
+</TEXT>
+</DOC>

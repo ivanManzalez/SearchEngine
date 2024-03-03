@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB012219-0001 </DOCNO>
+<DATE>
+<P>
+January 22, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's 1st geothermal plant is being built in Sask., but why hasn't the industry taken off in Alberta?; 
+</P>
+<P>
+Regulatory framework necessary to help industry, says Canada West Foundation
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada's first geothermal power plant is under construction in Saskatchewan, and the $50-million facility will power about 5,000 homes and offset 27,000 tonnes of carbon dioxide per year — taking the equivalent of 7,400 cars of yearly emissions out of the atmosphere.
+</P>
+<P>
+But in Alberta, despite its strong geothermal potential and energy sector expertise, the renewable power source has yet to take off, possibly due to the province's complex regulatory framework, according to one think tank.
+</P>
+<P>
+"What's important is providing some certainty to developers," said Colleen Collins, vice-president of the Canada West Foundation.
+</P>
+<P>
+Collins said there's no geothermal regulatory framework in the province, meaning everything from the resource itself to drilling rights are governed under different, confusing sets of rules.
+</P>
+<P>
+"I think once we get the ground rules set, I think what we'll see is we have a very competitive electricity market."
+</P>
+<P>
+Geothermal energy is obtained by drilling deep wells to access hot temperatures in the earth to boil water and create steam, which is used to power turbines.
+</P>
+<P>
+With carbon pricing in effect, it could become a much more attractive alternative to coal or natural gas, and one that would only become cheaper after an initial investment in technology because once it's up and running, costs are low, Collins said. And, unlike solar and wind power, it's always on.
+</P>
+<P>
+"It's a fantastic resource. Of course it's expensive in the beginning, like anything else," she said. 
+</P>
+<P>
+A report from the Canada West Foundation published last year suggests that clarifying the licensing process and reviewing the rules that govern small plants would be good steps toward building a geothermal energy industry in Alberta.
+</P>
+<P>
+"With its existing oil and gas industry and significant accompanying technical expertise relevant to geothermal drilling, the province is particularly well-positioned to take advantage and develop a geothermal industry," the report reads.
+</P>
+<P>
+"However, Alberta's regulatory environment is not yet adapted for both geothermal development and distributed electricity production."
+</P>
+<P>
+Mike McKinnon, a spokesperson for the Alberta Energy Minister's office, said new regulations governing small-scale and community generation went into effect Jan. He says the government is working on developing a long-term policy.
+</P>
+<P>
+"We're looking at ways to help get shovels in the ground on more immediate opportunities to create new jobs through private investment in geothermal developments while also developing a long-term policy, and we expect to have updates throughout 2019," the emailed statement read.
+</P>
+<P>
+Oil and geothermal industries complement each other
+</P>
+<P>
+Collins said getting the right regulatory framework in place would be worthwhile as the oil and gas and geothermal industries complement each other. Oil wells already have heat maps of the ground, and there's significant knowledge of drilling in the province.
+</P>
+<P>
+University of Alberta research scientist Jonathan Banks agrees geothermal is a viable option for Alberta, saying it could power up to 600,000 single-family homes.
+</P>
+<P>
+"Typically around the world temperatures we'd like to see for electricity production for geothermal energy are around 120 C. We have a lot of 120 C water in the western part of the province," Banks, the director of the university's geothermal research program, said.
+</P>
+<P>
+"Also, because it's so cold in Alberta in the wintertime we think we can lower that temperature threshold down to 100 C, which opens up more in the areas around Edmonton, Calgary and Red Deer."
+</P>
+<P>
+T.M. Gunderson, one of the founders of geothermal company Epoch Energy, said he thinks public funds would be necessary to get Alberta's first geothermal plant up and running, saying a pilot well could cost more than $10 million.
+</P>
+<P>
+"It is still a high-risk project until the project is de-risked through a pilot well."
+</P>
+</TEXT>
+</DOC>

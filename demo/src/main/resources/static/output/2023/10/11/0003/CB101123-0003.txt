@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> CB101123-0003 </DOCNO>
+<DATE>
+<P>
+October 11, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+N.S. abandons Atlantic Loop, will increase wind and solar energy projects for green electricity; 
+</P>
+<P>
+New clean energy plan  adds 30 per cent more wind, five per cent new solar
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Nova Scotia is abandoning the proposed Atlantic Loop in its plan to decarbonize its electrical grid by 2030, Natural Resources and Renewables Minister Tory Rushton announced Wednesday.
+</P>
+<P>
+The province unveiled its clean power plan calling for 30 per cent more wind power and five per cent more solar energy in its power grid. Nova Scotia's plan relies on continued imports of hydroelectricity from the Muskrat Falls project in Labrador via the Emera-owned Maritime Link.
+</P>
+<P>
+Right now Nova Scotia generates 60 per cent of its electricity by burning fossil fuels, mostly coal. Nova Scotia Power must close its coal plants by 2030 when 80 per cent of electricity must come from renewable sources in order reduce greenhouse gas emissions causing climate changes.
+</P>
+<P>
+The clean power plan calls for an additional 1,000 megawatts of onshore wind by 2030 which would then generate 50 per cent of the the province's electricity.    
+</P>
+<P>
+"We're taking the things already know and can capitalize on while we build them here in Nova Scotia," said Rushton, "More importantly, we're doing it at a lower rate so the ratepayers of Nova Scotia aren't going to bear the brunt of a piece of equipment that's designed and built and staying in Quebec."
+</P>
+<P>
+The province says it can meet its green energy targets without importing hydro from Quebec through the Atlantic loop. It would have brought hydroelectric power from Quebec into New Brunswick and Nova Scotia via upgraded transmission links. But the government said the cost is prohibitive, jumping to $9 billion from nearly $3 billion three years ago with no guarantee of a secure supply of power from Quebec.
+</P>
+<P>
+"The loop is not viable for 2030. It is not necessary to achieve our goal," said David Miller, the provincial clean energy director. 
+</P>
+<P>
+Miller said the cost of $250 to $300 per megawatt hour was five times higher than domestic wind supply.
+</P>
+<P>
+Some of the provincial plan includes three new battery storage sites and expanding the transmission link with New Brunswick. Both were Nova Scotia Power projects paused by the company after the Houston government imposed a cap on the utility's rate increased in the fall of 2022.
+</P>
+<P>
+The province said building the 345-kilovolt transmission line between Truro, N.S., and Salisbury, N.B., and an extension to the Point Lepreau Nuclear Generating Station would enable greater access to energy markets.
+</P>
+<P>
+Miller says Nova Scotia Power has revived both.
+</P>
+<P>
+Nova Scotia Power did not comment on the new plan, but Rushton spoke for the company.
+</P>
+<P>
+"All indications I've had is Nova Scotia Power is on board for what is taking place here today," he said.
+</P>
+<P>
+Province still moving too slow, says former Liberal premier
+</P>
+<P>
+Former Liberal premier and opposition MLA Iain Rankin said Wednesday that Nova Scotia is still moving too slowly if it hopes to meet its goal of decarbonizing the grid. 
+</P>
+<P>
+He said he supports the plan to add new wind and solar powered energy to the system, but that he's unconvinced the province will be able to decommission all of its remaining coal plants by 2030.
+</P>
+<P>
+"It should have started on Day 1 and not two years in," he said. "The plan previously when we were in government was to close five of the eight coal plants by 2025, so when I don't see one coal plant closed and three are delayed, I don't have confidence that eight of them will be closed by 2030."
+</P>
+<P>
+He also questioned how the province will pay for the new plan without increased support from the federal government. 
+</P>
+<P>
+Kings–Hants MP Kody Blois said Wednesday that he expects the federal government will make a contribution and that he will be pushing for it. 
+</P>
+<P>
+In June, Premier Tim Houston claimed the Atlantic Loop had the potential to bankrupt the province, but the feds disagreed, arguing it was "least costly option for households" as the province worked to get off coal. 
+</P>
+<P>
+Ottawa defends promotion of Atlantic Loop solution 
+</P>
+<P>
+On Thursday, federal Natural Resources Minister Jonathan Wilkinson responded to Nova Scotia's clean power plan calling it a "near term" solution to greening the grid.
+</P>
+<P>
+The statement pointedly notes the Atlantic Loop was proposed by provincial premiers.
+</P>
+<P>
+"For this reason, the federal government tabled a generous offer of targeted federal support to advance the Atlantic Loop that would help Nova Scotia and New Brunswick to transition away from coal and decarbonize their electricity grids at a good value for ratepayers. This offer remains on the table," Wilkinson said in a statement to CBC News.
+</P>
+<P>
+"Nova Scotia and New Brunswick have now signaled their intent to phase out coal and decarbonize their electricity systems by focusing near-term investments on the first phase of the Atlantic Loop — the reliability intertie [transmission lines] between their two provinces, as well as a significant build out of renewable generation capacity."
+</P>
+<P>
+Wilkinson did not commit federal funding to the transmission lines saying more analysis will be needed first. 
+</P>
+</TEXT>
+</DOC>

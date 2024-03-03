@@ -1,0 +1,150 @@
+<DOC>
+<DOCNO> CB121117-0001 </DOCNO>
+<DATE>
+<P>
+December 11, 2017
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How Canadians are constructing North America's biggest green buildings; 
+</P>
+<P>
+University of Toronto residence and Vancouver highrises will take passive house design to new scale
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+In January, tenants will move into a six-storey Vancouver apartment building designed to be so energy efficient, you could heat each bedroom with a 100-watt light bulb.
+</P>
+<P>
+Boasting a total of 85 studio, one- and two-bedroom units, The Heights at 388 Skeena St. will be the largest "passive house" building in Canada.
+</P>
+<P>
+But it won't hold that distinction for long. Others are under construction and many more are at the rezoning stage, including a residence that will house 750 students at the University of Toronto's Scarborough campus and two 40-plus highrise towers in Vancouver that aim be the tallest passive house buildings in the world.
+</P>
+<P>
+Passive houses are green buildings constructed using a set of international design principles and standards that allow them to use up to 90 per cent less energy for heating and cooling than conventional buildings — and produce far fewer greenhouse gas emissions.
+</P>
+<P>
+That's of interest to Canadian cities that want to meet their greenhouse gas reduction targets and ultimately Canada's commitment to cutting its emissions to 30 per cent below 2005 levels as one of the 197 countries that signed onto the 2015 Paris climate change accord.
+</P>
+<P>
+According to the most recent report from the Intergovernmental Panel on Climate Change, buildings generate about 20 per cent of global greenhouse gas emissions linked to human-caused climate change, and 47 per cent of all indirect emissions from electricity and heat production.
+</P>
+<P>
+In cities such as Toronto and Vancouver, buildings are the biggest generator of greenhouse gases, accounting for 53 and 56 per cent, respectively, of municipal emissions in 2014. Both cities plan to eliminate greenhouse gas emissions from new buildings by 2030.
+</P>
+<P>
+While most passive houses in Canada so far have been single-family homes, that's about to change.
+</P>
+<P>
+'Not rocket science'
+</P>
+<P>
+It's possible to scale passive house design up to much bigger buildings, say architects and builders who are doing just that.
+</P>
+<P>
+"It's not easy, but it's also not rocket science," says Scott Kennedy, principal of Cornerstone Architecture, which designed The Heights for Vancouver-based developer 8th Avenue.
+</P>
+<P>
+Passive houses are called that because they're generally designed to stay at a comfortable temperature without "active" heating and cooling like furnaces and air conditioners.
+</P>
+<P>
+To stay comfortably warm or cool, they rely on:
+</P>
+<P>
+The design also eliminates materials and structures that transfer heat between the interior and exterior of the building. For example, insulating fibreglass clips may replace heat-conducting metal screws in order to attach siding.
+</P>
+<P>
+Comfort, fresh air
+</P>
+<P>
+Kennedy says energy efficiency isn't the only benefit.
+</P>
+<P>
+"The big story is you're living in a more comfortable building, you're living in a building without drafts," he said. "It'll survive a power outage without getting cold and it has fresh air in it 24 hours a day."
+</P>
+<P>
+About 2,000 passive houses have been built across Canada so far, mostly in the past five years, says Passive House Canada, a non-profit group that educates builders and designers. Kennedy is on its board as its past chair.
+</P>
+<P>
+The first multi-storey apartment building on the scale of about 40 units was completed last year in Ottawa by social housing provider Salus Ottawa Corp.
+</P>
+<P>
+Other affordable housing providers have followed, including Hamilton-based Indwell. Graham Cubitt, the company's director of projects and development, shared his experiences at a talk at the IIDEX Buildings Show in Toronto in late November.
+</P>
+<P>
+Indwell, with Invizij Architects, has nearly completed two passive house building complexes that will each have about 50 units for people with mental and physical disabilities. It has started working on a third in Woodstock, Ont.
+</P>
+<P>
+One issue the developer has faced has been skepticism from authorities about unconventional building methods. The projects all begin with double the conventional amount of insulation under the concrete slab floor.
+</P>
+<P>
+"When you start putting down eight inches, everyone kind of questions your sanity," Cubitt recalled in his talk, adding that Indwell had to bring in structural engineers to check the site over.
+</P>
+<P>
+'The heat is already inside'
+</P>
+<P>
+New challenges arise when you scale up to even bigger buildings, like the University of Toronto's Scarborough residence.
+</P>
+<P>
+"This would be one of the biggest in the world — definitely the biggest in North America right now," says Deborah Byrne, a passive house designer for Kearns Mancini Architects. Byrne and her firm conducted a recent study to show it's possible to design such a huge residence packed with students as a functioning passive house.
+</P>
+<P>
+The design it came up with includes an eight-storey tower and a 10-storey tower, connected at the bottom by a black podium containing a huge dining hall and commercial kitchen, along with stores and student common areas.
+</P>
+<P>
+The final design and build team will be chosen from a competition in January 2018. Construction will start in February and the first students are scheduled to move in in September 2020.
+</P>
+<P>
+Byrne, who is the chair of the board for Passive House Canada, said while small passive houses rely on sunlight and a south-facing orientation to keep warm, that's not a problem for big buildings: "The heating is already inside."
+</P>
+<P>
+In the U of T residence, heat will be generated by 750 students, 750 bar fridges, hundreds of hot showers each morning and a commercial kitchen cooking about 1,000 meals three times a day, along with hundreds of appliances like computers, hair dryers and laundry machines.
+</P>
+<P>
+The upside is that passive highrises can be built anywhere, without worrying about their access to direct sun exposure, and don't need to be insulated as heavily as single-family homes.
+</P>
+<P>
+But they're more of a challenge to cool. Byrne and her team have proposed cooling the U of T residence using a geothermal system.
+</P>
+<P>
+'A doable form'
+</P>
+<P>
+In Vancouver, developers are planning something even bigger. Hong Kong-based Asia Standard and Vancouver-based Landa Global Properties are applying to rezone a property at 1400 Alberni Street for two passive highrise towers, one 43 storeys and the other 48, containing about 360 condominium units and 130 rental apartments.
+</P>
+<P>
+Eesmyal Santos-Brault, CEO of green building consulting firm Recollective, has been hired as the project's passive house and sustainability consultant. He says the building is in the early stages of design, but models show it can meet passive house standards.
+</P>
+<P>
+He notes that a 26-storey highrise student residence has already been built by Cornell University in New York: "We know the tower form is a doable form."
+</P>
+<P>
+Passive house design is so new in Canada that a common problem for builders of large buildings is sourcing passive house-rated materials and equipment, like enough triple-glazed windows for a large, multi-storey building, insulating fire doors that seal tightly or efficient heat-recovery ventilation systems suitable for either very large buildings or very small apartments.
+</P>
+<P>
+Extra design time is also needed to tackle some of the unique challenges of big buildings, such as elevator shafts that go down to a cold parkade.
+</P>
+<P>
+The builders and designers all anticipate that once they've figured things out with their first projects, passive buildings will take the same amount of time to design as conventional buildings.
+</P>
+<P>
+So far, all teams have had to offer training to their contractors.
+</P>
+<P>
+Since there's no one in Vancouver with experience building concrete passive house projects, Santos-Brault says the developers of 1400 Alberni plan to bring in mentors from Europe and the U.S.
+</P>
+<P>
+"This is a pretty risky thing," Santos-Brault says. "We don't want to screw it up."
+</P>
+<P>
+But he's excited about the project, confident it will succeed and thinks the developers will be able to charge a premium to recover the extra cost of building to passive house standards (Kennedy says that is typically three to 15 per cent).
+</P>
+<P>
+"If we can nail the passive house tower," Santos-Brault adds, "and show hey, this can work, this is sellable, this can be done within the market prices, then we'll be able to export this knowledge around the world."
+</P>
+</TEXT>
+</DOC>

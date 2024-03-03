@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> CB120423-0003 </DOCNO>
+<DATE>
+<P>
+December 04, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+What would it take for Canada to hit its climate targets?; 
+</P>
+<P>
+To achieve its goals, Canada needs steep emissions cuts in the oil and gas sector
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canadians received a jarring reality check on Tuesday when the environment commissioner released his audit of the federal government's emissions reduction plan.
+</P>
+<P>
+One of the negative nuggets emerging from Environment Commissioner Jerry DeMarco's report is the fact that Canada is on track for a 34 per cent reduction in carbon emissions by 2030 — not the 40 per cent reduction promised by Prime Minister Justin Trudeau.
+</P>
+<P>
+One climate policy researcher said that in order to fill that gap, the federal government needs to redouble its focus on critical sectors, mainly oil and gas.
+</P>
+<P>
+The environment commissioner has not independently verified Ottawa's modelling, and the audit expressed concerns about what it called the government's "overly optimistic assumptions."
+</P>
+<P>
+The independent Canadian Climate Institute conducted emissions forecasting in 2022, after the government released its emissions reduction plan.
+</P>
+<P>
+This week on Cross Country Checkup, our Ask Me Anything segment focuses on heat pumps and whether they're an affordable and sustainable option for you. Fill out the details on this form to get your questions in early.
+</P>
+<P>
+The institute's independent assessment says that if you consider all of the policies included in that plan, there's a path to hitting the government's target.
+</P>
+<P>
+Anna Kanduth, a director at the Canadian Climate Institute, said that based on Ottawa's modelling and the institute's analysis, Canadians can feel reasonably confident that the government is making progress on hitting its climate targets.
+</P>
+<P>
+Environment Canada's modelling forecasts the country is on track to achieve emissions reductions. The department says that under the previous Conservative government, Canada was set to overshoot its climate targets and on a path to increase emissions above 2005 levels.
+</P>
+<P>
+Kanduth said the climate institute's modelling suggests that in order to maintain that momentum, Canada would need to implement Ottawa's net-zero clean electricity standards and a zero-emissions automotive sales mandate to boost the number of electric vehicles on the road.
+</P>
+<P>
+"I think there is hard work ahead to do, and I think that should be the focus," Kanduth said. "It's not on throwing our hands up in the air and saying it can't be done."
+</P>
+<P>
+In addition to those measures, Kanduth said, emissions from the oil and gas sector must be a focus for industry and federal and provincial governments.
+</P>
+<P>
+The climate institute's modelling shows that stricter methane regulations and a hard enough oil and gas emissions cap could help Canada achieve those reductions.
+</P>
+<P>
+Environment Minister Steven Guilbeault said as much at a recent net-zero conference hosted by the Canadian Climate Institute and the government-appointed Net Zero Advisory Body.
+</P>
+<P>
+"We can't get to our 2030 targets without an oil and gas cap," Guilbeault said during an armchair discussion.
+</P>
+<P>
+Pathways Alliance, which represents some of the largest oil and gas companies operating in Canada, agrees that a cap should be placed on the industry's emissions. But it has concerns about how low that lid might be.
+</P>
+<P>
+Companies that make up the alliance have plans to reduce their emissions annually by 22 megatonnes below what they would have been in 2030, and to increase those cuts annually until they achieve net zero in 2050.
+</P>
+<P>
+The federal government's Emissions Reduction Plan calls for the oil and gas sector to cut its emissions by 42 per cent below 2019 levels by 2030.
+</P>
+<P>
+Pathways Alliance says those levels are unachievable in that time period and, if applied to the oilsands, would amount to a cut of about 35 megatonnes without accounting for production growth.
+</P>
+<P>
+"The issue is not whether there should be a cap. It's what a cap should look like," said the organization's vice-president, Mark Cameron.
+</P>
+<P>
+"Can we absorb a cap of 42 per cent reduction from 2019 levels? No. That would require shutting in a million or two million barrels per day of production."
+</P>
+<P>
+Buildings make up another major source of emissions. Greenhouse gas emissions from buildings accounted for 13 per cent of Canada's total emissions in 2021 — about 87 megatonnes — making it the third-highest source of emissions after oil and gas production and transportation.
+</P>
+<P>
+Canada has vowed in its emissions reduction plan to slash emissions from buildings by 37 per cent by 2030 and achieve net zero by 2050. Ottawa is currently developing a green buildings strategy.
+</P>
+<P>
+Brendan Haley is the director of policy research at Efficiency Canada, an advocacy and research centre at Carleton University in Ottawa. He said he believes governments could achieve those reductions through some quick wins.
+</P>
+<P>
+For example, he said, the federal government could require that Canadians buy heat pumps instead of air conditioners. And the provinces and territories need to ensure that every new home and building constructed is highly energy efficient and well insulated, he said.
+</P>
+<P>
+"That's exactly why we need ... some very concrete policies right now in the next year," Haley said.
+</P>
+</TEXT>
+</DOC>

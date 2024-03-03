@@ -1,0 +1,180 @@
+<DOC>
+<DOCNO> CB030821-0001 </DOCNO>
+<DATE>
+<P>
+March 08, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Gravity power? How to store wind, solar energy without batteries; 
+</P>
+<P>
+Also: Comparing the waste of electric and gas-powered vehicles
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+Gravity power? How to store wind, solar energy without batteries
+</P>
+<P>
+One of the challenges in the shift to clean energy is that wind and solar power generation produces electricity only when the wind is blowing and the sun is shining, which doesn't necessarily coincide with when we need the most electricity.
+</P>
+<P>
+That's one of the reasons the International Energy Agency considers ramping up energy storage technologies to be a key part of a global energy strategy to keep global warming below 2 C, as the Paris Agreement demands.
+</P>
+<P>
+Grid-related energy storage was projected to increase 15-fold between 2019 and 2030, to about 160 gigawatt hours worldwide, according to a recent U.S. Department of Energy report.
+</P>
+<P>
+Lithium-ion batteries have become the technology of choice for new installations, thanks to falling prices and the fact that they can be installed just about anywhere. But batteries aren't the only option. 
+</P>
+<P>
+Here's a look at how the energy industry is turning to water and earth to help wind and the sun power a clean grid.
+</P>
+<P>
+Pumped hydroelectric storage
+</P>
+<P>
+While batteries dominate new installations, most existing storage capacity is actually pumped hydro, a technology developed in the 1920s. It uses surplus power to pump water up into a reservoir. When you need the power, you let the water run down through some turbines that generate electricity, just like you do with conventional hydropower. 
+</P>
+<P>
+Pumped hydro is generally cheaper and higher-capacity than other kinds of storage. It's also 80 per cent efficient and can make use of existing hydroelectric infrastructure, enabling the expansion of green energy in places like Quebec.
+</P>
+<P>
+Underground pumped storage hydropower
+</P>
+<P>
+A downside of pumped hydro is that it can be difficult to find a suitable location and build there. So some projects are now being developed that store water underground.
+</P>
+<P>
+One strategy is to make use of existing underground infrastructure. For example, the Elmhurst Quarry Pumped Storage Project in Illinois plans to use an abandoned mine near Chicago.
+</P>
+<P>
+Goleta, Calif.-based Gravity Power is building a one-megawatt demonstration plant in Germany where a piston is suspended in a water-filled shaft. The pumped water pushes the piston up for storage. Later, the piston pushes the water through a turbine to release the energy. The company says it takes up so little space that it could be installed in the middle of cities. Germany-based New Energy Let's Go is working on a similar technology. 
+</P>
+<P>
+Houston-based Quidnet Energy has developed a technology called geomechanical pumped storage, which stores the water between layers of shale rock and can be installed, say, underneath farm fields. It has signed a contract to build a two-megawatt demonstration in New York state. Emissions Reductions Alberta also lists a demonstration in Brooks, southeast of Calgary.
+</P>
+<P>
+Gravity storage
+</P>
+<P>
+Traditional pumped hydro relies on gravity to store and release energy. Gravity storage is a similar concept — but without the water. Instead, it relies on raising and lowering giant bricks or slabs of rock. Companies developing the technology say that could allow them to be built almost anywhere. 
+</P>
+<P>
+Two projects are expected to go online soon. Lugano, Switzerland-based Energy Vault completed a 35-megawatt-hour demonstration plant in that country last year that is undergoing final testing (see photo above). Meanwhile, Gravitricity, based in Scotland, uses cables to suspend weights of up to 5,000 tonnes in a deep shaft. A 250-kilowatt demonstration is being built in Edinburgh and is scheduled to be completed this year.
+</P>
+<P>
+Stay tuned. In one of our upcoming issues, we'll look at a few other options for storing energy without batteries.
+</P>
+<P>
+— Emily Chung
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+J.R. Roy wrote in to address a topic that recently appeared in the newsletter and on the CBC Radio show: how climate change is melting ice roads in the North. 
+</P>
+<P>
+"I recently listened to [host] Laura Lynch on the program What on Earth [and] she spoke at length about ice roads and the community problems global warming has been creating. The entire time I was waiting for someone to mention solar roadways. They're smart, they collect electricity (that would help the communities), they are heated, preventing 'winter' issues, and installation and maintenance would create jobs. Seems like a pretty big win-win situation."
+</P>
+<P>
+Roy mentioned a 2014 crowdfunding campaign to build "solar panels that you can drive, park and walk on." CBC did a story on that company, Solar Roadways, and has done stories on similar installations, including a pilot project north of Amsterdam and a parking lot in Prince George, B.C.
+</P>
+<P>
+Write us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+There's also a radio show! Emissions from air travel are expected to skyrocket in the coming years and the federal government wants Canada to be a leader in cleaner aviation. What On Earth looks at the challenges and solutions to greening the skies. Listen to What on Earth on CBC Radio One on Sunday at 12:30 p.m., 1 p.m. in Newfoundland, or any time on podcast or CBC Listen.
+</P>
+<P>
+The Big Picture: Electric versus gasoline vehicles — which creates more waste?
+</P>
+<P>
+If reducing carbon emissions is a priority, then the rising interest in electric vehicles (EVs) would seem like a positive trend. Not only are they zero-emissions, but according to a new report by the European Federation for Transport & Environment (T&E), they also produce significantly less waste. The T&E study revealed that only 30 kilograms of raw material will be lost over the lifespan of a lithium ion battery vehicle, compared to 17,000 litres of oil (or approximately 15,000 kilograms) for an internal combustion engine (ICE) vehicle. According to T&E's calculations, battery electric vehicles also use 58 per cent less energy and the manufacturing of an EV — such as Volkswagen's ID.3, seen in the photo below — emits 64 per cent less carbon dioxide than the production of an ICE vehicle. Also, the resources required to build cars relative to their weight were at least 300 times greater for gasoline-powered vehicles compared to electric ones, according to the report. The race to electrify transportation, however, still has environmental costs. Increasing demand for battery production will lead to more mining for minerals like lithium, cobalt and nickel. The report suggests that advancements in battery technology should reduce the amount of minerals needed per vehicle, and that regulations requiring higher recycling rates could reduce this demand even further.
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+In addition to looking like something out of a fairy tale, the German city of Heidelberg has embarked on a long-term initiative to sideline cars. The initiative includes building a bicycle "superhighway" and rewarding citizens who give up their vehicles with free public transit for a year.
+</P>
+<P>
+The oldest known wild bird has given birth — at age 70. She's a Laysan albatross named Wisdom, and her chick hatched on the Midway Atoll in the middle of the North Pacific Ocean. In an interesting twist, Wisdom outlived the researcher who put an identifying ankle band on her in 1956.
+</P>
+<P>
+Road salt levels in some creeks toxic to aquatic life, says Ottawa riverkeeper
+</P>
+<P>
+The amount of road salt that people, businesses and cities are using over the winter is likely too much and is definitely hurting local waterways, according to the Ottawa Riverkeeper.
+</P>
+<P>
+The organization began monitoring how much road salt is making its way into local creeks last winter as part of its road salt monitoring pilot project.
+</P>
+<P>
+The Canadian Council of Ministers of the Environment has established federal guidelines around the amount of chloride — which is partly what salt breaks down into when it dissolves in water — in water bodies.
+</P>
+<P>
+Those guidelines state that 120 milligrams per litre leads to chronic, long-term toxicity, while anything above 640 milligrams per litre is considered acutely toxic.
+</P>
+<P>
+According to the Ottawa Riverkeeper, researchers found water samples containing chloride amounts five times the acute level.
+</P>
+<P>
+"Last year we were seeing levels well into the thousands," said Katy Alambo, a biologist with the Ottawa Riverkeeper. "We've expanded the program [this year] and we're seeing similar if not higher numbers."
+</P>
+<P>
+Not only does chloride take a long time to break down further, but it's also toxic to aquatic life such as fish, amphibians, invertebrates and insects.
+</P>
+<P>
+"High chloride levels can cause disruptions to their reproduction cycles, their growth cycles," Alambo said. "In cases of species like amphibians who respire through their skin, it can also pose consequences there, too, and keep them from being able to breathe properly."
+</P>
+<P>
+As part of a pilot project that ran between January and March 2020, volunteers monitored five creeks — Pinecrest, Graham, Green, McKay and Moore — that were close to roads, shopping plazas, residential areas and anywhere else in Ottawa and Gatineau, Que., where high amounts of road salt could be used.
+</P>
+<P>
+They measured the water's conductivity at each of those creeks after a large snowfall, rainstorm, thaw or any event that would lead to more water entering the creeks.
+</P>
+<P>
+The conductivity of water rises the more dissolved ions (like chloride) there are. If the volunteers measured a certain level of conductivity, they then took a water sample to be analyzed. What they found, Alambo said, suggested too much road salt was being used.
+</P>
+<P>
+"We definitely understand that salt is important to keeping our roads safe," said Alambo. "One coffee mug full of road salt is pretty much all you need to de-ice one of your standard to two-car driveways."
+</P>
+<P>
+Salt is also ineffective at temperatures colder than –10 C, she added.
+</P>
+<P>
+Instead of salt, Alambo suggests using sand, gravel or even cat litter to help provide traction.
+</P>
+<P>
+The Ottawa Riverkeeper plans to approach the City of Ottawa about its salt use, especially as municipal officials are in the midst of reviewing the city's winter maintenance standards.
+</P>
+<P>
+— Kimberley Molina
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

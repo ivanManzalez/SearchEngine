@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> CB120115-0001 </DOCNO>
+<DATE>
+<P>
+December 01, 2015
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canadian entrepreneurs seek path to fossil-fuel-free future; 
+</P>
+<P>
+'By the end of this century, fossil fuels will be done,' says one venture capitalist
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+This story is part of CBC News special coverage of climate change issues in connection with the United Nations climate change conference (COP21) being held in Paris from Nov. 30 to Dec. 11.
+</P>
+<P>
+Right now, politicians from around the globe are meeting in Paris to figure out the next steps in reducing climate change.
+</P>
+<P>
+But a number of Canadian entrepreneurs have spent years sussing out technologies that may help us get to a future of cleaner power.
+</P>
+<P>
+"By the end of this century, fossil fuels will be done," says Rand.
+</P>
+<P>
+"They'll be outcompeted by technology-based energy systems. But we don't have 100 years. We maybe have 20," he says, before climate change causes massive and expensive damage.
+</P>
+<P>
+"So the question is, how do we accelerate the adoption of these technologies?"
+</P>
+<P>
+Rand is a manager at Arctern Ventures, which invests in wind, solar and new materials companies — each one seeking to produce clean energy or reduce energy consumption.
+</P>
+<P>
+Rand says he seeks out the most "disruptive" ideas to solve climate change, looking to finance early-stage companies looking for long-term returns.
+</P>
+<P>
+One example is Morgan Solar, a Canadian company with contract agreements for $250 million. Morgan Solar has signed a contract with Toronto Hydro and Woodland Biofuels, a Sarnia, Ont.-based company that is preparing to go to market with what they claim is the lowest-cost biofuel in the world.
+</P>
+<P>
+"I'm all in on fossil-fuel busting," says Rand. "I'm absolutely confident that our bets on low-carbon technology will bear fruit."
+</P>
+<P>
+Storage is the key
+</P>
+<P>
+The main drawback for renewables, however, is consistent power. At night, solar produces no power and wind is intermittent.
+</P>
+<P>
+And when there is surplus power, it has to be stored somewhere, somehow. Because of that, some of Arctern's investment dollars will be aimed at storage, long considered the holy grail that will speed the green power revolution.  
+</P>
+<P>
+The race to solve the storage dilemma is making strides, says Rand.
+</P>
+<P>
+Toronto-based Hydrostor is one of the beneficiaries of Arctern's investment, hoping to cash in by sinking giant balloons underwater in Lake Ontario and using compressed air to store electricity.
+</P>
+<P>
+The process involves towing nine-metre-tall balloons off shore and weighing them down. Compressed air is pumped in and held there by water pressure. When power is needed, the air is released into a turbine that sends the power back into the electrical grid.
+</P>
+<P>
+Hydrostor's CEO, Curtis VanWalleghem, admits the idea got "a lot of rolling eyes" at first, "but it was tougher to tell people before we built one, and now that it's operating, people take it a lot more seriously."
+</P>
+<P>
+Engineer Cam Lewis dreamed up the idea of storing electricity underwater while working in Alberta's oil patch. 
+</P>
+<P>
+"If the future is 100 per cent renewables, you need low-cost storage and this is an order of magnitude lower cost than batteries," says VanWalleghem.
+</P>
+<P>
+Hydrostor's first contract is with Toronto Hydro, which will use the underwater battery for two years and then assess whether more underwater storage should be employed.
+</P>
+<P>
+The tipping point?
+</P>
+<P>
+Rand says that "for the first time, we're seeing [green] technology on an even playing field that can compete head to head with fossil fuels."
+</P>
+<P>
+Standing on the shore of Lake Erie, Samsung's Tim Smitheman explains why the Korean industrial giant invested $5 billion dollars in a solar and wind farm here.
+</P>
+<P>
+There are 450,000 solar panels and 67 wind turbines spread across hundreds of acres of farm land — enough to power 70,000 Ontario homes.
+</P>
+<P>
+"I'd say for solar, costs have gone down between 30 and 50 per cent in the last five years alone, and we're competing with gas, we're competing with nuclear," says Smitheman.
+</P>
+<P>
+Costs of both solar and wind power are projected to decline even further. The company took advantage of Ontario's decision to buy more expensive power from green tech providers, which ended up giving the wind and solar industries a foothold in the energy sector.
+</P>
+<P>
+Smitheman says the company is "not subsidized by the government. We put all the money in this and we have a 20-year contract to recoup our investment."
+</P>
+<P>
+Companies like Samsung are taking inspiration from the Solutions Project, a detailed study of Canada's green energy potential, the result of years of research at Stanford University in California.
+</P>
+<P>
+The project asserts that by 2050, 71 per cent of Canada's electricity could be produced from wind and solar power, which would effectively mean that when hydro is added to the equation, Canada would achieve 100 per cent green energy status.
+</P>
+</TEXT>
+</DOC>

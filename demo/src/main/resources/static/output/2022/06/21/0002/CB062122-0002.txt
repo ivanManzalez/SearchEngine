@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> CB062122-0002 </DOCNO>
+<DATE>
+<P>
+June 21, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Suburban real estate vulnerable if demand shifts post-pandemic, Bank of Canada warns; 
+</P>
+<P>
+Research paper calculates price gap between suburbs and downtown has narrowed from 33% to 10%
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The gap between downtown real estate and houses in the suburbs narrowed significantly during the COVID-19 pandemic, a development that may make markets outside big cities even more vulnerable to a slowdown.
+</P>
+<P>
+That's one of the main takeaways from a recently released analysis by the Bank of Canada that looked at housing valuations in 15 cities across the country, both before the pandemic and now.
+</P>
+<P>
+Historically, real estate in downtown cores tends to be more expensive because people want to live close to city services and amenities, and more vibrant job markets. "But this pattern may have shifted during the COVID‑19 pandemic," Louis Morel, a policy adviser at the central bank, said in an analytical note released Monday.
+</P>
+<P>
+The cost and inconvenience of commuting is typically a downside to suburban living, but the mass movement toward working from home during the pandemic flipped that old adage on its head, as downtown dwellers flocked en masse to the suburbs for more space.
+</P>
+<P>
+Morel notes that many of the services that downtown residents enjoy about life in cities, such as concerts, restaurants and live entertainment, were shut down in one form or another.
+</P>
+<P>
+"Between working or studying from home and the public health restrictions, people were spending more time at home than ever before," he said. "A desire for more living space may have encouraged many Canadians to seek properties in the suburbs, where lots and houses are typically larger and more affordable."
+</P>
+<P>
+House prices took off just about everywhere during the pandemic, but the gains were especially big in the suburbs, which has made them less affordable today than they've ever been.
+</P>
+<P>
+In 2016, a house in the suburbs 50 kilometres outside of downtown would typically be worth about 33 per cent less than a similar home in the city. Even in 2019, before the pandemic, that gap had narrowed to 26 per cent, but by the bank's calculations, the average cost benefit had shrunk to just 10 per cent last year.
+</P>
+<P>
+Randall Bartlett, an economist with Desjardins, described the phenomenon causing suburban house prices to boom succinctly: "Drive until you qualify."
+</P>
+<P>
+"The increase in remote work during the pandemic encouraged migration within and across provinces in a way which was unprecedented in history," Bartlett said in a separate report last week. "Where families once left city centres in the pursuit of more space once kids came along, they could now move much further afield, including to rural communities and provinces with better affordability"
+</P>
+<P>
+But that trend may already be starting to change, as many workplaces that had previously embraced working from home have returned to a hybrid working model that will see most staff return to the office at least part of the time.
+</P>
+<P>
+The trend is already showing up in the housing market, as suburban markets that saw outsized gains during the pandemic are now seeing price declines, even as major city centres are mostly holding steady.
+</P>
+<P>
+"It's difficult to envision the housing markets of some smaller communities maintaining their unprecedented pandemic price gains as people return to in-person work on a more regular basis," Bartlett said.
+</P>
+<P>
+He says areas outside of Toronto, some of which saw average prices double during the pandemic, are most vulnerable to a slowdown.
+</P>
+<P>
+"As we look ahead to how the national housing market correction will play out at the provincial level, in some ways it's expected to be the inverse of what we saw during the pandemic."
+</P>
+<P>
+While the Bank of Canada stops short of speculating on the cause or making any predictions, it does warn that the narrowing price gap between the suburbs and downtowns could become a problem if preferences shift back toward how things used to be.
+</P>
+<P>
+"If this preference shift is temporary, the proximity premium could return partly toward its pre-pandemic level," the bank said.
+</P>
+<P>
+"Such a shift in relative prices could be especially problematic if housing supply in more suburban areas were to respond strongly in anticipation of local demand continuing to increase."
+</P>
+</TEXT>
+</DOC>

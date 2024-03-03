@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO> CB012124-0001 </DOCNO>
+<DATE>
+<P>
+January 21, 2024
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Heat pumps are hot items. But for people living in condos, getting one presents some challenges; 
+</P>
+<P>
+Barriers for large residential complexes include complicated retrofits, exclusion from rebates
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Heat pumps are all the rage these days, especially for single-detached homes. But condominiums — larger residential complexes with individually owned living units — have been slower to enter the picture. 
+</P>
+<P>
+"You can't really compare the two," said Chris Desroches, a mechanical engineer and applied product manager with Mitsubishi Electric Sales Canada. "You're comparing apples to bananas."
+</P>
+<P>
+The appetite for greener options in everyday living has become more prevalent with Canada's commitment to being net-zero by 2050. Replacing old furnaces and heating systems has been one way for homeowners to lower their carbon emissions and, in turn, pay lower energy bills and less carbon tax.   
+</P>
+<P>
+But condo residents face specific challenges, such as their exclusion from government rebate programs or the complexities of retrofitting shared building infrastructure. 
+</P>
+<P>
+"It's not a choice that is as equally accessible to all folks," said Sachi Gibson, research director at the Canadian Climate Institute. 
+</P>
+<P>
+In September 2023, the institute published a report analyzing the cost and energy-effectiveness of heat pumps in different cities across Canada.
+</P>
+<P>
+The report found that heat pumps can help homeowners lower their carbon emissions and their energy bills. But it also examined the barriers that exist within certain types of housing situations, including multi-unit buildings and rental accommodations.
+</P>
+<P>
+Challenges with condos
+</P>
+<P>
+One issue is the eligibility rules for government rebates that exclude specific individuals or housing types, the report said. These include multi-unit residential buildings as well as the landlords of rental properties and renters. 
+</P>
+<P>
+Condominiums make up about 15 per cent of Canada's private dwellings, according to Statistics Canada's 2021 census. 
+</P>
+<P>
+Rebates help offset the costs associated with installing heat pumps and homeowners can receive several thousand dollars back for making the heating switch. 
+</P>
+<P>
+It's a different situation for rental units.
+</P>
+<P>
+The Canadian Climate Institute report found there is "limited incentive for landlords" to invest in the installation of a heat pump since costs would typically fall to the landlord, while the benefits — including lower energy bills — would likely flow to the tenants. 
+</P>
+<P>
+According to an RBC analysis of the 2021 census data, almost five million Canadians were tenants in a rented property.
+</P>
+<P>
+Alongside the economic challenges are the structural obstacles.
+</P>
+<P>
+"When it comes to a condo building, they're large central systems," said Desroches. For existing buildings, variables such as age, infrastructure and existing heating, ventilation and air conditioning systems all play into the difficulties of retrofitting.
+</P>
+<P>
+"They're engineered systems, so they're a lot more tricky to design," he added. 
+</P>
+<P>
+Building greener condos
+</P>
+<P>
+So how do condos factor into the conversation right now?
+</P>
+<P>
+Some buildings can accommodate the air-to-air heat pumps that are typically installed in homes. These heat pumps rely on electricity to move air in and out of the house to the temperature desired — that is, if it's set to cool a home, it will take the hot air from inside and push it outside. If the intention is to heat the home, the reverse happens. 
+</P>
+<P>
+Gibson said these pumps, which look very similar to air conditioners, can be seen on the balconies of many living units in multi-storey buildings in Halifax.
+</P>
+<P>
+One of the more common criticisms of heat pumps is their ability to function and provide adequate heating in extreme cold temperatures. However, Halifax's fairly mild climate and high gas prices — relative to other provinces — make them a popular alternative in the region.
+</P>
+<P>
+The same is not true for all of Canada, especially provinces that experience more extreme cold and heat. While the air-to-air heat pumps still require some element of retrofitting, the process is more straightforward than the other options. 
+</P>
+<P>
+Desroches is part of a team trying to change that.
+</P>
+<P>
+Last year, he worked on retrofitting a Toronto condo building with a heat pump technology that is just emerging in the North American market. Unlike the air-to-air version, Mitsubishi's Climaveneta system is an electric air-to-water heat pump that takes air and heats it through water.
+</P>
+<P>
+The air-to-water heat pump system can be adapted to work with different types of existing heat systems, and retrofits have been done in several buildings across the country.
+</P>
+<P>
+It has also been installed in some new builds.
+</P>
+<P>
+When it comes to condos currently in construction, an increasing number are being built with greener geothermal heating systems that work under the surface by drawing heat from the ground. 
+</P>
+<P>
+"A geothermal heat pump system is the most efficient but the most expensive," said Jasmin Raymond, a professor at the Institut national de la recherche scientifique in Quebec City.
+</P>
+<P>
+In theory, they can be retrofitted to existing buildings but the process — which involves extensive digging to install a long heating loop deep into the ground — is expensive. 
+</P>
+<P>
+Therefore, geothermal systems tend to be installed in newer builds, allowing developers to actively work toward reducing emissions. 
+</P>
+<P>
+"We're making decisions that last a really long time," said Gibson. "The efficiency of your building envelope, but also the efficiency of the equipment inside, like heat pumps, are affecting the people who live there for a really long time.   
+</P>
+<P>
+"It's really important that the decisions that we're making in building it in the first place are efficient."
+</P>
+<P>
+How do air-to-air heat pumps work?
+</P>
+</TEXT>
+</DOC>

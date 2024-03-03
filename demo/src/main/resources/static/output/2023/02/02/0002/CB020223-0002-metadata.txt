@@ -1,0 +1,4 @@
+DocNo   : CB020223-0002
+ID      : 1224
+Date    : 02 February 2023
+Headline: From instant essays to phishing scams, ChatGPT has experts on edge; The AI chat tool can write shallow essays but convincing phishing emails

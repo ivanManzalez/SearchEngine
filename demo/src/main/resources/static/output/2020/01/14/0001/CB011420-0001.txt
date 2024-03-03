@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> CB011420-0001 </DOCNO>
+<DATE>
+<P>
+January 14, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Hamilton scientists find way to dissolve, recycle rubber from car tires; 
+</P>
+<P>
+Michael Brook, the study's lead author, is a chemistry and biology professor at McMaster University
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Scientists in Hamilton have found a way to dissolve the rubber used in car tires, which they say could eventually help keep what is typically a single-use item out of landfills.
+</P>
+<P>
+In a study released Monday, researchers at McMaster University say their method could reduce the environmental and safety hazards related to stockpiled tires.
+</P>
+<P>
+They say the properties that make tires durable on the road also make them difficult to break down and repurpose, so most end up in landfills and storage facilities, eventually leaching contaminants into the environment.
+</P>
+<P>
+Michael Brook, the study's lead author and a professor in the department of chemistry and chemical biology at McMaster, pointed to a massive fire that burned for weeks in a pile of 14 million scrap tires near Hagersville, Ont., roughly three decades ago as an example of the potential dangers.
+</P>
+<P>
+"Why do people collect tires in that size? It's because there's no really good way to deal with them," he said, adding a small proportion of tires are ground up to use in playgrounds or asphalt.
+</P>
+<P>
+"The idea that you make three billion tires last year and put them in a landfill after a single use, to me, it just doesn't make any sense," he said.
+</P>
+<P>
+"A tire is incredibly well made...at the end we want to turn that tire back into something else, either make a new tire or make a new material, even if it's not quite as high quality, but not just go from my car to a landfill, which is mostly what's happening now."
+</P>
+<P>
+The team was working with chemicals to make new silicones when they had the idea to try it on the rubber used in tires, and found it successfully broke down the sulphur-to-sulphur bonds in the material, Brook said.
+</P>
+<P>
+He compared the rubber's structure to a fishnet or fabric, and the chemical catalyst as a type of "molecular scissors" that cuts through the threads in one direction so that the net becomes a series of ropes, which can then be processed.
+</P>
+<P>
+What's left is a processable oil and a number of other materials, such as steel and polyester, that go into tires — all of which could be reused, he said.
+</P>
+<P>
+"We can take a piece of rubber that really is just above being garbage, break it into some constituent parts and now make a new rubber with some of them," he said.
+</P>
+<P>
+"The question is, what's the best product to come out of this? And that's what we're looking at now."
+</P>
+<P>
+The process is not yet ready for commercial use, however, and researchers say it's too early to tell when it might be.
+</P>
+</TEXT>
+</DOC>

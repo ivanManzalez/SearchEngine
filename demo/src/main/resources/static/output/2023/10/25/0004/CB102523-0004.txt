@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> CB102523-0004 </DOCNO>
+<DATE>
+<P>
+October 25, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Endangered North Atlantic right whale injured by Canadian tracking tag, scientists say; 
+</P>
+<P>
+Skin damage from satellite tag 'not worrisome,' says Fisheries official
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A Canadian government satellite tracking tag injured a rare North Atlantic right whale in the Gulf of St. Lawrence this summer, according to researchers.
+</P>
+<P>
+Fisheries and Oceans Canada (DFO) says veterinarians have assured the department that the wound isn't a major concern, but the incident is part of an ongoing debate about whether tagging the critically endangered whales is worth the potential harm.
+</P>
+<P>
+"We need to consider what happened with that animal, why that happened. Was the animal healthy enough to tag in the first place? Did the tag go in wrong? Did a part break off?" said Kimberly Damon-Randall, director of the office of protected resources at the National Oceanic and Atmospheric Administration (NOAA) Fisheries, the U.S. counterpart to Canada's DFO.
+</P>
+<P>
+Damon-Randall is part of the North Atlantic Right Whale Consortium (NARW) meeting in Halifax this week. Scientists, academics, government managers, environmentalists and fishing industry representatives are gathering to discuss the future of the most threatened large whale on the planet.
+</P>
+<P>
+The consortium said Monday the 2022 population estimate for right whales is 356. Scientists say there are just 69 breeding females.
+</P>
+<P>
+Canada has darted 27 right whales
+</P>
+<P>
+Since 2019, Canada has darted 27 right whales with so-called LIMPET tracking tags. LIMPET stands for low impact minimally percutaneous (through the skin) electronic transmitter.
+</P>
+<P>
+The tags lodge in the blubber and transmit information on a whale's movements.
+</P>
+<P>
+This summer, a LIMPET tag implanted in a whale in the Gulf of St. Lawrence was dislodged and caused a skin lesion. The injured whale, a male identified as number 5046, was first photographed in July and last seen in August.
+</P>
+<P>
+"There's a lot of questions around what happened with that animal that we need to resolve before we do a lot more LIMPET tagging. We don't want to put these animals at increased risk," said Damon-Randall.
+</P>
+<P>
+Fisheries and Oceans Canada says it follows strict procedures to ensure whale safety in the tagging program.
+</P>
+<P>
+Wound 'was not worrisome'
+</P>
+<P>
+In this case, the dart was not fully implanted and the risk is minimal, says the lead research scientist for the DFO right whale tagging program, Veronique Lesage.
+</P>
+<P>
+"This whale, that had a tag and some healing around the tag, was considered by the veterinarian, and we consulted many of them, as being superficial and it was not worrisome," Lesage told CBC News.
+</P>
+<P>
+"We are not considering not tagging whales in the future simply because this whale is currently under investigation and the last we heard from the veterinarian is that they are not overly worried about the status."
+</P>
+<P>
+Heather Pettis, a research scientist with the New England Aquarium and executive director of the NARW Consortium, is looking forward to the next sighting of  number 5046.
+</P>
+<P>
+"When I look at that whale, there's clearly an injury. We don't know the status of the whale since August," Pettis said. "I would like to see follow up images to see how that healed." 
+</P>
+<P>
+To tag or not to tag
+</P>
+<P>
+The LIMPET tag is neither the most nor least intrusive tag used by scientists to track whales.
+</P>
+<P>
+Tags attached with suction cups, some now dropped by drones, are least stressful but only transmit for hours.
+</P>
+<P>
+Others, known as Type C tags, penetrate far deeper into the whale and can provide data for weeks to months.
+</P>
+<P>
+Tracking can fill important gaps in understanding the whales including movement through the water column, migratory pathways, habitat and how they respond to approaching vessels.
+</P>
+<P>
+"We're really looking at what are the management questions and what the ways that we can answer those questions. And is tagging the only way?" said Damon-Randall. 
+</P>
+<P>
+"If tagging is the only way, then we're looking at how do we tag them in the least invasive way or the least harmful way possible."
+</P>
+<P>
+Status quo trajectory points to extinction
+</P>
+<P>
+Despite the slowing of the population's decline, NOAA modelling presented Tuesday in Halifax predicted a 90 per cent probability of extinction if the animals' trajectory between 2013 and 2019 continued under protections then in place.
+</P>
+<P>
+In 2017 and 2019, a total of 21 whales died in Canada alone.
+</P>
+<P>
+The study says the probability of extinction drops to 35 per cent if measures to reduce entanglements by 25 to 50 per cent proposed in 2020 are adopted in the U.S. and Canada.
+</P>
+<P>
+Hence the caution over the use of tags.
+</P>
+<P>
+"This population is very vulnerable to any added stress. We know that right whales are unhealthy relative to other large whale species. We know that there's a reproductive problem," said Pettis.
+</P>
+<P>
+"I think there is a lot of work to be done on looking at the potential impacts. How will it affect health, what will the response be and which whales are we talking about tagging? I would not be in favour of tagging an adult female for example," she said.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,126 @@
+<DOC>
+<DOCNO> CB101521-0002 </DOCNO>
+<DATE>
+<P>
+October 15, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+With average prices up another 14%, Swiss bank UBS warns of housing bubbles in Canada; 
+</P>
+<P>
+UBS says Toronto has second-biggest housing bubble in the world
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Average house prices rose 14 per cent in the past year, the Canadian Real Estate Association said Friday, adding to concerns that Canada's most expensive real estate markets are dangerously overvalued.
+</P>
+<P>
+The group that represents realtors across the country says the average price of a Canadian home sold on its MLS system was $686,650, almost 14 per cent higher than it was in the same month a year ago.
+</P>
+<P>
+Canada's inflation rate hit four per cent in August, the fastest increase in the cost of living in almost 20 years. The new data on house prices Friday means that house prices are going up at more than three times that record pace.
+</P>
+<P>
+CREA says the average price can be misleading, since it is heavily skewed by sales in the most expensive markets of Toronto and Vancouver. It trumpets another number, known as the MLS House Price Index (HPI), as a more accurate gauge of the overall market, because it strips out some of the volatility.
+</P>
+<P>
+But the HPI is rising by even more than the average is right now — up 21.5 per cent in the past 12 months. In the Greater Toronto area, the average price of a home that sold was $1,136,280 in September, up 18 per cent in a year, according to the local real estate board. In Vancouver, the average is 1,186,100 — up by more than 13 per cent in the past year.
+</P>
+<P>
+"There is still a lot of demand chasing an increasingly scarce number of listings, so this market remains very challenging," CREA chair Cliff Stevenson said.
+</P>
+<P>
+The pandemic has had an unexpected impact on house prices in that instead of causing people to be more conservative because of the economic uncertainty, buyers have been eager to shell out for more space.
+</P>
+<P>
+Canada's central bank slashed its benchmark rate to help stimulate the economy through the pandemic, and when lenders passed those rates on to consumers in the form of record low mortgage rates that had the effect of pouring gasoline on the fire of housing demand, making it more affordable to borrow more and more money to buy a home.
+</P>
+<P>
+UBS warns of bubble
+</P>
+<P>
+The fresh numbers on prices come as a major Swiss bank was already warning that Toronto and Vancouver are home to two of the worst housing bubbles in the entire world.
+</P>
+<P>
+In an annual ranking, UBS examines the housing markets in 24 major world cities in Europe, North America and Asia to assess them based on how expensive housing is compared to local income levels and other factors.
+</P>
+<P>
+It then puts all the cities into one of five categories: 
+</P>
+<P>
+Six cities were deemed to have housing bubbles. Two of them are in Canada. 
+</P>
+<P>
+Toronto got a score of 2.02. That was higher than every other city except Frankfurt, Germany, which scored a 2.16.
+</P>
+<P>
+Vancouver scored a 1.66, just behind Hong Kong (1.90), Munich (1.84) and Zurich (1.83).
+</P>
+<P>
+The bank says house prices in Toronto have effectively doubled in the past decade. Government interventions through things like foreign buyers taxes and rent controls caused the market to take a breather in 2018 and 2019, but things have only accelerated since, the bank said.
+</P>
+<P>
+"Real prices increased by almost eight per cent from mid-2020 to mid-2021," the bank said.
+</P>
+<P>
+The bank says price gains are being fuelled by record-low mortgage rates, which are not expected to last much longer once the Bank of Canada inevitably has to raise its rate.
+</P>
+<P>
+That "could lead to an abrupt end to the current housing frenzy," the bank said.
+</P>
+<P>
+Isabel Serrano, a prospective homebuyer in Toronto, is well aware of how frothy things have gotten in the city. She and her husband have been renting for the past 15 years, and are finally ready to buy. But despite having more than $200,000 a year in combined income, the pair can't find anything in their price range — and they keep getting outbid when they try.
+</P>
+<P>
+In an interview with CBC News, she said she has looked at between 40 or 50 houses in the past few months, and placed offers on four. In some cases, the house sold for six figures more than the asking price.
+</P>
+<P>
+"I never thought it was going to be this hard. I really didn't," she said. "It blows my mind that there are no homes to buy. It blows my mind that we cannot find a house to buy for $800,000."
+</P>
+<P>
+WATCH | Isabel Serrano says house prices are out of reach for people like her
+</P>
+<P>
+'A fast rebound'
+</P>
+<P>
+Things don't look much better in Vancouver. Taxes on vacant homes and foreign buyers in 2016 cooled what was then a red-hot market, as prices rose by more than 20 per cent that year. Those moves seemed to relieve some of the pressure, as prices declined by 10 per cent between 2018 and 2019.
+</P>
+<P>
+"Since then, however, lower prices, falling mortgage rates and looser stress test rules have enticed households to buy properties again, leading to a fast rebound," UBS said. "From mid-2020 to mid-2021, property prices increased by 11 per cent, offsetting past losses."
+</P>
+<P>
+High prices aren't just bad for would-be buyers like Serrano, who plan to live in them — they don't augur well for investors hoping to pay them off by renting them out either.
+</P>
+<P>
+According to UBS, anyone buying an investment property with the intent to rent it out would need to rent it for 31 years in Vancouver to cover the price of buying it. In Toronto, it would take 28 years. In cities like Miami and Dubai, it's half that.
+</P>
+<P>
+It's a big reason why the bank suspects both Toronto and Vancouver are in bubble territory, which UBS defines as "a substantial and sustained mispricing of an asset, the existence of which cannot be proved unless it bursts."
+</P>
+<P>
+UBS has no qualms calling what's happening in Canada's two biggest housing markets a bubble, and they aren't the only ones.
+</P>
+<P>
+Prof. George Fallis, who teaches economics at York University in Toronto, says the city's housing market shows all the signs of being detached from fundamentals.
+</P>
+<P>
+Supply and demand
+</P>
+<P>
+"A bubble exists if you can't explain price increases by using the normal variables we look at," he said in an interview. "Whenever you see that kind of thing, that should be a warning light."
+</P>
+<P>
+Fallis says he worries some people buying today are doing so based solely on the expectation that gains in the future will be the same as those of the past, and it's always dangerous when that happens.
+</P>
+<P>
+"Economists are not psychologists and the psychology of frothy expectations is poorly understood. But it's clear that it's [caused by] something arising which sort of shocks you," he said. The most likely trigger could be a rapid rise in interest rates, something that experts have already warned is inevitable.
+</P>
+<P>
+"You only know a bubble exists when it bursts," Fallis said. "It just keeps going and going and going until it doesn't."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> CB062119-0001 </DOCNO>
+<DATE>
+<P>
+June 21, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+What is climate change?; 
+</P>
+<P>
+What you need to know about greenhouse gases and global warming
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+There has been debate recently about whether climate change should actually be called a "climate crisis" or "climate emergency." Whatever the description, scientists have been observing changes in our environment for years. Here's a look at some of the key concepts. 
+</P>
+<P>
+Climate change and global warming — are they the same thing?
+</P>
+<P>
+Not exactly. Global warming refers to rising temperatures, which is only one aspect of climate change. Climate change is a broader umbrella term that captures the effects of greenhouse gases, but these gases affect more than just warming temperatures, said Laura Coristine, a conservation biologist at the University of British Columbia Okanagan.
+</P>
+<P>
+Climate change encompasses a wide range of atmospheric variants, including rising temperatures, forecast unpredictability, extreme weather events and natural disasters such as wildfires, floods and droughts.  
+</P>
+<P>
+Are increases in global temperatures just part of Earth's natural changing systems?
+</P>
+<P>
+Earth has experienced natural climate change, such as ice ages that occur over hundreds of thousands to millions of years. This natural progression gives species and wildlife time to evolve and adapt.
+</P>
+<P>
+Most scientists agree, however, that human activity, which produces excessive amounts of greenhouse gases (GHGs) such as carbon dioxide and methane, are the driving force behind intensifying climate change right now, according to the Climate Institute.
+</P>
+<P>
+Anthropogenic — or human-caused — climate change began during the Industrial Revolution in the 1800s, said climate scientist Devyani Kumari of UBC. According to the Intergovernmental Panel on Climate Change, annual anthropogenic GHG emissions increased by 1.3 per cent per year from 1970 to 2000, and increased by 2.2 per cent every year from 2000 to 2010.
+</P>
+<P>
+How are greenhouse gases affecting climate change?
+</P>
+<P>
+GHGs trap heat in the atmosphere like a blanket over Earth. The gases then slowly release heat energy that can alter things like wind circulation patterns and the movement of clouds, which also affect precipitation.
+</P>
+<P>
+Kumari said carbon dioxide (CO2) emissions are affecting people all over the world and contributing to warming climates. She said CO2 stays in the atmosphere for upwards of 100 years, so even if we stopped burning fossil fuels, existing changes in the environment would remain.
+</P>
+<P>
+Rob Jackson, professor of earth system science at Stanford University in California, said methane emissions – which are 28 times more potent than carbon dioxide emissions – are two and a half times higher now than what they were before the start of the Industrial Revolution. Global methane emissions are largely the result of human activity in agriculture and industry.
+</P>
+<P>
+How do volcanoes affect climate change?
+</P>
+<P>
+Volcanic eruptions affect climate in at least two ways. According to Jackson, they "cool the Earth, especially when they inject sulfur and other particles high into the stratosphere." These particles block sunlight. For example, the massive 1991 eruption of Mount Pinatubo in the Philippines cooled the entire planet by approximately 0.5 C for more than a year.
+</P>
+<P>
+Jackson said volcanoes also release greenhouse gases. This effect is small, though, compared to emissions from human activities, he said.
+</P>
+<P>
+What are the uncertainties around climate change?
+</P>
+<P>
+Scientists cannot be certain of all the potential changes, because there are so many factors that have not been seen in the past – such as carbon cycle feedbacks, how sensitive Earth's climate is to cumulative GHG emissions and the interactions of fossil fuel pollution with clouds. How those factors will interact is unknown.
+</P>
+<P>
+Scientists have been cautious about their climate predictions thus far, and have tried not to overestimate how much climate change the Earth will see, Kumari said. She said the outcomes on ecosystems "will be very bad, but it could be even worse … we don't know."
+</P>
+<P>
+How are recent changes in climate different from changes in the past?
+</P>
+<P>
+Extreme weather events such as flooding, tornadoes, hurricanes and ice storms have always existed, but with increased amounts of heat-trapping gases in the atmosphere, these weather events have worsened and become more frequent.
+</P>
+<P>
+For example, Earth has always had hurricanes. But climate change is likely to modify their behaviour – they may contain more water, spin faster, linger over one area longer or move to regions that aren't normally affected by hurricanes.
+</P>
+<P>
+What do melting glacier ice and rising sea levels mean for Earth's future?
+</P>
+<P>
+Melting glacier ice and rising sea levels are a threat to coastal infrastructure around the world, as it increases the likelihood of flooding. Buildings, roads and transit systems could potentially be destroyed.
+</P>
+<P>
+If all glacial ice were to melt, global sea levels would rise approximately 70 metres, according to the National Snow and Ice Data Center (NSIDC).
+</P>
+<P>
+The NSIDC said 75 per cent of the world's fresh water comes from glaciers. Countries such as India, Pakistan, Afghanistan, Nepal and China depend on glaciers as the only supply of fresh water for drinking, agriculture and manufacturing.
+</P>
+<P>
+Is climate change reversible?
+</P>
+<P>
+The effects of climate change are very slow, compared to weather changes. There is a lag between greenhouse gas emissions and rising temperatures, Coristine said.
+</P>
+<P>
+The climate change we're seeing now is based on GHG emissions from the 1980s, she said. This means the consequences of today's GHG emissions will not be seen for at least 25 to 50 years.
+</P>
+<P>
+Every decision we make now should be based on reducing our carbon footprint and sequestering our emissions, said Coristine.
+</P>
+</TEXT>
+</DOC>

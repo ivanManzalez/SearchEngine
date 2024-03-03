@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> CB030722-0001 </DOCNO>
+<DATE>
+<P>
+March 07, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Gas stoves leak methane even while off, boosting climate change; 
+</P>
+<P>
+Emissions from U.S. gas stoves each year is equivalent to emissions from 500,000 cars, study says
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Gas stoves are contributing more to global warming than previously thought because of constant tiny methane leaks while they're off, a new study found.
+</P>
+<P>
+The same study that tested emissions around stoves in homes raised new concerns about indoor air quality and health because of levels of nitrogen oxides measured.
+</P>
+<P>
+Even when they are not running, U.S. gas stoves are putting out an amount of methane equivalent to 2.4 million tonnes of carbon dioxide each year, a team of California researchers found in a study published in Thursday's journal Environmental Science & Technology. That's equivalent to the annual amount of greenhouse gases from 500,000 cars or what the United States puts into the air every 3.5 hours.
+</P>
+<P>
+"They're constantly bleeding a little bit of methane into the atmosphere all the time," said the study's co-author Rob Jackson, a Stanford University climate scientist.
+</P>
+<P>
+That methane is on top of the 6.2 million tonnes of carbon dioxide that gas stoves emit into the air when they are in use and the gas is burned, the study said. Methane is a greenhouse gas that is dozens of times more potent than carbon dioxide but doesn't stay in the atmosphere nearly as long and isn't as plentiful in the air.
+</P>
+<P>
+The researchers examined 53 home kitchens in California — many in bed and breakfasts they rented. They sealed most of the rooms in plastic tarps and then measured emissions when the stoves were working and when they were not. And what was surprising was that three-quarters of the methane released happened while the stoves were off, Jackson said. Those are emissions releases that the government doesn't account for, he said.
+</P>
+<P>
+"That's a big deal because we're trying to really reduce our carbon footprint and we claim that gas is cleaner than coal, which it is," said study lead author Eric Lebel, a scientist at PSE Healthy Energy, an Oakland nonprofit. But he said much of the benefit disappears when leaks are taken into account.
+</P>
+<P>
+Some U.S. cities banning gas stoves
+</P>
+<P>
+Many communities have bans on gas stove use in future new construction that will take effect in future years, including New York City and the Bay Area cities of San Francisco, Oakland, San Jose, and Berkeley, Jackson said.
+</P>
+<P>
+LISTEN | Cooking without gas: why cities are cutting methane from homes
+</P>
+<P>
+"People can already choose electric appliances if they want," said Frank Maisano, a Washington policy and public relations expert who represents gas and appliance interests.
+</P>
+<P>
+"People just like gas appliances because they perform better, especially in colder climates. Natural gas appliances are generally more energy- and cost-effective than their electric counterparts."
+</P>
+<P>
+Why the findings are important
+</P>
+<P>
+Jackson estimated that when all natural gas use and extraction is taken into account, about 91 million tonnes of gas leaks into the atmosphere. And the couple million tonnes from gas stoves "is meaningful. That's a substantial part and it's a part that we haven't included accurately in the past."
+</P>
+<P>
+The leakage finding is "a very important takeaway" and fits with other work that found there are often big leaks that account for much of the emissions, said Zachary Merrin, a research engineer with the Illinois Applied Research Institute's Indoor Climate Research & Training group.
+</P>
+<P>
+Merrin, who wasn't part of the study, said the emission of un-combusted methane is "clearly bad. From an emissions standpoint, cooking directly with gas is better than using a fossil fuel powered electric stove but worse than using a solar powered electric stove."
+</P>
+<P>
+Stoves raise health concerns too
+</P>
+<P>
+The methane leak isn't dangerous to human health or as a possible explosive, Jackson said. But when conducting the tests, researchers found high levels of nitrogen oxides, greater than 100 parts per billion. Jackson said the U.S. Environmental Protection Agency doesn't have indoor air quality standards for that gas, but the measurements they took exceed its outdoor air quality standards. While methane doesn't include nitrogen, the nitrogen oxides are byproducts of the combustion in natural gas ovens, he said.
+</P>
+<P>
+Maisano said people should always use hood ranges and make sure they have proper ventilation. Jackson, who has a gas stove that he plans to replace, said he never used ventilation before this study, but that he now does so every time.
+</P>
+</TEXT>
+</DOC>

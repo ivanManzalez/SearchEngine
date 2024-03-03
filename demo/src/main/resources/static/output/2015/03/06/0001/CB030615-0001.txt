@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CB030615-0001 </DOCNO>
+<DATE>
+<P>
+March 06, 2015
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Better Business Bureau warns scams are on the rise; 
+</P>
+<P>
+Most of the top 10 scams come from online fraud, says the BBB
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canadians lost $70 million to scams last year, according to the Canadian Anti-Fraud Centre.
+</P>
+<P>
+That's up from $53 million in 2013 and mainly due to online fraudsters, the Better Business Bureau said on Wednesday.
+</P>
+<P>
+"Technology continues to help scammers cast a wider net for people to be susceptible," said Danielle Primrose, president of BBB serving mainland B.C.
+</P>
+<P>
+Here's a list of the top 10 scams:
+</P>
+<P>
+1. Top Auto Scam - Automotive Online Pricing 2. Top Emotional Scam - Disaster Charity Fraud 3. Top Identity Theft - Remote Computer Repair 4. Top Social Media Scam - Fake Facebook Friend Request 5. Top Romance Scam – Catphishing/Online Dating scam 6. Top Utilities Scam – Fake Billing 7. Top Finance Scam - Online Affinity Fraud 8. Top Sales Scam - Redirected Robocalls 9. Top Big Data Scam - Big Box Breach 10. Top Ad Scam - Fake Online Reviews  
+</P>
+</TEXT>
+</DOC>

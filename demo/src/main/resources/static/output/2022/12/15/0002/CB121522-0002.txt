@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> CB121522-0002 </DOCNO>
+<DATE>
+<P>
+December 15, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Urban planning prof says benefits of regulating Airbnbs are already clear; 
+</P>
+<P>
+Halifax council has pushed decision on bylaw changes to the spring
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+An urban planning professor who studies the impact of short-term rentals is questioning Halifax's decision to defer bringing in regulations for companies like Airbnb while it waits for more data.
+</P>
+<P>
+Proposed rules around short-term rentals were introduced by municipal staff on Tuesday.
+</P>
+<P>
+They would apply to the entire municipality, and allow short-term rentals in residential zones only if they are the hosts' primary residence. In commercial and mixed-use zones where there are already hotels, rentals could go ahead without this rule.
+</P>
+<P>
+Staff estimate it would affect about 400 out of the approximately 2,000 Airbnb listings in the Halifax Regional Municipality.
+</P>
+<P>
+Some councillors asked for more details before voting on the proposed regulations, including the number of units that would convert to long-term rentals and the impact it would have on tourism operators. 
+</P>
+<P>
+But David Wachsmuth, Canada research chair in urban governance at McGill University in Montreal, said there are already real-world examples of how regulations have played out in places like Vancouver.
+</P>
+<P>
+"I worked with the city extensively and found that thousands of homes have been returned to the long-term rental market, and it has caused rents to come down," he told CBC Radio's Information Morning on Thursday.
+</P>
+<P>
+"So the evidence is pretty clear that if you're willing to put in the effort, we can get commercial short-term rentals back onto the long-term rental market and that is going to help with housing affordability issues."
+</P>
+<P>
+His conversation with host Portia Clark has been condensed and edited for clarity and length.
+</P>
+<P>
+You can listen to the full interview here:
+</P>
+<P>
+What's your take on the approach that council has been recommended to follow?
+</P>
+<P>
+Well, if you look across the country and actually really across the world, what you see is that cities are increasingly moving to restrict short-term rentals to hosts' primary residents, just like Halifax is proposing here for residential areas. But unlike Halifax, a lot of the cities that are making these moves are applying this citywide. So you look at Vancouver, you look at Toronto, that's what they're doing. When I look at Halifax's proposed rules, my impression is that this may not be going quite far enough because if you allow commercial short-term rentals in all these mixed-use and commercial zones … you're just going to kind of shuffle around where your commercial short-term rentals are, rather than really restricting them and getting that housing back on the market.
+</P>
+<P>
+Do you say that based on seeing where hotels are located in Halifax?
+</P>
+<P>
+Exactly. There are kind of two issues that commercial short-term rentals pose. One is, you know, nuisance issues in residential areas. There's too much noise because people are partying and I'm trying to get to bed early because I have to work in the morning. Halifax's proposed rules will probably help with those kinds of issues because you'll have fewer of the kind of full-time operations in residential areas.
+</P>
+<P>
+But the other question, which is about housing prices and the cost of living, the issue there is more about the kind of overall stock of housing in the city. And if you say well, 'No commercial short-term rentals in these neighbourhoods, but they are allowed in these other neighbourhoods ... you're not going to have any overall impact on the number of homes in Halifax that have been taken off the market. You're just going to shift which neighbourhoods those full-time, short-term rentals are operating in.
+</P>
+<P>
+Councillor Shawn Cleary is insisting more information, more data, is needed about what to do with those listings. At this stage, is more data what you think is needed?
+</P>
+<P>
+I'm somebody who's really in the data game, so to speak. You know, I'm a researcher, but I have to admit I was a little surprised to see this because I think at this point it really is very clear what the impact of short-term rentals has been on housing. It's also very clear what the kind of viable paths forward are because cities across the country have been implementing rules. We have a lot of evidence about what's working and what's not working. It's hard for me to understand why having a little more time for staff to do a little more research would really make any difference at all.
+</P>
+<P>
+There was also a request to consult more with the tourism industry. In your opinion and based on your research, does the availability of short-term rentals have an impact on whether tourists come to a city or how long they stay?
+</P>
+<P>
+The research that has been done has mostly found that trips which are occurring, where somebody stays in an Airbnb or short-term rental, they would have happened even if those Airbnbs weren't available. People would just stay with other forms of tourism accommodation. So on the whole, that impact hasn't been found. But I would say, to be very clear, that Halifax's proposed rules — and really the way that everybody's regulating the sector — the goal isn't to get rid of short-term rentals. The goal is to encourage more home sharing, where people are actually living in the units that they're renting out occasionally, and less commercial short-term rentals. So it's not a question of there shouldn't be any Airbnbs. It's saying: let's make sure that we don't lose our full-time housing to full-time, short-term rentals.
+</P>
+<P>
+What do we know about the ratio of commercial short-term rentals versus people who are sharing their homes right now?
+</P>
+<P>
+If you go back five or 10 years and look at Airbnb, it's mostly home sharing in Halifax as well as in other cities. And over the course of the last decade that ratio has really flipped upside down. And now, you know, it's fewer than 10 per cent of listings are the ones making a majority of all the money. There are a lot of occasional home sharing listings, which are still on these platforms, but they've really been kind of pushed to the margins by a relatively small number of commercial operators. Again that's why, on the whole, cities and provinces are looking to restrict those small number of commercial operators who are having an outsized negative impact on housing.
+</P>
+<P>
+Is that the case in rural areas as well? 
+</P>
+<P>
+Since the start of the pandemic our rural areas have seen really sharp increases in demand for short-term rentals basically because long distance international travel really got curtailed. So in Nova Scotia in particular, Cape Breton Island has seen really intense run ups in demand for short-term rentals. Actually these places are now suffering housing affordability issues that are in many respects worse than what we're seeing in the city. So the housing problems that short-term rentals pose are definitely not limited to big cities anymore.
+</P>
+</TEXT>
+</DOC>

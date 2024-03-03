@@ -1,0 +1,186 @@
+<DOC>
+<DOCNO> CB011322-0002 </DOCNO>
+<DATE>
+<P>
+January 13, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+As cities ban natural gas to cut emissions, Ontario is expanding its gas network; 
+</P>
+<P>
+Also: Electric vehicles and 'range anxiety'
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+As cities ban natural gas to cut emissions, Ontario is expanding its gas network
+</P>
+<P>
+More and more jurisdictions, including Quebec, Vancouver and New York City, are taking steps to ban fossil fuel heating and touting electrification to cut emissions, slow climate change and reach net-zero targets.
+</P>
+<P>
+Meanwhile, the province of Ontario is building new natural gas heating infrastructure to serve more customers and communities, including some that have been relying on electric heat until now. And it's making existing customers subsidize that expansion.
+</P>
+<P>
+This past June, the province announced $234 million to support 8,750 new gas connections (a cost of $26,285.71 per connection) in rural, northern and Indigenous communities. The funding will come from a surcharge of $1 per month to existing natural gas customers, which includes 3.6 million homes and 160,000 businesses.
+</P>
+<P>
+It's the second phase of the province's Natural Gas Expansion Program, launched by the Progressive Conservative government in 2018, with New Democratic Party support. Construction on the new gas projects, including 27 from Enbridge Gas Inc. and one from EPCOR Utilities, is scheduled to begin by 2025.
+</P>
+<P>
+The government says the goal is to lower energy costs for families, businesses and farmers, since natural gas is "more affordable than other sources such as electricity, oil or propane."
+</P>
+<P>
+But critics say switching more people to gas heating is not the best solution when Canada is aiming for the entire country to reach net-zero emissions by 2050.
+</P>
+<P>
+Keith Brooks, program director at the advocacy group Environmental Defence, has been following Ontario's energy policy for years. He agrees with getting communities off propane and oil and making heating more affordable, but thinks building more fossil fuel infrastructure is the wrong solution. 
+</P>
+<P>
+"What we want to be doing is increasingly investing money into no-carbon solutions, which are widely available for heating."
+</P>
+<P>
+Environmental Defence estimates a home could be electrified for far less than the $26,000 that existing ratepayers are paying for each new hookup. (Brooks noted this doesn't even include the cost of the furnace and ducting that needs to be installed in the home itself.)
+</P>
+<P>
+Brooks added that the lifetime of a furnace is about 20 years, and connecting new homes will lock them into burning fossil fuels until nearly the 2050 net-zero deadline.
+</P>
+<P>
+Some of the communities getting the new gas pipes and hookups already heat their homes with electricity, but want the option to burn fossil fuels instead.
+</P>
+<P>
+Anwaatin, a group that represents rural Indigenous communities on climate change issues, wrote a letter of support for the gas expansion program. 
+</P>
+<P>
+"The majority of First Nations in Ontario… rely on electricity with poor to modest reliability in the north for basic home heating as well as lighting," the letter said, adding they often pay 10 times more for heating than people in southern Ontario. "Many First Nations are therefore interested in accessing lower-cost natural gas."
+</P>
+<P>
+Brooks said if electric heating is too expensive, then improving home insulation and efficiency and switching to a more efficient electric heat source — such as from baseboard heaters to heat pumps — is a better option.
+</P>
+<P>
+"If the challenge is the electricity grid is unreliable," he said, "then my solution would be to increase the reliability of the electricity grid because that is one of the key solutions that we have to solve climate change…. We need to electrify pretty much everything we can."
+</P>
+<P>
+Brooks thinks most natural gas ratepayers in Ontario are unaware that they're paying for the network to be expanded to new customers.
+</P>
+<P>
+"I'm not sure if they were consulted on that, they would say, 'Yes.'"
+</P>
+<P>
+– Emily Chung
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+R.A. Morris writes:
+</P>
+<P>
+"I was happy to see your recent profile of climate fiction and Canadian authors. As an author and environmentalist, the more space for stories meant to inspire and demonstrate the precarious situation our societies are in, the better. If anything, more Canadian authors and eco-fiction/climate fiction should be profiled along with eco-non-fiction. Only with continued and consistent messaging about the dangers we face told from a scientific and literary lens will more of society demand change."
+</P>
+<P>
+Write us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+There's also a radio show and podcast! Scotland's coastal city of Aberdeen is a hub for offshore oil and gas in Europe. But now, the North Sea is being harnessed for a "just transition," as more wind turbines dot the horizon. This week, tune in for a special documentary on What On Earth that reveals the promise of this move — and the growing pains. What On Earth airs Sunday at 12:30 p.m., 1 p.m. in Newfoundland. Subscribe on your favourite podcast app or hear it on demand at CBC Listen. 
+</P>
+<P>
+The Big Picture: Electric vehicles and 'range anxiety'
+</P>
+<P>
+If asked, most (if not all) electric car drivers can probably share a story about "range anxiety" — that is, some incident in which they thought their vehicle would run out of battery power before they got to a charging station.
+</P>
+<P>
+Range anxiety is often cited as an impediment to getting more people to drive EVs (that and the price). One problem is that many countries have inadequate charging infrastructure, which is part of the reason many carmakers are trying to create more capacious batteries.
+</P>
+<P>
+At the moment, the cars with the most range are Tesla's Model S (about 650 kilometres per charge) and the Mercedes EQS 450+ (roughly 729 kilometres). Mercedes recently unveiled a prototype for a vehicle that will go 1,000 kilometres on a single charge, a car the company said "puts an end to range anxiety." This seems like an extravagant solution and out of reach, financially, for most drivers.
+</P>
+<P>
+A more comprehensive charging infrastructure will make it more palatable to drive an EV for long distances; U.S. President Joe Biden, for example, has pledged to install 500,000 more charging stations across that country. But a recent piece in Vice magazine points out the misguidedness in that kind of thinking – and of range anxiety more broadly. "Surveys and studies repeatedly show the vast majority of EV charging is done at home, either in a driveway or garage. Consumer Reports found that owners of EVs who can charge at home and have a car with a range of about 250 miles [400 kilometres] can do 92 per cent of charging at home, visiting public chargers on average just six times a year."
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+To have any hope of meeting our global emissions reductions goals, countries need to greatly reduce their use of coal, oil and natural gas. As Climate Tracker tweeted this week, the movement of those three commodities accounts for 40 per cent of worldwide shipping, which means that an overall reduction in these high-emissions energy sources should also result in less shipping, a notoriously hard sector to decarbonize.
+</P>
+<P>
+Germany recently closed three of its six remaining nuclear power plants, and expects to make up the power shortfall by burning natural gas, which has many observers wondering: is this a good strategy for reducing emissions? 
+</P>
+<P>
+ 
+</P>
+<P>
+How climate change has contributed to smaller bread loaves for this baker
+</P>
+<P>
+They say a half a loaf is better than none, but a Perth, Ont., baker isn't so sure his customers will agree.
+</P>
+<P>
+For the first time in 30 years, Graham Beck is baking smaller loaves in his ovens — and he thinks the problem can be linked directly to climate change.
+</P>
+<P>
+"I'd be surprised if my customers would tolerate it for a very long time," said Beck, founder of the Little Stream Bakery. 
+</P>
+<P>
+While the bakery sources most of its heritage grains from Ontario, Beck and his small team gets Kamut, a wheat species, from the Prairies. The grain requires a drier climate, Beck said — but not the scorching temperatures Western Canada experienced this summer.
+</P>
+<P>
+Coupled with COVID-19 supply shortages, Beck was forced to secure his Kamut, also known as khorasan wheat, from a new supplier. 
+</P>
+<P>
+"It was kind of like a lump and, sure enough, the bread didn't rise much," he said. "And we had to work with it because that's all we could get."
+</P>
+<P>
+Beck said the only way to improve the dough's sad state was to use loaf pans that were two-thirds the size.
+</P>
+<P>
+"We weren't happy about it," he said. "But we had two choices: make it the way we could with what we had or not make it."
+</P>
+<P>
+The baker even called Kamut International, which owns the Kamut trademark, and was told the harsh weather affected U.S. farms even worse.
+</P>
+<P>
+What struck Beck most was the chain effect: a changing climate leading to inconsistent weather and ultimately resulting in his dough not rising in his ovens. 
+</P>
+<P>
+"This strikes me as something we might be seeing more of." 
+</P>
+<P>
+Moreover, he said smaller businesses like his are more likely to struggle to find supplies during uncertain times like a pandemic. Luckily, Beck has secured a sample batch of Kamut from another supplier, which so far has led to fuller loaves. 
+</P>
+<P>
+For now, Beck is warning customers on social media to expect dense Kamut loaves and explaining that securing quality grains at fair prices may be harder in the coming years.
+</P>
+<P>
+"We have to really be looking at the big picture and food security," he said. "And what we can do to look more locally, have alternative supplies [and] be working to support farmers." 
+</P>
+<P>
+– Joseph Tunney
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

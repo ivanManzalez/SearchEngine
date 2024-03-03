@@ -1,0 +1,255 @@
+<DOC>
+<DOCNO> CB012724-0001 </DOCNO>
+<DATE>
+<P>
+January 27, 2024
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Are heat pumps a climate solution in Canada's coldest cities?; 
+</P>
+<P>
+Also: What can Norway teach us about the EV transition?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This weekly newsletter is part of a CBC News initiative entitled "Our Changing Planet" to show and explain the effects of climate change. Keep up with the latest news on our Climate and Environment page.
+</P>
+<P>
+Sign up here to get this newsletter in your inbox every Thursday.
+</P>
+<P>
+This week:
+</P>
+<P>
+Are heat pumps a climate solution in Canada's coldest cities?
+</P>
+<P>
+Tom Rutherford has been considering getting a heat pump to keep his Calgary home warm in the winter and cool in the summer. But he's not sure whether such a move would improve the carbon footprint of his home.
+</P>
+<P>
+"[Alberta's] grid is very dirty, with lots of carbon in it," he told What On Earth host Laura Lynch. "So how much am I actually benefiting [the climate] by putting in a heat pump in southern Alberta as opposed to using a gas furnace?"
+</P>
+<P>
+Rutherford's concerns are valid. A 2022 study by Natural Resources Canada found that while switching to electric heat pumps from gas or oil reduces greenhouse gas emissions in many provinces, cold-climate air-source heat pumps actually increase emissions compared to gas furnaces in Alberta and Saskatchewan.
+</P>
+<P>
+"If the heat pump is being powered by coal-fired power generating stations, then the GHG emissions intensity of the coal-fired power generation may be higher than the natural gas furnace that you're using in your house," said the study's co-author, Jeremy Sager. "Coal is a dirtier fuel to begin with."
+</P>
+<P>
+However, Sager, a senior research engineer at CANMET Energy, a research division of Natural Resources Canada, pointed out that Alberta is removing coal from its electricity grid. 
+</P>
+<P>
+"They're transitioning away from coal and transitioning towards wind and solar and natural gas, mostly," he said. "So the picture is ever-changing."
+</P>
+<P>
+In fact, there are only two coal plants left on Alberta's electricity grid, and they're set to be converted to gas later this year.
+</P>
+<P>
+Sager said despite the findings in his 2022 report, installing a heat pump in provinces like Alberta or Saskatchewan still makes environmental sense. Other researchers agree, including those with Efficiency Canada, an advocacy and research centre out of Carleton University in Ottawa. 
+</P>
+<P>
+"Since heat pumps last 15 to 20 years, over the lifespan of the equipment, the emissions and the cost savings would still be positive," said Sarah Riddell, Efficiency Canada's clean heat policy research associate. 
+</P>
+<P>
+She said expected increases to the carbon tax, as well as the federal government's goal of getting Canada's electricity grid to net zero emissions by 2035, mean that installing a heat pump now in Alberta or Saskatchewan is still a climate-friendly move.
+</P>
+<P>
+Alberta Premier Danielle Smith has pushed back against the federal government's proposed clean electricity regulations, saying the 2035 target is not achievable. Although the province had been leading the way in developing renewable energy capacity, the Alberta government paused approvals of new renewable energy projects last August. 
+</P>
+<P>
+Sara Hastings-Simon, an associate professor in the school of public policy at the University of Calgary, said that even though the emissions impact is "hard to calculate," heat pumps are part of the solution for climate change, even in provinces with carbon-intensive electricity grids. 
+</P>
+<P>
+"On the one hand, we have to electrify more uses of energy and then we have to decarbonize the grid at the same time," she said. "The biggest thing that we can do is elect leaders who are going to ensure that our grid also gets decarbonized as well."
+</P>
+<P>
+If someone is concerned that getting a heat pump in Alberta or Saskatchewan now would still have a significant carbon footprint, there are other solutions that will lower the amount of energy needed to heat your home, said Betsy Agar, director of the buildings program at the Pembina Institute, an environmental think-tank. 
+</P>
+<P>
+Newer heat pumps can heat reliably at temperatures as low as –29 C. But when it gets even colder, backup heating in the form of a gas furnace or electric resistance heating is needed. 
+</P>
+<P>
+Agar said substantial retrofits on a home can reduce the amount of heat a backup gas furnace needs to provide.  
+</P>
+<P>
+"Being really thoughtful about where you can add insulation and air sealing is really critical."
+</P>
+<P>
+— Rachel Sanders
+</P>
+<P>
+Old issues of What on Earth? are here. The CBC News climate page is here. 
+</P>
+<P>
+Check out our podcast and radio show. This week: From potato rovers to wildfire sniffers, we look at how artificial intelligence can help solve climate challenges. The catch? The technology's own growing emissions. What On Earth drops new podcast episodes every Wednesday and Saturday. You can find them on your favourite podcast app, or on demand at CBC Listen. The radio show airs Sundays at 11 a.m. ET, 11:30 a.m. in Newfoundland and Labrador. 
+</P>
+<P>
+Watch the CBC video series Planet Wonder featuring our colleague Johanna Wagstaffe here.
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+Last week, we asked readers what sorts of green projects they're planning for 2024. Here's a sample.
+</P>
+<P>
+Jim Bodie:
+</P>
+<P>
+"I live in a condominium building and have a south-facing balcony. My project is to buy a solar generator to power as many of my appliances as possible, as often as possible. That will require putting on my balcony a set of solar panels, which, under current condo bylaws, would not be allowed. However, in my building alone, there are 52 units with south-facing balconies that could produce solar power. I think it would be worth it."
+</P>
+<P>
+Pauline wrote:
+</P>
+<P>
+"I plan to grow a bigger garden using my own compost to enrich the soil. Not anything huge … but imagine if everyone did it. And I will walk more."
+</P>
+<P>
+Write us at whatonearth@cbc.ca. 
+</P>
+<P>
+Have a compelling personal story about climate change you want to share with CBC News? Pitch a First Person column here.
+</P>
+<P>
+The Big Picture: Fish and chips and … carbon dioxide?
+</P>
+<P>
+Calls to ban bottom trawling, a widely used fishing technique, have thus far focused on the harm it causes to underwater ecosystems. New research suggests it's also sending millions of tonnes of carbon dioxide into the atmosphere each year and contributing to climate change. 
+</P>
+<P>
+About one-quarter of the world's wild-caught seafood — from flounder and halibut to shrimp and crab — is caught by fishing vessels that scrape the seafloor with enormous nets. The openings — which can be large enough to swallow a 747 jet — herd and capture marine life indiscriminately. Bottom trawling kills sharks, turtles, dolphins and other fish and damages coral reefs.
+</P>
+<P>
+A study published last week in the journal Frontiers in Marine Science finds that bottom trawling releases as much as 370 million tonnes of carbon dioxide into the atmosphere each year, roughly double the greenhouse gas emissions from the fossil fuels burned by the world's fishing fleets. When the heavy fishing gear is dragged across the seafloor, it stirs up long-buried carbon, which microbes convert into carbon dioxide.
+</P>
+<P>
+The study also found that about 40 per cent of the carbon dioxide released into the water stays there. In enclosed seas, like the Mediterranean, it can cause local ocean acidification, which can weaken and dissolve the shells of crabs and sea urchins and hamper the ocean's capacity to absorb carbon. 
+</P>
+<P>
+Not everyone is on board with the study's calculations. Some scientists say the model overestimates the amount of carbon dioxide that trawling releases. 
+</P>
+<P>
+— Hannah Hoag
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+Many city dwellers have heard about the benefits of buying food grown locally, in our own communities. But a new study finds urban farming has a much higher carbon footprint than conventional agriculture for most crops. The researchers suggest urban farmers should grow the exceptions, such as tomatoes and asparagus.
+</P>
+<P>
+Cold weather can reduce the range of an EV battery, but experts offer strategies for drivers to prepare and offset the impact. 
+</P>
+<P>
+One problem is there aren't enough EV chargers. Meanwhile, many people have ditched their telephone landlines. U.K. telecom provider BT is using the latter problem to solve the former — by converting phone service street cabinets, which are already installed along the street and connected to power, into EV chargers.
+</P>
+<P>
+More than 50 Canadian advertisers and PR agencies have joined the Clean Creatives, a group of 900 companies in that sector around the world that have pledged not to work with the fossil fuel industry.
+</P>
+<P>
+What Canada can learn from Norway, the EV capital of the world
+</P>
+<P>
+Canada's plan to end the sale of gasoline and diesel cars by 2035 has raised questions about whether the country is up to the challenge.
+</P>
+<P>
+Norway is already well on its way to reaching that goal, with electric vehicles accounting for 82 per cent of all vehicles sold in 2023. It's considered the world leader in EVs, with roughly one-quarter of all cars on the road now electric. 
+</P>
+<P>
+And it has lessons for Canada.
+</P>
+<P>
+How did Norway get here?
+</P>
+<P>
+Norway may seem like an unusual hotbed for EVs, given its position as a leader in the export of fossil fuels. But the country of 5.3 million made several policy changes more than a decade ago to boost electric car sales as part of its effort to reduce greenhouse gas emissions domestically.
+</P>
+<P>
+The government waived hefty vehicle import duties for EVs, as well as registration and sales taxes that are imposed on gas-powered vehicles. It also exempted EV owners from paying road tolls and allowed them to use bus lanes in congested city centres.
+</P>
+<P>
+New EVs are now a far more popular choice than gas-powered vehicles.
+</P>
+<P>
+"We are very close to our target," said Cecilie Knibe Kroglund, Norway's state secretary for the Ministry of Transport, in an interview, referring to the country's ambition to end the sale of gasoline and diesel cars by 2025. "We all see this as a success."
+</P>
+<P>
+Magnus Korpas, a professor of electric energy at the Norwegian University of Science and Technology, said the high taxes on gas-powered vehicles are the main reason more people are choosing EVs.
+</P>
+<P>
+"It was that, in combination with access to bus lanes and free ferries and free parking, that made it very convenient for people." 
+</P>
+<P>
+Christina Bu, secretary general at the Norwegian EV Association, says "there's nothing Norway has managed that other countries could not do as well…. The fact that we've managed this fast transition is only because of policies, and also the ability or the will to keep those policies in place for a long time."
+</P>
+<P>
+Canada has taken a different approach with its 2035 target. The federal government's plan focuses on compelling car companies to increase the number of EVs available until the sale of gas-powered vehicles is phased out in 2035.
+</P>
+<P>
+The government also offers a $5,000 rebate for fully electric vehicles and $2,500 for hybrids, rather than imposing a tax on gas-powered vehicles. Quebec, B.C. and the Atlantic provinces have their own rebates that range from $500 to $8,000, depending on the province and certain conditions.
+</P>
+<P>
+Are there enough charging stations?
+</P>
+<P>
+The charging situation in Norway has improved dramatically over the past decade, according to Bu. There are nearly 8,000 fast-charging stations across Norway, meaning there are about 100 cars per fast charger.
+</P>
+<P>
+The increase has been driven largely by private investment after an initial boost from the government, she said. In more rural areas, the government has invested more money to extend the network where businesses are more reluctant to do so, Bu said.
+</P>
+<P>
+Daniel Breton, head of Electric Mobility Canada, an industry group, said Norway's approach to charging stations should be emulated here.
+</P>
+<P>
+"We should put as much emphasis as we can on making sure that as many Canadians as possible will install chargers at home, or in charging hubs, or in multi-unit residential buildings, and therefore have less of a need for public chargers."
+</P>
+<P>
+Has the grid been able to handle it?
+</P>
+<P>
+So far, yes. The demand from EVs in Norway amounts to about one per cent of the total demand on the grid, according to Korpas's calculations. The Norwegian Energy and Water Directorate estimated that even if all vehicles — both passenger and commercial — were electric, their demand would still only make up about 10 per cent of the total.
+</P>
+<P>
+Korpas said Norway has the advantage of having a strong grid already in place, since the country relies almost exclusively on hydroelectric power to heat homes. 
+</P>
+<P>
+"It's a cold country just [like] Canada, but due to the abundance of hydro power, we've been using electricity for heating for many, many decades."
+</P>
+<P>
+Korpas said the challenge comes when the majority of EVs are charged around the same time — generally in the evening, after people return from a day out. He said policy choices could address this problem — for instance, by imposing higher electricity rates for charging at peak hours.
+</P>
+<P>
+Norway's EV transition has been so successful that it has started to pull back some of its incentives. It has faced criticism as well, from some environmentalists who say the government's policies have favoured the wealthy and prioritized EVs over public transit.
+</P>
+<P>
+"I think we have to do both," Kroglund said. She said funding public transit is a priority in cities, particularly in the capital, Oslo. But "Norway is quite a rural country, so a car is necessary in many areas."
+</P>
+<P>
+From an emissions perspective, the policy has been a win. Carbon emissions from road traffic dropped about 15 per cent from its peak in 2015 to 2021, according to the Norwegian government.
+</P>
+<P>
+The government is now focused on encouraging the transition of transport trucks to electric as well.
+</P>
+<P>
+"There's still a lot to do in the zero-emissions area when it comes to heavy vehicles," said Kroglund.
+</P>
+<P>
+— Benjamin Shingler
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

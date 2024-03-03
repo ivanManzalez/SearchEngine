@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> CB030923-0001 </DOCNO>
+<DATE>
+<P>
+March 09, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Once powered primarily by coal, Alberta now gets more electricity from renewables; 
+</P>
+<P>
+The dominant fuel a decade ago has since been outpaced by wind, solar and hydro
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Less than a decade ago, Alberta relied on coal for the majority of its electricity needs.
+</P>
+<P>
+Today, the province gets more power from wind, solar and hydro.
+</P>
+<P>
+That's according to the latest data from the Alberta Electric System Operator (AESO). 
+</P>
+<P>
+"For the first time, renewable generation, at 12.6 per cent of total generation, provided more electricity than coal," reads the AESO annual market statistics report for 2022.
+</P>
+<P>
+"When you look back in time, it's a pretty amazing and rapid change for our province," said Blake Shaffer, an economist with the University of Calgary, who specializes in electricity markets and climate policy.
+</P>
+<P>
+The shift has been driven primarily by the rapid phaseout of coal-fired power plants in Alberta.
+</P>
+<P>
+Some coal plants have been retired while others have been converted to run on natural gas.
+</P>
+<P>
+Natural gas now provides nearly three-quarters of the province's electricity.
+</P>
+<P>
+Wind and solar power have also grown, over the past few years in particular, while hydroelectric power has remained steady.
+</P>
+<P>
+Together, those three sources of renewable energy now generate more electricity than coal.
+</P>
+<P>
+Back in 2015, the Alberta government announced a plan to eliminate coal power by 2030, and that plan is years ahead of schedule.
+</P>
+<P>
+In 2014, more than half of the province's electricity was produced from 18 coal-fired generators.
+</P>
+<P>
+Today, there are only two remaining power plants in Alberta that run exclusively on coal.
+</P>
+<P>
+Recent surge in wind and solar capacity
+</P>
+<P>
+Shaffer expects the growth in renewable power generation to accelerate in 2023.
+</P>
+<P>
+He noted several major wind and solar projects came online in the last half of 2022, and the full effects of that added capacity have yet to show up in the annual data.
+</P>
+<P>
+Shaffer said the capacity of wind turbines and solar panels has also been improving.
+</P>
+<P>
+He said newly installed wind turbines can generate more electricity than older ones, and many new solar panels are double-sided so they catch reflected light from the ground, which is especially effective in winter months at squeezing a bit of extra power out of the sunlight.
+</P>
+<P>
+"You can call that a Canadian innovation," Shaffer said.
+</P>
+<P>
+"The [solar] films are so cheap now that it makes sense to just put film on the backside of a solar panel, which you wouldn't think of anywhere else in the world, but here we get that reflection off the snow, which boosts the total generation." 
+</P>
+<P>
+Shaffer said all these factors mean Alberta can expect continued growth in renewable energy in 2023.
+</P>
+<P>
+At the same time, he said, natural gas is expected to remain the dominant source of electricity generation in the province for years to come.
+</P>
+<P>
+Electricity generated from natural gas puts out roughly half the amount of greenhouse gas emissions as compared with coal.
+</P>
+<P>
+Canada has set a target of reaching net-zero emissions from electricity generation by 2035.
+</P>
+<P>
+"Getting rid of coal turned out to be actually pretty easy, but it's because it's largely being replaced by natural gas," Shaffer said.
+</P>
+<P>
+"It's definitely an improvement but, in terms of the end stage — of really decarbonzing the grid — it kind of points out to me what a long way to go we still have."
+</P>
+</TEXT>
+</DOC>

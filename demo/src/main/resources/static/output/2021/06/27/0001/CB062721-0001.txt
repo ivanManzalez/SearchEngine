@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> CB062721-0001 </DOCNO>
+<DATE>
+<P>
+June 27, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+BC Hydro reports new record for peak hourly demand amid heat wave; 
+</P>
+<P>
+Utility says system can meet the additional demand and it has taken steps to help keep people safe
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+British Columbia's hydro and power authority says it logged a new record for peak hourly demand during the summer on Saturday night as residents try to keep cool during a massive heat wave.
+</P>
+<P>
+BC Hydro issued a statement saying preliminary analysis found demand hit 7,972 megawatts, up from the previous record of 7,897 set in August last year.
+</P>
+<P>
+It says the peak hourly demand is usually recorded on weekdays when customers follow a more routine schedule, which makes Saturday's record even more striking.
+</P>
+<P>
+The Crown utility says it expects demand to increase further as temperatures climb across the province, and predicts last night's record could be broken Monday.
+</P>
+<P>
+It's also assuring customers that BC Hydro's system can meet the additional demand and has taken steps to help keep people safe, such as cancelling the majority of planned outages and suspending disconnections for non-payment.
+</P>
+<P>
+Temperature records shattered
+</P>
+<P>
+A heat warning is in effect for most of B.C. as daily highs in many places are forecast to top 40 C, shattering numerous records for daily temperatures.
+</P>
+<P>
+Environment Canada expects temperatures to begin cooling on Tuesday.
+</P>
+<P>
+BC Hydro says closing drapes and blinds can block out heat. It also suggests opting for smaller appliances when cooking in order to save money and keep cool.
+</P>
+</TEXT>
+</DOC>

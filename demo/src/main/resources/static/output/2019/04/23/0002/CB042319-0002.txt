@@ -1,0 +1,180 @@
+<DOC>
+<DOCNO> CB042319-0002 </DOCNO>
+<DATE>
+<P>
+April 23, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+This is what happens to the e-waste you drop off for recycling; 
+</P>
+<P>
+A look at where your electronics and batteries go — and where they might end up
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Your Earth Day plans might call for some outdoor adventure, but don't go leaving your technology at home. Some of the eco-friendly events taking place across Canada might actually call for electronics — especially the broken stuff.
+</P>
+<P>
+Toronto's Comedy Bar is among those holding a technology drive this weekend. The comedy club's social media manager and drive organizer Jenna Warriner says she was inspired by the sheer amount of technology found around her home and the venue.
+</P>
+<P>
+"There's cords and wires and chargers," she said. "If we can all get on board [with properly disposing of our technology], imagine the difference that we can make."
+</P>
+<P>
+According to the Brussels-based Bureau of International Recycling, Canada generated 638,300 tonnes of "e-scrap" — electronic and electrical equipment — in 2017.
+</P>
+<P>
+And that amount is expected to climb. By 2025, the BIR estimates that Canada and the U.S. will cumulatively generate 9.25 million metric tons of e-scrap in that year alone.
+</P>
+<P>
+Some of this waste has yet to even make it out of our homes. You might be keeping that unused tech in a designated drawer; dead batteries might be hiding out of sight in old toys, packed away and forgotten.
+</P>
+<P>
+But what exactly differentiates e-waste from other junk anyway?
+</P>
+<P>
+What is e-waste?
+</P>
+<P>
+If you're about to trash something you used to plug in or turn on, you might be dealing with e-waste.
+</P>
+<P>
+E-waste includes electronic equipment that is no longer wanted or has reached its end-of-life. From refrigerators to smartphones to used batteries, e-waste piles up in our homes and in our landfills.
+</P>
+<P>
+Why can't I throw electronics in the garbage?
+</P>
+<P>
+E-waste is hazardous material. Over time, electronics can leak toxic elements, like mercury and lead, which can be harmful to the environment and to humans.
+</P>
+<P>
+Donating your electronics for reuse or recycling them at safely managed sites helps control the hazards.
+</P>
+<P>
+Recycling also allows reliable resources found in electronics — recyclable plastics and even gold — to be reclaimed.
+</P>
+<P>
+Let's scale the e-waste mountain
+</P>
+<P>
+So what should I do with my old electronics?
+</P>
+<P>
+Recycling an item is the last 'R' of reduce, reuse and recycle. So while it involves the proper disposal of toxic elements, experts note that dealing with e-waste actually starts at the beginning, with our consumption.
+</P>
+<P>
+Reuse programming — like Computers for Schools — seeks to extend the life of still-working electronics, especially when it comes to consumers upgrading to the newest models.
+</P>
+<P>
+Josh Lepawsky, a professor at Memorial University of Newfoundland, researches e-waste and where it goes. Though a lot of the waste from electronic products happens before it enters the consumer's hands, he explained that reusing a still-functional device is the best way to limit impact.
+</P>
+<P>
+"No recycling process [has] 100 per cent recovery, even the best ones," he said. "Conserving, for as long as possible, the energy and materials that have gone into the thing already made is really the best thing you can do with it."
+</P>
+<P>
+Tech thrift shops and organizations contribute to this goal. Independently operated Free Geek locations across Canada collect unwanted technology, which is then refurbished and circulated back to the public for free or at low cost.
+</P>
+<P>
+Some non-profits also run programming. The CNIB Foundation, for example, refurbishes and loads accessibility apps onto donated cellphones, which are then given to people affected by blindness. 
+</P>
+<P>
+
+</P>
+<P>
+If it's broken, where can I recycle it?
+</P>
+<P>
+Each province and territory has different options that leave the choice in your hands. The selection varies depending on your location. Some of these locations can include, but are not exclusive to:
+</P>
+<P>
+Municipal collection sites (like waste depots and recycling centres).
+</P>
+<P>
+Special collection events (like those arranged for Earth Day).
+</P>
+<P>
+Manufacturers or stores involved with "return to retail" (R2R) recycling initiatives, like Staples, Best Buy, and Canadian Tire. Some of them even offer gift cards as incentives.
+</P>
+<P>
+You might spy e-waste drop-off boxes, like these, at certain retail stores. Some stores partner with non-profits to collect e-waste items, such as batteries, for recycling. (Best Buy)
+</P>
+<P>
+And some non-profits provide a way for other parties, such as manufacturers and retailers, to manage their end-of-life products. The Electronic Products Recycling Association accepts a range of electronics which it may resell or recycle, for example, while Call2Recycle Canada mostly accepts batteries.
+</P>
+<P>
+'Wasted': Why recycling isn't enough when it comes to e-waste
+</P>
+<P>
+The collection, transportation and recycling costs are covered by a surcharge, called an eco-fee, that is paid when you first buy items like phones and batteries. The fee charged depends on the item and varies by province or territory. 
+</P>
+<P>
+Items accepted for recycling also change by location — even within the same organization. Check online or call before you head out to your nearest drop-off location. What's helpful is that many locations accept any brand of product, regardless of where you purchased it.
+</P>
+<P>
+What about my data?
+</P>
+<P>
+Recycling centres recommend properly wiping any personal data from your device and removing its SIM card before you bring it to a drop-off location. This includes drop-off buckets that you might see in retail stores, like Best Buy. Don't assume they'll do it for you. (Best Buy's Geek Squad offers to help erase your phone if you're unsure on how exactly to clear it properly.)
+</P>
+<P>
+Other companies, like Greentec, have secure data destruction in their mandate; they can also provide you with a certificate of destruction or even video proof of hardware shredding.
+</P>
+<P>
+How does the recycling process work?
+</P>
+<P>
+Each organization has its own method for recycling.
+</P>
+<P>
+Some items, like batteries, are separated and melted down into varying elements, such as lead and nickel. Powerful shredders can also break up electronics into a powder. In the end, some material can be sold back into the market.
+</P>
+<P>
+(It is illegal in Canada to export e-waste to developing nations.)
+</P>
+<P>
+Daisy, Apple’s recycling robot, can disassemble 15 different iPhone models at a rate of 200 per hour. Apple is also opening a material recovery lab to further research robotics and machine learning in order to improve the recycling process.  (Apple)
+</P>
+<P>
+In terms of where this material goes, Kate Parizeau, a waste management researcher at the University of Guelph, says that your recycled cellphone isn't necessarily turned into new one. Instead, it can end up in other products.
+</P>
+<P>
+"This is a chronic issue with our imaginations of waste," she said. "We think that there's a really cyclical process. But it's not the case."
+</P>
+<P>
+Recycling toxic e-waste in West Bank is a poisonous but primary source of incomeE-waste still being exported, says watchdog
+</P>
+<P>
+She explained that long manufacturing chains, like those at larger companies like Apple, make recycled material difficult to track, especially when that information is proprietary.
+</P>
+<P>
+Lepawsky echoed her sentiment. "It gets very complicated, very quickly in terms of where stuff goes," he said.
+</P>
+<P>
+He pointed to Electronics Product Stewardship Canada, whose member organizations publish annual reports, as a way to find out what happens to some of the material.
+</P>
+<P>
+And here's one example for you…
+</P>
+<P>
+Call2Recycle Canada operates a countrywide program for recycling batteries. The organization's president, Joe Zenobio, explained that our tech-heavy homes are inundated with batteries, which Call2Recycle attempts to divert from landfills.
+</P>
+<P>
+"The average household has about 80 to 100 batteries in it, between television remotes, garage door openers and power tools," he said. "Last year alone, we collected across Canada and recycled about three million kilograms."
+</P>
+<P>
+Since its inception, the program has collected more than 19 million kilograms of batteries (as of 2018).
+</P>
+<P>
+This is what a battery's journey looks like if you drop one off at one of Call2Recycle's partners.
+</P>
+<P>
+Helpful tip: Build a battery check into your schedule. Zenobio says Call2Recycle Canada recommends checking your home for old batteries, along with checking your smoke detectors, around the switch to and from daylight time. He says to start on the bottom floor and work your way up, checking cupboards, drawers and devices as you go.
+</P>
+<P>
+
+</P>
+</TEXT>
+</DOC>

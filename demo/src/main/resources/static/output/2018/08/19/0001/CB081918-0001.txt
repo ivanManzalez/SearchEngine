@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> CB081918-0001 </DOCNO>
+<DATE>
+<P>
+August 19, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How hydrogen could shake up Canada's energy sector; 
+</P>
+<P>
+It's not all talk as fuel cell vehicles hit the road and facilities begin producing hydrogen
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A few decades ago, there was hype around hydrogen because of how one day it may replace gasoline and diesel as the fuel most use to fill up their tanks. And while the use of hydrogen is still in its infancy, it's growing in Canada. 
+</P>
+<P>
+The potential is significant for how the most abundant element in the universe could change the country's transportation, electricity and energy sectors.
+</P>
+<P>
+The interest in hydrogen vehicles is largely because they are considered emission-free, with only water vapour coming out of the tailpipe.
+</P>
+<P>
+Toyota began investing in hydrogen back in the 1990s, and in 2014, unveiled its first fuel cell vehicle: the Mirai. The Quebec government will have 50 of those cars by the end of this year. Hyundai, meanwhile, will start selling its fuel cell SUV, the Nexo, in 2019. 
+</P>
+<P>
+In Canada, the vehicles face the same obstacle confronting electric cars — the need to build refuelling stations. That's why automotive experts say conventional gasoline-fuelled vehicles will dominate the Trans-Canada Highway for years to come.
+</P>
+<P>
+The first such retail hydrogen-fuelling station opened in June in Vancouver, but many more are needed to allow for normal commuting, let alone a summer road trip.
+</P>
+<P>
+Under the hood of one of these hydrogen vehicles, electricity is produced from the chemical reaction when hydrogen combines with oxygen. The electricity powers the engine and the only tailpipe emissions are water vapour. 
+</P>
+<P>
+Hydrogen heating
+</P>
+<P>
+For years, hydrogen fuel cells were hailed by scientists as a breakthrough technology to cut traffic pollution. Those same environmental benefits are why companies in other industries are also investing in hydrogen.
+</P>
+<P>
+Calgary-based companies ATCO and Enbridge are both spearheading separate projects aimed at using hydrogen to store electricity. 
+</P>
+<P>
+ATCO is building a new facility in Australia that produces electricity with solar panels and any excess energy is stored.
+</P>
+<P>
+"What it really does is it enables us to provide backup for our renewable business operations when you see the clouds or it's not windy," said Patrick Creaghan, head of ATCO's operations in Australia. "You're not seeing blackouts or brownouts."
+</P>
+<P>
+The solar electricity powers several buildings and charges a battery backup. The remaining electricity is used to separate water into hydrogen and oxygen through an electrolyser. The oxygen goes into the air, while the hydrogen is stored as electricity backup and also pumped into the company's natural gas distribution system for home heating or electricity production, among other uses.
+</P>
+<P>
+Just like in Alberta, ATCO has a large network of pipes in western Australia to supply natural gas to communities. 
+</P>
+<P>
+"I do look at the gas distribution network as equivalent to a battery, but a battery that is already connected to every house," Creaghan said. 
+</P>
+<P>
+The project is still in the early stages and the technology is still a few years away from being commercialized, according to the company.
+</P>
+<P>
+Hydrogen is already starting to be mixed with natural gas for home heating in the United Kingdom.
+</P>
+<P>
+If the whole of the U.K. uses blended hydrogen and natural gas, it's estimated it could save six million tons of carbon emissions every year, the equivalent of removing 2.5 million cars from the roads.
+</P>
+<P>
+The big disrupter
+</P>
+<P>
+One of the drawbacks of producing hydrogen is that whenever you convert one form of energy into another, some energy is lost.
+</P>
+<P>
+"It still remains to be seen whether the cost and efficiencies of producing hydrogen can be brought down to be viable on a commercial scale," said Nick Martin, a Toronto-based policy analyst with Canada West Foundation. "There's a lot of challenges out there in figuring out how can we use energy in a less environmentally impactful way. It's a big challenge, and hydrogen is one way to do that." 
+</P>
+<P>
+Last month, Enbridge began operating what the company calls the first major energy storage facility using hydrogen in North America. The facility in Markham, Ont., is a partnership with Hydrogenics. The power-to-gas facility was chosen by the Independent Electricity System Operator of Ontario since the facility can produce hydrogen when there is excess electricity production on the grid. That hydrogen can then be used to produce electricity when it's needed or be used for other purposes, such as fuel for hydrogen vehicles or building heating.
+</P>
+<P>
+Some provinces, like Alberta, are investing in large renewable energy projects, while also searching for ways to overcome the sporadic production of solar fields and wind farms. As it stands, traditional power plants are needed to make sure the electrical grid is reliable. Developing large utility-scale batteries could be one answer to the problem, while hydrogen may be another. 
+</P>
+<P>
+"I think it's part of this broader energy transition going on everywhere, and it's a combination of climate-driven policy pushing us toward cleaner options and costs — technology driving costs down," said Blake Shaffer, a Calgary-based economist and post-doctoral scholar studying climate policy and electricity markets at Stanford University.
+</P>
+<P>
+"We're getting this sort of disruption in what was really a pretty stable, monotonous electricity system for a long time. We're getting this disruption of cheap, intermittent renewables, so we're having to turn on our head the way we think about managing our system."
+</P>
+<P>
+Renewables have already started turning the electricity system upside down in North America. Resolving the reliability issue would overcome an important obstacle for further development, Shaffer said.
+</P>
+</TEXT>
+</DOC>

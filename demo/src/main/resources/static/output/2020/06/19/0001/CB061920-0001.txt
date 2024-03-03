@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> CB061920-0001 </DOCNO>
+<DATE>
+<P>
+June 19, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Racial inequality in Alberta, by the numbers; 
+</P>
+<P>
+From incarceration rates to persistent wage and employment gaps, here's what the statistics show
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A recent wave of protests regarding police brutality and systemic racism in Alberta has drawn attention to the persistent inequalities that Black and Indigenous populations face within the province.
+</P>
+<P>
+In small towns and big cities alike, the death of George Floyd in Minneapolis and the momentum of the Black Lives Matter movement have propelled thousands into the streets, marching for justice and an end to systemic racism.
+</P>
+<P>
+Here's what data from Statistics Canada shows about gaps in wages, employment and incarcerate rates for Black and Indigenous groups compared with the rest of the population.
+</P>
+<P>
+Across Canada, the wage gap between Black individuals and the rest of the population has been growing. 
+</P>
+<P>
+Black men and women living in Alberta's biggest cities make significantly less money than their non-Black counterparts.
+</P>
+<P>
+Black women and men in Calgary and Edmonton are between 1½ and 2 times more likely to be unemployed than the rest of the population.
+</P>
+<P>
+The same is true for Indigenous individuals, nationwide.
+</P>
+<P>
+And it persists nationally, even within groups that have achieved the same level of education.
+</P>
+<P>
+Black and Indigenous people are overrepresented in federal prisons when considering their share of the overall population. 
+</P>
+</TEXT>
+</DOC>

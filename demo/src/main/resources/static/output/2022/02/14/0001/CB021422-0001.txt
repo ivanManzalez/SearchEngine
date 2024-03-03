@@ -1,0 +1,165 @@
+<DOC>
+<DOCNO> CB021422-0001 </DOCNO>
+<DATE>
+<P>
+February 14, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Renewable natural gas could help slow climate change, but by how much?; 
+</P>
+<P>
+Also known as biomethane, it can reduce fossil fuel emissions, but warms the planet when it leaks
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of Our Changing Planet, a CBC News initiative to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+Renewable natural gas sounds like a great climate-change solution, and it's one that your local gas company may have offered you. But what is it, really?
+</P>
+<P>
+Here's a closer look at how it's made, the role it could play in slowing climate change, and why some people caution that investing too much in renewable natural gas (RNG) could actually be bad for the climate.
+</P>
+<P>
+What is renewable natural gas?
+</P>
+<P>
+Natural gas is a fossil fuel that's about 90 per cent methane — a chemical compound that's a powerful greenhouse gas, dozens of times more potent than carbon dioxide.
+</P>
+<P>
+Renewable natural gas is biomethane — methane that comes from biological sources, which could include landfills, sewage and food, agricultural or forestry waste.
+</P>
+<P>
+Because natural gas and renewable natural gas are practically chemically identical, they can be mixed, processed, stored, transported and used the same way. 
+</P>
+<P>
+According to Environment Canada, under Canada's Clean Fuels Regulation, RNG must:
+</P>
+<P>
+How can it benefit climate-change efforts?
+</P>
+<P>
+In two main ways:
+</P>
+<P>
+By displacing natural gas and other fossil fuels. Because renewable natural gas ultimately comes from plants that captured carbon during their lifetime, it's theoretically carbon neutral when it's burned. That allows it to decarbonize gas-fuelled trucks and industrial processes using existing infrastructure.
+</P>
+<P>
+Doug Slater, VP of external and indigenous relations at the gas company FortisBC, says that can even apply to furnaces in buildings.
+</P>
+<P>
+"The great thing about renewable gas is that our customers don't need to make any changes to their homes and businesses in order to use it," he said.
+</P>
+<P>
+By capturing methane from organic waste (such as landfills, manure and food waste) that would otherwise get released into the atmosphere and contribute to climate change. When it's burned instead of being released directly, methane is converted into water and carbon dioxide, a greenhouse gas with a much lower global warming impact than methane itself.
+</P>
+<P>
+Because of that, RNG has the potential to be not just carbon neutral, but carbon negative due to those "avoided emissions." 
+</P>
+<P>
+Vincent Morales, manager of legislative and regulatory affairs for the Coalition for Renewable Natural Gas, noted that methane from waste can represent more than five per cent of a country's greenhouse gas emissions:
+</P>
+<P>
+"RNG is the most viable solution to decarbonize waste," he said.
+</P>
+<P>
+Making RNG from waste through anaerobic digestion generates an additional product called digestate. It can be used as a fertilizer, potentially displacing synthetic fertilizers that can be carbon-intensive to produce.
+</P>
+<P>
+How is renewable natural gas made?
+</P>
+<P>
+By upgrading biogas. 
+</P>
+<P>
+This is how 90 per cent of biomethane is produced worldwide, according to the International Energy Agency (IEA). Biogas is a mixture of methane (which makes up 45 to 75 per cent of the content by volume) and other gases (mainly carbon dioxide) produced when plant or animal matter decomposes without oxygen. It's processed into RNG by removing most of the non-methane gases.
+</P>
+<P>
+However, biogas can be burned to generate electricity and power, so only a small percentage of the world's biogas — less than 10 per cent — was upgraded in 2018, the most recent year cited in an IEA report.
+</P>
+<P>
+Or, by thermal gasification of biomass
+</P>
+<P>
+Biomass, such as wood waste, is heated under high heat, pressure and low oxygen, breaking it down into syngas: a mixture of carbon dioxide, hydrogen and methane. The methane can then be separated out. A number of demonstration projects for this technology have been running across Canada, including ones in  Alberta,  B.C. and Quebec.
+</P>
+<P>
+The first commercial-scale plant in North America, built by FortisBC and REN Energy International, is expected to start producing RNG in Fruitvale, B.C., in the fall of 2022. 
+</P>
+<P>
+Is it really carbon neutral?
+</P>
+<P>
+While RNG is carbon neutral in theory, there are two reasons why it might not be in practice:
+</P>
+<P>
+Its carbon intensity depends on how it was produced. If it really eliminates emissions from waste and the process to produce it requires little energy and land, then it has a lower carbon intensity. However, some ways of producing RNG don't fit either of those criteria.
+</P>
+<P>
+It's methane, a greenhouse gas. "If it leaks into the atmosphere, it's the same as fossil [methane]," said Chris Bataille, a B.C.-based associate researcher with the Institute for Sustainable Development and International Relations (IDDRI), who researches decarbonization of the economy. And he noted that gas infrastructure is generally leaky.  
+</P>
+<P>
+Meanwhile, biogas production itself is estimated to leak up to 15 per cent of its methane, according to a 2020 study by Emily Grubert, an assistant professor of civil and environmental engineering at Georgia Institute of Technology.
+</P>
+<P>
+"Although RNG has lower climate impact than its fossil counterpart, likely high demand and methane leakage mean that it probably will contribute to climate change," she wrote in an article in The Conversation. She noted that's unlike zero-carbon solutions such as wind and solar energy, that are competing for investment. 
+</P>
+<P>
+Is RNG expected to make a contribution to getting the world to net-zero?
+</P>
+<P>
+It's expected to make a contribution, especially in areas that are difficult to decarbonize through electrification. The International Energy Agency cites these sectors as industrial high-temperature heating, petrochemical feedstocks, heavy-duty transport and maritime shipping.
+</P>
+<P>
+However, there isn't expected to be enough supply to replace current natural gas use.
+</P>
+<P>
+In Canada, a 2019 study for the Canadian Gas Association estimated that RNG produced from wet wastes could meet five-to-10 per cent of natural gas demand, said Richard Carlson, director of energy policy and energy exchange at Pollution Probe, an environmental research and advocacy group, in a 2020 webinar from the Pembina Institute.
+</P>
+<P>
+Gasification would be able to meet 12-to-50 per cent of demand, but the technology is still developing and hasn't reached commercial scale.
+</P>
+<P>
+Bataille thinks RNG can help the North American economy "bridge from where it is today to where it needs to go in the future." But because of the potential for leakage, he said, "It's not a final solution. It's not something that we can be on in [the year] 2100."
+</P>
+<P>
+Can anyone buy renewable gas?
+</P>
+<P>
+If you have natural gas heating and you live in B.C. or Ontario, you may be able to pay to have renewable gas added to the North American gas network. 
+</P>
+<P>
+The RNG is injected where it's produced, which may be in another province or country (so you personally won't get 100 per cent RNG even if you "paid" for it). However, it does displace the use of fossil methane in the system (equivalent to your usage, if that's your agreement with your gas company).
+</P>
+<P>
+WATCH | Vancouver's push of zero-emissions energy sources in buildings:
+</P>
+<P>
+Is it more expensive than regular natural gas?
+</P>
+<P>
+Yes, it can be double to 10 times the cost, according to data in a 2020 report produced by Pollution Probe for the Canadian Gas Association.
+</P>
+<P>
+Gas companies such as FortisBC generally have regulated rates. As of Jan. 1, 2022, FortisBC is charging $13.808 per gigajoule for biomethane, or roughly double the rate for regular natural gas. That means a homeowner using 90 gigajoules per year would pay about $103.56 a month instead of $51.06.
+</P>
+<P>
+The IEA said it expects the average global cost of biomethane production to fall 25 per cent by 2040, while the cost of natural gas is expected to rise, bringing the prices closer together.
+</P>
+<P>
+How is Canada encouraging the use of RNG?
+</P>
+<P>
+The federal government, as well as the Quebec, Alberta, and B.C. provincial governments, have helped fund a number of recent gasification pilot projects across the country.
+</P>
+<P>
+The federal government is also allowing some credits for the use of RNG by gasoline or diesel producers (for example, as a feedstock or fuel) under its Clean Fuel Regulations, which requires producers to reduce their carbon intensity over time.
+</P>
+<P>
+ There are also programs to encourage RNG use in some provinces:
+</P>
+</TEXT>
+</DOC>

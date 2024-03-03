@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO> CB111918-0001 </DOCNO>
+<DATE>
+<P>
+November 19, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Zero-emission rules mean fewer electric car choices for most Canadians: Don Pittis; 
+</P>
+<P>
+Without a national plan, ZEV mandates just change where electric vehicles are sold
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canadians trying to buy the electric vehicle of their choice in many parts of the country are finding it almost impossible — and a provincial strategy intended to get more green cars onto dealers' lots may actually make the problem worse.
+</P>
+<P>
+The strategy — called a zero-emission vehicle standard, or "ZEV mandate" — has already been imposed in Quebec.
+</P>
+<P>
+There are now widespread rumours that British Columbia could announce a similar scheme within days as part of a promise to help balance out the greenhouse gas deficit produced by the province's planned $40-billion liquefied natural gas plant in Kitimat.
+</P>
+<P>
+That sucking sound
+</P>
+<P>
+Unless the federal government moves ahead with a promised national ZEV mandate of its own quickly — something critics think is unlikely — green car advocates fear the provincial schemes will merely suck electric vehicles out of other parts of the Canadian market in order to beef up sales in B.C. and Quebec — without increasing the total national supply.
+</P>
+<P>
+That doesn't mean ZEV mandates aren't potent policy tools within the jurisdictions that impose them, says Dan Woynillowicz, policy director with Clean Energy Canada, a think-tank at Simon Fraser University.
+</P>
+<P>
+"California has been the pioneer with a zero-emission vehicle mandate," said Woynillowicz. "It's been very successful, and as a result more than a dozen other states, plus Quebec here in Canada, have adopted similar policies."
+</P>
+<P>
+Meant to influence the market without distorting it too much, ZEV rules differ from jurisdiction to jurisdiction. But in principle, ZEV standards have a single intent.
+</P>
+<P>
+"The standard seeks to spur the supply of zero-emission vehicles (ZEVs) and low-emission vehicles (LEVs) to afford … consumers access to greater numbers and a broader range of plug-in motor vehicles, which are the cleanest and the most technically advanced on the market," reads a Quebec government website.
+</P>
+<P>
+Despite a handy explanatory leaflet, ordinary car-buyers may find the complexities of the rules heavy. 
+</P>
+<P>
+But in essence, ZEV systems are put in place as an attempt to counterbalance market forces that have made selling internal combustion engine (ICE) cars more profitable for automakers than selling electrics. ​
+</P>
+<P>
+Please don't buy our cars
+</P>
+<P>
+The late Fiat Chrysler boss Sergio Marchionne once notoriously asked customers not to buy the company's battery-powered Fiat 500e because the business lost money on every one sold, although he reversed that view shortly before his death.
+</P>
+<P>
+While electrics are cheaper for consumers over the life of the car, automakers have been able to make more money selling cars manufactured in old plants using established technology. Dealer repair shops make more from combustion-engine vehicle maintenance since, by comparison, electrics have so few moving parts.
+</P>
+<P>
+What ZEV mandates do is force carmakers to increase the percentage of ZEVs and LEVs sold year after year. And if they fail to meet those rising quotas, it forces them to pay what the rules describe as a "royalty."
+</P>
+<P>
+That means the most profitable thing car companies can do in the short term is to hold steady the total supply of Canadian electric cars — and merely sell more of them in ZEV jurisdictions. In other words, in Quebec and in B.C.
+</P>
+<P>
+"Most electric vehicles that are earmarked for the Canadian market are likely be going to be going to those two provinces," said Woynillowicz.
+</P>
+<P>
+The federal government has considered a national plan, with a Transport Canada announcement last year going so far as to promise to develop a Canada-wide strategy to increase the number of ZEVs on Canadian roads "by 2018."
+</P>
+<P>
+But according to insiders, an advisory group that included carmakers and environmentalists became deadlocked and the group's report has not been released.
+</P>
+<P>
+Global shortage
+</P>
+<P>
+Industry representatives make it clear they don't like pressure from the sudden imposition of ZEV rules.
+</P>
+<P>
+David Adams, the president of the industry group Global Automakers of Canada, called the possibility of a ZEV scheme in B.C. "disconcerting," partly because there just aren't enough cars to go around.
+</P>
+<P>
+"The supply issue is a global issue that is going to be with us for two or three more years," he said in a recent interview.
+</P>
+<P>
+Ontario electric car expert Cara Clairman has a certain sympathy for an industry that has been surprised and overwhelmed by the demand for battery-powered vehicles.
+</P>
+<P>
+"To be honest, it's just so much cheaper," said Clairman, the CEO of Plug'n Drive, a non-profit organization sponsored by the electric and automotive industries that promotes electric cars. 
+</P>
+<P>
+The Toronto resident has driven her own Chevy Bolt to Montreal, Ottawa and Windsor.
+</P>
+<P>
+Clairman said she has noticed more cars being shipped to Quebec since the province adopted a ZEV mandate, but she also notes that places like California have electric cars she's never seen available in Canada.
+</P>
+<P>
+"Those jurisdictions with a ZEV mandate tend to get the supply when there's a limited number," she said.
+</P>
+<P>
+People shopping for an electric outside Quebec have found some cars — including the Volkswagen e-Golf and any of the Ford electrics — hard to come by. But some car companies — including Mitsubishi, whose Outlander plug-in-hybrid is billed as the world's best-selling electric SUV — planned ahead and currently has a plentiful supply on dealer lots.
+</P>
+<P>
+Companies that lead the way on producing enough electrics will win in the long run, Clairman said. But for others, it's possible the ZEV mandate is necessary to twist a few arms.
+</P>
+<P>
+"I think, for quite awhile, most of the automakers didn't want it because they said, 'We'll make sure the supply is there.' But if the supply isn't there, I think there becomes more and more public pressure to have a ZEV mandate."
+</P>
+<P>
+Follow Don on Twitter @don_pittis
+</P>
+<P>
+The 'ZEV mandate' versus the 'CAFE standard'
+</P>
+<P>
+Those with a passing familiarity with the rules to make cars less polluting may be confused between the ZEV mandate and the existing CAFE standard, which stands for "corporate average fuel economy," that U.S. President Donald Trump has moved to abolish. While the two sets of rules overlap in encouraging greater fuel efficiency, some experts, including those advising the State of California, say the ZEV does not replace the need for the CAFE. While the ZEV mandate gradually increases the percentage of zero and low-emission cars on the road, the CAFE standard requires greater efficiency in the entire fleet. "When we talk about a zero-emission mandate requiring one in three cars sold 12 years from now be electric, that means that even 12 years from now, two out of three being sold will have a gasoline engine," said Dan Woynillowicz. If that occurred, the majority of cars sold could include the highest polluting vehicles — so long as automakers find them profitable. In theory, said Cara Clairman, after many more years, you will have enough electric cars on the road that the effect would be the same. "But I don't think California would ever go for that," she said.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> CB120417-0001 </DOCNO>
+<DATE>
+<P>
+December 04, 2017
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Record cheap electricity is transforming world energy markets as Canada struggles to keep up: Don Pittis; 
+</P>
+<P>
+Radically new Alberta auction system will play a part in disrupting the global energy market
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A new world record price for electricity set earlier this month signals a radical disruption in global energy markets — and Canada, whose economy was once powered by some of the world's cheapest electricity, will not escape the effects.
+</P>
+<P>
+The new price, described by the news site Electrek as the cheapest electricity on the planet, was less than 2 cents per kilowatt hour, "part of a pattern marching to 1 cent per kWh bids that are coming in 2019 (or sooner)," the site declared.
+</P>
+<P>
+The record was not set in a place where energy is traditionally cheap. Nor is it from a traditional electricity source.
+</P>
+<P>
+Low bids
+</P>
+<P>
+The new low price of 1.7 cents per kilowatt hour was part of a contract between the Italian multinational ENEL Green Power and the Mexican government agency that administers the country's electricity wholesale market.
+</P>
+<P>
+It was just one of a series of low bids, including from Canadian Solar — the company founded by former Ontario Hydro engineer Shawn Qu — to make electricity. The low bid was for power from wind that is hitting records around world. 
+</P>
+<P>
+But the fact the power will come from an alternative source is only one part of a series of profound changes, including mass battery storage, that is in the process of shaking up the world energy market.
+</P>
+<P>
+As has so often been the case in the past, Alberta is on the leading edge of an energy experiment that is turning global — and Canadian — markets upside down.
+</P>
+<P>
+Within weeks, the Alberta Electric System Operator (AESO), which manages and operates the province's power grid, is expected to announce the results of a bidding process to create "5,000 MW of renewable electricity generation capacity connected to the Alberta grid between now and 2030."
+</P>
+<P>
+Pushing prices down
+</P>
+<P>
+The power will also come from wind, although prices will be more than double the record prices set in Mexico. But for the first time in Canada, the Alberta agency will use the same market auction system for creating green power that has helped push electricity prices down in Mexico and other places around the world.
+</P>
+<P>
+Some experts say the prices set in the Alberta bidding process could be as low as 5 cents per kilowatt hour. That's in the same range as the gold standard combined cycle natural gas power plant and just the beginning of a process that will use market forces to stimulate new efficiencies in Canada's electricity market as technology improves.
+</P>
+<P>
+Cost overruns at two Canadian hydroelectric stations now under construction, B.C's controversial Site C and Newfoundland's expensive Muskrat Falls, have drawn attention to an electricity system in transition.
+</P>
+<P>
+Electricity pricing in most of the world remains complicated, but (allowing for my inevitable mistakes of over-simplification) the principles are not.
+</P>
+<P>
+No end user, even in Mexico or Chile where prices have hit record lows, gets to buy electricity for less than 2 cents per kilowatt hour. Nor will Albertans pay the lowest prices resulting from the new bidding process.
+</P>
+<P>
+Instead, each new tranche of low-cost power is mixed into the basket of previously contracted electricity to make a composite price. Then, you at home pay that price, plus transmission fees and various other things tacked on to your bill.
+</P>
+<P>
+Disruptive pricing
+</P>
+<P>
+As market bidding structures expand beyond Alberta, the low bid prices will be crucial — and disruptive — for companies making the electricity.
+</P>
+<P>
+"What you're starting to see is a willingness or at least desire in Ontario to switch to a more market-based system," says Sarah Petrevan, Ontario electricity specialist with Vancouver based Clean Energy Canada. 
+</P>
+<P>
+Under the provincially owned and operated Ontario Hydro, low cost was often set aside in favour of other goals. For example, Petrevan says, when one includes start-up and decommissioning costs, nuclear power would be impossible to justify on a market-competitive basis.
+</P>
+<P>
+A recent report declared that B.C.'s Site C would not be cheaper than greener alternatives except for the $2 billion kill fee required to stop the project.
+</P>
+<P>
+Even Ontario's recent push toward green energy was not based on the lowest cost. Rather, it was an attempt to create a wind and solar industry during an industrial recession by offering high-priced long-term contracts.
+</P>
+<P>
+In its first contracts, Ontario was offering 80 cents per kWh, a price high enough to make the University of Calgary's Blake Shaffer briefly consider coming to the province to get a piece of the action. 
+</P>
+<P>
+Shaffer cut his teeth in electricity trading when BC Hydro started doing it in 1999, just before the California energy crisis. After seven years in B.C., Shaffer left to help set up the electricity trading desk at Lehman Brothers, and then Barclays in New York.
+</P>
+<P>
+Now finishing a doctorate, he has a ringside seat to Alberta's new green power bidding system.
+</P>
+<P>
+"I'm very curious to see what the price is in that auction," he says.
+</P>
+<P>
+Out-competing coal and gas
+</P>
+<P>
+Shaffer says that in order to be effective in an integrated power network with backup systems like gas and hydro, intermittent power sources like wind only have to fall below the price of the cheapest alternative. Carbon pricing gives wind an even greater advantage over gas.
+</P>
+<P>
+But with Mexico's under-two-cent power, even without the effects of carbon pricing, the argument from the fossil fuel industry that green power cannot stand alone no longer holds water.
+</P>
+<P>
+"It seems like at these prices, and that's what's really amazing about how low we're getting... is that, yeah, it can compete, even though battery technology is expensive these days," says Shaffer. "You can out-compete coal and natural gas at these levels."
+</P>
+<P>
+Follow Don on Twitter @don_pittis
+</P>
+<P>
+More analysis from Don Pittis  
+</P>
+</TEXT>
+</DOC>

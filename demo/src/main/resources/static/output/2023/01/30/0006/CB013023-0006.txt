@@ -1,0 +1,126 @@
+<DOC>
+<DOCNO> CB013023-0006 </DOCNO>
+<DATE>
+<P>
+January 30, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canadian team discovers power-draining flaw in most laptop and phone batteries; 
+</P>
+<P>
+Breakthrough explains major cause of self-discharging batteries and points to easy solution
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The phone, tablet or laptop you're reading this on is likely having its battery slowly drained because of a surprising and widespread manufacturing flaw, according to researchers in Halifax.
+</P>
+<P>
+"This is something that is totally unexpected and something that probably no one thought of," said Michael Metzger, an assistant professor at Dalhousie University. 
+</P>
+<P>
+The problem? Tiny pieces of tape that hold the battery components together are made from the wrong type of plastic.
+</P>
+<P>
+Batteries release power because of a chemical reaction. Inside each battery cell, there are two types of metal. One acts as a positive electrode and one as a negative electrode. 
+</P>
+<P>
+These electrodes are held in an electrolyte fluid or paste that is often a form of lithium. 
+</P>
+<P>
+When you connect cables to each end of the battery, electrons flow through the cables — providing power to light bulbs, laptops, or whatever else is on the circuit — and return to the battery. 
+</P>
+<P>
+Trouble starts if those electrons don't follow the cables.
+</P>
+<P>
+When electrons move from one charged side of the battery to the other through the electrolyte fluid, it's called self-discharge. The battery is being depleted internally without sending out electrical current.
+</P>
+<P>
+This is the reason why devices that are fully charged can slowly lose their charge while they're turned off.
+</P>
+<P>
+"These days, batteries are very good," Metzger said. "But, like with any product, you want it perfected. And you want to eliminate even small rates of self-discharge."
+</P>
+<P>
+Stress-testing batteries
+</P>
+<P>
+In the search for the perfect battery, researchers have to watch how each one performs over its full lifespan.
+</P>
+<P>
+"We do a lot of our tests at elevated temperatures these days. We want to be able to do testing in reasonable time frames," Metzger said. Heat makes a battery degrade more quickly, he explained.
+</P>
+<P>
+At Dalhousie University's battery lab, dozens of experimental battery cells are being charged and discharged again and again, in environments as hot as 85 C. 
+</P>
+<P>
+For comparison, eggs fry at around 70 C. 
+</P>
+<P>
+If researchers can learn why a battery eventually fails, they can tweak the positive electrode, negative electrode, or electrolyte fluid.
+</P>
+<P>
+Seeing red
+</P>
+<P>
+During one of these tests, the clear electrolyte fluid turned bright red. The team was puzzled.
+</P>
+<P>
+It isn't supposed to do that, according to Metzger. "A battery's a closed system," he said.
+</P>
+<P>
+Something new had been created inside the battery.
+</P>
+<P>
+They did a chemical analysis of the red substance and found it was dimethyl terephthalate (DMT). It's a substance that shuttles electrons within the battery, rather than having them flow outside through cables and generate electricity. 
+</P>
+<P>
+Shuttling electrons internally depletes the battery's charge, even if it isn't connected to a circuit or electrical device.
+</P>
+<P>
+But if a battery is sealed by the manufacturer, where did the DMT come from?
+</P>
+<P>
+Through the chemical analysis, the team realized that DMT has a similar structure to another molecule: polyethylene terephthalate (PET). 
+</P>
+<P>
+PET is a type of plastic used in household items like water bottles, food containers and synthetic carpets. But what was plastic doing inside the battery? 
+</P>
+<P>
+Tale of the tape 
+</P>
+<P>
+Piece by piece, the team analyzed the battery components. They realized that the thin strips of metal and insulation coiled tightly inside the casing were held together with tape.
+</P>
+<P>
+Those small segments of tape were made of PET — the type of plastic that had been causing the electrolyte fluid to turn red, and self-discharge the battery. 
+</P>
+<P>
+"A lot of companies use PET tape," said Metzger. "That's why it was a quite important discovery, this realization that this tape is actually not inert."
+</P>
+<P>
+Tech industry takes notice
+</P>
+<P>
+Metzger and the team began sharing their discovery publicly in November 2022, in publications and at seminars.
+</P>
+<P>
+Some of the world's largest computer-hardware companies and electric-vehicle manufacturers were very interested.
+</P>
+<P>
+"A lot of the companies made clear that this is very relevant to them," Metzger said. "They want to make changes to these components in their battery cells because, of course, they want to avoid self-discharge."
+</P>
+<P>
+The team even proposed a solution to the problem: use a slightly more expensive, but also more stable, plastic compound.
+</P>
+<P>
+One option is polypropylene, which is typically used to make more durable plastic items like outdoor furniture or reusable water bottles. 
+</P>
+<P>
+"We realized that it [polypropylene] doesn't easily decompose like PET, and doesn't form these unwanted molecules," Metzger said. "So currently, we have very encouraging results that the self-discharges are truly eliminated by moving away from this PET tape."
+</P>
+</TEXT>
+</DOC>

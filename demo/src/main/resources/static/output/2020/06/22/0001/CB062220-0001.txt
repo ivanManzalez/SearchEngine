@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CB062220-0001 </DOCNO>
+<DATE>
+<P>
+June 22, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Siberian town hits record 38C over weekend amid heat wave; 
+</P>
+<P>
+Heat wave contributing to severe forest fires burning more than 275,000 hectares
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A Siberian town with the world's widest temperature range has recorded a new high amid a heat wave that is contributing to severe forest fires.
+</P>
+<P>
+The temperature in Verkhoyansk hit 38 C on Saturday, according to Pogoda i Klimat, a website that compiles Russian meteorological data.
+</P>
+<P>
+The town is located above the Arctic Circle in the Sakha Republic, about 4,660 kilometres northeast of Moscow.
+</P>
+<P>
+The town of about 1,300 residents is recognized by Guinness World Records for the most extreme temperature range, with a low of -68 C to a previous high of 37.2 C.
+</P>
+<P>
+Much of Siberia this year has had unseasonably high temperatures, leading to sizeable wildfires.
+</P>
+<P>
+In the Sakha Republic, more than 275,000 hectares are burning, according to Avialesokhrana, the government agency that monitors forest fires.
+</P>
+</TEXT>
+</DOC>

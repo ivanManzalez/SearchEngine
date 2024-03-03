@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB081623-0002 </DOCNO>
+<DATE>
+<P>
+August 16, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Inflation jumped higher last month, to 3.3%; 
+</P>
+<P>
+Mortgage interest costs the biggest single factor in the increase
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada's inflation rate bucked its recent trend of slowing last month and instead rose at a 3.3 per cent annual pace in July, Statistics Canada said Tuesday.
+</P>
+<P>
+That was an increase from 2.8 per cent the previous month. Gas prices were a major factor pushing up the inflation rate, mostly due to what economists call the base effect.
+</P>
+<P>
+For most of the past year, gasoline has been a big factor dragging down the overall rate. But that's not happening as much now, because prices are up again. Pump prices increased by 0.9 per cent in July. The same month a year earlier, they declined by more than 9 per cent.
+</P>
+<P>
+Gas prices weren't the only type of energy bill that was a big factor in the inflation rate going up. The price of electricity skyrocketed in the past year, up by 11.7 per cent. That's more than twice the annual increase of 5.8 per cent clocked in June and the biggest reason for the uptick was a more than doubling of electricity bills in Alberta, which rose by 127.8 per cent in the year up to July.
+</P>
+<P>
+Grocery bills keep getting more expensive
+</P>
+<P>
+Food prices, another thing that has been driving up the cost of living, eased somewhat during the month, but they're still going up at an eye-watering pace.
+</P>
+<P>
+Grocery prices increased by 8.5 per cent in the year up to July. That's an easing from 9.1 per cent the previous month, but still three times the overall inflation rate.
+</P>
+<P>
+Not every grocery aisle is getting more expensive, or at the same rate. There was some relief in the produce section, with fresh fruit prices seeing their largest month-over-month decline since February 2008, down 6.5 per cent.
+</P>
+<P>
+The price of grapes plummeted by more than 40 per cent last month, Statscan says. 
+</P>
+<P>
+While a slowdown in how fast food prices are going up comes as some relief, it remains a crisis, which has prompted calls for drastic measures such as price caps on staple grocery items.
+</P>
+<P>
+Other countries, including France and Greece, have dabbled with implementing price controls, where retail prices for certain core items are capped at a certain level.
+</P>
+<P>
+Similar attempts at price controls in the 1970s had disastrous results, but some policy experts say it's an idea worth exploring, at least on a limited basis.
+</P>
+<P>
+"It's not the '70s anymore, our markets are different," said Vass Bednar, executive director of the Master of Public Policy Program at McMaster University in Hamilton. "We need to recognize that."
+</P>
+<P>
+While Bednar says she doesn't advocate for a heavy-handed cap on all types of food in perpetuity, she says it makes sense to look into policies that could ensure some basic necessities — baby formula, bread, certain fruits and vegetables — have at least some options that remain affordable.
+</P>
+<P>
+"We've actually already kind of had this policy by accident, when Loblaws froze their prices on their private label brand last year," she said.
+</P>
+<P>
+"If you're feeding a baby formula and you're on a fixed income, we need to have to have real conversations that are tough about whether and when to intervene in marketplaces to make sure items like that are accessible to people."
+</P>
+<P>
+Avery Shenfeld, an economist with CIBC, said he doesn't see the justification for price caps in Canada's grocery business, given the trends we're seeing beneath the surface.
+</P>
+<P>
+"I don't really think we're in need of that here," he said in an interview. "At the end of the day, the best method of fighting inflation isn't to try to pick one or two prices in the economy and intervene in them. It's really to control the pace of spending power [and] moderate growth a little bit."
+</P>
+<P>
+Food prices aren't the only thing getting more expensive, either. Mortgages have been another major pressure point in the increasing consumer price index of late, and that problem got worse in July, not better.
+</P>
+<P>
+Mortgage interest costs have increased by 30.6 per cent in the past year. That's another record year-over-year gain, and the largest single factor in the increase in the overall inflation rate.
+</P>
+</TEXT>
+</DOC>

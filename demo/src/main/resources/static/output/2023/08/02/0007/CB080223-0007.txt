@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> CB080223-0007 </DOCNO>
+<DATE>
+<P>
+August 02, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Despite Quebec's new Airbnb legislation, illegal listings continue to flood site; 
+</P>
+<P>
+Hosts still using bogus licence numbers; government, Airbnb clash on who should enforce rules
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Quebec promised in June to tighten the screws on short-term rental platforms like Airbnb, but the number of illegal listings on the site is still on the rise — and some hosts are becoming increasingly creative in their ways to circumvent the law.
+</P>
+<P>
+Following a deadly March fire in an Old Montreal heritage building that killed seven people — including six staying in Airbnbs — Airbnb said it would pull listings in Quebec that don't have a permit from the provincial government. 
+</P>
+<P>
+While listings without a licence number no longer showed availability, and about half the ads in Montreal were taken off the site, several hosts began entering bogus registration numbers to get around the restrictions, according to data from the monitoring site Inside Airbnb. 
+</P>
+<P>
+In June, Quebec passed a new law — many provisions of which will only come into force in September — that will force Airbnb and other short-term rental platforms to crack down on unauthorized listings or face hefty fines. 
+</P>
+<P>
+Still, Radio-Canada has found Airbnb remains flooded with illegal ads. 
+</P>
+<P>
+Many hosts are continuing to use fake registration numbers, such as 0, 12345 or even 1111111111. As of Tuesday, there were still around 50 ads using the 12345 licence number in Montreal. In March, there were 29 ads in the city using 123456.
+</P>
+<P>
+Some hosts are also using their own telephone numbers, encouraging people to write to them directly for shorter stays or reusing valid licence numbers for multiple properties.
+</P>
+<P>
+Quebec, Airbnb shift accountability onto each other
+</P>
+<P>
+Under Quebec's new legislation, platforms like Airbnb will be responsible for ensuring that accommodations displayed on their site comply with the law or risk fines of up to $100,000 per illegal listing.
+</P>
+<P>
+While Airbnb says it agrees with the changes made to provincial regulations (although the requirement for platforms to verify the validity of the registration numbers is not yet in effect), a spokesperson for the company says Quebec hasn't provided it with the tools to comply with the law. 
+</P>
+<P>
+Airbnb says it's impossible for the company to verify whether the government-issued PDF registration certificate submitted by the host has been faked or altered. The company says it can only see if the number displayed by the host on the Airbnb site matches the one on the PDF document.
+</P>
+<P>
+The company says Quebec should therefore provide it with a regular database of valid registration numbers, or access to this data via an API (application programming interface).
+</P>
+<P>
+WATCH | How to know if your Airbnb is illegal:
+</P>
+<P>
+Meanwhile, Quebec's Tourism Ministry argues that Airbnb can ensure the authenticity of the registration number, since a digital seal will be applied to the PDF document by the Infrastructure à clés publiques gouvernementale (ICPG), the Quebec government's certification service.
+</P>
+<P>
+An electronic verification system using an API, as well as a verification portal, will be put in place shortly, the ministry says.
+</P>
+<P>
+In the meantime, Airbnb will need to use the PDF registration certificate for verification purposes.
+</P>
+<P>
+Tourism minister says Airbnb will have tools it needs
+</P>
+<P>
+According to an Airbnb spokesperson, it is already possible for the Quebec government to check and delete non-compliant ads in a few clicks using the company's City Portal.
+</P>
+<P>
+This site enables government or municipal authorities to sort through the various ads and automatically delete those that don't comply with the rules. Using the portal would allow Quebec to retain control of its data, the spokesperson said. 
+</P>
+<P>
+However, Quebec Tourism Minister Caroline Proulx on Tuesday said that Airbnb is trying to absolve itself of its obligations.
+</P>
+<P>
+"It's like you were the owner of a bar and you said, 'Well, it's not up to me to check that the client is 18 years old when they enter the bar; it's the responsibility of the police,'" she said. 
+</P>
+<P>
+"Airbnb needs to focus on making their system adequate, rather than repeating ad nauseum that they can't do it. I expect them to obey the law like any good corporate citizen. They will have all the tools in hand to do so."
+</P>
+</TEXT>
+</DOC>

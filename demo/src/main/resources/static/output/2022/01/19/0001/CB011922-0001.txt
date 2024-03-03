@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> CB011922-0001 </DOCNO>
+<DATE>
+<P>
+January 19, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+N.S. Public Health no longer issuing potential exposures; 
+</P>
+<P>
+Province says it no longer has the 'necessary information' to report accurate exposure sites
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Nova Scotia will not be issuing COVID-19 exposures notifications going forward.
+</P>
+<P>
+In a news release, the province said it no longer has the "necessary information" to report exposure sites accurately.
+</P>
+<P>
+"Most Nova Scotians who are positive for COVID-19 will identify and contact their close contacts," Public Health said in a release on Jan. 19.
+</P>
+<P>
+The province said the Omicron variant is widespread throughout the province and the risk of transmission is high everywhere.
+</P>
+<P>
+The exposures below are the last remaining notifications.
+</P>
+<P>
+Flight exposure notices
+</P>
+<P>
+Exposure notifications were issued for the following flights. Anyone who was on the following flights in the specified rows and seats should book a COVID-19 test on the self-assessment website or by contacting 811, regardless of whether they have COVID-19 symptoms. 
+</P>
+<P>
+All other passengers on this flight should continue to self-isolate as required and monitor for signs and symptoms of COVID-19.
+</P>
+</TEXT>
+</DOC>

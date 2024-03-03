@@ -1,0 +1,4 @@
+DocNo   : CB100120-0001
+ID      : 1170
+Date    : 01 October 2020
+Headline: How to interpret COVID-19 disease models and projections; Governments are releasing projections of how many people could die from COVID-19. But how accurate are they?

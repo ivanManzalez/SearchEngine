@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> CB111318-0001 </DOCNO>
+<DATE>
+<P>
+November 13, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Climate change will heat up cities and rural areas differently; 
+</P>
+<P>
+Design can mitigate daytime urban warming, but has minimal effect on nighttime
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Climate change isn't the only thing that will be heating up cities in the future — urbanization hikes temperatures too.
+</P>
+<P>
+A new study led by a University of Guelph researcher looks at how climate change will affect urban and rural areas differently, finding both good news and bad news.
+</P>
+<P>
+The good news, according to the study led by Scott Krayenhoff, an assistant professor of environmental sciences at the Ontario University, is that climate change appears to reduce the temperature boost from urbanization, known as the "urban heat island effect."
+</P>
+<P>
+The bad news is the combined heating effects of climate change and urbanization can't be cancelled out by adapting urban design for a warmer climate, especially when it comes to nighttime warming, says a report on the study published this week in Nature Climate Change.
+</P>
+<P>
+You've probably heard of the "urban heat island" effect. It's caused by the fact that urban building materials like asphalt, concrete and brick soak up more heat during the day than grass and trees, and release it in the late afternoon and evening, hiking temperatures around 2 C to 3 C at those times of day.
+</P>
+<P>
+That means urban areas are warmer than rural areas even in the absence of climate change.
+</P>
+<P>
+Krayenhoff wanted to know what would happen if you added the urban heat island effect to climate change — would they add up as expected?
+</P>
+<P>
+He and colleagues at Arizona State University, where he was previously a postdoctoral researcher, ran some simulations assuming that greenhouse gas emissions linked to climate change continue to rise as they have been rising. That's expected to boost temperatures an average of 4 or 5 C in U.S. cities by 2090 to 2099.
+</P>
+<P>
+The simulations showed that temperatures did increase quite a bit, but about 0.5 C less than might be expected than if you simply added the climate change and urbanization warming.
+</P>
+<P>
+"Compared to the actual effect of climate change or even the urban warming, this is a small cooling effect. But it's there," he said, adding that it's consistent with the findings of a previous global, but less detailed study.
+</P>
+<P>
+That kind of effect hasn't yet been detected in the real world, he acknowledged, but he expects that people will now try to look for it. He's not sure exactly what causes it, but said it somehow has to do with less heat being stored during the day and released at night during a warmer future compared to what happens now.
+</P>
+<P>
+Green roofs, building materials
+</P>
+<P>
+He and his colleagues wondered whether it's possible to design urban areas to mitigate the heating from both effects. For example, roofs could be built with reflective materials that bounce solar energy back into space or covered in plants and soil that collect rainwater and use the sun's energy to evaporate the water instead of absorbing it as heat. And cities could plant more trees along streets to reduce the amount of heat stored by roads.
+</P>
+<P>
+They found that if those measures were applied consistently across entire cities while cutting greenhouse gas emissions to reduce climate change, daytime temperatures could be kept in check.
+</P>
+<P>
+Unfortunately, when it came to nighttime temperatures, "any of the strategies we tried and all of them in combination can't offset warming due to climate change and urban development," Krayenhoff said.
+</P>
+<P>
+The only things that made a small difference to nighttime temperatures were green roofs, and switching from building materials like concrete, brick and asphalt to materials that don't absorb heat well, such as wood, adobe or artificial turf. But Krayenhoff said the researchers wouldn't necessarily promote the use of those materials yet, as they have other effects, such as boosting daytime temperatures.
+</P>
+<P>
+Krayenhoff said the take-home message is we need to do what we can to reduce emissions and therefore climate change.
+</P>
+<P>
+Otherwise, "the impacts on simply livability and health and energy use could be very large, and no matter how well we design our cities, they might be to a certain degree very warm and therefore unhealthy."
+</P>
+<P>
+The study was funded by the U.S. National Science Foundation, the Urban Water Innovation Network and Arizona State University.
+</P>
+</TEXT>
+</DOC>

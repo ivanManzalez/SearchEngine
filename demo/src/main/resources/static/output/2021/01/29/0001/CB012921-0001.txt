@@ -1,0 +1,201 @@
+<DOC>
+<DOCNO> CB012921-0001 </DOCNO>
+<DATE>
+<P>
+January 29, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Natural gas vs. methane: How the name influences our view of this fossil fuel; 
+</P>
+<P>
+Also: What is the 'Greta Thunberg effect'?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+Natural gas vs. methane: How the name influences our view of this fossil fuel
+</P>
+<P>
+Natural gas has been touted as an energy source with lower emissions compared to coal and other fossil fuels, but its environmentally friendly image might have more to do with its name than anything else.
+</P>
+<P>
+While the term "natural gas" goes back to the Industrial Revolution, a recent survey shows it has a measurable effect on how consumers perceive this fossil fuel today.
+</P>
+<P>
+Natural gas is "a flammable gas occurring naturally underground, consisting chiefly of methane," according to the Oxford English Dictionary.
+</P>
+<P>
+It's a major energy source in Canada, providing close to half of the energy used in Canadian homes and about one-third of all energy used in the country, according to Statistics Canada.
+</P>
+<P>
+It's also increasingly a subject of debate as a way to reduce household emissions, with the United Kingdom proposing a ban on gas boilers in new homes, given the lower-carbon options now available.
+</P>
+<P>
+While humans have known about a flammable gas in the ground for thousands of years, the first known use of the term "natural gas" didn't come until 1825, said Trish Stewart, a science editor at the OED.
+</P>
+<P>
+It was linked to the arrival at the time of another energy innovation: manufactured gas, which was made by combusting coal, oil and other products. By the 1820s, manufactured gas was being made in gasworks near some urban centres, including London and Baltimore, Md., lighting city streets with gas lamps.
+</P>
+<P>
+That's also when a village on the shores of Lake Erie, Fredonia, N.Y., was first lit with what an 1828 article called "natural gas lights" from "burning springs" nearby.
+</P>
+<P>
+Two emerging technologies meant two different terms, said Stewart. "So there's this distinction between gas that you have to … make out of coal and this gas that comes straight from the ground."
+</P>
+<P>
+But "natural" has more than a dozen shades of meaning beyond "not manufactured," stretching back to middle English, said Stewart. Centuries before any eco-branding, many of these definitions already carried a positive sense of something innate, right or "free from affectation."  
+</P>
+<P>
+"There's that idea that what is natural is somehow superior to perhaps what is made by humans," she said.
+</P>
+<P>
+A recent study by the Yale Program on Climate Communications shows how that perception plays out today. They surveyed nearly 2,000 American adults on what they felt and associated with four terms: "natural gas," "natural methane gas," "methane" and "methane gas."
+</P>
+<P>
+Even though natural gas is 70 to 90 per cent methane, said Karine Lacroix, a Canadian researcher and postdoctoral associate with the program, the responses were starkly different.
+</P>
+<P>
+Overall, the survey found associations with natural gas were positive, and linked to cooking, heating and notions of clean, eco-friendly energy. Not so for methane.
+</P>
+<P>
+"The number one answer was cows, and cow farts," said Lacroix. "That association with cows, it went even further, because quite a few people mentioned global warming when they heard about methane gas."
+</P>
+<P>
+Cow farts and burps do release methane, a potent greenhouse gas. But fossil fuels, including natural gas, are responsible for nearly as much if not more of the methane in the atmosphere compared to agriculture, according to estimates from the International Energy Agency and NASA.
+</P>
+<P>
+While survey respondents saw the link between the term methane and greenhouse gas emissions, it was largely missing for natural gas, said Lacroix.
+</P>
+<P>
+"If we could correct that misperception, perhaps people would think twice about their energy choices," she said.
+</P>
+<P>
+Burning natural gas produces lower emissions than other fossil fuels, which is why the Canadian Association of Petroleum Producers makes a case that it has a climate advantage, especially compared to coal-fired power — as does a report from the Intergovernmental Panel on Climate Change.
+</P>
+<P>
+But there is uncertainty to that advantage when you factor in methane leaks during production. Numerous studies have modelled how burning more natural gas will make it harder to meet climate targets.
+</P>
+<P>
+"This is a very divisive issue," said Michael Ross, a political scientist at UCLA who works on climate change and natural resources.
+</P>
+<P>
+"I think energy analysts were rightly concerned that our dependence on coal would be replaced by a dependence on natural gas, which is a little bit better, but not nearly enough of an improvement to really protect us from catastrophic climate change."
+</P>
+<P>
+— Lisa Johnson
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+Olivia Coombe, a new subscriber to the newsletter, had this to say:
+</P>
+<P>
+"I noticed you're using the 'climate change' term for our current Global Warming Extinction Event. I understand the climate change term was coined by the fossil fuel industry in an attempt to make what's happening seem more like part of the natural cycle of climatic shifts, implying changes that could be both good and bad, depending on region. I believe this leads some people/policymakers to incorrectly assume that global warming could lead to positive impacts for Canada (i.e. more accommodating temperate weather in mid and northern latitudes). When, in reality, our planet is at a crucial tipping point and if we don't stop/reverse this process immediately, we are likely to desertify our planet, causing it to lose the ability to sustain complex abundant life….
+</P>
+<P>
+"So rather than 'climate change,' I feel like we should be using terms like 'the Climate Emergency' and 'The Great Extinction' to convey to folks the seriousness of the threat ahead of us. Just a thought!"
+</P>
+<P>
+Write us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+There's also a radio show! We're in the thick of winter, and keeping cozy at home often comes with a big carbon footprint. This week, join What on Earth host Laura Lynch as she looks at the role of home heating on emissions and what solutions are available to individuals and communities. Listen to What on Earth on CBC Radio One on Sunday at 12:30 p.m., 1 p.m. in Newfoundland, or any time on podcast or CBC Listen.
+</P>
+<P>
+The Big Picture: The Greta Thunberg effect
+</P>
+<P>
+Back in August 2018, a Swedish teenager concerned about the future of our planet began a solitary protest by skipping classes in order to criticize government inaction on climate change. She also said she would give up air travel to help reduce carbon emissions. Through her idiosyncratic activism, Greta Thunberg became a global force in the climate movement. In 2019, she inspired millions of youth across the world to take to the streets for climate strikes, and was consequently named Time's Person of the Year. But Thunberg's advocacy has led to more than just accolades — it has actually had a demonstrable effect on people's willingness to take action themselves. A new study explored the "Greta Thunberg effect" in the U.S. and found that people with greater familiarity with the climate striker "have higher intentions of taking collective actions to reduce global warming." It's evidence that on the environmental front, one individual's clear (and persistent) advocacy — rather than their personal habits — has the power to change other people's behaviour.
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+A Toronto startup called ALT TEX wants to turn your food waste into sustainable clothing. The company recently won a $10,000 prize in a pitch competition for its idea to chemically regenerate food waste into a bioplastic used to create biodegradable, polyester-like fibres. ALT TEX says that just one shirt made of its carbon-neutral fibre could save nine kilograms of carbon emissions. 
+</P>
+<P>
+U.S. President Joe Biden has announced that he will replace the nearly 650,000 vehicles in the federal government's automobile fleet with electric ones. Biden didn't provide a timeline for this transition, but emphasized that the vehicles will be manufactured in the U.S.
+</P>
+<P>
+Researchers have identified more than 100 deep-sea coral reefs, some of which live more than two kilometres below the ocean's surface and can only be visited by special submarines. These reefs, described by the researchers as "rainforests of the seas," are among the most vulnerable on Earth. That's because they lie in international waters where no single country has jurisdiction over them, and where they can be subject to bottom fishing and trawling.
+</P>
+<P>
+Doomsday Clock hovers close to midnight, as experts warn of 'crossroads' on climate change
+</P>
+<P>
+This week, the Bulletin of the Atomic Scientists announced that the 2021 Doomsday Clock remains unchanged from its 2020 spot, at 100 seconds to midnight. But experts warn the world is at a turning point.
+</P>
+<P>
+"The Doomsday Clock continues to hover dangerously, reminding us about how much work is needed to push the hands away from midnight," said Rachel Bronson, president and CEO of the Bulletin of the Atomic Scientists at Wednesday's announcement.
+</P>
+<P>
+The clock, introduced in 1947, is a symbolic representation of how close humanity is to destroying civilization. It is maintained by a group of experts with the bulletin, a non-profit organization tracking manmade threats. 
+</P>
+<P>
+Typically, the group moves the hands forward or back each year, depending on how vulnerable the world is. Midnight represents a catastrophe. Last year, the clock was set to 100 seconds to midnight, the closest to midnight it has ever been.
+</P>
+<P>
+Experts said at Wednesday's announcement that the coronavirus pandemic is an example of how governments and organizations are not ready for global emergencies.
+</P>
+<P>
+"We recognize that humanity continues to suffer as the COVID-19 pandemic spreads around the world. The pandemic will recede eventually," said Bronson.   "Still, the pandemic serves as a historic wake-up call." 
+</P>
+<P>
+She said it's a vivid illustration that national governments and international organizations are not prepared to manage complex and dangerous challenges, including nuclear weapons and climate change, which pose existential threats to humanity. 
+</P>
+<P>
+The pandemic also sparked what the World Health Organization calls an "infodemic," an overabundance of information that "includes deliberate attempts to disseminate wrong information to undermine the public health response and advance alternative agendas of groups or individuals." 
+</P>
+<P>
+A statement published by the Bulletin of the Atomic Scientists on Wednesday said, "The COVID-19 pandemic and its accompanying infodemic have become intertwined with critical uncertainties regarding science, technology and crisis communications."
+</P>
+<P>
+The statement also noted the effects of climate change around the world in 2020, including massive wildfires in North America and Australia and rising sea levels and melting sea ice and glaciers. 
+</P>
+<P>
+The group of experts who are part of the non-profit organization emphasized in their statement that 2020 also saw accelerating nuclear programs in multiple countries, which "moved the world into less stable and manageable territory."
+</P>
+<P>
+In making their decision, the Bulletin of Atomic Scientists also recognized that there were some positive developments.
+</P>
+<P>
+One of them was the election of U.S. President Joe Biden, who recognizes climate change is a global threat and has already committed to having the U.S. rejoin the Paris agreement on climate change.
+</P>
+<P>
+Those moves, among others, led the bulletin to keep the arms of the Doomsday Clock at 100 seconds to midnight, as they believe there hasn't yet been enough progress to justify moving the clock further away from midnight. 
+</P>
+<P>
+"We are at a very dangerous crossroads," said Susan Solomon, science and security board member with the Bulletin of the Atomic Scientists and the Lee and Geraldine Martin professor of environmental studies at the Massachusetts Institute of Technology.
+</P>
+<P>
+"It's the choices that are just about to come that will determine our path."
+</P>
+<P>
+— Stephanie Dubois
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> CB073021-0001 </DOCNO>
+<DATE>
+<P>
+July 30, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Climate tipping points are difficult to predict. In Canada and beyond, they might have already arrived; 
+</P>
+<P>
+Recent extreme weather suggests the climate is no longer changing in a gradual, predictable way
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Scientists have been watching extreme weather events unfold all over the world this summer, seeing the many links between heatwaves, floods, droughts and climate change. 
+</P>
+<P>
+But the scale of some of these events, and just how dramatically they have upended previous records, suggests that the climate is no longer changing in a gradual, predictable way.
+</P>
+<P>
+Deadly heat waves and other wild weather are putting renewed attention on tipping points  — the idea that major shifts to key ecosystems, such as Greenland's ice sheets or the Amazon rainforest, can cause large, irreversible changes to the planet's climate balance. 
+</P>
+<P>
+"Tipping points are large-scale changes that could happen abruptly and could be potentially irreversible," said Owen Gaffney, an analyst at the Stockholm Resilience Centre, a research institute
+</P>
+<P>
+WATCH | Smog warnings might become the norm. How do we protect ourselves?
+</P>
+<P>
+He co-authored a 2019 article in the journal Nature that listed nine tipping points around the world that scientists are watching with growing concern. A prime example is the ice-sheets in parts of Antarctica and Greenland. Rather than gradually shrinking as the climate warms, research suggests the sheets could hit points of no return leading to rapid and irreversible ice loss  — and a corresponding rise in global sea levels.
+</P>
+<P>
+In Greenland, models suggest the "ice sheet could be doomed at 1.5 C of warming, which could happen as soon as 2030," the report said.
+</P>
+<P>
+In Canada, the trends are worrying. This summer, various parts of British Columbia saw temperature records broken during the heatwave in June, notably the town of Lytton, which set the record for the hottest temperature ever recorded in Canada at 49.6 C — a remarkable 5.2 C increase over Lytton's previous heat record (which was also a record for B.C.) in 1941.
+</P>
+<P>
+"The analogy that scientists used to use is that as you warm the climate, it is like loading a pair of dice. And so now when you roll the dice, you get more sixes than you would have before," said Simon Donner, a professor at the University of British Columbia who studies climate science and public policy. 
+</P>
+<P>
+"But what we've been seeing this summer isn't a six, it's like a seven or eight, something that wasn't possible with the old dice."
+</P>
+<P>
+A study examining how much of the heatwave on the west coast could be attributed to human-caused climate change by a group of international scientists suggested that one explanation for the high temperatures could be "​​nonlinear interactions in the climate."
+</P>
+<P>
+Rather than gradual increases in temperature extremes, this theory suggests that the present amount of climate change is causing bigger-than-expected increases in extreme heat due to interactions in the climate system that are not fully understood.
+</P>
+<P>
+And that raises questions about what cities and communities need to do to adapt to a future climate that looks increasingly uncertain. 
+</P>
+<P>
+Tipping points may have been already reached
+</P>
+<P>
+An international group of climate scientists are now warning that there is "mounting evidence that we are nearing or have already crossed tipping points associated with critical parts of the Earth system." In a paper published in the journal BioScience on July 28, researchers pointed to the West Antarctic and Greenland ice sheets, warm-water coral reefs, and the Amazon rainforest as climate systems that were possibly nearing or had already reached their tipping point.
+</P>
+<P>
+The paper tracked 31 key climate variables, such as global emissions and tree cover loss and found that 18 are at all-time records. That includes the three important greenhouse gases, carbon dioxide, methane and nitrous oxide, which reached new records for atmospheric concentrations in both 2020 and 2021.
+</P>
+<P>
+Given the impacts we are seeing at roughly 1.25 C of global warming, "combined with the many reinforcing feedback loops and potential tipping points, massive-scale climate action is urgently needed," the paper said.
+</P>
+<P>
+Paul Ritchie, a mathematician and climate scientist at the University of Exeter in the U.K., researches where those tipping points lie and how far we can overshoot some of them while still being able to recover. Certain changes, such as the loss of ice sheets, have a relatively long timescale, Ritchie said, occurring over many centuries.
+</P>
+<P>
+"But then there are these other elements... where these can happen over much shorter timescales, maybe years or decades," he said. 
+</P>
+<P>
+"So pretty much as soon as we go over these particular thresholds, we might instantly know because we have this sudden loss of the Amazon rainforest or the monsoon suddenly stops operating."
+</P>
+<P>
+Both events would have devastating consequences. Millions of people rely on the monsoons for agriculture, while the Amazon's loss could release even more carbon and accelerate global warming.
+</P>
+<P>
+Adaptation still possible, but Canada not there yet
+</P>
+<P>
+Canada announced a plan to develop a national adaptation strategy in December 2020. But experts warn the country is not ready for the climate we have now, and needs to move fast to respond to the future.
+</P>
+<P>
+"The reality is that we should assume that we're not going to meet that [Paris Agreement] target of 2 C," said Gordon McBean, a professor at the Western University in London, Ont., of the global deal to reduce carbon emissions to stop the worst impacts of climate change. 
+</P>
+<P>
+McBean was the lead investigator on a report for the federal government earlier this year on building community resilience to climate change.
+</P>
+<P>
+His report found that while many cities have high level plans to address climate change, others still lack detailed implementation strategies or funding. 
+</P>
+<P>
+"Most actions to build community resilience in Canada are unplanned and take place in recovery following an extreme loss event," the report said.
+</P>
+<P>
+As average temperatures rise in linearly fashion, the number of extreme weather events increases more dramatically, McBean said. "An adaptation strategy has to take into account not just future projections of weather, but also future projections of greenhouse gas emissions, and the chance that the rest of the world will not meet its emissions reduction goals."
+</P>
+<P>
+Recent heat domes and tornados are examples of the kinds of events that will happen more often in the future, he said.
+</P>
+<P>
+With the climate set to continue to change for years to come, and new information coming out about the dangers of tipping points that could lead to extreme weather that's unforeseen, adaptation has become more urgent.
+</P>
+<P>
+McBean said there's enough information available now to start planning for that uncertain future, and make communities more resilient.
+</P>
+<P>
+"It's not saying we failed. It's saying here's what we need to do," he said.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,93 @@
+<DOC>
+<DOCNO> CB052319-0002 </DOCNO>
+<DATE>
+<P>
+May 23, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Sea levels could rise by up to 2 metres by 2100, new study finds; 
+</P>
+<P>
+Research looks at various climate scenarios, but the worst case could displace millions of people
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Sea levels could rise by as much as two metres by 2100 in a worst-case scenario involving melting ice caps and high CO2 emissions, a new study suggests.
+</P>
+<P>
+The research released earlier this week points to a possible impact considerably higher than estimates made by the Intergovernmental Panel on Climate Change (IPCC) in 2014 that suggested a one-metre rise in sea levels by the end of the century.
+</P>
+<P>
+"Sea level rise numbers are in flux, and they've generally been trending upwards since the Fifth Assessment Report of the IPCC because we've been learning more about the potential modes of instability in the Antarctic ice sheets in particular," said Robert Kopp, co-author of the study and a professor at the department of Earth and planetary sciences at Rutgers University in New Brunswick, N.J.
+</P>
+<P>
+One of the most difficult things to forecast in this changing climate is the estimates of sea level rise. There are various contributors to rising seas, including thermal expansion (oceans will expand and become less dense as they warm) and melting ice caps and glaciers.
+</P>
+<P>
+How fast those glaciers and ice caps melt is a big unknown. Recent studies have suggested that the West Antarctic is losing far more ice than ever before. But scientists are beginning to gain additional knowledge.
+</P>
+<P>
+The new  study, published on Monday in the Proceedings of the National Academy of Sciences, used a method called structured expert judgment (SEJ), where scientists make predictions based on their research and knowledge of what is happening in Greenland and Antarctica.
+</P>
+<P>
+While the IPCC report focused on what is likely to happen, ranging from 17 to 83 per cent probabilities, this study took a broader approach, covering probabilities of five to 95 per cent.
+</P>
+<P>
+For a 2 C warming scenario, the researchers found that sea levels could rise by 26 centimetres by 2100, with a worst-case scenario of 81 centimetres. However, for 5 C of warming, the impact could be 51 centimetres, and up to 178 centimetres in a worst-case scenario.
+</P>
+<P>
+Once melting glaciers and thermal expansion are factored in, that worst-case scenario jumps to two metres by 2100. There is a five per cent chance that by 2200 that number could rise to approximately 7.5 metres.
+</P>
+<P>
+"The message is as we learn more about it, these changes in sea level could be more severe than first thought and even if not likely, there are some catastrophic scenarios that could occur," said Paul Myers, an associate professor at the University of Alberta's Earth and atmospheric sciences department, who was not involved in the study.
+</P>
+<P>
+Chances of that happening are low, he said, but people need to plan just in case. 
+</P>
+<P>
+Myers compares it to the potential of an asteroid strike. While the chances of an asteroid capable of an extinction-level event such as the one that wiped out the dinosaurs occurs on average once every million years, astronomers are still searching the skies for them and ones that are somewhat smaller.
+</P>
+<P>
+"[Astronomers] are talking about probabilities of well under one per cent — point one per cent or less — and they're still planning for it because if it ever were to happen, it would be catastrophic. Here we're talking about five per cent."
+</P>
+<P>
+Threatening populations
+</P>
+<P>
+The difference from the last IPCC report is in the accumulation of knowledge.
+</P>
+<P>
+Myers wasn't surprised by the latest numbers.
+</P>
+<P>
+"We've learned a lot over the past five or six years since the last IPCC assessment. There's a lot more data collected. We're learning a lot more about the processes that affect glaciers, especially Greenland and the Antarctic, but also, say, the Canadian Arctic."
+</P>
+<P>
+With rising sea levels comes the likely displacement of people around the globe.
+</P>
+<P>
+"Even with stringent emissions reductions, there's still going to be a substantial sea level rise, and we need to think about how to manage that in terms of both protection and, in some cases, expecting people to move," Kopp said.
+</P>
+<P>
+If sea levels were to rise above the two-metre mark, Kopp said, it would flood areas that are home to 240 million people, including places in China, Vietnam, Bangladesh, India and Indonesia. And North America doesn't get off scot-free: cities like Miami and New Orleans would be affected as well. New York and the mid-Atlantic would see an increase in the frequency of flooding.
+</P>
+<P>
+Myers said it's not just rising sea levels that threaten populations.
+</P>
+<P>
+"Storm surges, waves, extreme events are all going to be on top of that. So people who are worried about coastal flooding are going to have to deal with that change and then all the things that can drive sea level above there."
+</P>
+<P>
+But rising sea levels don't mean we're doomed, Kopp said. What is important is taking action to prevent that worst-case scenario.
+</P>
+<P>
+"Sea level is a slow-moving process. Unfortunately, emissions reductions that we take now — we don't get to see the benefits of them in terms of sea level rise as opposed to things like heat extremes for several more decades," he said. 
+</P>
+<P>
+"Nonetheless, those benefits come, and whether or not we're in the 2 C world or 5 C world depends on the choices we make now."
+</P>
+</TEXT>
+</DOC>

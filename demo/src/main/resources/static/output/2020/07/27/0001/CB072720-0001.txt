@@ -1,0 +1,102 @@
+<DOC>
+<DOCNO> CB072720-0001 </DOCNO>
+<DATE>
+<P>
+July 27, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Fossil fuel giant faces uphill push to build green mega-project: Don Pittis; 
+</P>
+<P>
+Pipeline company turns its skills to pumped hydro to create new value from existing power plants
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+On the face of it, the scheme sounds like a winner. 
+</P>
+<P>
+Like a kind of arbitrage, it takes inexpensive electricity and turns it into expensive electricity. And it saves billions of dollars that would otherwise be spent building new generating capacity.
+</P>
+<P>
+Unlike other projects to store cheap electricity and release it during periods of high demand, the current proposal by TC Energy, a company better known to Canadians by its former name TransCanada Corporation, the Keystone pipeline builder, is more than just a green experiment.
+</P>
+<P>
+Using proven technology, the energy giant wants to leverage its engineering skills to build an enormous reservoir on a hilltop plateau not far from Ontario's Blue Mountain ski resort and then use cheap overnight electricity to pump water up and out of Lake Huron.
+</P>
+<P>
+"Regardless of what technology you use, the principle of energy storage is the same," said Sarah Petrevan, policy director with Clean Energy Canada, a research group at Simon Fraser University that has no association with the TC Energy project.
+</P>
+<P>
+"You take surplus electricity and you store it because you have extra and you don't need it, and you can draw on it when you do need it."
+</P>
+<P>
+Low carbon storage
+</P>
+<P>
+In the case of the TC Energy plan, the storage will be in the form of "pumped hydro," creating the potential energy similar to that of water behind a dam, that can be released to drive turbines, turning the energy back into electricity.
+</P>
+<P>
+As John Mikkelsen, a TC engineer helping to lead the project explained, Ontario's main problem is too much electricity at the wrong time of day, something pumped hydro can help solve.
+</P>
+<P>
+"It provides a substantial solution to the surplus baseload generation problem which is when we have excess electricity that the province generates and typically gets exported at our expense or wasted," said Mikkelsen at a three hour public update last week on progress so far.
+</P>
+<P>
+Nuclear power is not cheap compared to modern wind and solar, but it is carbon free and dominant, producing nearly 60 per cent of Ontario's electricity today. But unlike natural gas generating plants, there is no practical way to throttle nuclear stations down during periods of lower demand. 
+</P>
+<P>
+While pumped hydro does not actually create new electricity, by storing off-peak energy this project will save the cost of building new power stations equivalent to supplying a million homes, said Mikkelsen, cutting carbon emissions and saving ratepayers $12 billion over the lifespan of the project.
+</P>
+<P>
+Many of the criticisms and questions at the virtual town hall were of the type that implied the complainers would not have objected if the project were in somebody else's backyard.
+</P>
+<P>
+Fears hard to dismiss
+</P>
+<P>
+"Hi Graeme, nice looking cottage," said one online question directed at the session's moderator, Graeme Burt, whose Zoom background showed a soaring wooden ceiling. "Is it located immediately below a huge reservoir?"
+</P>
+<P>
+The smattering of "Say No" lawn signs increase as you get closer to the proposed site.
+</P>
+<P>
+Inevitably, costs for the project, previously pegged at $3.3 billion will rise as TC promises to mollify critics. Under the revised plan, underground and lake bottom power cables will replace overhead transmission towers. Water inflows and outflows have been changed to avoid stirring up silt and to protect fish. The company now plans to make the turbines and other key components invisible deep underground.
+</P>
+<P>
+As with opponents of wind turbines, many adversaries use green objections to justify their opposition. Fear of accidents no matter how unlikely are hard to dismiss and some critics will remain unsatisfied if the project goes ahead.
+</P>
+<P>
+"A plan to build a pumped water storage facility near Meaford needs our attention and opposition as it will impact local ecology and fisheries!" tweeted one opponent last December.
+</P>
+<P>
+Even if the plan gets the environmental green light from various levels of government, the economics of a project that won't be completed until 2028 and won't pay off for decades after that remain uncertain. British Columbia's  Site C and Newfoundland and Labrador's Muskrat Falls power plants show the difficulty of long-term power planning.
+</P>
+<P>
+Projections, even over a decade, can go very wrong, said Richard Carlson, an energy policy expert with Pollution Probe, a Toronto-based environmental group, who has no relationship with the TC project.
+</P>
+<P>
+"Everyone expected electricity demand to increase rapidly and it didn't," said Carlson in a phone interview. "It shrunk."
+</P>
+<P>
+Now, he said, government energy planners are reexamining their crystal balls, terrified that they won't be prepared for what comes next. And energy projects take time.
+</P>
+<P>
+As climate change pushes us to use less natural gas for home and industrial heating, electricity remains the obvious replacement. More electric vehicles should increase demand. By charging overnight, they might eventually perform a similar function to pumped hydro at a lower cost.
+</P>
+<P>
+Other competing attempts to store electricity as hydrogen, or use compressed air or battery farms remain pricey, experimental or relatively small. With all its experience in previous megaprojects, TC appears to have the engineering skills to pull this one off now.
+</P>
+<P>
+The electricity market in most of Canada and especially in Ontario is not really a market at all, said Carlson. It's more of a giant energy authority charged with keeping the lights on so as to keep the economy humming.
+</P>
+<P>
+Creating new power capacity, especially close to populated regions where it is most needed, is almost always contentious. Power planners and their political masters will have to weigh the TC Energy project not only on its own merits, but against the alternatives.
+</P>
+<P>
+Follow Don on Twitter @don_pittis
+</P>
+</TEXT>
+</DOC>

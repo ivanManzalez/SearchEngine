@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> CB060623-0002 </DOCNO>
+<DATE>
+<P>
+June 06, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Millions of Canadians will face extreme fire danger this summer. Here's what that means and how to stay safe; 
+</P>
+<P>
+Current weather, past conditions and human activity all contribute to wildfire risk
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Forest fire season has been off to a busy start across Canada, and according to most predictions, that won't change anytime soon.
+</P>
+<P>
+Much of the country is expected to be under high to extreme risk for most of the wildfire season. 
+</P>
+<P>
+But what goes into determining that rating? And when you see your region on a fire map shaded in red, labelled at extreme risk for a forest fire, how concerned should you be? 
+</P>
+<P>
+"If you're hearing that you're in high or extreme fire danger, number one, it represents that fuels are available to burn and will ignite easily," said Neal McLoughlin, the superintendent of B.C. Wildfire Service's Predictive Services Unit. 
+</P>
+<P>
+Fire danger ratings estimate fuel availability based on the past and present weather, which helps determine not only the likelihood of new fires, but also how dangerous and difficult it will be to put out the fires, McLoughlin explained. 
+</P>
+<P>
+Fires have already burned thousands of hectares across Canada. In Alberta, the Northwest Territories, Quebec and Nova Scotia, massive fires have forced community evacuation and damaged key infrastructure.
+</P>
+<P>
+Northwestern Ontario hasn't seen any catastrophic situations, but by early June, 70 fires have already been reported and the risk is expected to remain throughout the summer.
+</P>
+<P>
+"Right now in 2023, we are carrying forward years of successive drought conditions that even with rain are not going to recover quickly," McLoughlin gave as one reason for the heightened wildfire situation. "We are seeing fires in the north portion of our province [B.C.] where we've received up to 30 or 40 millilitres of rain, and within a week they're back to a very active crown fire."
+</P>
+<P>
+McLoughlin said while the fire danger index is a key tool for those fighting fires, it's essential that everyone know when they're under an extreme fire alert. Many Canadians will have encountered the index without realizing it when entering forested areas, thanks to the large signs with an arrow pointing to the current fire risk. 
+</P>
+<P>
+Together, fuel availability, ignition and wind are the recipe for a wildfire. The easiest one to remove from the equation is ignition, McLoughlin said, since roughly half of Canada's wildfires are caused by humans. The rest are due to lightning.
+</P>
+<P>
+"One thing that you can do is be very careful and mindful with fire or any ignition sources," he said. "And if [you] see a fire, report it quickly, because when we are [fighting] a fire, every minute counts."
+</P>
+<P>
+Know what to do when fire danger is extreme
+</P>
+<P>
+When an area is at high risk of wildfires, people can do their share to protect themselves and their property, said Shayne McCool, fire information officer for Ontario's northwest region.  
+</P>
+<P>
+Moving wood piles or outdoor furniture 10 metres away from valuable structures could make a big difference in whether a fire reaches your house or cabin, McCool said. 
+</P>
+<P>
+Knowing how to stay safe is especially important this year, as it's shaping up to be an especially active wildfire season right across Canada. 
+</P>
+<P>
+"Right now in 2023, [B.C. is] carrying forward years of successive drought conditions that even with rain are not going to recover quickly," McLoughlin said. The same is true for much of the country, including northern Ontario, parts of which received less than half the typical amount the precipitation expected in May. 
+</P>
+<P>
+"It's very prudent to pack a go-bag and to talk about with your family or your friends what that might look like if a fire were to start close to your community."
+</P>
+<P>
+WATCH | How a fire break saved this man's home in New Brunswick: 
+</P>
+<P>
+Based on modelling released by Environment and Climate Change Canada in early June, virtually the entire country is likely to see higher than average temperatures this summer, and northern Ontario has a very high chance of below average rainfall.
+</P>
+<P>
+These conditions are a hallmark of both climate change and El Niño — a recurring weather pattern that forecasters expect will return in force this summer. While it doesn't typically have much effect on Eastern Canada's wildfire season, it brings hot and dry conditions to the West — ideal conditions for fires. 
+</P>
+<P>
+Wildfire services also need people to know when fire bans are in place, since people cause around half of all wildfires in Canada. Provinces and municipalities can issue fire bans, which sometimes overlap, with both carrying strict financial penalties or even jail time. 
+</P>
+<P>
+Terminology varies by province, but Ontario has already issued restricted fire zones (RFZs), which ban virtually all outdoor fires. If an RFZ is broken, the province can hold the person responsible for all costs to fight a resulting fire, plus a fine of up to $25 000 and three months in jail. Other provinces have similar penalties. 
+</P>
+<P>
+Fire risk doesn't always mean fires
+</P>
+<P>
+In spite of the high to extreme risk of fires over the last month, Ontario has mostly been spared so far, with around half as many wildfires as the 10-year average. Meanwhile, Nova Scotia has seen the largest wildfire in the province's history.
+</P>
+<P>
+This primarily comes down to a missing ingredient in the rating system, one that can't easily be factored in: ignitions.
+</P>
+<P>
+In the first part of wildfire season, most ignitions are human-caused. As the season progresses, the main culprit is lightning, McLoughlin said. 
+</P>
+<P>
+To estimate fire danger, forecasters with provincial wildfire services use the Canadian Forest Fire Danger Rating System (CFFDRS). Canada has used and evolved the index for decades, and it's so effective that other countries are adopting it.
+</P>
+<P>
+The system works by accounting for the amount of fuel available for fires based on weather conditions, separated into categories.
+</P>
+<P>
+For instance, the Drought Code estimates the dryness of large, fire-sustaining fuels like logs, and generally takes over a month to change significantly, while the Fine Fuel Moisture Code assesses the availability of small, easily ignited fuel like leaf litter and small branches, and can change hour to hour based on current weather. 
+</P>
+<P>
+This means it's important to check it frequently, since the ratings can change rapidly, said McLoughlin.
+</P>
+<P>
+"Fire is a very dynamic process, as are fire danger levels. You can go from one week being extreme to the next week being low. And that might be because of a rain event. But then fast forward another week and a half into the future and you can be back at high to extreme."
+</P>
+<P>
+A good guide for fire weather is the 30/30/30 rule. If temperatures are above 30 C, wind speed is above 30 km/h and relative humidity is below 30 per cent, conditions are ripe for wildfires. Whenever that's the case, or when fire danger is elevated, be extra cautious about ignition. 
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> CB042022-0002 </DOCNO>
+<DATE>
+<P>
+April 20, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Power companies pull in nearly five times the profit during winter rate spike: U of C economist; 
+</P>
+<P>
+'Simply put, they have more control of the supply in the market, and they're charging more,' says economist
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Alberta's electricity generating companies pulled in nearly five times the usual profits during last winter's rate hike, according to a new report from the University of Calgary's School of Public Policy.
+</P>
+<P>
+As power prices hit record highs, customers blamed everything from fees to the carbon tax. But the research shows private profits were by far the largest driver, said economist Blake Shaffer, who released the data analysis Wednesday.
+</P>
+<P>
+"It's going to take some time for new entrants to come in... and bring down prices," he said.
+</P>
+<P>
+This past winter was Alberta's first under a new phase of deregulation. It was the end of two decades of power purchase agreements — a tool the former Progressive Conservatives introduced to ease the transition into a market-based system. But the market is still dominated by just a couple big players.
+</P>
+<P>
+That's why this increase hit now, says Shaffer.
+</P>
+<P>
+He said the report isn't taking a stance on whether companies' market activity was sufficient to cover their investment costs or whether or not what they earned in 2021 was excessive. But he said it's fair to say that for a few years prices were unquestionably low — especially from 2015 to 2017.
+</P>
+<P>
+"[Companies] weren't recouping their investment costs," he said. "They recovered somewhat 2018 to 2020. They were there in the range of historical averages around there. But 2021 is a return to very high prices."
+</P>
+<P>
+Increased market markup
+</P>
+<P>
+The companies went from making about $9/MWh as their market markup in 2020, to making $35/MWh in 2021, said Shaffer. His team determined this by creating a model to measure what prices would have been if all the companies simply bid at cost. 
+</P>
+<P>
+"There's a lot of finger pointing as to the reasons behind the high power prices. This shows that some of the commonly pointed to reasons really aren't the reason for the high prices," he said.
+</P>
+<P>
+The high utility fees hit many Calgary residents hard, especially since they occurred alongside the rising cost of food and gas. In CBC Calgary's texting community, many residents asked why rates rose so much, who is controlling the costs and who is benefiting.
+</P>
+<P>
+Shaffer's team started by measuring the total increase in power costs — the wholesale price, which went from about $48 per MWh in 2020, to more than $105 in 2021.
+</P>
+<P>
+Then they broke that increase down. The NDP's phase out of coal played a part, as did a province wide three-per cent increase in demand. The increase in gas prices also played a part; so did the increased carbon tax. But all of that only makes up $22 of the $57 increase.
+</P>
+<P>
+That's in addition to infrastructure fees more than doubling since 2010.
+</P>
+<P>
+Shaffer says the biggest impact is the change in bidding behaviour from the largest firms in the power market, now that the power purchase agreements are gone.
+</P>
+<P>
+But he takes a step back in time to explain that.
+</P>
+<P>
+History of power purchase agreements 
+</P>
+<P>
+In the early 2000s, Alberta had what most other provinces in Canada have — a vertically integrated utility system, meaning one entity does everything from generate the power, to move it around, deliver it to your home and bill you.
+</P>
+<P>
+Then the province decided to introduce market forces to electricity generation. Shaffer said the problem was that three firms controlled about 90 per cent of power generation in the province, which didn't make for a competitive market. 
+</P>
+<P>
+Fixed or floating?<br><br>I'm still getting a lot of questions from Albertans as to which plan they should choose. In this thread i'll keep posting a comparison of currently expected RRO (floating) rates and best available fixed rates.<br><br>For now, the answer remains: stay fixed. <a href="https://t.co/qZq7PHWjER">pic.twitter.com/qZq7PHWjER</a>
+</P>
+<P>
+That's why power purchase agreements lasting 20 years were introduced. It was an attempt to distribute the control of the power plants to more players, and it was envisioned that over time, it would lead to a more competitive landscape. Then, at the end of those two decades, control of the power plants reverted back to the original owners.
+</P>
+<P>
+That's the change, says Shaffer. "Simply put, they have more control of the supply in the market, and they're charging more. It will take some time for that to dissipate."
+</P>
+<P>
+He does expect more competition to come from new generating companies coming online soon. "But in the meantime, the best thing that consumers can do is avoid these gyrations in the market. They should get on a fixed rate to protect themselves. Prices are likely to be high for the next year, maybe two years."
+</P>
+<P>
+In a recent interview with CBC News, United Conservative associate minister of natural gas and electricity, Dale Nally, said the government plans to introduce legislation in the coming weeks that should eventually bring electricity rates down. 
+</P>
+<P>
+It will introduce electricity storage, which is not allowed under current legislation. It will also focus on self-supply with export, which he says will encourage more generation to come online. In the meantime, they are planning a $150 rebate for electricity customers.
+</P>
+<P>
+Opposition energy critic Kathleen Ganley said she agrees energy storage is part of the solution. But she said there also needs to be new rules to require industry players to consider storage when they approach the Alberta Utilities Commission to seek capital approval. 
+</P>
+<P>
+"It should be the lowest cost for the Alberta taxpayer alternative. That should be what you're looking at," she said. "Right now, [companies] can consider things that aren't wires if they're lower cost. But you're not required to."
+</P>
+<P>
+"In terms of acting immediately, we'd be looking to either re-institute the rate cap or bring in a more substantive rebate for people to ensure that they're able to afford their costs right now."
+</P>
+<P>
+Facing down utility bills
+</P>
+<P>
+Is paying for heat and power tough on your budget? Do you have questions about your utility bill and how to get the best deal? Join our text messaging community to help us dig deeper.
+</P>
+<P>
+It's confidential. Unsubscribe at any time.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> CB102723-0005 </DOCNO>
+<DATE>
+<P>
+October 27, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Former Nova Scotia Health data analyst says he was fired for speaking up; 
+</P>
+<P>
+Nova Scotia Health lawyer says contract was not extended because of poor performance
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A data analyst who worked for Nova Scotia Health for four years says he was let go for speaking up about what he perceived as serious issues with the emergency department wait-time prediction project.
+</P>
+<P>
+Jesse Yang said he escalated concerns about the data used in the project, both verbally and in writing, over the course of a year. He said he sought support from supervisors, Nova Scotia Health's ethics department, human resources, and the Nova Scotia Office of the Ombudsman.
+</P>
+<P>
+After his complaints, he stopped working on the project and was placed on a new project. Issues with his work performance were brought up at this time, and ultimately, his year-to-year contract wasn't renewed. 
+</P>
+<P>
+Yang is now undergoing a Nova Scotia Labour Board arbitration under the Public Interest Disclosure Wrongdoing Act, arguing he experienced retaliation. 
+</P>
+<P>
+In his opening statements at the hearing Thursday, Killian McParland, Nova Scotia Health's lawyer, said the health authority denies retaliating against Yang.
+</P>
+<P>
+McParland said Yang's complaint doesn't fit the narrow scope of the Act, meaning the health authority doesn't believe he was a whistleblower, and his contract wasn't renewed due to poor work performance.
+</P>
+<P>
+Emergency department wait-time tool
+</P>
+<P>
+Nova Scotia Health's online emergency department wait-time tool was introduced this June as a way to predict wait-times at 10 emergency departments across the province.
+</P>
+<P>
+In a news release at the time, the health authority said the site is an "information tool" to give people an idea of how long they may need to wait for care.
+</P>
+<P>
+It said the predicted wait-times posted are based on "recent data" and are "shown as an approximate range and are updated hourly." The site also allows people to look up anticipated wait-times up to 12 hours ahead.
+</P>
+<P>
+But Nova Scotia Health noted the wait-times are not guaranteed and "may not be the time a person will need to wait once they arrive."
+</P>
+<P>
+Ethical concerns
+</P>
+<P>
+Yang headed the project when development began for the online tool in March 2022.
+</P>
+<P>
+Only nine months later, a young mother died after waiting for more than seven hours to see a doctor at the Cumberland Regional Health Care Centre. Less than a month later, the provincial government announced a slate of changes to improve emergency departments.
+</P>
+<P>
+Yang said he began the project with the knowledge that similar models are used in other provinces, but Nova Scotia Health's specific request concerned him early on in the project.
+</P>
+<P>
+He believed the data provided for the model was insufficient, and to predict wait-times hours in advance would be "feeding a prediction model with a prediction" — a single error would be amplified.
+</P>
+<P>
+Yang considered this was an ethical issue, and believed inaccurate wait-times could be life-threatening. He said when he raised this with his superiors, they told him the model just needed to "look good."
+</P>
+<P>
+Nova Scotia Health stands behind model
+</P>
+<P>
+In a statement, a spokesperson said Nova Scotia Health won't be commenting on the ongoing labour board process, but they have strong confidence in the wait-time prediction tool and the methodology used to produce it.
+</P>
+<P>
+"The prediction model has been externally reviewed and validated and we regularly review the predictions against actual recorded wait-times," said spokesperson Brendan Elliott, noting actual wait-times were within the upper limit of the predicted wait-time range 70 per cent of the time.
+</P>
+<P>
+McParland's cross-examination of Yang began Thursday and will continue next week.
+</P>
+</TEXT>
+</DOC>

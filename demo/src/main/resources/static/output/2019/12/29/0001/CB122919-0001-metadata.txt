@@ -1,0 +1,4 @@
+DocNo   : CB122919-0001
+ID      : 959
+Date    : 29 December 2019
+Headline: Electric vehicles are supposed to be green, but the truth is a bit murkier; Mining lithium for batteries, plus how they're charged, can affect an EV’s impact on environment

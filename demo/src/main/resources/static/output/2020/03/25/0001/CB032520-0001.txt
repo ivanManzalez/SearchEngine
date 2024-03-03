@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> CB032520-0001 </DOCNO>
+<DATE>
+<P>
+March 25, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Windsor 3D printers in 'mad dash' to make health-care devices during COVID-19; 
+</P>
+<P>
+As companies increase production, the next problem is sourcing printing material
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+After an urgent call from frontline health-care workers in Windsor-Essex for personal protection equipment like masks and respirators, 3D-printing companies in the region are ramping up production to bridge supply issues.
+</P>
+<P>
+One of the early projects is a face shield printed by KELCOM 3D Division in Windsor, Ont.
+</P>
+<P>
+"That's something that's getting in short supply," said Kevin Taylor, who normally does industrial 3D printing. 
+</P>
+<P>
+Taylor was able to find a design posted by a large 3D manufacturer in the Czech Republic. With a few modifications, he was able to print the face shield's frame and some of its attachments.
+</P>
+<P>
+Watch what Taylor was able to create using a 3D printer:
+</P>
+<P>
+Windsor put a call for PPE - masks, respirators - whatever people had for frontline healthcare workers.<br><br>Kevin Taylor at <a href="https://twitter.com/Kelcom3D?ref_src=twsrc%5Etfw">@Kelcom3D</a> has managed to print PPE.<br><br>Take a look at the face shield he was able to print - and hear how 3D printing could “bridge” the current supply issue. <a href="https://t.co/N2T0l2tlZF">pic.twitter.com/N2T0l2tlZF</a>
+</P>
+<P>
+"It's good that he put that design out there, because people can just download it and make their own," Taylor said. 
+</P>
+<P>
+He said their will be a push for items like respirators, but those are more complicated and require more adjustments to the design depending on the type of 3D printer used.
+</P>
+<P>
+'Stop the immediate bleeding'
+</P>
+<P>
+These 3D printed face shields are what Taylor calls "bridge manufacturing" — something that could help get supplies that are good enough for frontline workers while manufacturers look at retooling their shops.
+</P>
+<P>
+"We have an interruption in production because we have a large amount of demand, and actually a very limited amount of supply," said Taylor. 
+</P>
+<P>
+Hi Chris, two large 3D print farms located in Windsor also coming online for PPE support<a href="https://t.co/sgxI5PMdDa">https://t.co/sgxI5PMdDa</a> and <a href="https://t.co/xyGGhX3qKJ">https://t.co/xyGGhX3qKJ</a><a href="https://twitter.com/WEtechAlliance?ref_src=twsrc%5Etfw">@WEtechAlliance</a> <br><br>Also thanks to <a href="https://t.co/5F6bi1tD1H">https://t.co/5F6bi1tD1H</a> for helping me with design! <a href="https://t.co/NxN70nIQnu">pic.twitter.com/NxN70nIQnu</a>
+</P>
+<P>
+He suggested that it could take weeks for local manufacturers to retool their production lines to mass-produce health-care supplies.
+</P>
+<P>
+"It possibly could be a situation where people 3D print stuff to stop the immediate bleeding."
+</P>
+<P>
+To increase production, Taylor said the community needs to have a clear direction on what is needed and how much is needed. He said a coordinated 3D printing farm would also be necessary.
+</P>
+<P>
+Ramping up capacity
+</P>
+<P>
+"Currently in a mad dash to get more 3D printers online," wrote Parker Drouillard, CEO of Pep Corp., a local 3D printing company. 
+</P>
+<P>
+They hope to have 32 machines online by the end of the week and are looking to bring another 30 to 50 machines online by the end of April, if capacity is needed. 
+</P>
+<P>
+Drouillard said his company is in contact with several suppliers in the automotive industry who have been asked by the U.S. government to produce ventilators. 
+</P>
+<P>
+Those projects aren't online, but he said the company could start working with KELCOM and OLT Footcare — a company that prints custom foot orthotics — to print the face shields.
+</P>
+<P>
+"Depending on the part, we can produce as many as 10,000 plus units per week with our current capacity, and are ramping up to meet more," Drouillard said.
+</P>
+<P>
+OLT Footcare has already printed 10 face shields that they'll ship out to a clinic in the U.S. Wednesday. 
+</P>
+<P>
+"We retooled our lab to print face shields and we can produce about 100 face shields a day," wrote Yong Li, a representative for OLT Footcare. 
+</P>
+<P>
+They also have the ability to print parts for ventilators if a request comes in.
+</P>
+<P>
+Potential fault in the supply chain
+</P>
+<P>
+One of the issues facing local 3D printing companies is sourcing materials to print these different objects.
+</P>
+<P>
+"Our biggest issues currently are just locking down our supply chain, as non-American producers are quickly drying up," wrote Drouillard.
+</P>
+<P>
+Taylor said they have a good stock of supplies but expects it to go quickly. When that's gone, buying new material could be difficult. 
+</P>
+<P>
+"The material coming from China is all dried up ... There's some in the U.S., but that could be expensive," said Taylor. 
+</P>
+<P>
+He wonders if there's a local company that could create the material, which he said is made up of plastic and other chemical materials.
+</P>
+<P>
+"It's not really expensive, the equipment to make the filament, it's just that it's done all in China and a couple specialty places in the United States."
+</P>
+</TEXT>
+</DOC>

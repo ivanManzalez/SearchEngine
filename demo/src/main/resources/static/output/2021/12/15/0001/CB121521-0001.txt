@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> CB121521-0001 </DOCNO>
+<DATE>
+<P>
+December 15, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Average Canadian house price hit all-time high of $720,850 in November; 
+</P>
+<P>
+Realtor group's House Price Index rising at record pace, too
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The average selling price of a resale home in Canada last month was $720,850, topping the previous high set in March of this year.
+</P>
+<P>
+The Canadian Real Estate Association said Wednesday that the volume of sales was strong, too, with sales increasing by 0.6 per cent from the previous month's level.
+</P>
+<P>
+Typically, housing market activity peaks in the spring, before declining through the summer and fall, and slowing further in the winter months before rebounding again.
+</P>
+<P>
+But 2021 has bucked that traditional trend, as sales for the year have already smashed the previous annual record for sales with one month to go. 
+</P>
+<P>
+More than 630,634 homes have been sold on CREA's MLS system this year, well ahead of the record of 552,423 set in 2020.
+</P>
+<P>
+"Even at what is traditionally the slow time of year for housing, conditions and price trends are at the same record levels we saw this spring," CREA chair Cliff Stevenson said.
+</P>
+<P>
+CREA, which represents more than 100,000 real estate agents across the country, says that the average selling price figure can be misleading because it is easily skewed by sales in big, expensive cities such as Toronto and Vancouver. So, it calculates a different number, known as the Multiple Listing Service House Price Index or HPI, that adjusts for sales volumes and the type of housing to give a better gauge of the market.
+</P>
+<P>
+But the HPI is also increasing at a torrid pace. The index has risen by 25.3 per cent in the past year — also the fastest pace on record. 
+</P>
+<P>
+Low rates fuelling already high demand
+</P>
+<P>
+Economist Royce Mendes with CIBC says the monthly numbers paint a picture of a housing market that has moved well beyond expectations.
+</P>
+<P>
+"The pandemic has been very odd for the demand for housing," he said in an interview Wednesday.
+</P>
+<P>
+Typically an economic crisis like COVID-19 might compel consumers to hold off on major purchases. But COVID-19 seems to have done the opposite in Canada, prompting buyers weary of being cooped up at home for almost two years to spend the money on bigger and better housing.
+</P>
+<P>
+The supply of homes for sale hasn't kept up, and that's a recipe for higher prices, Mendes said.
+</P>
+<P>
+"Low interest rates are also driving some of this appreciation house price, as is the demand for housing right now, at a time when a lot of Canadians aren't going on vacations," he said.
+</P>
+<P>
+"We won't know the full impact on the housing market for a little bit of time after rates start to rise."
+</P>
+</TEXT>
+</DOC>

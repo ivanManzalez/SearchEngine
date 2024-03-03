@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> CB090722-0001 </DOCNO>
+<DATE>
+<P>
+September 07, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+There's a fine built into Nova Scotia's Residential Tenancies Act. It has never been used; 
+</P>
+<P>
+Section 23 includes a fine of up to $1,000 for violating the act
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A summary conviction and fine that is built into Nova Scotia's Residential Tenancies Act hasn't been used since 1990 — as far back as the provincial Department of Justice's records go. 
+</P>
+<P>
+The summary conviction is included in section 23 of the act, and applies to any landlord or tenant who "violates or fails to comply with any order, direction or other requirement of the director or the small claims court or contravenes any provision of this act." 
+</P>
+<P>
+It also applies to any landlord who retaliates against a tenant who tries to assert their rights under the act. 
+</P>
+<P>
+It says any person who does this is guilty of an offence punishable on summary conviction, and is liable to a fine up to $1,000. The subsequent section says that no proceeding should be brought under section 23 without the consent of the attorney general.
+</P>
+<P>
+The language is clear, but what isn't clear in practice is how a landlord or tenant can pursue this summary conviction and fine. 
+</P>
+<P>
+Patricia Celan stumbled upon sections 23 and 24 of the act while trying to evict tenants who have never paid rent and had given her fraudulent cheques.
+</P>
+<P>
+"I wanted to make sure that I was following the act accordingly and I came across it just by accident," she said. "I think that most people don't know about it."
+</P>
+<P>
+Celan and her tenants had a hearing with a residential tenancies officer in July, and she received an order of the director that her tenants should pay her the missing rent and vacate the unit.
+</P>
+<P>
+But the tenants did not comply, so she tried to go to the Halifax Regional Police for help. 
+</P>
+<P>
+"When I called the police they said that they don't do anything connected with residential tenancies," she said. "And so I called the Residential Tenancies Board and asked them how to enforce that. And they said that they don't enforce that, that would be something that would be dealt with either through police or through the courts. So I called the courts and asked how that's enforced and they didn't know."
+</P>
+<P>
+Department says police could enforce the fine
+</P>
+<P>
+The Department of Service Nova Scotia and Internal Services is in charge of the Residential Tenancies Program and is responsible for its legislation. The department declined CBC's request for interview about the summary conviction and fine, but said since there is no enforcement division within the program, police could enforce it. 
+</P>
+<P>
+"In order for someone to be liable to a fine under section 23 of the Residential Tenancies Act, they must first be charged with an offence under the act and then found guilty by the courts," said Blaise Theriault, a spokesperson for the department. "Currently, the Residential Tenancies Program does not have enforcement officers to conduct investigations and lay charges, however, police could investigate and lay charges."
+</P>
+<P>
+The minister of Service Nova Scotia and internal services, Colton Leblanc, said in late August that his department is still looking into a compliance and enforcement division, but the process takes time.
+</P>
+<P>
+No convictions
+</P>
+<P>
+The Department of Justice told CBC News that summary convictions would come from a court proceeding, and the court would determine the fine. When asked how many times this fine has been used, a spokesperson checked as far back as he could.
+</P>
+<P>
+"We were able to review the files dating back to 1990. Justice has no record of any convictions under section 23 or section 24 of the act," said department spokesperson Peter McLaughlin. 
+</P>
+<P>
+No investigations opened
+</P>
+<P>
+CBC asked Nova Scotia RCMP how many requests it has had from the public in the last five years to pursue this type of summary conviction, and how many times the RCMP has opened an investigation under section 23 and 24 of the residential tenancies act.
+</P>
+<P>
+Spokesperson Chris Marshall said the RCMP has the authority to lay charges under the Residential Tenancies Act if two conditions are met.
+</P>
+<P>
+"A complaint from the director of residential tenancies, or designate, or, a person named in a small claims court order, must be received by the RCMP, alleging that a violation or failure to comply with an order of the small claims court has occurred, and the attorney general must approve the laying of the charge," Marshall said. 
+</P>
+<P>
+But he said no investigations have been opened in the past five years. 
+</P>
+<P>
+"The RCMP regularly responds to complaints related to landlord/tenant disputes every year in Nova Scotia, however we are not aware of any RCMP investigations related to violations of section 23 or 24 of the Residential Tenancies Act," he said.
+</P>
+<P>
+When CBC asked Halifax Regional Police the same questions, a spokesperson would not share any information. Wendy Mansfield directed CBC to file a freedom of information request. 
+</P>
+<P>
+All Mansfield would say is, "We are aware that these matters are generally dealt with through the Residential Tenancies Act process, however, if we received a call of this nature, we would look into it on a case by case basis and take appropriate action."
+</P>
+<P>
+'A gap in the system'
+</P>
+<P>
+In the end, Celan didn't have to use the summary offence option. Her tenants didn't show up to a small claims court appeal they had initiated, and the appeal was dismissed. This affirmed the order of the director she had previously received, and she said the tenants moved out of her apartment the first week of September. 
+</P>
+<P>
+But she feels her experience shows there is "a gap in the system" that allows certain tenants or landlords to continue to break the rules. 
+</P>
+<P>
+"If you go to the police and ask for enforcement, they point to the Residential Tenancies Board," she said. "And if you point to the residential tenancies board and ask them to enforce this, they don't know how to enforce it and they suggest going to the police or going to the court and nobody knows.
+</P>
+<P>
+"And that is exactly the loophole that lets people get away with this again and again."
+</P>
+</TEXT>
+</DOC>

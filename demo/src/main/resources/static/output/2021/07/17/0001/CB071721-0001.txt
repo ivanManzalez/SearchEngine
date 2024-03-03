@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> CB071721-0001 </DOCNO>
+<DATE>
+<P>
+July 17, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Statistics Canada exploring changes to census to more accurately reflect Canada's diversity; 
+</P>
+<P>
+A detailed breakdown of people from multiple visible minorities could arrive in October 2022
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Statistics Canada says it will consider a change to its data-collecting practices to better account for Canadians who identify as members of multiple visible minorities — people who for years have been grouped into single categories, regardless of their backgrounds.
+</P>
+<P>
+In 2016, 232,375 Canadians selected two or more visible minority groups when completing their census forms.
+</P>
+<P>
+But a detailed breakdown of that portion of the population has never been made available — leading some to suggest that governments are drafting laws and policies based on incomplete data.
+</P>
+<P>
+"It was kind of shocking to find out that we didn't have the numbers and that nobody thought about collecting them," said Godlove Ngwafusi, a representative of the African Canadian Association of Ottawa and a longtime federal civil servant.
+</P>
+<P>
+A Black person who belongs to another visible minority group, for example, would not currently be counted in Statistics Canada's count of Black Canadians.
+</P>
+<P>
+Ngwafusi said that could result in an undercount of the number of Black people living in the country — which could lead some organizations to assume incorrectly that they have a representative number of Black employees on their staff.
+</P>
+<P>
+"Diluting numbers means it's weakening the position of Black people who are trying to integrate and move up in the system," Ngwafusi said.
+</P>
+<P>
+Employment equity laws depend on accurate statistics
+</P>
+<P>
+Various pieces of legislation and equity initiatives depend on detailed numbers on the racial makeup of Canada's workforce. 
+</P>
+<P>
+Employers in federally regulated sectors are required to have employment equity programs that actively work to increase the number of employees from groups that traditionally have been underrepresented.
+</P>
+<P>
+Hugh Scher, a Toronto-based employment lawyer, said the muddied category of "multiple visible minorities" makes it difficult to hold the government accountable for its progress in reducing inequity in workplaces.
+</P>
+<P>
+Scher is representing Black civil servants in a potential class action lawsuit against the federal government over alleged discrimination.
+</P>
+<P>
+"It basically makes it impossible for the government to respond with any credibility as to what the actual numbers are, because they don't know and they can't possibly know, based on this egregious error in the census," Scher told CBC News.
+</P>
+<P>
+People who identify as mixed-race "may effectively be losing out on the ability for consideration as part of any measures or assessment of the underrepresentation of that particular group."
+</P>
+<P>
+The Liberal government announced this week a project to review federal employment equity laws. Those laws also lump workers from visible minorities into a single group, with the exception of Indigenous peoples.
+</P>
+<P>
+Statistics Canada says a more detailed breakdown is coming
+</P>
+<P>
+Statistics Canada says a more detailed breakdown of Canada's mixed-race population could be coming based on data collected during the 2021 census, though a report likely will not be made public until October 2022.
+</P>
+<P>
+The Toronto Star first reported on Statistics Canada's plan to improve how it counts visible minorities.
+</P>
+<P>
+Statistics Canada says it recognizes the need for a clearer picture of Canada's mixed-race population.
+</P>
+<P>
+"We are hoping to disseminate and collect more information so that we can tell the story in a more nuanced and diverse way," said Tina Chiu, Statistics Canada's director for diversity and sociocultural statistics.
+</P>
+<P>
+Chiu said any future changes to the way Statistics Canada collects and reports data on mixed-race people will be made gradually, since a key purpose of the census is to monitor long-term trends.
+</P>
+<P>
+"That's why we are hoping to do those changes, like the modifications, but also keep in mind that the purpose of the census is also to monitor the trends and to see how Canadian society grows over time," Chiu added.
+</P>
+<P>
+The census includes the following categories of visible minorities: Arab, Black, Chinese, Filipino, Japanese, Korean, Latin American, Southeast Asian, South Asian and West Asian. 
+</P>
+<P>
+Another catch-all category — "not included elsewhere" — is available to census respondents who write in answers about their visible minority status. There were 132,090 people grouped in that category in the 2016 census.
+</P>
+</TEXT>
+</DOC>

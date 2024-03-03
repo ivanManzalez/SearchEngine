@@ -1,0 +1,252 @@
+<DOC>
+<DOCNO> CB032522-0002 </DOCNO>
+<DATE>
+<P>
+March 25, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Why the train may not be the greenest way to travel across Canada; 
+</P>
+<P>
+Also: Russia and the oil conundrum
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+Why the train isn't the greenest way to travel across Canada
+</P>
+<P>
+After two years of restricted travel, many of us are planning summer vacations that involve visiting friends and family on the other side of our vast country.
+</P>
+<P>
+Given what we know about the climate impact of air travel, some of you might be wondering if it's more responsible to spend the extra time and take the train.
+</P>
+<P>
+That's what Swedish climate activist Greta Thunberg, who has given up flying, often does. Even the airline KLM encourages people to "fly responsibly," which means taking the train for shorter distances. 
+</P>
+<P>
+Meanwhile, Canada's VIA Rail bills itself as "the most environmentally friendly mode of intercity transportation."
+</P>
+<P>
+As it turns out, in Canada, the question of whether the train is really the greenest option depends on your starting point and your destination.
+</P>
+<P>
+If you're travelling somewhere between Windsor, Ont. and Quebec City in the corridor that includes Toronto, Ottawa and Montreal, then yes, the train is probably it, according to Ryan Katz-Rosene, a University of Ottawa professor who studies sustainable transportation.
+</P>
+<P>
+But if you're heading from Montreal to Halifax or Toronto to Vancouver, the emissions per train trip might shock you. 
+</P>
+<P>
+"The numbers are crazy. They're super high," said Katz-Rosene. 
+</P>
+<P>
+He and his wife had taken the train across the country from Ottawa a couple of times, assuming it was the greener way to go.
+</P>
+<P>
+But a few years ago, two VIA Rail passengers asked the Crown corporation for some information about their emissions. Seeing how high the numbers were, the passengers contacted Katz-Rosene, having seen his blog posts about travel emissions. Katz-Rosene used the numbers to do some comparisons and found the environmental winner for the Toronto-Vancouver route is actually … air travel.
+</P>
+<P>
+Taking VIA's "Canadian" service from Toronto to Vancouver would generate 724 to 4,287 kilograms of CO2 per person. In comparison, an economy flight between those two cities would generate 464 to 767 kilograms of CO2 per person.
+</P>
+<P>
+VIA's "Ocean" service between Montreal and Halifax generates 218 to 1,292 kilograms of CO2 per person, compared to 152 to 482 kilograms of CO2 per person for an economy flight.
+</P>
+<P>
+Katz-Rosene published the findings in the journal The Canadian Geographer and wrote about them on the University of Ottawa website in 2020. He tried to confirm the numbers with VIA, but they did not confirm or deny the figures, despite multiple conversations with him. 
+</P>
+<P>
+CBC News asked VIA Rail about the emissions from those routes. It did not respond to that question, but sent a statement saying it has "over the past years made considerable progress regarding GHG reduction." It added that it is "exploring the replacement of its long-distance and regional fleets operating outside the Corridor."
+</P>
+<P>
+Ottawa-based Transys Research led a 2015 modelling study comparing emissions from rail to other modes of transport for the U.S. National Co-operative Rail Research Program. That study suggested that rail, car and air travel had a similar energy intensity per passenger between Toronto and Vancouver when the average number of passengers in each scenario was taken into account (although both rail and driving take roughly four days, instead of five hours by plane).
+</P>
+<P>
+Transys Research president Gordon English doesn't think the numbers in Katz-Rosene's paper are quite right — he especially thinks there's an error in the Montreal-Halifax numbers. 
+</P>
+<P>
+"Nonetheless," English told CBC News in an email, "the conclusion that rail's GHG intensity is higher than air for Toronto-Vancouver is an accurate statement for both rail-coach versus air-economy and rail-berth versus air-first class."
+</P>
+<P>
+However, he said long-distance trains in Canada are a "tourist experience" rather than a mode of transportation, and aren't meant to compete with planes. He thinks if they're an alternative to anything, it's driving across the country in an RV. "And in those cases, rail would be more efficient."
+</P>
+<P>
+Global statistics show that on average, rail generates fewer emissions per passenger kilometre than driving or flying — so why are things different in Canada?
+</P>
+<P>
+Katz-Rosene blames "diesel-guzzling locomotives hauling fairly empty trains" — including sleeping and dining cars — on those lines. 
+</P>
+<P>
+English's study found that just adding a snack car can increase a train's greenhouse gas emissions intensity by 19 per cent, and that increasing seating density was one of the easiest ways to cut emissions and energy use. A double-decker car, for example, could boost energy efficiency 40 per cent compared to a single-level car.  
+</P>
+<P>
+Another reason why passenger rail is greener in other parts of the world, like Europe or Japan, is that it's often electric.
+</P>
+<P>
+Katz-Rosene suggests that boosting the number of passengers per car, adding an electric locomotive or using greener fuels (such as biodiesel or hydrogen) are ways VIA Rail could cut emissions for long-distance train travel. 
+</P>
+<P>
+In the meantime, what should you do about summer travel?
+</P>
+<P>
+"Really, the most consequential [decision] is going to be whether you take the trip or not," Katz-Rosene said. 
+</P>
+<P>
+If you decide to travel between Windsor and Quebec City, take the train (or drive with a car full of people). For longer distances, Katz-Rosene suggests flying economy or driving an energy-efficient car full of people, as his family is planning to do. 
+</P>
+<P>
+He also recommends getting in touch with politicians about the lack of green travel options. 
+</P>
+<P>
+"Let them know that we need to seriously tackle emissions in the transport sector, and we need to do so fast."
+</P>
+<P>
+– Emily Chung
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+In response to our story last week on the climate conundrum posed by mining Ontario's Ring of Fire, Kathy Andrews wrote:
+</P>
+<P>
+"Regarding the potential mining in Canada's 'Ring of Fire' to access minerals for the batteries of electric cars and wind turbines, I would say that our country needs to take a hard look at replacing individually driven vehicles. The battery-operated cars will create toxic waste as their batteries need to be replaced. Instead of the current trend, where individuals buy and drive their own cars, a massive investment in a countrywide top-quality public transportation system would be more in tune with a 'green' future.
+</P>
+<P>
+"I believe car co-ops for 'necessary' driving of cars could greatly reduce the need for replacement of petrochemical-run vehicles … I think our government needs to have a committee of people to address this issue properly for the long-term health of our communities and environment."
+</P>
+<P>
+Write us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+There's also a radio show and podcast! What On Earth airs Sunday at 12:30 p.m., 1 p.m. in Newfoundland. Subscribe on your favourite podcast app or hear it on demand at CBC Listen. 
+</P>
+<P>
+The Big Picture: The oil production conundrum
+</P>
+<P>
+The Russian invasion of Ukraine has upended many assumptions about the global order. One of them concerns the importation of Russian oil and gas, which many Western countries — particularly in Europe — have long acknowledged might be geopolitically unwise but insisted was necessary for the functioning of their economies. Now that much of the world is trying to economically isolate Russia, which includes threats to boycott its petrochemical products, there has been optimistic talk that this may actually present an opportunity to accelerate the move away from fossil fuels entirely.
+</P>
+<P>
+Alas, it's not quite working out that way — the dependence on oil remains strong. For example, the U.S. has been lobbying OPEC to produce more oil and has even cozied up to longtime foes Venezuela and Iran in order to offset the drop in Russian crude.
+</P>
+<P>
+This short-term thinking has UN Secretary General Antonio Guterres's blood boiling. "Countries could become so consumed by the immediate fossil fuel supply gap that they neglect or knee-cap policies to cut fossil fuel use," Guterres said this week. "This is madness. Addiction to fossil fuels is mutually assured destruction." Guterres has long said we need to hasten our decarbonization efforts, and a new report by the University of Manchester provides some data for how. It says that in order to keep global warming below 1.5 C, the wealthiest oil and gas producers in the world (including Canada) need to stop production by 2034, while poorer countries with oil resources need to halt drilling by 2050.
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+U.S. companies could soon be required to disclose the greenhouse gas emissions they produce and how climate risk affects their business under new rules proposed this week by the Securities and Exchange Commission.
+</P>
+<P>
+Climate migration is already happening within the U.S., as some residents flee wildfire-prone areas to safer regions like New England. YaleEnvironment360 tells the stories of some of those families and looks at how climate migration is expected to ramp up.
+</P>
+<P>
+A single Bitcoin transaction now requires enough energy to power the average American household for 73 days, researchers estimate. But the cryptocurrency industry is trying to recast itself as eco-friendly.
+</P>
+<P>
+Once the epicentre of the oilpatch, Texas now humming with wind and solar power
+</P>
+<P>
+A year after the failure of the Texas electric grid sparked a backlash against clean power, the growth of its renewable energy sector hasn't slowed down.
+</P>
+<P>
+Texas is the top wind power producer in the United States and is on pace to become No. 1 in solar electricity in a few years.
+</P>
+<P>
+Last year's winter storm knocked out about half the state's power plants, triggering broad outages that pushed electricity prices to exorbitant levels and left more than 200 people dead. 
+</P>
+<P>
+Fingers were pointed at frozen wind turbines as the main reason several parts of the state plunged into darkness for days, including by Texas Gov. Greg Abbott. 
+</P>
+<P>
+But the problems were much broader, as other power plants, mainly natural gas-fired facilities, were also knocked offline and the state's grid wasn't able to move available power to where it was needed.
+</P>
+<P>
+"There was some negative press right out of the gate," said Jason Allen, chief executive officer of Leeward Renewable Energy, during an interview at the company's Dallas headquarters.
+</P>
+<P>
+"But overall, most of the renewable assets performed exceptionally well during that storm."
+</P>
+<P>
+Leeward has developed utility-scale wind and solar projects in Texas and has operations in eight other states. The company is owned by the Ontario Municipal Employees' Retirement System (OMERS).
+</P>
+<P>
+Allen has worked in many different power generation industries, including coal, natural gas and hydro.
+</P>
+<P>
+"I have transitioned through those different technologies and ended up right where I think the future is, and where we're going to be growing," he said.
+</P>
+<P>
+The company's Texas wind farms are clustered south of Sweetwater, a town about 340 kilometres west of Dallas. In this rural area, wind turbines outnumber local residents and the cattle that graze among the cacti.
+</P>
+<P>
+The number of wind farms has swelled in the state over the last two decades, fuelled by plenty of land and strong gusts of air.
+</P>
+<P>
+Last year's storm showed there are lessons to be learned about the need for all types of power plants to be more resilient as climate change causes more severe and frequent weather events. 
+</P>
+<P>
+At the same time, more transmission lines are required within Texas to enable power to better reach storm-affected areas, as well as increased connections to neighbouring states' power grids to allow Texas to import electricity when needed.
+</P>
+<P>
+"When you look back at that storm, yes, there were a good number of wind turbines that went offline, but the primary issues were with the thermal generating plants," which mainly were natural gas, said Samantha Bobo Woodworth, a wind energy research analyst with S&P Global.
+</P>
+<P>
+"You can get de-icing stuff for wind turbines, but in Texas, why would you?"
+</P>
+<P>
+In October, the state's electricity regulator adopted a new rule requiring companies to follow winter weather protection measures.
+</P>
+<P>
+Wind power accounts for about 21 per cent of electricity produced in the state, while utility-scale solar projects account for about three per cent, according to the U.S. Energy Information Agency (EIA). While renewable electricity is growing, the use of coal has been cut in half over the last decade.
+</P>
+<P>
+The Panhandle region in the northern part of the state is often most attractive to wind projects. West Texas, which has been the epicentre of the American oil boom over the last decade, is where several solar projects have been developed.
+</P>
+<P>
+Several Canadian companies have utility-scale renewable power projects in the state, including Algonquin Power & Utilities, Innergex Renewable Energy and Canadian Solar.
+</P>
+<P>
+Government incentives have helped the wind and solar industries blossom in Texas, and if passed, U.S. President Joe Biden's Build Back Better plan could fuel further growth as it includes clean energy subsidies and promotes the development of more transmission lines.
+</P>
+<P>
+Government funding promotes development, but it's not necessary for renewables to keep growing in the state, said Kunal Patel, a senior business economist with the Federal Reserve Bank of Dallas.
+</P>
+<P>
+Whether there were government incentives or not, Patel said that when looking at the economics, it was still cheaper to build solar or wind generation compared to other options such as natural gas, coal or nuclear.
+</P>
+<P>
+Currently, solar is the lowest-cost source of electricity, Patel said. On top of that, the panels generate power on hot summer afternoons when electricity prices are the highest.
+</P>
+<P>
+"Investors have been starting to look more at solar," said Patel. "It's really starting to brighten the outlook for renewables in Texas."
+</P>
+<P>
+– Kyle Bakx
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

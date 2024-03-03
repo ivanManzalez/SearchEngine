@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> CB071123-0003 </DOCNO>
+<DATE>
+<P>
+July 11, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Net-zero electricity grid for Alberta by 2035 is possible, Wilkinson says; 
+</P>
+<P>
+Provincial government doesn't agree with the target date
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Against the backdrop of Alberta's newest solar farm, federal Natural Resources Minister Jonathan Wilkinson said Tuesday he still believes the province can get its electricity grid to net zero by 2035 — in spite of Premier Danielle Smith's insistence to the contrary.
+</P>
+<P>
+Wilkinson made the comments in Starland County near Drumheller, Alta., in front of the thousands of gleaming solar panels that make up the latest solar project to be connected to the province's electricity grid.
+</P>
+<P>
+"The federal government's view is that it can be done," Wilkinson said, moments after renewable energy firm Capstone Infrastructure formally cut the ribbon on its 25 MW Michichi solar project, which will produce enough renewable power to offset approximately 30,000 metric tonnes of CO2 each year.
+</P>
+<P>
+"But we also have to be willing to listen to the concerns of Alberta and Saskatchewan and try to find ways to address those concerns — and ideally, address those within the 2035 time frame."
+</P>
+<P>
+As part of its sweeping climate goals, the federal government plans to soon release a draft of its promised clean electricity regulations, which will aim to ensure Canada's electricity grid is a net-zero emitter of greenhouse gas emissions by 2035.
+</P>
+<P>
+Canada's current electricity grid is more than 80 per cent non-emitting, and in provinces with vast amounts of hydro-electric generating capacity, decarbonizing within the next decade is feasible.
+</P>
+<P>
+But though Alberta has committed to achieving net-zero greenhouse gas emissions by 2050, the province's lack of hydroelectricity and heavy reliance on natural gas for power generation means its grid faces steeper transition challenges than many other jurisdictions.
+</P>
+<P>
+Saskatchewan, too, has said the 2035 time frame is unachievable and has said it will aim to achieve a net-zero electricity grid by 2050 instead.
+</P>
+<P>
+On Monday, Smith reiterated her government's belief that any federal electricity regulations that are "too aggressive" would infringe on the province's constitutional authority over its natural resources.
+</P>
+<P>
+"We're just not going to anything that is going to damage our economy or do anything that's going to indicate that our oil and gas sector is going to be phased out," the premier said at a Stampede breakfast in Calgary.
+</P>
+<P>
+However, Wilkinson said Tuesday that by agreeing to Alberta's proposal to form a bilateral working group, Ottawa is showing it is willing to listen to the province's concerns.
+</P>
+<P>
+The working group, which Wilkinson said will be made up of "senior people on both sides," will aim to come to some sort of federal-provincial alignment on emissions reduction — including on the issue of greening the electricity grid.
+</P>
+<P>
+Wilkinson pointed out that not that long ago, Alberta was largely reliant on coal for electricity. He said the fact that the province is now slated to be off of coal entirely by next year is an immense achievement.
+</P>
+<P>
+The province is also in the midst of a boom in wind and solar development. Alberta is now home to more than 3,800 megawatts of wind and solar capacity, and last year forecaster Rystad Energy predicted the province would lead the country in total installed utility-scale wind and solar power by the middle of the decade.
+</P>
+<P>
+Still, at this point, more than 70 per cent of the province's total electricity generating capacity is non-renewable. Wilkinson said his government understands that wind and solar will take Alberta only so far.
+</P>
+<P>
+"For Saskatchewan and Alberta, I would say that natural gas with carbon capture is going to continue to be part of the conversation," he said.
+</P>
+<P>
+"And small modular reactors and nuclear power, understanding there's going to be some time that will take, is also going to be part of the reality."
+</P>
+<P>
+Wilkinson said the aim of the working group will be to determine what technical and financial barriers to getting to net-zero exist for Alberta, and how the federal government can help.
+</P>
+<P>
+While he said Ottawa has already made significant financial commitments, it may be willing to do even more to get provinces over the finish line.
+</P>
+<P>
+"I would say the federal government has to be open to that conversation," he said, adding the most recent federal budget included funding for an investment tax credit for electricity generation and inter-provincial transmission.
+</P>
+<P>
+"The reason we did that is we saw the scale of the challenge, and our view was it was beyond the fiscal capacity of any of the provinces in terms of what's going to be required in the coming decades," Wilkinson said.
+</P>
+<P>
+"So we have put money on the table for those provinces that are willing to engage in that conversation. It may be that we have to do more."
+</P>
+<P>
+In an interview at the solar site Tuesday, Capstone Infrastructure CEO David Eva said he also believes net-zero electricity is possible for Alberta by 2035.
+</P>
+<P>
+He said within the span of a few short years, the cost of solar technology has come down so much that it's now cheaper than fossil fuel generation, and many of Alberta's traditional oil and gas companies are signing off-take agreements with renewable power companies for their own electricity needs.
+</P>
+<P>
+"I believe it (net-zero) is possible," Eva said.
+</P>
+<P>
+"It's a challenge, but at the rate we're going, as long as we invest into the grid to enable these projects to connect, and we continue to see support from all levels of government … I have every confidence that we'll get there."
+</P>
+</TEXT>
+</DOC>

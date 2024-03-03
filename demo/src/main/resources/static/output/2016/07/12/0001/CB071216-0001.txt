@@ -1,0 +1,138 @@
+<DOC>
+<DOCNO> CB071216-0001 </DOCNO>
+<DATE>
+<P>
+July 12, 2016
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Three Amigos regulators have far to go to meet methane agreement; 
+</P>
+<P>
+1st problem is how to measure emissions, then how to regulate the oil and gas industry
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+For the Three Amigos, the agreement to reduce methane emissions in Canada, the U.S. and Mexico by 45 per cent by 2025 was a significant move toward their Paris climate summit objectives.
+</P>
+<P>
+But now regulatory agencies in all three countries are facing a series of hurdles: how to determine how much methane is being emitted; how to create effective laws to control it; and how to ensure the targets are being met.
+</P>
+<P>
+Much of that effort will focus on the oil and gas industry, which is the biggest contributor to methane emissions through natural gas released into the atmosphere.
+</P>
+<P>
+Unlike earlier methane reduction plans, which were voluntary, this one will rely on regulations, developed and enforced by three governments.
+</P>
+<P>
+Methane is a damaging greenhouse gas — up to 30 times more potent than carbon dioxide in trapping heat. The U.S. is the second largest emitter of methane in the world, after Russia; Canada is No. 4 and Mexico is No. 5. 
+</P>
+<P>
+Leaks from oil and gas production
+</P>
+<P>
+The three Amigos are significant contributors because of their petroleum industries, which leak methane or natural gas at every stage of production, from the wellhead to the valves and compressors to the pipelines.
+</P>
+<P>
+Fortunately for the industry, which is struggling with low prices for its product, most of the fixes are easy and already tested. And selling the natural gas captured could eventually pay for part of the cost of the technology.
+</P>
+<P>
+"In many cases it's what should be done in terms of best practices in terms of managing your wellsite, managing your pipes, managing your process," says Duncan Kenyon, director of unconventional oil and gas at the Pembina Institute.
+</P>
+<P>
+Just adding an inspection routine for leaks at wellsites, pumps and pipeline routes will achieve almost one-third of the reduction, he said. Those maintenance jobs could be a source of much-needed employment in recession-hit Alberta, he says.
+</P>
+<P>
+That doesn't mean that the oil and gas industry is keen on the prospect, with the Canadian Association of Petroleum Producers calling for changes that won't overburden the industry in a brief on Alberta's proposed methane limits. But one of CAPP's key demands — for harmonization of rules across the country — will be achieved because of the Three Amigos deal.
+</P>
+<P>
+Accuracy of measurement?
+</P>
+<P>
+How do Canada, Mexico and the U.S. know how much methane is emitted by the oil and gas industry?
+</P>
+<P>
+Kenyon calls accurate measurement the "Achilles heel" of the methane effort.
+</P>
+<P>
+All three countries report a number annually to the international agency that monitors greenhouse gases, but the number they submit is at best, an educated guess, says Colm Sweeney, a scientist with the National Oceanic and Atmospheric Administration.
+</P>
+<P>
+The number is based on production reports submitted by the industry to government agencies and on an estimate, calculated by engineers over a period of years, of leakage of natural gas from wellheads and equipment.
+</P>
+<P>
+But studies done by the NOAA and other researchers by taking air samples in oil-drilling regions show that some are emitting more than others, including regions where fracking is widespread.  
+</P>
+<P>
+For example, 275,000 tonnes of methane leak from the Bakken in North Dakota each year and a similar amount from the Denver-Julesburg Basin in Colorado because of seepage through the ground and inefficient technologies.
+</P>
+<P>
+Infrastructure lacking
+</P>
+<P>
+"The big thing is, they don't have the infrastructure," Sweeney said. "There are a lot of mom and pop operations and they haven't bothered to take methane levels or even burn it off with flaring."
+</P>
+<P>
+Alberta tackled sour gas pollution in the 1990s, making it mandatory for oil producers to capture natural gas emissions at the wellhead. As a result, there is an extensive network of pipelines to capture the methane, both in Alberta and Saskatchewan.
+</P>
+<P>
+The EPA has recognized its estimates of methane emissions are inaccurate based on recent studies, according to an EPA statement. It issued a new information collection request this spring that was sent to all U.S. producers and is meant to collect a more extensive range of information.
+</P>
+<P>
+Opportunity to develop accurate measurement technology
+</P>
+<P>
+In Canada, regulators are dealing with the same need to more accurately measure methane emissions and will likely piggyback on the royalty reporting system in an effort to improve the numbers.
+</P>
+<P>
+Kenyon sees a big opportunity for Canadian companies in developing better methane measurement equipment, because the rest of the world will be looking for that kind of technology as it tries to meet climate change commitments.
+</P>
+<P>
+"We will be able to export expertise if we develop the technology for accurately measuring methane," he said.
+</P>
+<P>
+How to regulate?
+</P>
+<P>
+The next step will be developing national regulations to control emissions in the oil and gas sector — likely over the coming year.
+</P>
+<P>
+Alberta is already developing new regulations for the oil and gas industry on methane capture.
+</P>
+<P>
+What it does will be watched closely to see if it can be scaled up for national use or adopted by U.S. and Mexican regulators.
+</P>
+<P>
+Drew Nelson, senior manager for natural gas at the Environmental Defense Fund, says the Alberta industry is likely to be ahead of the game on meeting standards and developing better practices in the industry.
+</P>
+<P>
+And the integrated approach across the country and then throughout the continent means operators who meet new higher standards won't lose out to jurisdictions that allow more pollution, Nelson said.
+</P>
+<P>
+He believes Alberta began a "virtuous cycle" with its methane reduction commitment last year that led to the Canada-U.S. agreement and eventually to bringing Mexico on board.
+</P>
+<P>
+Mexico prepares to lead
+</P>
+<P>
+"Mexico is clearly stepping up to the plate and acting like a climate leader," Nelson said. "That's remarkable because it's in that grey area of not quite developed countries."
+</P>
+<P>
+Mexico already has an air pollution regulator and has created a new regulator for the oil and gas sector as it opens the industry to foreign investment this year. The Three Amigos methane agreement means companies taking advantage of that opportunity will face similar, if not identical, standards throughout North America.
+</P>
+<P>
+He points to the TransCanada deal to build a pipeline carrying U.S. gas to Mexico as an example of the potential integration ahead.
+</P>
+<P>
+For the petroleum industry, this process will mean several years of consultation with government and then investment in best practices.
+</P>
+<P>
+But controlling methane won't require any technology that doesn't already exist, according to a study by ICF International.
+</P>
+<P>
+The EPA is already signing up American producers who have committed to a set of best practices for every type of well development, from fracking to offshore. It has 41 such "methane challenge partners."
+</P>
+</TEXT>
+</DOC>

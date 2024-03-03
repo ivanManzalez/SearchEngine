@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> CB032622-0001 </DOCNO>
+<DATE>
+<P>
+March 26, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Once the epicentre of the oilpatch, Texas now humming with wind and solar power; 
+</P>
+<P>
+Wind power now accounts for 21% of state's electricity production
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+One year after the fatal failure of the Texas electric grid sparked a backlash against clean power, the growth of its renewable energy sector hasn't slowed down.
+</P>
+<P>
+Texas is already the top wind power producer in the United States and is on pace to become number 1 in solar electricity in a few years.
+</P>
+<P>
+Last year's winter storm knocked out about half the state's power plants, triggering broad swaths of outages that pushed electricity prices to exorbitant levels and left more than 200 people dead. 
+</P>
+<P>
+Fingers were pointed at frozen wind turbines as the main reason several parts of the state plunged into darkness for days, including by Texas Gov. Greg Abbott. 
+</P>
+<P>
+But the problems were much broader as other power plants, mainly natural gas-fired facilities, were also knocked offline and the state's grid wasn't able to move available power to where it was needed.
+</P>
+<P>
+"There was some negative press right out of the gate," said Jason Allen, chief executive officer of Leeward Renewable Energy, during an interview at the company's Dallas headquarters.
+</P>
+<P>
+"But overall, most of the renewable assets performed exceptionally well during that storm. You had wind producers down in the south that were not impacted by the storm. Great winds supplying the solar production was really strong."
+</P>
+<P>
+Leeward has developed utility-scale wind and solar projects in Texas and has operations in eight other states. The company is owned by the Ontario Municipal Employees' Retirement System (OMERS).
+</P>
+<P>
+Allen has worked in many different power generation industries, including coal, natural gas and hydro.
+</P>
+<P>
+"I have transitioned through those different technologies and ended up right where I think the future is and where we're going to be growing," he said.
+</P>
+<P>
+The company's Texas wind farms are clustered together south of the town of Sweetwater, about 340 kilometres west of Dallas. In this rural area, wind turbines outnumber local residents and the cattle that graze among the cacti. The turbines tower above the relatively short mesquite and cedar trees sparsely populating the landscape.
+</P>
+<P>
+The number of wind farms has swelled in the state over the last two decades fuelled by plenty of land and strong gusts of air.
+</P>
+<P>
+New rule requires winter weather measures
+</P>
+<P>
+The storm showed there are lessons to be learned about the need for all types of power plants to be more resilient as climate change causes more severe and frequent weather events. At the same time, more transmission lines are required within Texas to enable power to better reach storm-affected areas, and increased connections to neighbouring states' power grids to allow Texas to import electricity when needed.
+</P>
+<P>
+"When you look back at that storm, yes, there were a good number of wind turbines that went offline, but the primary issues were with the thermal generating plants," which mainly were natural gas, said Samantha Bobo Woodworth, a wind energy research analyst with S&P Global, during an interview in Houston.
+</P>
+<P>
+"You can get de-icing stuff for wind turbines, but in Texas, why would you?"
+</P>
+<P>
+The Texas Public Utility Commission, the state's electricity regulator, in October adopted a new rule requiring companies to follow winter weather protection measures.
+</P>
+<P>
+Wind power accounts for about 21 per cent of electricity produced in the state, while utility-scale solar projects account for about three per cent, according to the U.S. Energy Information Agency (EIA). While renewable electricity is growing, the use of coal has been cut in half over the last decade.
+</P>
+<P>
+The Panhandle region in the northern part of the state is often most attractive to wind projects. West Texas, which has been the epicentre of the American oil boom over the last decade, is where several solar projects have been developed.
+</P>
+<P>
+Several Canadian companies have utility-scale renewable power projects in the state, including Algonquin Power & Utilities, Innergex Renewable Energy, and Canadian Solar.
+</P>
+<P>
+Government incentives have helped the wind and solar industries blossom in Texas, and if passed, President Joe Biden's Build Back Better plan could fuel further growth as it includes clean energy subsidies and promotes the development of more transmission lines.
+</P>
+<P>
+Government funding promotes development, but it's not necessary for renewables to keep growing in the state, said Kunal Patel, a senior business economist with the Federal Reserve Bank of Dallas.
+</P>
+<P>
+Patel said that when looking at the economics, it was still cheaper to build solar or wind generation compared to the other options of natural gas, coal, or nuclear, whether there were government incentives or not.
+</P>
+<P>
+Currently, solar is the lowest-cost source of electricity, Patel said.
+</P>
+<P>
+On top of that, the panels generate power during hot summer afternoons when electricity prices are the highest.
+</P>
+<P>
+"Investors have been starting to look more at solar," said Patel.
+</P>
+<P>
+"It's really starting to brighten the outlook for renewables in Texas."
+</P>
+</TEXT>
+</DOC>

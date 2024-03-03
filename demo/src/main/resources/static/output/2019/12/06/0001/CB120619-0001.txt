@@ -1,0 +1,171 @@
+<DOC>
+<DOCNO> CB120619-0001 </DOCNO>
+<DATE>
+<P>
+December 06, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Flight shaming, offsets and electric planes: How aviation is tackling climate change; 
+</P>
+<P>
+Air industry knows it has a carbon footprint problem - so what is it doing about it?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Delegates from more than 200 countries will be travelling to Madrid this week to take part in COP25, the UN's annual climate conference. 
+</P>
+<P>
+The perceived hypocrisy of so many people flying from all corners of the globe to try to tackle the climate crisis has led some to call for an air travel ban for participants.
+</P>
+<P>
+According to the Intergovernmental Panel on Climate Change (IPCC), domestic and international aviation accounts for approximately two per cent of global CO2 emissions produced by people. It estimates international aviation alone is responsible for 1.3 per cent of global CO2 emissions.
+</P>
+<P>
+But air travel is only growing. The International Air Transport Association (IATA) predicts 7.8 billion passengers will be flying by 2036, a near doubling of the four billion who flew in 2017.
+</P>
+<P>
+According to Reuters, a Swedish-born anti-flying movement — perhaps inspired by teen climate activist Greta Thunberg — is creating a whole new vocabulary, from flygskam (which translates as "flight shame") to tågskryt ("train brag"). The agency reports the movement is spreading to other parts of Europe.
+</P>
+<P>
+What is the aviation industry doing?
+</P>
+<P>
+In 2009, the International Civil Aviation Organization (ICAO) set out to make the industry more fuel efficient and reduce CO2 emissions to half of 2005 levels by 2050. 
+</P>
+<P>
+The plan was built around:
+</P>
+<P>
+In 2016, ICAO airlines (about 290 worldwide) also agreed to the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA). CORSIA aims to offset 2.6 billion tonnes of CO2 emissions by 2035, by providing more than $50 billion Cdn for climate projects. 
+</P>
+<P>
+All participating countries will be required to begin offsetting any emission growth from 2019-20 levels starting in 2021. (As a signatory of CORSIA, Canada began monitoring and verifying emissions from international flights on Jan. 1, 2019.)
+</P>
+<P>
+Do offsets really work?
+</P>
+<P>
+As CBC News reported earlier this year, the general consensus is that carbon offset programs have improved. But there is still debate about whether they actually work. 
+</P>
+<P>
+The anti argument says they do nothing to actually reduce carbon emissions. The pro argument says if they weren't tied to carbon offset projects, climate-friendly initiatives such as tree planting or wind and solar energy development would never happen. 
+</P>
+<P>
+Kathryn Ervine, an associate professor at Saint Mary's University in Halifax who has researched carbon offsets, said they are simply a way for airlines and individual travellers to try to appease their guilt, and aren't beneficial.
+</P>
+<P>
+Her suggestion? "Go and find a worthwhile green initiative that you know is making an impact and make a financial contribution to it."
+</P>
+<P>
+Are individual airlines doing anything?
+</P>
+<P>
+Many airlines encourage travellers to buy carbon offsets, fly direct (which uses less fuel) and even to pack less (lighter planes use less fuel). 
+</P>
+<P>
+KLM has gone a step further by encouraging potential customers to consider travelling by train instead. It points out some train travel between major European cities is faster than flying. 
+</P>
+<P>
+British Airways recently announced plans to offset its domestic travel beginning next year, after becoming the first airline to commit to net carbon zero flying by 2050. But an investigation by BBC's Panorama revealed the airline was also using a cost-cutting measure called fuel tankering, in which planes load up with extra fuel to avoid refuelling costs at their destination.
+</P>
+<P>
+Panorama reported that carrying that extra fuel meant the airline generated an extra 18,000 tonnes of carbon dioxide last year. BA said it would review the practice. 
+</P>
+<P>
+Qantas followed BA's lead on lowering emissions with a pledge to also be a net zero emitter by 2050. Australia's national carrier has already experimented with flying a plane from Los Angeles to Melbourne using mustard seed biofuel.
+</P>
+<P>
+"So, we know the technology's possible," CEO Alan Joyce told the Australian Broadcasting Corporation. He said the challenge is doing it commercially, at scale. "That's why it'll take some time to get there."
+</P>
+<P>
+Other airlines — including Air Canada — have committed to using more sustainable fuels. 
+</P>
+<P>
+An aviation carbon tax
+</P>
+<P>
+But all of this isn't enough for some European countries. Transportation is the only European sector currently increasing its emissions, so nine EU countries (the Netherlands, Germany, France, Sweden, Italy, Belgium, Luxembourg, Denmark and Bulgaria) are calling for the creation of an aviation tax. 
+</P>
+<P>
+In a letter to the EU chief executive of climate, the countries' finance ministers said an aviation tax where "the polluter pays a fairer price for the use of aviation transport" is necessary to combat climate change.
+</P>
+<P>
+"Compared to most other means of transportation, aviation is not sufficiently priced," the letter said. The European Commission has said it plans to respond by the end of December. 
+</P>
+<P>
+A ban on business class?
+</P>
+<P>
+Jozsef Varadi, the head of Hungarian economy flyer Wizz Air, is calling for a ban on business class for flights under five hours. 
+</P>
+<P>
+It's not an entirely new idea. The World Bank studied the environmental impact of flying first and business class versus economy in 2013, and found that the higher-paying passengers generated about three per cent more carbon emissions. Why?
+</P>
+<P>
+First and business class seats on airplanes are bigger, fewer passengers sit in those sections and so the aircraft's fuel is used to move fewer people. 
+</P>
+<P>
+Indeed, according to this online carbon calculator, a round trip flight in economy class from Toronto's Pearson International Airport to London Heathrow produces 4.9 tonnes of carbon emissions. The same trip in business class produces 9.5 tonnes. 
+</P>
+<P>
+What's the future of flying?
+</P>
+<P>
+In a word: electric. 
+</P>
+<P>
+Companies around the world are working on building all-electric aircraft. One of them is Vancouver-based Harbour Air. 
+</P>
+<P>
+The company's founder and CEO is getting set to fly a DHC-2 de Havilland Beaver float plane that's been retrofitted with a 750-horsepower electric motor for the first time Dec. 11. It should be about a 10-minute flight but will add to the growing body of research about electric aviation.
+</P>
+<P>
+NASA is also playing a big part in that research. Its first all-electric aircraft — the X-57 Maxwell — arrived at the Armstrong Flight Research Center in Edwards, Calif. in early October. 
+</P>
+<P>
+NASA has been involved in the research, development and testing of electric aviation technology for decades. Its goal is not to build the first all-electric commercial airliner — or even a prototype — but to help the Federal Aviation Administration (FAA) establish standards for electric flight. 
+</P>
+<P>
+"Before electric aircraft start flying everywhere, [the] FAA needs to set certification standards for certain systems," said Matt Kamlet, senior public affairs specialist for aeronautics. "And our goal with X-57 is to help set those standards."
+</P>
+<P>
+That has involved years of designing and redesigning the model, as well as experimenting with different energy sources. 
+</P>
+<P>
+"We needed electric motors which take the electric power and drive the propellers," said Sean Clarke, principal investigator for the X-57. "We needed motor inverters or controllers that take the DC power that batteries provide and turn it into a rotating power for the motor to use. And then we also needed batteries."
+</P>
+<P>
+So the team modified some commercial battery cells — the 18650 cell — and repackaged them with the requirements for aircraft. The whole system weighs about nearly 400 kilograms and provides about 45 minutes of travel. 
+</P>
+<P>
+Clarke said NASA will be ground testing its electric plane in the next six to eight months and doing its first crewed flight test by the end of next year. The aircraft will be far quieter than current aircraft and in flight, it would be completely carbon-free.
+</P>
+<P>
+If you think that 45 minutes of carbon-free flight isn't of much use, Clarke pointed out that the technology will almost certainly benefit large aircraft as well. 
+</P>
+<P>
+"Hybrid aircraft — which could use a lot of the technologies from this vehicle and even batteries to some extent — could make a lot of sense at small scales up to ranges of two or three hundred miles [320 to 480 kilometres] pretty soon."
+</P>
+<P>
+So, should COP25 ban delegates from flying to Madrid? 
+</P>
+<P>
+Natalie Jones, a research associate at the Centre for Existential Risk at the University of Cambridge, said no. 
+</P>
+<P>
+Given the conference is in Spain, you'd have delegates from European countries who could take the train, maybe delegates from some North African countries who could sail across the Mediterranean and perhaps North American representation, if their delegates could afford a two-week trip by sea across the Atlantic. That would leave those most affected by climate change on the sidelines. 
+</P>
+<P>
+"You're missing most of Asia, probably. You're missing most of Africa. You're missing most of the poorest countries, the small island states in the Pacific. How are they going to send people?"
+</P>
+<P>
+What about video conferencing? Jones said for many less-developed countries, the technology can be unreliable. Plus, so many key conversations at conferences like COP happen in hallways, in smaller rooms, even the lunch line. So being confined to one video line would be of little use. 
+</P>
+<P>
+"Arguably you'll be locked out of kind of where the ... actual power is," she said. "And so if you're not there, then your interests are going to get absolutely trampled on."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,93 @@
+<DOC>
+<DOCNO> CB090222-0001 </DOCNO>
+<DATE>
+<P>
+September 02, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Russia's Gazprom says it can't restart key gas pipeline to Germany; 
+</P>
+<P>
+Announcement made just hours before Nord Stream 1 deliveries were due to resume
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Europe's energy crisis loomed larger Friday after Russian energy giant Gazprom said it couldn't resume the supply of natural gas through a major pipeline to Germany, citing what it said was an urgent need to repair key components in an announcement made just hours before it was due to restart deliveries.
+</P>
+<P>
+The Russian state-run energy company had shut down the Nord Stream 1 pipeline on Wednesday for what it said would be three days of maintenance.
+</P>
+<P>
+It said in a social media post Friday evening that it had identified "malfunctions" of a turbine and added that the pipeline would not work unless those were eliminated.
+</P>
+<P>
+The move was the latest development in a saga in which Gazprom has cited technical problems as the reason for reducing gas flows through Nord Stream 1 — explanations that German officials have rejected as a cover for a political power play following Russia's invasion of Ukraine.
+</P>
+<P>
+European utilities have scrambled to find additional supply during the summer months to get ready for winter heating demands, buying expensive liquefied gas that comes by ship, while additional supplies have come via pipeline from Norway and Azerbaijan.
+</P>
+<P>
+Fears of a winter shortage have eased somewhat as storage of natural gas has progressed, but a complete cutoff could present Europe with serious difficulties, analysts say.
+</P>
+<P>
+The European Union needs to step up efforts to reduce gas consumption, said energy policy expert Simone Tagliapietra at the Bruegel think tank in Brussels.
+</P>
+<P>
+The continuing interruptions from Gazprom mean that "a winter with zero Russian gas is the central scenario for Europe," he said. "There is only one way to prepare for that: reducing gas and electricity demand."
+</P>
+<P>
+Company cites issue with turbines
+</P>
+<P>
+Gazprom said it had identified oil leaks from four turbines at the Portovaya compressor station at the Russian end of the pipeline, including the sole operational one. It claimed to have received warnings from Russia's industrial safety watchdog that the leaks "do not allow for safe, trouble-free operation of the gas turbine engine."
+</P>
+<P>
+"In connection with this, it is necessary to take appropriate measures and suspend further operation of the gas compressor unit in connection with the identified gross [safety] violations," the company said.
+</P>
+<P>
+Gazprom started cutting supplies through Nord Stream 1 in mid-June, blaming delays to the delivery of a turbine that had been sent to Canada for repair. Canada has since allowed the turbine's delivery to Germany, which has said that nothing stands in the way of it being sent to Russia other than Russia saying it wants the part.
+</P>
+<P>
+In recent weeks, Nord Stream 1 has been running at only 20 per cent capacity.
+</P>
+<P>
+Following Gazprom's announcement, Germany's Siemens Energy, which manufactured the turbines, said that "such a finding is not a technical reason for stopping operation."
+</P>
+<P>
+"Such leakages do not usually affect the operation of a turbine and can be sealed on site," it said in a statement, adding that this "is a routine procedure during maintenance work" and that type of leakage didn't result in operations being shut down in the past.
+</P>
+<P>
+Siemens Energy said it wasn't currently contracted for maintenance work, but was standing by. "Irrespective of this, we have already pointed out several times that there are enough additional turbines available at the Portovaya compressor station for Nord Stream 1 to operate," it added.
+</P>
+<P>
+'Russia's unreliability'
+</P>
+<P>
+Russia, which before the reductions started accounted for a bit more than a third of Germany's gas supplies, has also reduced the flow of gas to other European countries which have sided with Ukraine in the war.
+</P>
+<P>
+Natural gas is used to power industry, heat homes and offices, and generate electricity. Increasing the amount in reserve has been a key focus of the German government since Russia invaded Ukraine, to avoid rationing for industry as demand rises in the winter.
+</P>
+<P>
+Germany's storage facilities are now over 84 per cent full.
+</P>
+<P>
+The head of Germany's network regulatory agency, Klaus Mueller, tweeted that the Russian decision to keep Nord Stream 1 switched off for now increases the significance of new liquefied natural gas terminals that Germany plans to start running this winter, gas storage and "significant needs to save" gas.
+</P>
+<P>
+It is "good that Germany is now better prepared, but now it comes down to everyone," he said.
+</P>
+<P>
+Germany's Economy Ministry said it had "taken note" of Gazprom's latest announcement and wouldn't comment on it directly, but said "we have already seen Russia's unreliability in recent weeks" and continued efforts to reduce the country's reliance on Russian energy imports.
+</P>
+<P>
+"Of course these are difficult times but we will continue to strengthen provisions consistently," the ministry said in a statement. "Great efforts are still needed but we are on a good path to coping with the situation."
+</P>
+<P>
+The European Union has just reached its goal of filling its gas storage to 80 per cent, ahead of a Nov. 1 deadline, despite Russian supply cutbacks.
+</P>
+</TEXT>
+</DOC>

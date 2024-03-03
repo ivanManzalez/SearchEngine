@@ -1,0 +1,4 @@
+DocNo   : CB040620-0001
+ID      : 100
+Date    : 06 April 2020
+Headline: Nova Scotia removes travel from COVID-19 testing requirements; Previously, one of the prerequisites for getting swabbed was having travelled recently outside of the province

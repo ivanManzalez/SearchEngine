@@ -1,0 +1,189 @@
+<DOC>
+<DOCNO> CB103121-0002 </DOCNO>
+<DATE>
+<P>
+October 31, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+In Iceland, can a revolutionary new process actually help stop global warming?; 
+</P>
+<P>
+Direct air capture facility near Reykjavik pulls CO2 out of the air
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled Our Changing Planet to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+The blackened lava fields and billowing steam vents of an active volcano near Reykjavik, Iceland, are the backdrop for a new venture that could help change the global calculation on climate change.
+</P>
+<P>
+The facility, known as Orca, captures carbon dioxide, or CO2, right out of the air — essentially scrubbing the atmosphere of the greenhouse gas.
+</P>
+<P>
+"Like, imagine when we started, 14 years ago, there was absolutely no support for what we were doing," said Christoph Gebald, 38, a German-born engineer who's now based in Zurich, Switzerland.
+</P>
+<P>
+"I'm very excited about where we are."
+</P>
+<P>
+Gebald's company, Climeworks, which he co-founded, has emerged as one of the early leaders in a technology known as direct air capture.  The plant in Iceland is the largest of its kind in the world.
+</P>
+<P>
+Scientists have known for decades how to take CO2 out of the air, but applying the technology on a large scale and in a way that makes economic sense has been elusive.
+</P>
+<P>
+With the COP26 climate summit poised to begin Sunday in Glasgow, Scotland, and the world searching for solutions to de-carbonize faster, there's been a spike in interest in how new technologies can help get there.
+</P>
+<P>
+The Conference of Parties (COP), as it's known, meets every year and is the global decision-making body set up to implement the United Nations Framework Convention on Climate Change, adopted in the early 1990s, and subsequent climate agreements.
+</P>
+<P>
+Climeworks is now among more than a dozen companies around the globe — including some in Canada — blazing a new and, for some, controversial trail by attempting to capture dispersed greenhouse gases to counter the effects of climate change.
+</P>
+<P>
+Detractors suggest carbon-capturing technology is expensive and its impact on lowering atmospheric CO2 questionable.
+</P>
+<P>
+In July, hundreds of Canadian and American environmentalists joined forces to call on governments to stop investing in carbon capture, arguing it takes the focus off reducing emissions, which should be the prime directive of climate mitigation efforts.
+</P>
+<P>
+However, their fight appeared to be aimed largely at the oil, gas and coal industries and their investments to capture and sequester pollutants coming out of the stack.
+</P>
+<P>
+Instead, direct air capture aims to collect greenhouse gases that have already been dispersed in the air. Proponents say since the gases circle the globe, such facilities can be built anywhere and used to clean the air of the entire planet.
+</P>
+<P>
+Gebald said in a fight as all-consuming as climate change, the technology can play a crucial role.
+</P>
+<P>
+"We need direct air capture as a solution for stuff we cannot reduce otherwise. It's emissions from agriculture, it's emissions from operations that physically have a hard time to avoid CO2, like aviation," Gebald explained via Zoom, as a CBC crew toured the Orca plant.
+</P>
+<P>
+"Climate science is asking for this and Orca is delivering that product."
+</P>
+<P>
+The Climeworks facility is located about 50 kilometres outside Iceland's capital, next to the Hellisheiði Power Station, which is run by Reykjavik Energy.
+</P>
+<P>
+It's a geothermal plant that taps into the heat of the Earth's core to provide a supply of clean, cheap electricity.
+</P>
+<P>
+Pipes carrying superheated steam criss-cross the hillside and power the enormous electrical turbines at the power plant.
+</P>
+<P>
+The Orca facility next door appears relatively modest in comparison.
+</P>
+<P>
+It consists of a series of modules the size of a shipping container that are filled with dozens of fans, all attached to white, tube-shaped filter bags.
+</P>
+<P>
+The fans draw in the air from outside and the CO2 molecules chemically attach to the filters. The filters are heated,  shaking loose the captured gas, which is piped off for the next part of the process.
+</P>
+<P>
+WATCH | Taking carbon dioxide out of the air and turning it to stone underground:
+</P>
+<P>
+That phase is handled by Carbfix, a publicly owned Icelandic company that is part of the electrical utility.
+</P>
+<P>
+Kari Helgason, Carbfix's head of research and innovation, took our CBC crew into an igloo-like structure filled with yet more pipes.
+</P>
+<P>
+There, he said, the CO2 is mixed with water and injected 800 metres below into the volcanic rocks, where it disperses. Over months, it interacts chemically with the basalt rock and petrifies, turning to stone.
+</P>
+<P>
+Helgason said Iceland's capacity to seal away such greenhouse gases is vast.
+</P>
+<P>
+"Iceland could store about 50 times the annual emissions of mankind," he said, noting Carbfix is exploring ways of shipping in CO2 from other countries and burying it the same way.
+</P>
+<P>
+Helgason said the extremely porous volcanic rock that dominates Iceland's geology is ideal for storing CO2 because there's no risk of the gas escaping. Nor is there a chance the process can have unwanted side-effects, such as earthquakes, which can sometimes occur during fracking.
+</P>
+<P>
+"Nature cleans up after itself," said Helgason. "It takes CO2 from the atmosphere and stores it in rock. We are just speeding up the process using science and innovation."
+</P>
+<P>
+Carbfix pioneered the process by entombing unwanted emissions from the geothermal plant but now deals with the CO2 from Climeworks and possibly other companies in the future.
+</P>
+<P>
+'A bit overwhelming'
+</P>
+<P>
+"It's a bit overwhelming, I must admit. Sort of like the Wild West, with everybody scrambling to decarbonize now, whereas we should have started 10, 20 years ago."
+</P>
+<P>
+The Climeworks operation has the capacity to remove about 10 tonnes of CO2 per day, or about 4,000 tonnes a year.     
+</P>
+<P>
+To put that in perspective, that amounts to only a few seconds of the world's annual emissions. But Gebald, the co-founder, said that is just the beginning and larger plants will follow, with the hope of scaling up to 30 million tonnes annually within 15 to 20 years.
+</P>
+<P>
+In fact, a Canadian company, Carbon Engineering, based in Squamish, B.C., is designing a facility in West Texas that would have roughly 250 times the capacity of the Iceland facility — or more than one million tonnes a year. 
+</P>
+<P>
+It plans to use the empty reservoirs deep beneath old fields to seal up the unwanted gases.
+</P>
+<P>
+"We'll start construction next year and the plant will go operational, we think, in late 2024," CEO Steve Oldham told CBC News in an interview.
+</P>
+<P>
+Oldham's firm has had a small demonstration unit at the company's site on Howe Sound since 2015. It's also building a new, larger demonstration plant in Squamish that will be opening in the coming months.
+</P>
+<P>
+Turning CO2 into synthetic fuel
+</P>
+<P>
+Carbon Engineering's other ventures include a $1.3-billion partnership with the Upper Nicola First Nation that will use the carbon dioxide captured from the air to ultimately produce synthetic fuel.
+</P>
+<P>
+The Texas direct air capture facility is being bankrolled by Occidental Petroleum, one of the largest exploration and production firms in the world, with Carbon Engineering providing the design and technological expertise.
+</P>
+<P>
+"Why are we building a plant in the United States? Because they actually have the policies in place today that close the business case," said Oldham, noting a combination of carbon taxes and tax credits has helped make a persuasive argument that there's a value for companies to remove carbon dioxide from the air.
+</P>
+<P>
+"Our prices for permanent removal [of carbon] from our first plant start at $300 US a tonne. We are very confident those prices will come down."
+</P>
+<P>
+Oldham, who formed his company back in 2009, said it's extremely rewarding to see years of work finally being validated. 
+</P>
+<P>
+"Direct air capture is hard. You know, CO2 in the atmosphere is 400 parts per million — that's the equivalent of a single drop of ink in a swimming pool. So pulling it out cost-effectively is tough. And that's why ourselves and Climeworks have been up this business for many, many years."
+</P>
+<P>
+The arrival of Climeworks in Iceland created a lot of discussion at the recent Arctic Circle forum in Reykjavik.
+</P>
+<P>
+Well-received in Iceland
+</P>
+<P>
+The gathering brought together thousands of delegates from northern countries, with the fight against climate change topping the agenda.
+</P>
+<P>
+WATCH | A glacier lagoon grows as an ice cap melts:
+</P>
+<P>
+Although environmentalists elsewhere have voiced concerns about big oil companies backing direct air capture ventures, the Climeworks operation and the role of Carbfix in burying the carbon have been well-received in the country.
+</P>
+<P>
+"We really are at this point that we just need to fight in every battleground and we need everyone to come together," said Tinna Hallgrimsdottir, a prominent young environmentalist who has tracked Climeworks's progress.
+</P>
+<P>
+"We can't just skip one thing. We just need to do everything at the same time. But the emphasis should always be on emissions reduction, but this will come as something to help us just to bridge the gap that we need."
+</P>
+<P>
+In a conference call with foreign media on the eve of the Glasgow summit, the British politician in charge of COP26 refused to be drawn into a discussion about how important direct air capture will be in the global effort to reduce greenhouse gases.
+</P>
+<P>
+Still, Alok Sharma told reporters he believes it will play a role of some kind.
+</P>
+<P>
+"I think we will see and you've seen embryonic technology starting to emerge and that will absolutely be part of the solution in terms of tackling climate change.
+</P>
+</TEXT>
+</DOC>

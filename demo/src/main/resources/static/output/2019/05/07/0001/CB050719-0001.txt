@@ -1,0 +1,213 @@
+<DOC>
+<DOCNO> CB050719-0001 </DOCNO>
+<DATE>
+<P>
+May 07, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+'We're hiring, constantly': How the tech industry figures into Calgary's future; 
+</P>
+<P>
+In a city still hurting for jobs, some companies are hurting for workers — and what that means for the economy
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+As Calgary continues to grapple with high unemployment and the prospect of losing more oil-and-gas jobs in 2019, the technology sector is often held up as a potential saving grace for our city.
+</P>
+<P>
+High tech has become a bit of a buzzword, one we've heard uttered umpteen times by politicians and policy wonks over the past few years as they talk about how to diversify Calgary's economy.
+</P>
+<P>
+But what does that actually mean?
+</P>
+<P>
+It can be a bit of a nebulous concept. Compared to traditional industries like oil and gas or construction, it's not quite as easy to define exactly what constitutes the "tech" sector and what doesn't. There's overlap between it and a growing number of other industries.
+</P>
+<P>
+"I don't view technology as a sector any more," said Mary Moran, president and CEO of Calgary Economic Development. "I view it as a way of doing business and every business needs to embrace it."
+</P>
+<P>
+That said, there are a growing number of companies — and jobs — that make technology their primary focus. And all signs point to that trend not just continuing, but accelerating.
+</P>
+<P>
+Those in the industry locally say the hype — if not quite real, just yet — is certainly warranted. There is already a base of technology firms with deep roots in Calgary, and plenty of potential for the future growth. Local firms are looking to expand but many still struggle to find the skilled workers they need. Efforts are underway to bridge that gap, but the challenge will likely remain for some time.
+</P>
+<P>
+Still, there is a feeling in the tech sector that may be sorely lacking in other industries these days: optimism.
+</P>
+<P>
+As the tech wave continues to rise around the world, for many who work in the field in Calgary the question has become: how best do we ride it?
+</P>
+<P>
+The happy middle
+</P>
+<P>
+Talk about the tech industry, in general, and many people's imaginations will conjure up one of two extremes.
+</P>
+<P>
+On the one hand, we often think of tech as extremely small-scale: the computer-science students running a start-up out of their basement apartment. On the other, we imagine the massive, global behemoths: companies like Google and Amazon and Facebook.
+</P>
+<P>
+But Alice de Koning, academic director at the University of Calgary's Hunter Hub for Entrepreneurial Thinking, says the reality — for Calgary — likely lies in the middle. She believes mid-sized companies are a perfect fit for a mid-sized city like ours.
+</P>
+<P>
+But that doesn't mean their markets can't be big. 
+</P>
+<P>
+Imagine, she says, something akin to Germany's famed Mittelstand: the collection of medium-sized enterprises that have been described as "the engine of the German economy." Many of these firms sell to a global market of customers, often on a business-to-business basis.
+</P>
+<P>
+"Most of them are not selling to consumers," de Koning said. "They're global companies selling to other companies, and that's why you can go to a factory anywhere in the world and see 'Made in Germany.' And so that's the kind of thing I think we can do here in Calgary. We're far from our markets but if we can create something very valuable, we can be successful."
+</P>
+<P>
+And this is already what some Calgary-based tech firms are doing.
+</P>
+<P>
+Finding the right niche
+</P>
+<P>
+Blackline Safety is a local firm that makes wearable devices to keep workers safe in the field.
+</P>
+<P>
+From their headquarters in Ramsay, they design, manufacture and sell their customizable products to all sorts of customers — mainly companies that have to manage remote workforces and mitigate against all sorts of risks their employees might face.
+</P>
+<P>
+That includes everything from miners venturing into areas with hazardous gases to cable company workers venturing into private homes with grumpy — and sometimes violent — customers.
+</P>
+<P>
+Blackline currently employs 140 people in Calgary and is looking to hire more. Sean Stinson, vice-president of sales and product management, says "continued growth" is on the horizon but the company has no plans to relocate as it expands. Calgary is home.
+</P>
+<P>
+While Blackline has some sales staff in United States, Australia and Western Europe, all of its core operations are housed within the brick walls of its Ramsay HQ.
+</P>
+<P>
+Because they focus on smaller-volume, higher-margin manufacturing, Stinson says it makes more sense to build the products locally rather than somewhere like China, because it allows for better quality control, more customization and faster delivery to customers.
+</P>
+<P>
+It also enables staff on all sides of the business — from software developers to hardware testers to the call-centre operators who talk directly to customers' workers in the field — to quickly collaborate, solve problems as they arise and come up with new ideas.
+</P>
+<P>
+Stinson believes Blackline's strategy can be used by other firms to succeed in Calgary, as well.
+</P>
+<P>
+Local tech companies will inevitably have a hard time going head-to-head in the consumer space against the likes of Amazon or in the digital space against giants like Google, but what they can do, he says, is focus on "niche things" and then "really actively push those into a global marketplace."
+</P>
+<P>
+"So, don't look at Calgary as your customer base," he said. "Look at Calgary as your talent pool. You need to look at the world as where you will to sell to, and you need to understand these global markets. And you need to really focus on pushing out to those global markets immediately. Because if you don't, then your competitors are."
+</P>
+<P>
+It's a strategy that's also been employed by one of Calgary's longest-running tech firms.
+</P>
+<P>
+Building on Alberta's heritage
+</P>
+<P>
+NovAtel traces its roots back to the 1980s and a public-private partnership that was aimed at becoming an early manufacturer of cellphones.
+</P>
+<P>
+That venture ended in a highly public failure but from the ashes emerged a streamlined private operation that focused on something that is now ubiquitous but was still relatively unknown at the time: GPS.
+</P>
+<P>
+The idea of a device that could tell you precisely where you were on the planet would have seemed like something out of science fiction to most consumers at the time, but the oil-and-gas industry was highly interested in the technology, which was enormously useful in land surveying, mapping and seismic exploration.
+</P>
+<P>
+NovAtel met that need with a variety of satellite-positioning devices, and has since grown to provide GPS devices and components to a wide range of industries that require centimetre-level precision in their operations, from agriculture to mining to the military.
+</P>
+<P>
+"It's been growing quite well for a number of decades," said Jonathan Auld, the company's vice-president of engineering and safety-critical systems.
+</P>
+<P>
+NovAtel employed about 100 people when he joined the company in the 1990s. Today, as a division of Hexagon Positioning Intelligence, it employs more than 400 people at its brand-new headquarters near the Calgary airport, and another 300 or so in other parts of the world.
+</P>
+<P>
+"The primary skill sets we hire are electrical engineers, software engineers, computer scientists, mechanical engineers, geomatics engineers," Auld said. "And then all the supporting infrastructure around that for business management and IT and operations management and those kinds of things."
+</P>
+<P>
+The company is also constantly looking to maintain and expand its market share by improving its existing products or developing new product lines. For years, it has provided the technology used by the United States Federal Aviation Administration (FAA) to safely guide commercial planes. More recently, it has been expanding into the field of autonomous vehicles.
+</P>
+<P>
+At the same time, it still makes equipment for its original customer base.
+</P>
+<P>
+"The majority of what we do isn't oil and gas any more, but it has a heritage in that, from way back," Auld said.
+</P>
+<P>
+"As the technology matured and the markets matured, we moved into other areas."
+</P>
+<P>
+Auld believes Calgary can do something similar as it looks to mature as a city and develop a broader economic base. And, perhaps not surprisingly, he sees the tech industry as playing a major role in that process.
+</P>
+<P>
+The challenge, he says, is in finding the right people.
+</P>
+<P>
+In search of skilled workers
+</P>
+<P>
+Asked what would help the tech sector grow and thrive, Auld had an answer that's become a common refrain in the industry.
+</P>
+<P>
+"Just having a larger pool of high-tech staff in the city that have the right skill sets that we need," he said.
+</P>
+<P>
+"We spend a lot of time importing people from other cities in Canada and around the world."
+</P>
+<P>
+Over at Blackline, it's a similar story.
+</P>
+<P>
+"We're hiring," said John Mortimer, director of software development and operations. "Constantly."
+</P>
+<P>
+He said it's "an ongoing effort to attract and retain people" at Blackline but the company is "pretty specific" about who they hire. The skill sets required are not always available locally and new hires often come from elsewhere.
+</P>
+<P>
+The tech industry in Calgary has longstanding connections with the engineering school at the University of Calgary, he added, which has been helpful in developing the talent pipeline the sector requires. But he said many firms still need to look far outside the city to meet their staffing needs.
+</P>
+<P>
+Justin Mayerchak, senior vice-president and partner with Colliers International, works with many tech firms in Calgary, helping them find office space for their often-growing operations. He says talent acquisition and retention remains the "biggest challenge" they face in the city.
+</P>
+<P>
+"Even though Calgary has a wealth of out-of-work folks — and unfortunately, we do — a lot of those folks don't necessarily have the skill sets that we need," he said.
+</P>
+<P>
+Some efforts are already underway to remedy this.
+</P>
+<P>
+'It's a long game'
+</P>
+<P>
+Calgary Economic Development recently launched an online portal to support former oil-and-gas workers, in particular, who want to retrain to find work in the tech sector.
+</P>
+<P>
+And last year, the University of Calgary created a new, one-year master's program in software engineering aimed at people who already have an engineering degree in other fields —  civil, electrical, chemical — but want to get into the rapidly expanding field of software development.
+</P>
+<P>
+"But it's a long game," Mayerchak said of developing a consistent pool of skilled workers. "It's going to take time."
+</P>
+<P>
+On the plus side, it has been noted that Calgary is particularly well positioned to make this type of transition. It already has the highest proportion of graduates in science, technology, engineering and math among major cities in Canada, as well as the highest number of engineers and geoscientists per capita.
+</P>
+<P>
+Calgary is also the fifth-largest centre in Canada for employment in the tech sector, with roughly 63,000 jobs in 2016, according to estimates from Ryerson University's Brookfield Institute for Innovation and Entrepreneurship.
+</P>
+<P>
+Auld, with NovAtel, believes the industry is primed for a major expansion in Calgary. And, with the right conditions and supports, he believes it can propel the city into a new era.
+</P>
+<P>
+"I think it holds a lot of potential — there's a lot of untapped capability here and a lot of creativity," he said.
+</P>
+<P>
+"I think we can build on that and make the world know we're more than just the oil-and-gas town that everyone thinks we are."
+</P>
+<P>
+Calgary: The Road Ahead is CBC Calgary's special focus on our city as it passes through the crucible of the downturn: the challenges we face, and the possible solutions as we explore what kind of Calgary we want to create. Have an idea? Email us at calgarytheroadahead@cbc.ca
+</P>
+<P>
+More from the series:
+</P>
+</TEXT>
+</DOC>

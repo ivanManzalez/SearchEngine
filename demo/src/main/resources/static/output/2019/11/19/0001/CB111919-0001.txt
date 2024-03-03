@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> CB111919-0001 </DOCNO>
+<DATE>
+<P>
+November 19, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+EasyJet plans to offset carbon on all flights; 
+</P>
+<P>
+Budget airline plans to invest in projects such as planting trees, preventing deforestation
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+European budget airline easyJet says it will become the first major carrier to operate net-zero carbon flights, offsetting carbon emissions from the fuel used on every flight.
+</P>
+<P>
+The company says Tuesday it will offset the carbon "by investing in projects that include planting trees or protecting against deforestation." The cost of the program is estimated at 25 million pounds ($43 million Cdn).
+</P>
+<P>
+The airline described the effort as an "interim measure" while new technologies are being developed, including efforts to develop hybrid and electric planes. The measure is part of other initiatives to reduce emissions, such as using a single engine when taxiing.
+</P>
+<P>
+"People have a choice in how they travel and people are now thinking about the potential carbon impact of different types of transport," said easyJet's CEO Johan Lundgren. "But many people still want to fly and if people choose to fly we want to be one of the best choices they can make."
+</P>
+<P>
+EasyJet says that as part of a goal to de-carbonize aviation, it has signed a preliminary deal with Airbus to jointly research hybrid and electric aircraft.
+</P>
+<P>
+"Aviation will have to reinvent itself as quickly as it can," Lundgren said.
+</P>
+<P>
+Climate campaign groups like Greenpeace cast doubt on easyJet's plan, pointing to analysis that suggests offsetting schemes are not as effective as some make them out to be. The group suggests that to truly help the environment, authorities would have to impose a frequent flier tax to reduce the number of flights.
+</P>
+<P>
+"This is jumbo-size greenwash from easyJet," said Greenpeace U.K.'s chief scientist, Doug Parr. "There's nothing zero-carbon about their airplanes."
+</P>
+<P>
+Air travel is responsible for about two per cent of global CO2 emissions. If aviation were a country, that would put it among the top 10 emitters in the world. And it's growing fast. By 2020, emissions from global international aviation are projected to be about 70 per cent higher than in 2005 due to rising travel demand. 
+</P>
+<P>
+Concern about aviation's carbon footprint prompted Swedish teen activist Greta Thunberg and others to publicly give up flying altogether as part of the "flygskam" or "flight shame" movement.
+</P>
+<P>
+Controversy over offsets
+</P>
+<P>
+Because electrification is far from being technologically feasible for larger aircraft that create the bulk of emissions, airlines have largely looked to carbon offsetting to reduce the environmental impact of air travel. Carbon offsetting involves "cancelling out" emissions by funding emissions reductions through projects such as green energy or tree planting. But they're controversial because:
+</P>
+</TEXT>
+</DOC>

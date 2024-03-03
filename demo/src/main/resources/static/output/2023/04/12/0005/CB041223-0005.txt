@@ -1,0 +1,132 @@
+<DOC>
+<DOCNO> CB041223-0005 </DOCNO>
+<DATE>
+<P>
+April 12, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How Sweden electrified its home heating — and what Canada could learn; 
+</P>
+<P>
+Swedish heat pump industry veteran Martin Forsén recounts the country's transition from oil heating
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+In the 1970s, three quarters of Swedish homes were heated with oil boilers. Today, electric-powered heat pumps have all but replaced oil in single-family homes (most multi-family homes rely on district heating). That has driven greenhouse gas emissions from oil heating of buildings down 95 per cent since 1990, according to the Swedish Energy Agency, said Martin Forsén a Swedish heating industry veteran and president of the European Heat Pump Association.
+</P>
+<P>
+So how did that happen? And are there lessons for Canada's transition away from fossil heating?
+</P>
+<P>
+Forsén, manager of international affairs for NIBE Energy Systems, shared his personal account of the Swedish transition last week at the Heat Pump Symposium in Mississauga, Ont., organized by the Heating, Refrigeration and Air Conditioning Institute of Canada.
+</P>
+<P>
+"It has been truly a great success for us," he told a sold-out crowd from Canada's HVAC industry.
+</P>
+<P>
+Canada's federal government aims to cut building emissions by 37 per cent below 2005 levels by 2030. Given that about half of Canadian homes are heated with fossil fuels and 78 per cent of building emissions come from space and water heating, electrifying homes that burn fossil fuels is key to meeting emissions reductions.
+</P>
+<P>
+Heat pumps are an energy-efficient form of electric heating that the Canadian government says will make home heating more affordable while fighting climate change. But as of 2021, heat pumps represented just 6 per cent of Canada's residential heating (although it may be higher now due to new incentives).
+</P>
+<P>
+At the beginning, 'It's all about the money'
+</P>
+<P>
+Forsén says Canada is in the first phase of the transition to this technology — its introduction, which for Sweden, was roughly the years 1994 to 2000.
+</P>
+<P>
+He said at that point, the media tends to portray the technology as an "interesting technology" in the Sunday papers. He said "Not even the HVAC [heating] industry is convinced it's a good idea to go in that direction" and may discourage customers who want to install a heat pump.
+</P>
+<P>
+At that stage, "it's all about the money," Forsén said — the price of the new technology compared to the old.
+</P>
+<P>
+In Sweden's case, it had introduced a carbon tax in 1990 that pushed up the price of heating oil.
+</P>
+<P>
+"It was a pain for the consumers," he said. "So they really had to think about, 'Can we do anything about it?'" 
+</P>
+<P>
+Meanwhile, Sweden had a surplus of electricity that made electricity cheap, nudging homeowners toward heat pumps.
+</P>
+<P>
+Canada introduced its own carbon tax in 2019 and will keep ramping it up yearly until 2030, which will likely cause the price of fossil fuels to rise relative to electricity.
+</P>
+<P>
+While building codes can force new construction to incorporate new technology, retrofits of older homes often need to be encouraged with subsidies. Forsén said there are two reasons for this: To overcome the higher initial cost, and to encourage people to plan for installation, instead of waiting until their furnace breaks down in the middle of winter, at which point installing new technology is much more difficult.
+</P>
+<P>
+Canada has started subsidizing heat pumps with programs like the Oil to Heat Pump Affordability Grant and the Greener Homes grant and loan programs.
+</P>
+<P>
+Going mainstream with peer pressure
+</P>
+<P>
+Forsén said the market started to grow in Sweden beyond early adopters after 2000. At that point, people who had heat pumps installed were sharing with friends and family how pleased they were, saying the devices were saving them money more quickly than expected and providing more comfortable heat. Those testimonials, along with more subsidies, began to make heat pumps very popular.
+</P>
+<P>
+Forsén had his own heat pump installed in 2002. In Sweden, most heat pumps were ground-source heat pumps, which required a borehole to be drilled in the yard (since cold-climate air-source heat pumps, currently popular in Canada, were not yet available). That summer, he said, "there was a drilling rig in the neighbourhood pretty much every single week" and neighbours would discuss whose yard it was happening in. "It ... became, like, this kind of a [social] pressure from everyone. All of a sudden, they knew: you have to make a shift."
+</P>
+<P>
+By the mid-2000s, Forsén said, Sweden had reached a tipping point — everyone was familiar with the technology, and no longer needed financial incentives to try it.
+</P>
+<P>
+Today, he said, even if heating oil prices dropped dramatically, no one in Sweden would consider an oil boiler: "It's obsolete."
+</P>
+<P>
+And heat pumps are now so ubiquitous, Forsén said, that recently in a popular Swedish novel, he found a passage casually describing how the main character returned home to the heat of his ground-source heat pump.
+</P>
+<P>
+What will it take in Canada?
+</P>
+<P>
+So what about Canada? 
+</P>
+<P>
+Moe Kabbara is vice-president of the Transition Accelerator, a group focused on how Canada can meet its 2050 climate goals. He attended Forsén's talk, and agreed that Canada is still in the introduction stage for heat pumps.
+</P>
+<P>
+He noted that Sweden managed to overcome many of the same challenges we face, such as ramping up a new industry, and making a quick transition.
+</P>
+<P>
+"They were able to do it," he told CBC News in an interview Tuesday. "And it actually worked in a cold climate." 
+</P>
+<P>
+Of course, he said, Canada's situation is a little different. Sweden transitioned from oil, while Canada is largely heated by gas, which has been much cheaper. He noted that unlike Sweden, Canada also has a number of provinces that produce oil and gas. On the other hand, due to advances in technology, we now have access to cold-climate air-source heat pumps — an option that Sweden didn't have.
+</P>
+<P>
+Regardless, he said, a really important lesson from Sweden is that transitions like this don't "just happen," and require incentives and policies, both "carrots" and "sticks,"
+</P>
+<P>
+"It takes deliberate action from not just government [but] from industry, from different stakeholders," he said.
+</P>
+<P>
+The Transition Accelerator aims to bring those groups together through a new initiative called the Building Decarbonization Alliance.
+</P>
+<P>
+Forsén agrees that policies and incentives are needed to make the transition in Canada.
+</P>
+<P>
+When asked in an interview if the current carbon tax and heat pump subsidies in Canada were enough for us to move past the introduction stage, Forsén said, "No, I think you need more."
+</P>
+<P>
+He noted that Europe is now introducing minimum energy performance standards for existing buildings that would need to be met whenever they were sold or rented to someone new. "I think that's quite a good idea," he said, noting that renovations and retrofits typically happen when a building changes hands.
+</P>
+<P>
+The federal government has proposed developing such a "model retrofit code" by 2024.
+</P>
+<P>
+Forsén also suggested that because testimonials and social pressure play a role, change could happen more quickly if small geographical areas were targeted at a time.
+</P>
+<P>
+He told CBC News that regardless. he thinks Canada will transition over to heat pumps. 
+</P>
+<P>
+"I don't think it's a question of 'if.' It's just a question of when."
+</P>
+</TEXT>
+</DOC>

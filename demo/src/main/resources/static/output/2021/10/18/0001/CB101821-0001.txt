@@ -1,0 +1,132 @@
+<DOC>
+<DOCNO> CB101821-0001 </DOCNO>
+<DATE>
+<P>
+October 18, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Global south suffering gap in climate change research as rich countries drive agenda, studies suggest; 
+</P>
+<P>
+Climate researchers in developing countries face a multitude of challenges getting projects funded and shared
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled "Our Changing Planet" to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+Developing countries suffer from a significant gap in terms of scientific research related to climate change, a new study shows, even though they contain the communities and people most vulnerable to extreme weather, rising sea levels and other serious impacts of climate change. 
+</P>
+<P>
+"There is a kind of gap in knowledge, specifically in peer-reviewed papers in the large literature databases about those areas," said Max Callaghan, lead author of the study and a researcher at the Mercator Research Institute on Global Commons and Climate Change in Berlin.
+</P>
+<P>
+"We know that there are kind of inequalities in this global scientific system in terms of resources."
+</P>
+<P>
+The stark divide in availability of scientific research has been on the radar of climate experts, with major barriers facing global south scientists, such as access to prestigious (and expensive) scientific journals, the lack of time and funding to work on research, and even onerous visa requirements that make it difficult for scientists to attend conferences and meetings in the global north.
+</P>
+<P>
+Experts warn that the gap might leave developing countries without the means to identify where climate mitigation and adaptation efforts should be directed to prepare for future weather disasters. Good climate science is also needed so that aid money from rich countries to help poor countries address climate change is targeted and spent on the right projects.
+</P>
+<P>
+Machine learning maps climate impacts
+</P>
+<P>
+The new study, published this week in Nature Climate Change, used machine learning to examine over 100,000 scientific papers worldwide. The study was conceived as a way to see if machine learning could help the work of the UN's climate science body, the Intergovernmental Panel on Climate Change, by making it easier to examine and analyze the thousands of paper scientists currently examine by hand. 
+</P>
+<P>
+The study authors divided the world into smaller grid cells, and calculated the number of climate studies that studied climate impacts in those areas.
+</P>
+<P>
+They found far more climate studies had been published on impacts in developed countries than developing countries. 
+</P>
+<P>
+For example, nearly 30,000 studies looked at areas in North America. Only 10,000 studies looked at Africa, which has more than double the population.
+</P>
+<P>
+The researchers then used precipitation and temperature data to determine whether a particular area was experiencing climate change caused by human activity. They found that while three quarters of Africans lived in areas experiencing climate change impacts, only 22 percent of those lived in areas with high levels of scientific research on those impacts.
+</P>
+<P>
+This interactive map from the study shows the weight of evidence of climate impacts by grid cell across the globe. The darker shading shows a greater weight of evidence. The filters can be used to specify the climate driver and category of impact. Credit: Max Callaghan.
+</P>
+<P>
+Canada funding research in global south
+</P>
+<P>
+A Canadian government agency is working to address this research gap. The International Development Research Centre, a federal crown corporation, funds and promotes scientific research in the global south and has offices in countries like Uruguay, Senegal and India. 
+</P>
+<P>
+In 2019-2020, new projects totalling $166.4 million were funded by the IDRC and its associated donors. The centre puts out calls for proposals for international development research that achieves specific goals, such as climate change adaptation. Researchers and institutions can apply, with the money going to local researchers or collaborations.
+</P>
+<P>
+Bruce Currie-Alder, the program leader for climate resilience at the IDRC, says while there have been years of conceptual thinking over climate change adaptation, we now need to implement those concepts here in Canada, and everywhere else seeing climate impacts. That's where local climate science becomes very important, to figure out how exactly a particular region needs to adapt. 
+</P>
+<P>
+"It's one thing to say the world is getting warmer. There are certain parts that are drier, there are certain frequency of storms," he said. 
+</P>
+<P>
+"What does that mean in a particular district or state? And that knowledge is absolutely essential."
+</P>
+<P>
+Barriers facing African researchers
+</P>
+<P>
+The stark divide in climate science was highlighted by another paper published in September and partly funded by the IDRC that examined funding for research in Africa. It found that a paltry 3.8 per cent of global funding for climate change research is spent on Africa.
+</P>
+<P>
+Even when it is, the money mostly goes to researchers from the global north. For example, of that small amount of funding for research in Africa, 78 percent went to institutions in Europe and North America. Only 14.5 per cent went to African institutions.
+</P>
+<P>
+Christopher Trisos, a South African co-author of the paper and senior researcher at the ​​African Climate and Development Initiative in Cape Town, says the solution lies not just in increasing funding to African researchers, but also improving the quality of funding. 
+</P>
+<P>
+"For example, increasing direct access and direct control of research, design and resources for African partners when working with researchers from places like Canada or the United States, as opposed to research agendas being set externally," he said.
+</P>
+<P>
+Trisos also pointed out that African researchers face barriers even trying to access published papers, many of which are in journals behind online paywalls that might be beyond their budgets.
+</P>
+<P>
+"So publishing more data open access and more scientific publications open access is a big part of the solution there as well," he said.
+</P>
+<P>
+The paper said that these funding disparities lead to "unequal power dynamics in how climate change research agendas on Africa are shaped by research institutions in Europe and the USA." 
+</P>
+<P>
+One outcome from this is that researchers in developed countries may frame research questions and objectives for a global north audience, rather than provide actionable insights for their local partners to use that research to fight climate change in Africa, the paper warns.
+</P>
+<P>
+Indigenous knowledge needs to be included
+</P>
+<P>
+Michele Leone is a senior program specialist at the IDRC's offices in Dakar, Senegal. He is currently working on an IDRC-funded project that examines migration in the region and how it relates to climate and environmental changes on water sources and agricultural productivity.
+</P>
+<P>
+Leone welcomed the machine learning study but pointed out that the technological method it used is an example of the resource divide between global north and south scientists. 
+</P>
+<P>
+"There is the risk of a kind of a new global divide," he said, "with the rapid, exponentially fast development of artificial intelligence and machine learning tools that have been developed in the north with northern ideas, with northern datasets and northern bias."
+</P>
+<P>
+Trisos says that it's also important to consider who is regarded as an expert. There are multiple barriers to research that intersect with ethnicity and gender, he says, that hold back certain people and certain forms of knowledge.
+</P>
+<P>
+"Thankfully, within institutions like the IPCC that has begun to change the authorship, teams are becoming more diverse," Trisos said. 
+</P>
+<P>
+"There's also much more appreciation of not just scientific knowledge, but Indigenous knowledge and local knowledge as holding valuable histories on how people in places are being impacted by climate change."
+</P>
+<P>
+Even without as much research in the global south, it's clear climate change is affecting people. 
+</P>
+<P>
+"I think it's telling that even with that very small amount of funding and research effort, there are still really strong signals of severe climate change impacts on people's health, on their food security, on the biodiversity in Africa," Trisos said. 
+</P>
+<P>
+"But we would know a lot more if more resources were allocated to the problem."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,93 @@
+<DOC>
+<DOCNO> CB071322-0002 </DOCNO>
+<DATE>
+<P>
+July 13, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Household after-tax income rises and income inequality declines, says new census data; 
+</P>
+<P>
+Statistics Canada census release says single-family homes led by women saw largest income increase
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Income inequality and the number of low-income earners declined significantly in 2020, compared to five years earlier, and after-tax household income saw a marked increase — especially in single-parent households, according to new census data released today by Statistics Canada. 
+</P>
+<P>
+The median after-tax household income grew 9.8 per cent from 2015 to 2020, doubling the growth rate that Canadian households saw from 2010 to 2015, when after-tax income grew at less than half that rate (4.5 per cent). 
+</P>
+<P>
+Statistics Canada says the increase in median income was driven largely by federal government transfers during the pandemic, especially for lower-income families.
+</P>
+<P>
+"After-tax income growth was faster for households with lower incomes, reflecting greater contributions of the Canada Child Benefit and pandemic relief benefits to the incomes of lower-income families," the federal agency said.
+</P>
+<P>
+In one-parent families headed by a woman, accounting for 80 per cent of single-parent households, median after-tax income grew by 22.8 per cent from 2015 to 2020, largely because of the Canada Child Benefit (CCB) and its enhancements rolled out during the pandemic.
+</P>
+<P>
+The same was not true for all provinces. While Ontario, Quebec and B.C. all saw double-digit increases in after-tax income, Alberta and Newfoundland both saw declines in after-tax income of 4.6 and 1.3 per cent, respectively.
+</P>
+<P>
+Newfoundland was the outlier in Atlantic Canada, as New Brunswick, Nova Scotia and P.E.I. all saw significant increases in their after-tax income in 2020 over 2015, with increases of 9.2, 8.3 and 10.3 per cent, respectively.
+</P>
+<P>
+Government benefits key to income boost
+</P>
+<P>
+Statistics Canada explains that in 2020, largely due to COVID-19 lockdowns and their impact on wages, average incomes actually declined to the point where households in Canada were earning roughly the same that they were in 2015, but that income was boosted by pandemic benefits and the CCB.
+</P>
+<P>
+In 2020, for example, the median amount of federal or provincial pandemic benefits received by a Canadian family was $10,000, while the median CCB paid to a family in 2020 was almost $6,000 a year, compared with just over $4,000 in 2015.
+</P>
+<P>
+The government transfers and benefits made a significant difference to family households with children, which saw their median after-tax income increase by 10.5 per cent in 2020 compared to 2015, while couples without children saw an increase of 6.8 per cent over the same period.
+</P>
+<P>
+Also over the same period, the share of Canadians living with low incomes dropped to 11.1 per cent in 2020, from 14.4 per cent in 2015, mostly driven by pandemic benefits for the working-age population and the CCB.
+</P>
+<P>
+Low-income seniors, however, didn't fare as well; the share of seniors living with low incomes increased to 15 per cent in 2020, slightly up from 14.4 per cent in 2015.
+</P>
+<P>
+Seniors also saw the largest decline in median income, with the median income for Canadians over 65 declining 32.2 per cent for men and 23.8 per cent for women. The median income decline for men under 65 only fell by 2.7 per cent, while the median income for women under 65 only declined by 2.4 per cent.
+</P>
+<P>
+Inequality declines in Alberta, but remains high overall
+</P>
+<P>
+While after-tax income rose significantly in 2020 compared to 2015, income inequality declined across the country, with Alberta recording the largest decline, largely driven by pandemic benefits.
+</P>
+<P>
+Even though Alberta saw the largest decline, income inequality in the province is still one of the highest in Canada, along with Ontario, B.C. and Nunavut.
+</P>
+<P>
+Inequality was the lowest in P.E.I., N.B., Yukon and Quebec, following the general trend that regions with higher median household incomes also had higher income inequality.
+</P>
+<P>
+Larger urban centres demonstrated larger income inequality than smaller population centres, with Toronto, Calgary and Vancouver having the greatest inequality compared to Quebec City, Drummondville and Saguenay (both also in Quebec), which had the lowest.
+</P>
+<P>
+The impact of pandemic payments
+</P>
+<P>
+The impact of pandemic-support payments on median after-tax incomes was significant, Statistics Canada said, with 68.4 per cent, or 20.7 million adults, receiving support from a provincial or federal pandemic program, or a top-up to an existing program. 
+</P>
+<P>
+Statistics Canada said that 27.6 per cent of Canadian adults collected benefits from a federal program, like the Canada Emergency Response Benefit (CERB), receiving on average $8,000 in 2020. 
+</P>
+<P>
+Another 55.9 per cent of Canadian adults received payments through top-ups to existing programs, like the CCB or the GST tax credit, while more than 90 per cent of seniors saw top-ups to programs like the Guaranteed Income Supplement. 
+</P>
+<P>
+Statistics Canada said 4.2 million Canadian adults also received support payments from provincial or territorial governments through localized pandemic relief programs.
+</P>
+<P>
+ 
+</P>
+</TEXT>
+</DOC>

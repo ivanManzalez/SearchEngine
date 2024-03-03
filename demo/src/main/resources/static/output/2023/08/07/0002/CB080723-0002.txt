@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> CB080723-0002 </DOCNO>
+<DATE>
+<P>
+August 07, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Premier cites feds in explanation for moratorium on new wind and solar projects; 
+</P>
+<P>
+Danielle Smith says feds won't allow needed backup plants powered by natural gas
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Alberta Premier Danielle Smith says Ottawa is one of the reasons why her government has placed a moratorium on approving new wind and solar power projects, arguing the feds are preventing development of backup generation for renewable energy like natural gas.
+</P>
+<P>
+Smith, whose government surprised the province's renewable energy industry last week by announcing a six-month freeze on new projects greater than one megawatt, told her provincewide radio call-in program Saturday that backup plants powered by natural gas are needed for when wind isn't blowing or the sun isn't shining.
+</P>
+<P>
+But, she said, the federal government doesn't want Alberta to add any new natural gas electricity plants to the grid.
+</P>
+<P>
+"So I've told them, how can I bring on additional wind and solar if I'm not able to secure the reliability of my power grid by being able to bring on natural gas peaker plants? That's the heart of the problem," Smith said.
+</P>
+<P>
+"No one is proposing any new natural gas plants because the federal government has created so much uncertainty in the market."
+</P>
+<P>
+The rationale was confusing for an energy market economist, as well as a representative of a renewable energy industry group, who said there isn't a requirement in Alberta's market for generators to be able to supply power 24-7.
+</P>
+<P>
+"If somebody adds solar to the grid, you don't need to add backup to compensate for it," said Andrew Leach, a University of Alberta energy economist. "It just adds a source of cheap electricity for times when it is sunny outside."
+</P>
+<P>
+"Essentially, you bring your power to the market every hour and see what it sells for."
+</P>
+<P>
+Leach said it's possible the addition of cheap wind and solar energy could discourage natural-gas powered projects by lowering the price of electricity. But he said the reverse is also true — that fossil fuel projects could discourage green ones.
+</P>
+<P>
+He also said Alberta's energy market, by law, operates on free and open competition.
+</P>
+<P>
+Vittoria Bellissimo of the Canadian Renewable Energy Association said the province should remove impediments to energy storage projects, like tariffs that she said could treat storage providers the same as energy consumers or generators, as well as requiring them to buy energy when in fact they're only storing it.
+</P>
+<P>
+That way, she said green energy from solar and wind could be stored and released when it's needed.
+</P>
+<P>
+"The premier and others are under the impression that you have to have natural gas to make the system work, but you don't. You need any type of resources that can time shift, and there's lots of them out there," she said.
+</P>
+<P>
+In a statement Thursday when the moratorium on new projects was announced, the government said the Alberta Utilities Commission would initiate an inquiry into issues of development on agricultural land, effect on scenery, reclamation security, the role of municipalities and system reliability.
+</P>
+<P>
+Nathan Neudorf, minister of affordability and utilities, admitted the moratorium would be "a little bit of inconvenience now for the next few months" but was worthwhile to get things right for the long-term.
+</P>
+<P>
+A representative of Rural Municipalities Alberta has said that while farmers and municipalities get tax and rent revenues from renewable energy, members are concerned about possible cleanup problems, similar to issues they've experienced with abandoned oil and gas wells. They've also said they're concerned about agriculture being displaced.
+</P>
+<P>
+Neudorf said he didn't meet with industry before the announcement because of scheduling problems.
+</P>
+<P>
+Smith told her radio audience on Saturday that a solar farm in her Brooks-Medicine Hat constituency in southern Alberta was covered for months with ice and snow, and wasn't producing power.
+</P>
+<P>
+"When we were in the winter ... several times the grid almost failed because we didn't have enough power, and you can't call up wind and solar on demand," she said.
+</P>
+<P>
+Leach countered that some solar projects are built in order to capture peak summer sunshine, and wondered why the province would intervene if they made economic sense for the landowners and power producers.
+</P>
+<P>
+"When you stop and think about that for half a second it's incredibly ironic because, of course, you're not growing a lot of canola in the snow and ice, either."
+</P>
+</TEXT>
+</DOC>

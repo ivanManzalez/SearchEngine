@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB062422-0001 </DOCNO>
+<DATE>
+<P>
+June 24, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada needs 5.8 million new homes by 2030 to tackle affordability crisis, CMHC warns; 
+</P>
+<P>
+Majority of supply gap found in Ontario and British Columbia, agency says
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Canada Mortgage and Housing Corp. (CMHC) says 3.5 million more homes need to be built by 2030 to reach affordability.
+</P>
+<P>
+The agency released a report Thursday explaining the need for a different approach to the housing supply shortage at a time of rising demand and affordability concerns.
+</P>
+<P>
+"Increasing supply will be difficult. Critically, increasing supply takes time because the time to construct is significant, but so is the time to progress through government approval processes," the report reads. "This delay means that we must act today to achieve affordability by 2030."
+</P>
+<P>
+If current rates of new construction continue, CMHC said the country's housing stock is expected to increase by 2.3 million units by 2030, reaching close to 19 million units total. But in order to achieve affordability for all Canadians, the agency said an additional 3.5 million homes are needed.
+</P>
+<P>
+Softening housing market conditions and a labour shortage in the construction sector could get in the way of bringing Canada's housing stock to more than 22 million by 2030, however.
+</P>
+<P>
+"There are supply issues, labour shortages at the moment and the cost of financing is going up, so clearly there are short-term challenges," said CMHC deputy chief economist Aled ab Iorwerth during a conference call.
+</P>
+<P>
+BMO economist Robert Kavcic says it will be tough to achieve what the CMHC wants to achieve.
+</P>
+<P>
+"The jobless rate in construction is near a record low; vacancies are at a record high, we have a deep shortage of skilled trades, and the cost of building materials is already rising quickly," he said. "So, unless the economy really rolls over and is in need of stimulus, effectively doubling the rate of new construction over the next decade will be extremely difficult without significant inflationary pressure."
+</P>
+<P>
+Regulatory systems must be more efficient, CMHC says
+</P>
+<P>
+There were 81,500 construction job vacancies in the first quarter of 2022, more than double the number observed in the first quarter two years ago. Meanwhile, home sales dropped nearly 22 per cent in May compared with last year, and almost nine per cent between April and May, as the average, non-seasonally adjusted price of a home slipped almost five per cent to $711,000 during that period.
+</P>
+<P>
+The CMHC says achieving housing affordability for everyone in Canada will require developers to become more productive and make full use of land holdings to build more units.
+</P>
+<P>
+The housing agency also says governments need to make regulatory systems more efficient so projects are approved faster.
+</P>
+<P>
+The CMHC notes that two-thirds of the supply gap is found in Ontario and British Columbia, two markets that have faced major declines in affordability.
+</P>
+<P>
+Around 2003 and 2004, an average household would have had to devote close to 40 per cent of their income to buy an average house in Ontario, and close to 45 per cent in British Columbia. As of 2021, that number is close to 60 per cent.
+</P>
+<P>
+The report says additional supply would also be required in Quebec, as affordability in the province has declined over the last few years.
+</P>
+<P>
+Situation to worsen before it gets better
+</P>
+<P>
+RBC's latest housing affordability report released Thursday reveals that the situation is the worst its been since the early 1990s, and will worsen before it gets better.
+</P>
+<P>
+RBC's aggregate affordability measure for Canada went up 3.7 percentage points to 54 per cent in the first quarter of 2022, as home ownership costs rose across the country.
+</P>
+<P>
+"The Bank of Canada's 'forceful' interest rate hiking campaign will further inflate ownership costs in the near term, putting RBC's national affordability measure on a path to worst-ever levels," RBC senior economist Robert Hogue said in the report. "However, we see the burgeoning price correction eventually bringing some relief to buyers."
+</P>
+<P>
+RBC believes property values will fall more than 10 per cent in the coming year.
+</P>
+</TEXT>
+</DOC>

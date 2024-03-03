@@ -1,0 +1,141 @@
+<DOC>
+<DOCNO> CB122721-0001 </DOCNO>
+<DATE>
+<P>
+December 27, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How Alberta's tech sector is turning a corner; 
+</P>
+<P>
+Alberta attracts a fraction of the capital raised in other provinces, but it's gaining momentum
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Alberta's tech sector is slowly recovering from mostly self-inflicted wounds that threatened to leave the fledgling industry behind Canada's tech leaders in B.C., Ontario and Quebec.
+</P>
+<P>
+In 2019, the Alberta government eliminated incentives for investors to fund the province's tech startups, prompting some venture capital, private equity, individual backers and angel investors to take their money elsewhere.
+</P>
+<P>
+As 2021 draws to a close, there are some in the sector who believe Alberta is finally experiencing a resurgence, with help from a more supportive government and investors who are more willing to open their wallets.
+</P>
+<P>
+Investment is climbing, confidence is growing and some early-stage developers and entrepreneurs are starting to see the money roll in.
+</P>
+<P>
+At a recent pitch event at the brand-new Platform Innovation Centre last month, firms from Edmonton and Calgary (and five from Saskatchewan) lined up to sell their latest ideas and inventions to investors watching virtually or in person.
+</P>
+<P>
+"It's been really cool to see. The depth and breadth of ideas that are coming out of Calgary is really impressive," said Neil Vande Bunte, who is an investor and one of the event's organizers.
+</P>
+<P>
+While there's optimism and growing confidence, it's been a struggle to convince investors to fund projects that are outside Alberta's traditional industries and moneymakers, including energy and real estate.
+</P>
+<P>
+"Raising capital is not easy. It's not for the faint of heart," said Alina Martin, the CEO of Waitwell, an app that manages queues, lineups, appointments and crowd control for companies. 
+</P>
+<P>
+"We take the suck out of lineups," said Martin, who made a pitch for $1.3 million to grow the Calgary company.
+</P>
+<P>
+Martin, who has spent her entire career in tech, says luring Alberta investors can be a challenge because the sector is relatively new and evolving and, according to some, risky. She says there's a lack of understanding about the options for investors.
+</P>
+<P>
+"In Alberta, when it comes to investing dollars, people invest in what they know, they invest in what they understand," she said.
+</P>
+<P>
+'A little risk averse'
+</P>
+<P>
+Jade Alberts, an angel investor in Calgary, is watching the tech and innovation market in Alberta change, albeit slowly. 
+</P>
+<P>
+"We're crawling right now, like we're just starting to move, but we are moving in the right direction," he said.
+</P>
+<P>
+"We're a little risk averse up here."
+</P>
+<P>
+He says in Toronto, investors are more willing to write "million-dollar cheques," while in Alberta, and to some extent in B.C., there is much more prudence, due diligence and caution.
+</P>
+<P>
+"But us in Calgary, we like seeing certain things. We'd like to make sure they're established, we'd like to see MRR [monthly recurring revenue], we really believe in the founder — those types of things," said Alberts.
+</P>
+<P>
+According to briefed.in, a company that analyzes Canada's tech industry, Calgary has already surpassed the number of investment deals through to the end of September, compared with the first nine months of last year. The amount of money raised is $45 million, however, lower than the same period in 2020.
+</P>
+<P>
+The Canadian Venture Capital Private Equity Association (CVCA) says $480 million was poured into 61 deals in Alberta during the same period.
+</P>
+<P>
+It's a lot of money, but it highlights how much further behind Alberta is when compared with the country's tech juggernauts in Ontario, Quebec and B.C., which had the highest investment activity, accounting for 92 per cent of all dollars raised through to the end of September. Toronto alone accounted for $4.9 billion in investment.
+</P>
+<P>
+'Back on a competitive footing'
+</P>
+<P>
+One of the co-authors of a 2020 report to the provincial government that warned Alberta was at risk of being left behind compared with other tech-friendly jurisdictions in Canada says the sector is now more robust.
+</P>
+<P>
+The Innovation Capital Working Group was blunt in its prediction for Alberta, which in 2019 eliminated some incentives, grants and tax credits for startups and investors.  
+</P>
+<P>
+The group called for urgent action beyond broadening and diversifying the economy.
+</P>
+<P>
+"We face a significant risk of continuing to lose more talent, capital and jobs to locations that are far more aggressive in luring top talent and dollars to their jurisdiction," it warned.
+</P>
+<P>
+"It is apparent that Alberta is at risk of being left behind."
+</P>
+<P>
+Adam Legge, who is the president of the Business Council of Alberta and the co-author of the report, says that since their report, the UCP government has brought in a grant this year for small- and medium-sized businesses that invest in research and development.
+</P>
+<P>
+Legge also points to increased funding for the Alberta Enterprise Corporation, which has expanded its investments into venture capital funds.
+</P>
+<P>
+"Based on the deal flow that we're seeing, there's clearly a resurgence of interest in investment in tech in Alberta. So I think we're back on a competitive footing," said Legge.
+</P>
+<P>
+He says one of the key recommendations that hasn't been implemented is a co-invest model that could help inexperienced investors.
+</P>
+<P>
+"That would be a bit of a replacement for the AITC (Alberta Investor Tax Credit), where everyday Albertans that wanted to invest in the tech sector could do so, because we do sort of lack some of those vehicles for less experienced investors in tech," he said.
+</P>
+<P>
+'A world full of opportunity'
+</P>
+<P>
+The managing partner at a Calgary-based venture capital investment firm says it's been an incredibly difficult half-decade stretch for the Alberta economy and there's no shortage of pessimism, but he says it's a different environment in Alberta's nascent tech sector.
+</P>
+<P>
+"That's not the world I live in. It's a world full of opportunity and optimism and success," said James Lochrie of Thin Air Labs.
+</P>
+<P>
+Lochrie says the UCP government's decision to eliminate an investor tax credit for tech and innovation companies was a major step backward. He says that before energy prices took off this year, the only sector that was "winning" in Alberta was technology.
+</P>
+<P>
+"Not only did they wake up to that fact, they woke up to the fact that how fast it was growing, and so they did a full 180 on the industry," he said.
+</P>
+<P>
+"Policy is shifting, attention is shifting, capital is shifting."
+</P>
+<P>
+Lochrie says Thin Air Labs will launch a $30-million investment fund for early-stage tech companies in the new year and expects it to reach $100 million later in 2022 with the addition of institutional investors.
+</P>
+<P>
+Back at the Platform Innovation Centre, Waitwell turned out to be the big winner on the night. The company secured the maximum amount, $400,000, which Martin says will help keep the company local and will allow it to expand and hire more people.
+</P>
+<P>
+"It will also help us build and execute on our marketing plans, which helps us generate more leads and acquire more customers," she said.
+</P>
+<P>
+Bryan Labby is an enterprise reporter with CBC Calgary. If you have a good story idea or tip, you can reach him at bryan.labby@cbc.ca or on Twitter at @CBCBryan.
+</P>
+</TEXT>
+</DOC>

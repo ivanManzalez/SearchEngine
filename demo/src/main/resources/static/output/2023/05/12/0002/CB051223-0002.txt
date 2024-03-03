@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> CB051223-0002 </DOCNO>
+<DATE>
+<P>
+May 12, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Consumer insolvencies spike to highest level since 2019; 
+</P>
+<P>
+Proposals to creditors rise to highest level since 2011
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Consumer insolvencies have risen to their highest level since 2019, new numbers showed Wednesday, in a troubling sign that Canadians are having trouble staying on top of their debt load.
+</P>
+<P>
+Data released from the Office of the Superintendent of Bankruptcies on Wednesday showed that 11,768 people filed insolvency paperwork in March. That's the highest single monthly figure since late 2019.
+</P>
+<P>
+The insolvency figure from the country's top financial regulator includes both personal bankruptcy filings and also what's known as proposals to creditors — where people in debt make up alternative arrangements with their creditors on terms that generally see them pay back far less than they owe.
+</P>
+<P>
+The number of proposals to creditors touched 9,337 during the month. That's up by more than a third since the same period last year, and the highest monthly figure since at least 2011.
+</P>
+<P>
+After trending higher for years, bankruptcies and other forms of insolvency proceedings cratered during the pandemic, as general government income programs such as CERB gave people cash infusions that allowed them to keep their heads above water.
+</P>
+<P>
+Formal bankruptcy proceedings also slowed to a crawl in part because of the shutdown of many court proceedings for much of 2020 and 2021.
+</P>
+<P>
+So the surge in insolvencies is coming from a historically low bar, but it is nonetheless concerning for economists.
+</P>
+<P>
+"It is not clear whether insolvencies are catching up after some weakness ... or whether this is a new trend of accelerated increase in insolvencies," said Charles St. Arnaud, an economist with Alberta Central credit union.
+</P>
+<P>
+St. Arnaud says Alberta is a particularly interesting province to observe at the moment, because despite strong oil prices causing the usual boom in the local economy, there are troubling signs of consumer stress.
+</P>
+<P>
+"Albertan households have some of the highest debt-to-income ratios, making them vulnerable to rising interest rates, and have seen a bigger decline in their purchasing power than other provinces," he said, adding that the rate of consumer proposals in the province are higher than they've ever been, and a full 35 per cent higher than they were before the pandemic.
+</P>
+<P>
+Royce Mendes, an economist with Desjardins, says spiking insolvencies "points clearly to a rising number of troubled consumers and businesses."
+</P>
+<P>
+He notes that the last time the Bank of Canada raised lending rates, in 2017, bankruptcies didn't start to increase until two years later.
+</P>
+<P>
+"It's possible that this is just a normalization after the economy experienced an extended period of very low insolvencies tied to the extraordinary monetary and fiscal stimulus provided," Mendes said. But "whether or not this is officially the beginning of a more painful economic period, Canada is still in the early innings of feeling the pass-through from higher rates."
+</P>
+</TEXT>
+</DOC>

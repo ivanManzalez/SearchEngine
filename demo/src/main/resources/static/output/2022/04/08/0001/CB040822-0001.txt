@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO> CB040822-0001 </DOCNO>
+<DATE>
+<P>
+April 08, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Falling in love or falling for fraud: The dark side of online dating; 
+</P>
+<P>
+ "Behind my phone, I can tell you whatever I want."
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Last year, thousands of people found themselves on the wrong side of an investment scam. But they weren't duped by a crooked financial advisor or a neighbour's pyramid scheme — they were fooled, for love.
+</P>
+<P>
+In 2020 and 2021, there were 3,474 cases of romance scams in Canada, and victims were defrauded of more than $93 million dollars, according to the Canadian Anti-fraud Centre.
+</P>
+<P>
+"Technology has been this great tool that we have invented as human beings that has allowed us to be connected with each other. But technology, one thing that I've seen in my research, creates this false perception of reality," Carlo Handy Charles, a researcher at McMaster University, told Spark host Nora Young.
+</P>
+<P>
+"Behind my phone, I can tell you whatever I want." 
+</P>
+<P>
+Charles wrote about a new romance scam that has defrauded thousands of Canadians out of millions of dollars. The so-called 'pig-butchering' cryptocurrency scam, originating in China, has since made its way into North American online dating spaces. 
+</P>
+<P>
+Charles, who's been tracking the increase of financial fraud via dating apps, said the scam is run by criminal syndicates who use professional scripts and emotional manipulation to deceive users. 
+</P>
+<P>
+While traditional romance scams usually involve a direct request for money, according to Charles, "They do that after a certain time of trying to build your trust or trying to show you that the love is real."
+</P>
+<P>
+"The difference with the cryptocurrency [scam] is that most of these scammers, they do not tell you that they need money. Instead, they tell you that because we're a couple now, we are going to invest together for our future."
+</P>
+<P>
+The scam involves a four-step process, where tailored profiles and 'love bombing' are used to get the victim to invest their money on a fake cryptocurrency platform. 
+</P>
+<P>
+ "They use social engineering, they use algorithms, to find you and then to use your own information on social media to basically manipulate you," Charles said.
+</P>
+<P>
+Crime and community
+</P>
+<P>
+While the majority of the known victims of these crimes have been women in their 30s or early 40s, according to Charles, that data only reflects those who actually report the crime. 
+</P>
+<P>
+"I'm sure there are a lot of men who have been a victim of this too, but then they don't report the crime," he said. 
+</P>
+<P>
+The dangers of dating apps aren't limited to the virtual world. 
+</P>
+<P>
+"We've seen instances where cyberstalking, or cyberharassment has actually moved, or transitioned into the physical space and [become] real-world stalking, we've seen physical violence as well," said Kathryn Seigfried-Spellar, an associate professor in the department of computer and information technology at Purdue University.
+</P>
+<P>
+In 2021, Seigfried-Spellar co-wrote a paper looking at popular dating apps like Grindr, Tinder and Bumble, and the physical and psychological risks involved in using them. 
+</P>
+<P>
+While there are valid concerns around connecting with unvetted profiles online, Seigfried-Spellar said these services can also serve an important role. "These applications like Grindr have really allowed the LGBTQ+ community to have a space and to hold space, especially when they may not feel accepted within the physical world," she said.  
+</P>
+<P>
+"I've chatted with individuals who felt like this was the first time that they could be their authentic self, because maybe in the physical world, they weren't out. But online, they were a part of this active community, and they finally felt accepted."
+</P>
+<P>
+She said the prevalence of harmful behaviour on dating apps is hard to quantify. "What we tend to see is that an instance might occur, but you might say, 'Wow, this is something that needs to be reported.' But that same instance might happen to somebody else, and they don't report it." 
+</P>
+<P>
+Dating apps and the law
+</P>
+<P>
+Recently, Tinder announced it was partnering with a platform called Garbo to allow users to run background checks on their matches — putting the responsibility of screening in the hands of their users.
+</P>
+<P>
+Seigfried-Spellar said while this new feature may feel like a move towards greater security, there are also a lot of nuances to background checks that are not being considered.
+</P>
+<P>
+"It makes a lot of assumptions. Even though [the platforms] have said, 'we're not going to focus on drug crimes,' for instance, or traffic violations, which we know disproportionately [affect] certain people, we're instead going to focus on sexual violence and partner violence.
+</P>
+<P>
+"We also know that a lot of individuals don't report these crimes. So just because somebody comes back and their background check is clear, that doesn't mean they haven't committed an offence," she said.
+</P>
+<P>
+Last month, a U.S. court ruled that Match Group Inc. was not guilty of defrauding its customers for failing to keep fake profiles off of Match.com. 
+</P>
+<P>
+The ruling raises questions about what legal accountability will look like for dating apps when users engage in harmful behaviour — especially in the U.S., where Match.com, and other dating apps are based.
+</P>
+<P>
+"So far, the courts have made it fairly clear that dating apps and dating sites have very little to no legal responsibility for the behaviour of their users, whether in the virtual world or out in the quote, unquote real world," said Irina Manta, a professor of law and the founding director of the Center for Intellectual Property Law at the Maurice A. Deane School of Law at Hofstra University. 
+</P>
+<P>
+Manta has written about dating app deception and the law in the past, and is now writing a book on dating apps and the law, called Strangers on the Internet. When it comes to improving safety standards, dating apps are wary of "becoming overly involved with safety," said Manta. 
+</P>
+<P>
+"They might at some point perhaps start having legal obligations that they don't currently have. And they really don't want that, in part because it's expensive, and because it has the potential for PR scandals."
+</P>
+<P>
+Sharing stories, lessening stigma
+</P>
+<P>
+Seigfried-Spellar said there is power in testimonials. With tales of dating app deception depicted in pop culture, like the viral Netflix documentary The Tinder Swindler, the stigma around falling for scams and other forms of abuse could lessen. 
+</P>
+<P>
+"Maybe the willingness of other people to step up and say, 'this happened to me, and these are some of the signs that I wish I would have considered,' or 'this is what I wish I would have done, but just know that you're not alone', [will help]" she said. 
+</P>
+<P>
+"Because [if] you are able to report it, maybe it's going to keep somebody else [from] becoming the victim of either a similar situation, or they're going to start sharing those stories. That's the best thing that we can do."
+</P>
+<P>
+Written by McKenna Hadley-Burke. Produced by McKenna Hadley-Burke and Samraweet Yohannes.
+</P>
+</TEXT>
+</DOC>

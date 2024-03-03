@@ -1,0 +1,135 @@
+<DOC>
+<DOCNO> CB102721-0001 </DOCNO>
+<DATE>
+<P>
+October 27, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+For Canada, meeting its current climate targets will be complicated and expensive; 
+</P>
+<P>
+Government has a track record of setting ambitious targets and falling short
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled Our Changing Planet to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+Canada's track record has been pretty simple when it comes to climate targets.
+</P>
+<P>
+Step 1: Set an ambitious goal
+</P>
+<P>
+Step 2: Largely maintain the status quo
+</P>
+<P>
+Step 3: Miss goal
+</P>
+<P>
+Step 4: Set new goal
+</P>
+<P>
+The historical pattern holds true with past agreements struck in Rio, Kyoto and Copenhagen. To meet the Paris target and the federal government's revised target unveiled this summer, considerable change is necessary.
+</P>
+<P>
+Canada is sending a delegation to the United Nations climate change conference, COP26, in Glasgow, which begins on Sunday, as world leaders try to set new emissions reduction goals to address climate change.
+</P>
+<P>
+The Conference of Parties (COP), as it's known, meets every year and is the global decision-making body set up in the early 1990s to implement the United Nations Framework Convention on Climate Change and subsequent climate agreements.
+</P>
+<P>
+What's clear is that meeting current climate goals in Canada won't be simple, won't be cheap and will require more than just one or two industries to chip in.
+</P>
+<P>
+The next decade
+</P>
+<P>
+The federal government released its plan for how emissions could be cut in the next decade to meet the original 2030 goal of a 30 per cent reduction compared with 2005 levels. Citing a combination of current policies — such as the escalating carbon tax, the coal phaseout and the Clean Fuel Standard — with industry trends such as energy-efficiency improvements, the country would be able to lower its emissions by about 200 million tonnes.
+</P>
+<P>
+Home energy retrofits, increasing adoption of electric cars and strengthened methane reductions are also necessary.
+</P>
+<P>
+Still, considering Canada's past performance, there are many skeptics about how achievable this road map will actually be.
+</P>
+<P>
+In addition, Ottawa upped its goal this past summer, now hoping to drop carbon emissions by between 40 and 45 per cent below 2005 levels by 2030. That means an additional 50 million to 90 million tonnes of CO2 reductions on top of the original 200 million tonnes.
+</P>
+<P>
+Oilpatch is No.1
+</P>
+<P>
+Canada's oil and gas sector — and the oilsands in particular — will face significant challenges if the country is to reach its greenhouse gas (GHG) targets.
+</P>
+<P>
+The oil and gas sector is the largest source of GHG emissions, accounting for 26 per cent of total national emissions in 2019, according to Natural Resources Canada. The transport sector is second, contributing 25 per cent of Canada's emissions.
+</P>
+<P>
+Although the oilsands have seen reductions in the emissions produced per barrel, the total emissions from the oilsands continue to face upward pressure as they pump out more oil.
+</P>
+<P>
+Canadian oilsands producers pledged this year to achieve net-zero emissions by 2050.
+</P>
+<P>
+The commitment goes hand in hand with the sector's contention that oil and gas will be needed for decades to come, even as others urge a rapid transition away from fossil fuels.
+</P>
+<P>
+"Canada has an opportunity to lead on climate change by delivering meaningful emissions reductions, as well as balancing sustainable economic development," Tim McKay, president of energy producer Canadian Natural Resources, said at the time of the pledge in June.
+</P>
+<P>
+Industry plans lean hard on the promise of carbon capture, utilization and storage (CCUS) technologies, where carbon dioxide can be captured and stored below ground or used in other processes. Those plans also include a big ask from government.
+</P>
+<P>
+Proponents also see CCUS technology as key to growing other sectors that rely on fossil fuels as a feedstock, such as plastics or low-carbon hydrogen production.
+</P>
+<P>
+"Over the next decade, the biggest opportunity for Canada is working with the oilsands, working with plans like they are developing on carbon capture," John Stackhouse, a senior vice-president with RBC, one of the world's top bankers to the fossil fuel industry, said in an interview.
+</P>
+<P>
+Chris Severson-Baker, Alberta regional director of the Pembina Institute, a green energy think-tank, cautions against over-hyping what the technology can realistically achieve in the oil and gas sector.
+</P>
+<P>
+"It's a necessary practice on the path to net zero, but it's not a panacea — you can't just apply carbon capture on every source of emission," he said.
+</P>
+<P>
+CCUS is technologically viable, but expensive and complex, Severson-Baker said. For example, a company is unlikely to use it on an aging facility that may have only 20 years of life remaining.
+</P>
+<P>
+Severson-Baker suggested politicians should be wary of putting off hard emissions challenges today by relying on CCUS to deliver deep reductions down the road.
+</P>
+<P>
+"It's OK to pin our hopes on CCUS as long as we back it up with real plans and commitments, binding targets, all that kind of stuff, and we scale up our level of ambition and investment in other things like renewables and energy efficiency," he said.
+</P>
+<P>
+The Pembina Institute says Alberta needs a net-zero commitment and a pathway to get there.
+</P>
+<P>
+It says the province's climate plan should include 2030 provincial and sectoral targets consistent with climate commitments adopted in Paris in 2015, as well as time-bound, measurable steps to decarbonize the sector.
+</P>
+<P>
+Big bucks
+</P>
+<P>
+A long list of investments is needed to drive down emissions in the country beyond CCUS, such as more renewable energy and batteries in the electricity sector, making residential and industrial buildings more efficient, and producing more affordable and practical electric vehicles.
+</P>
+<P>
+Overall, it could cost $2 trillion to transition the country so it reaches net-zero emissions by 2050, according to a recent report by RBC called The $2 Trillion Transition: Canada's Road to Net Zero. It's a combination of spending by governments and the private sector.
+</P>
+<P>
+It works out to about $60 billion to $80 billion per year spread out over several areas.
+</P>
+<P>
+The price tag is divided up at $25 billion for electric vehicle infrastructure; $13.7 billion on emissions reductions in the oilpatch; $5.4 billion in the electricity sector; $5.4 billion upgrading old buildings; $4.4 billion in heavy industries; and $2.5 billion in the agricultural sector per year.
+</P>
+<P>
+"It's a really big challenge if we don't have a clear strategy and sector-based plans to get there," RBC's Stackhouse said.
+</P>
+<P>
+"Two trillion is a big number," he said. "Most of this is private money. This is getting private savings from you and me, or from companies that are sitting on fairly strong balance sheets, to get that private capital invested."
+</P>
+</TEXT>
+</DOC>

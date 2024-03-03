@@ -1,0 +1,138 @@
+<DOC>
+<DOCNO> CB071523-0001 </DOCNO>
+<DATE>
+<P>
+July 15, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Is the Bank of Canada making things worse?; 
+</P>
+<P>
+The central bank is raising rates to fight inflation. No one else seems willing to help
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canadian households are reeling after what the Bank of Canada calls the fastest series of interest rate hikes in this country's history. The central bank says those hikes will cause pain but are necessary to rein in inflation.
+</P>
+<P>
+Not everyone agrees.
+</P>
+<P>
+"I don't think these latest increases were helpful," Jim Stanford, economist and director of the non-partisan research institute Centre for Future Work, told CBC News. "And I don't think they will work."
+</P>
+<P>
+The Bank of Canada started boosting rates in March 2022. Back then, its key overnight lending rate was at 0.25 per cent. By June of that year, the year-over-year rate of inflation peaked at 8.1 per cent.
+</P>
+<P>
+Since then, the consumer price index (CPI) has decelerated sharply and rates have gone up 10 times. The bank's key interest rate now stands at five per cent. The last CPI came in at a yearly rate of 3.4 per cent.
+</P>
+<P>
+The next batch of inflation data will come in next week, and early forecasts show it may fall as low as 3.1 per cent.
+</P>
+<P>
+And yet the central bank says rates must go higher.
+</P>
+<P>
+"We are trying to balance the risks of under- and over-tightening monetary policy," Bank of Canada governor Tiff Macklem told a news conference on Wednesday.
+</P>
+<P>
+"If we don't do enough now, we will likely have to do even more later. If we do too much, we risk making economic conditions unnecessarily painful for everybody."
+</P>
+<P>
+'Broader toolkit' needed to fight inflation
+</P>
+<P>
+Many economists have said the bank has already done too much.
+</P>
+<P>
+CIBC senior economist Andrew Grantham said in a note on July 3 that another hike would be "at best unnecessary, and at worst a mistake."
+</P>
+<P>
+If the bank's decision to increase rates isn't the best option, what is?
+</P>
+<P>
+Stanford says the fact is that central banks have a limited range of tools they can use.
+</P>
+<P>
+"I think part of our problem is that we said inflation is the Bank of Canada's job and that's it," he said. "Whereas we should be bringing a broader toolkit ... to the problem, including measures the federal government itself should take, rather than saying it's just up to the Bank of Canada."
+</P>
+<P>
+Monetary policy (interest rate hikes and bond purchases by the Bank of Canada) and fiscal policy (spending and taxation by various levels of government) are supposed to work hand in hand.
+</P>
+<P>
+Stanford says this inflation crisis is different from those in the 1970s, '80s and '90s. The current episode was sparked by supply chain disruptions during COVID-19 lockdowns, Russia's invasion of Ukraine and climate issues impacting global agriculture.
+</P>
+<P>
+So policy-makers need to think differently, he says, noting the federal government should do something about the surge in corporate profits.
+</P>
+<P>
+"We've seen Canadian corporate profits reach their highest level as a share of GDP ever, because in some sectors — not all, but some sectors — companies have taken advantage of this inflation to widen the profit margin," he said.
+</P>
+<P>
+Stanford says Australia and some European countries have capped energy prices that soared after Russia's invasion of Ukraine in February 2022. Many Canadians may bristle at the notion of something like price caps. But he says this country already has some price controls on milk and dairy supplies. Why not on other products?
+</P>
+<P>
+"The concept is not as far-fetched as you think — and international experience is suggesting that might have been a better way to approach the problem, rather than trying to slow down the whole economy with an interest rate hammer," he said.
+</P>
+<P>
+High food and housing costs
+</P>
+<P>
+Armine Yalnizyan, an economist and Atkinson Fellow on the Future of Workers, says there are loads of small things that governments in Canada can do to help alleviate the pressures of the cost-of-living crisis without adding to inflation.
+</P>
+<P>
+She says many households have struggled to keep up with the cost of food.
+</P>
+<P>
+"In Canada, we are the only country in the advanced economic world to not have a school food program that is national," she told the CBC podcast Front Burner.
+</P>
+<P>
+Yalnizyan says there are different food programs from province to province, but there is no single national program to help ensure that no child goes hungry.
+</P>
+<P>
+"We've been expecting to see something happen since food prices took off, and so far, crickets. So that's definitely something that could be done immediately," she said.
+</P>
+<P>
+Housing is also key.
+</P>
+<P>
+Mike Moffatt, an economist and senior director at the University of Ottawa's Smart Prosperity Institute, says there are a series of actions governments could take to help address housing affordability, including some immediate and simple ways to incentivize developers to build the right stock.
+</P>
+<P>
+Governments could waive the HST on purpose-built rentals, and cities could relax stringent zoning laws, Moffatt says.
+</P>
+<P>
+Another solution to the housing crisis comes via immigration, he says: "How many electricians and plumbers are we going to bring in versus how many university professors?"
+</P>
+<P>
+Moffatt, who is an assistant professor in business, economics and public policy at Western University's Ivey Business School in London, Ont., says his father was a sheet metal worker.
+</P>
+<P>
+"For the last 40 years, our immigration system is biased towards bringing in guys like me, and biased against bringing in guys like my dad. And we absolutely need to flip that," he said.
+</P>
+<P>
+If Canada wants to build enough housing stock, it needs to make sure it has the skilled labour to do that.
+</P>
+<P>
+Moffatt says small changes on the margin can add up quickly to help in the fight against inflation. While he agrees that monetary and fiscal policy should work together, he says that's not always as easy as it sounds.
+</P>
+<P>
+"It's always easier at the bottom of the business cycle," he said.
+</P>
+<P>
+Most people are familiar with that playbook. When the economy is in the ditch, central banks cut rates and governments boost spending. That creates demand and gets money flowing.
+</P>
+<P>
+"The challenge is doing that in reverse," Moffatt said, "where you're basically asking the federal government to take money out of the economy."
+</P>
+<P>
+Ask any economist and they can rhyme off a laundry list of actions that federal, provincial and municipal governments could take to relieve some of the pressure.
+</P>
+<P>
+"But we're doing nothing," Yalnizyan said. "It's like that Simpsons episode, where the character says, 'We've tried nothing and we're all out of ideas.'"
+</P>
+</TEXT>
+</DOC>

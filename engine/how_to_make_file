@@ -1,0 +1,51 @@
+# From SearchEngine.src directory
+
+# javac component/IndexEngine/IndexEngine.java
+# java component/IndexEngine/IndexEngine ../data/latimes.gz ../output
+
+# javac component/DocFinder/DocFinder.java
+# java component/DocFinder/DocFinder ../output DOCNO LA010189-0001
+
+# Java Compiler
+JCC = javac
+
+# Compilation flag variable (what for?)
+JFLAGS= -g
+
+# Change default suffixes to below (instd of .c .o)
+.SUFFIXES: .java .class
+
+# Target entry for creating .class files from .java files
+# TS = Target Suffix, DS = Dependency Suffix, Rule = rule for building target file 
+# DSTS:
+# 	rule
+
+.java.class:
+	$(JCC) $(JFLAGS) $*.java
+
+# Macro w/ line for each source file
+CLASSES = \
+	component/IndexEngine/IndexEngine.java \
+	component/DocFinder/DocFinder.java 
+
+# default make target entry
+default: classes
+
+# Suffix replacement w/in a macro
+classes: $(CLASSES: .java=.class) 
+
+# typing 'make' will invoke the first target entry in the makefile
+# (the default one in this case)
+# default: javaClass01.class javaClass02.class javaClass03.class
+
+# javaClass01.class:javaClass01.java
+# 	$(JCC) $(JFLAGS) javaClass01.java
+
+# javaClass02.class:javaClass02.java
+# 	$(JCC) $(JFLAGS) javaClass02.java
+
+# javaClass03.class:javaClass03.java
+# 	$(JCC) $(JFLAGS) javaClass03.java
+
+clean:
+	$(RM) *.class

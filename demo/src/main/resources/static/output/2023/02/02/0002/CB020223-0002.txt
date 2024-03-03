@@ -1,0 +1,126 @@
+<DOC>
+<DOCNO> CB020223-0002 </DOCNO>
+<DATE>
+<P>
+February 02, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+From instant essays to phishing scams, ChatGPT has experts on edge; 
+</P>
+<P>
+The AI chat tool can write shallow essays but convincing phishing emails
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The artificial intelligence tool ChatGPT launched in November and has already become so popular around the world that people cannot access the platform because it is routinely at capacity.
+</P>
+<P>
+That's largely because people have flocked to see for themselves the tool draft emails, craft cover letters for job applications and write academic essays on Shakespeare — all from a simple prompt. 
+</P>
+<P>
+New Brunswick-based academics and experts said the tool can be used for both good and bad in the classroom, the workplace and indeed anywhere where someone can access the internet. 
+</P>
+<P>
+How does it work?
+</P>
+<P>
+Paul Cook, a University of New Brunswick professor who researches artificial intelligence, said ChatGPT works through prediction. 
+</P>
+<P>
+"It's just always predicting the next word. You give it some context, it can predict the next word. But it can predict, you know, many next words," he said.
+</P>
+<P>
+"That's really what ChatGPT is doing. You provide some input to the model, some text, something that you write, and it generates a response."
+</P>
+<P>
+ChatGPT uses a wealth of information drawn from the internet to inform its responses to questions and commands. Though the tool is not actively pulling from the internet while someone uses it, it was trained on past data and has limited knowledge of world events after 2021. 
+</P>
+<P>
+Cook said the tool was honed by having humans review and rank its responses.
+</P>
+<P>
+But Cook said the tool also has limitations, one of which is that its responses can be very confident but wrong.  
+</P>
+<P>
+"[That's] also a little bit more than just a limitation, where we might start to think of it as a danger," Cook said. 
+</P>
+<P>
+He said much of the conversations around ChatGPT have focused on its impact on academia but there should also be a discussion about the tool now being available for society at large.
+</P>
+<P>
+He said if someone uses the tool for amusement, it's fine if the returned text is wrong. 
+</P>
+<P>
+"But if you're basing some decision on the output of a language model, then there's certainly cause for concern," he said.
+</P>
+<P>
+How educators are responding
+</P>
+<P>
+Initially, ChatGPT's writing skills seem quite impressive, said Andrew Moore, an associate professor in the great books department at St. Thomas University (STU).
+</P>
+<P>
+Then he started to notice some weaknesses. 
+</P>
+<P>
+"If you are an expert on any kind of subject, and you start asking ChatGPT questions related to your area of expertise, it becomes apparent pretty quickly that it doesn't really know what it's talking about," Moore said. 
+</P>
+<P>
+Cook said the tool could be useful in a computer science classroom. 
+</P>
+<P>
+"There could be situations where it would be entirely appropriate to say, use such a tool, think critically about its output, and compare and contrast several tools," Cook said. 
+</P>
+<P>
+Moore said tools like ChatGPT aren't going anywhere. 
+</P>
+<P>
+"We're going to adapt and probably teach students how to use them. I think that we're also going to sort of establish norms, both within schools and in the world, for legitimate and illegitimate uses of these tools."
+</P>
+<P>
+UNB will work with its staff and colleagues across the country on a consistent approach to ChatGPT and academic dishonesty, Heather Campbell, associate director of communications, said in a statement. 
+</P>
+<P>
+At STU, any issues will likely be dealt with at a classroom level, said Jeffrey Carleton, associate vice president of communications. He said if the use of ChatGPT becomes a prevalent issue, professors would consider policy targeting the tool.
+</P>
+<P>
+Open AI, the company behind ChatGPT, announced Tuesday it had created a tool meant to detect whether an essay or homework was done with the help of AI.
+</P>
+<P>
+Cook said he's more concerned about ensuring his students understand the societal impacts of these tools than them using ChatGPT to cheat.
+</P>
+<P>
+Risks and opportunities to businesses
+</P>
+<P>
+ChatGPT creates a host of cybersecurity concerns, according to experts in the sector.
+</P>
+<P>
+The easiest way to hack into a business's system is through a link in a phishing email, said David Shipley, chief executive officer of Beauceron Security in Fredericton. 
+</P>
+<P>
+With ChatGPT, many of the tips security experts would provide businesses to protect against phishing — like looking out for poor spelling or grammar — become obsolete. 
+</P>
+<P>
+"We're going to see incredibly well-written phishing emails that potentially have the ability to harvest information about you that you've posted publicly, to create a compelling message unique to you," Shipley said. 
+</P>
+<P>
+Carlos Morales, who works for the Fredericton-founded cybersecurity company Bulletproof, said another risk is ChatGPT's ability to write malware — short for malicious software. 
+</P>
+<P>
+There are controls in place to stop ChatGPT from creating malware, but Morales said people can ask it to create pieces of code that together can be used to make malware. 
+</P>
+<P>
+"That's one of the biggest concerns that we all have in the cybersecurity industry, is the potential of someone that really doesn't know how to code, well, now they can just put together some pieces of software."
+</P>
+<P>
+But that ability to code could also help businesses, according to James Stewart, CEO of the Saint John-based TrojAI inc.
+</P>
+<P>
+He said it could be used to streamline the coding process, by writing or reviewing code written by humans. And there's also the opportunity for it to be used on the customer service side, as a chatbot.
+</P>
+</TEXT>
+</DOC>

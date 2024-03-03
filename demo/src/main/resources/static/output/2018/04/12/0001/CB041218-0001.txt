@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> CB041218-0001 </DOCNO>
+<DATE>
+<P>
+April 12, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Oilsands research could be 'game changer' for renewable energy; 
+</P>
+<P>
+Researchers are extracting vanadium from the oilsands and using it to build batteries
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Originally from South Africa, JT Steenkamp doesn't usually enjoy brisk Canadian winter weather, but this year is different for the engineer who is testing out a new type of battery at Shell Canada's research centre in Calgary. The battery is built using a little-known metal found in bitumen, and the technology could represent a pivotal moment for both the oilsands industry and the renewable energy sector.
+</P>
+<P>
+An unusually frigid prairie winter is perfect for his research.
+</P>
+<P>
+"Coming from a sub-tropical country, it's a very confusing series of emotions I'm going through wanting these cold snaps for the first time in my life because it means I get to beat up this battery as much I want," said Steenkamp.
+</P>
+<P>
+Shell's project aims to extract a metal called vanadium from bitumen and use the material to produce large, utility-scale electricity storage for the renewable energy sector, which has struggled with ways to store large amounts of energy in a stable, reliable way. 
+</P>
+<P>
+"If successful, it could be an absolute game change. It will prove that we are capable of delivering renewable energy game-changing ideas not in spite of traditional energy but precisely because of it.," said Steenkamp. 
+</P>
+<P>
+Steenkamp has constructed what's called a vanadium redox flow battery inside a garden shed, which is powered by solar panels above the research centre. The battery is run through continuous cycles of charging fully, then draining completely. Data is collected to gauge its performance, which so far is promising, according to Steenkamp.
+</P>
+<P>
+So far, the vanadium battery can only hold a charge of six kilowatt hours, enough to run a hairdryer for about four hours. It would need to be much larger to store electricity from a wind farm or solar field, but Steenkamp says this type of battery can easily be scaled up. 
+</P>
+<P>
+"Biggest challenge is the cost," Steenkamp said. "It's the classic problem of flow batteries and why we are here: Can you find this stuff in enough quantity and at a low enough cost to make large-scale energy storage viable?"
+</P>
+<P>
+'Cautiously optimistic'
+</P>
+<P>
+Vanadium is a largely obscure metal often used in making steel. It retains its hardness at high temperatures, so it's ideal for making drill bits, engine turbines and other parts that generate heat.
+</P>
+<P>
+In the oilsands, Vanadium is one of the metals that comes out of the ground with bitumen. The concentration is quite low: a barrel of bitumen would contain just 30 millilitres of vanadium, on average, experts says. But multiplied by the millions of barrels of production from the oilsands every day, Steenkamp says there is a "boatload" of vanadium.
+</P>
+<P>
+The process of actually extracting the vanadium from the oilsands is the responsibility of researchers at the University of Alberta. Barrels of bitumen are shipped from Fort McMurray, Alta., to a lab on campus in Edmonton.
+</P>
+<P>
+"The project is focused on vanadium, but generally speaking, actually, all metals need to be removed," said Arno de Klerk, a chemical engineering professor who oversees the project.
+</P>
+<P>
+The bitumen comes from a variety of oilsands facilities and comes either in the form of a solid, resembling chunks of asphalt, or as a thick, viscous liquid.
+</P>
+<P>
+"We don't understand the chemistry associated with these metals and the complex nature of the bitumen — that's the biggest challenge," Garima Chauhan, a post-doctorate researcher, said while she weighed samples inside the lab.
+</P>
+<P>
+'Win-win'
+</P>
+<P>
+Not only do the metals have value but removing them from the bitumen will make it easier and more efficient to process, and reduce the environmental impact of its production, researchers say.
+</P>
+<P>
+"So it's one of those cases where there is actually a win-win situation that not only is the product valuable, but by actually removing the valuable product from the bitumen, the bitumen becomes more valuable," said de Klerk.
+</P>
+<P>
+The research project is funded in part by Alberta Innovates and the Alberta government. As the province adds utility-scale renewable energy projects like wind and solar, several projects are underway to create electricity storage. Massive batteries would be able to collect electricity when the sun is shining and the wind is blowing, and dispatch the power during times when it's most needed.
+</P>
+<P>
+Without storage capabilities, renewable energy production still has to be backstopped by natural gas or other types of traditional power plants.
+</P>
+<P>
+"We really see energy storage technology as an opportunity to provide a tool to keep our grid flexible as we move toward a shifting grid and a shift in the generation sources," said Maureen Kolla, with Alberta Innovates.
+</P>
+<P>
+Furthermore, she says this is the start of an effort to explore what other types of products could be produced from the oilsands.
+</P>
+</TEXT>
+</DOC>

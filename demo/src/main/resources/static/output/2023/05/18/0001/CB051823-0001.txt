@@ -1,0 +1,129 @@
+<DOC>
+<DOCNO> CB051823-0001 </DOCNO>
+<DATE>
+<P>
+May 18, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Power struggle: Sask. premier calls federal aim of net-zero by 2035 'impossible' and 'unaffordable'; 
+</P>
+<P>
+Moe says goal is net-zero by 2050, will consider using non-renewable power sources until 'end of life'
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Saskatchewan Premier Scott Moe says the federal government's goal of requiring electrical grids to be net-zero by 2035 is "impossible and unaffordable."
+</P>
+<P>
+Moe and SaskPower held a news conference Tuesday morning outlining the province's plan for power generation into the future, which includes a net-zero goal for 2050 — 15 years later than the federal target.
+</P>
+<P>
+"In Saskatchewan, we will not attempt the impossible when it comes to power production in our province. We will not risk plunging our homes, our schools, our hospitals, our special care homes, our businesses into the cold and darkness because of the ideological whims of others," Moe said Tuesday morning.
+</P>
+<P>
+"We will not increase power costs to our businesses to our families to the point they become completely unaffordable."
+</P>
+<P>
+Moe called the federal government's still-to-be-released clean electricity standards "unrealistic" for the province.
+</P>
+<P>
+Currently, 65 per cent of the province's generating capacity comes from natural gas (40 per cent), and coal (25 per cent).
+</P>
+<P>
+Moe outlined "Saskatchewan's plan" which calls for:
+</P>
+<P>
+Moe said the federal money would allow SaskPower to hold rate increases at three per cent annually.
+</P>
+<P>
+He also called for a freeze of the carbon tax on electricity.
+</P>
+<P>
+He said the federal plan has moved the "goalposts" on environmental and energy policy consistently.
+</P>
+<P>
+"Wind and solar can supplement power, but they can't provide base-load generation," Moe said.
+</P>
+<P>
+Moe said he does not think other provinces would be able to achieve net-zero by 2035.
+</P>
+<P>
+He said the federal clean electricity standards would shutter coal plants including Boundary Dam 3, which is equipped with carbon capture and sequestration, as well as the province's 10 natural gas plants by the end of 2035.
+</P>
+<P>
+"We will consider running our fossil fuel generating electricity production facilities to the end of their life," Moe said.
+</P>
+<P>
+SaskPower said natural gas facilities have a life span of 45 years, while Boundary Dam 3 has an end of-life of 2044. Shand Power Station has an end of-life of 2042.
+</P>
+<P>
+SaskPower has invested heavily in new natural gas plants, with the Chinook Power Station opening in 2019, and new plants in Moose Jaw and Lanigan.
+</P>
+<P>
+Moe said he believes the province has jurisdiction over power production and does not anticipate a legal battle at this time.
+</P>
+<P>
+Federal minister says Moe has not seen regulations yet
+</P>
+<P>
+Canada's Environment and Climate Change Minister Steven Guilbeault dismissed Moe's statements Tuesday morning, stating the premier doesn't know what the regulations are yet.
+</P>
+<P>
+"It is interesting that the premier would say it can't be done, since he hasn't even seen what the regulations will entail and what kind of flexibility mechanisms there will be, in terms of use of natural gas and provisions for peaking demand," Guilbeault said while on CBC Radio's Saskatoon Morning.
+</P>
+<P>
+"To think, for one second, [that] the federal government would force something upon one of the jurisdictions which makes the lights go off, it's totally unrealistic."
+</P>
+<P>
+Ottawa's proposal, which is part of its clean electricity standards, would allow natural gas plants to be used after 2035 as long as they capture carbon or are connected to non-emitting fuels.
+</P>
+<P>
+Last week, Don Morgan, the Saskatchewan minister responsible for all major Crown corporations including SaskPower, accused the federal government of continually changing its climate targets, imposing an unnecessary burden on the people of Saskatchewan.
+</P>
+<P>
+"Everybody realizes that there is an expectation that we will move away from fossil fuel over a period of time, that we will use carbon capture where it's appropriate — and we'll continue to want to meet those standards," Morgan told CBC News. "But we cannot meet them with the 2030 and 2035 guidelines that they're talking about."
+</P>
+<P>
+Guilbeault said the federal government is mindful of affordability and reliability for all Canadians, but also has to ensure the country is carrying its weight in the battle against climate change.
+</P>
+<P>
+"Everyone must do [their] fair share. We're not asking the people of Saskatchewan, or the province, or SaskPower to do more than [their] fair share," Guilbeault said.
+</P>
+<P>
+The minister noted several positives about the switch, such as further private investment into cleaner grids, job creation and, eventually, lower electric bills.
+</P>
+<P>
+He also noted that the wildfires in Saskatchewan are a symptom of climate change.
+</P>
+<P>
+Canada's regulations aren't finalized yet, but Guilbeault suggested they'll be similar to the pollution limits for coal- and gas-powered power plants recently proposed by the United States Environmental Protection Agency (EPA).
+</P>
+<P>
+The proposed regulations include bolstering performance standards, and establishing emissions guidelines for states and large power plants, according to a news release issued by the EPA.
+</P>
+<P>
+The agency suggests this can be achieved largely through carbon-capture technology, using low-emission hydrogen and developing more efficient power-generation technology, the release says.
+</P>
+<P>
+Opposition says Sask. government slow to adapt
+</P>
+<P>
+The Opposition NDP says it too feels the federal goal of net zero by 2035 is not achievable.
+</P>
+<P>
+"The federal government has repeatedly moved the goalposts with its targets for the electricity sector which are now unrealistic to meet by 2035 given the realities on the ground and the current make up of Saskatchewan's energy grid," said NDP critic for SaskPower Aleana Young in a statement.
+</P>
+<P>
+Young said the Saskatchewan government was "missing in action" for the last several years, but should have been moving more aggressively to green its power grid.
+</P>
+<P>
+"Scott Moe has made it clear that he doesn't care about reducing emissions. His government killed the solar industry through its changes to the net-metering program, and has only expanded the capacity of renewables at SaskPower from 25 per cent to 31 per cent over the last 10 years."
+</P>
+<P>
+Young said the NDP made a commitment in 2020 to reach 50 per cent renewables by 2030.
+</P>
+</TEXT>
+</DOC>

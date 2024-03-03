@@ -1,0 +1,4 @@
+DocNo   : CB121522-0003
+ID      : 1853
+Date    : 15 December 2022
+Headline: Major Canadian grocery chain says cyberattack cost $25 million; The report does not clarify the nature of the attack, whether it was ransomware or if it was paid

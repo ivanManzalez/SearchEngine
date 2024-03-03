@@ -1,0 +1,102 @@
+<DOC>
+<DOCNO> CB112519-0003 </DOCNO>
+<DATE>
+<P>
+November 25, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+We'll see an ice-free Arctic this century, latest research says; 
+</P>
+<P>
+New paper from University of California narrows window for Arctic melting
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+We can expect to see an ice-free Arctic Ocean within 50 years, according to researchers at the University of California's Center for Climate Science, who say they've improved and narrowed past projections of when the Arctic might be free of sea ice.
+</P>
+<P>
+Projections have varied from as early as 2026 to as distant as 2132. Now, according to research published in the journal Nature Climate Change, the Arctic could be "functionally ice-free" by September 2044 — and no later than 2067 — assuming no changes to global carbon emissions.
+</P>
+<P>
+September is when the Arctic sea ice pack is at its thinnest. That's when the effect of summer's heat shows up in the ice pack.
+</P>
+<P>
+Functionally ice free is like basically broke — it doesn't mean there won't be a shard of ice anywhere, but there would be fewer than one million square kilometres of it. That's compared with the current minimum six million square kilometres of Arctic sea ice that exists today, even at its lowest point after summer's heat.
+</P>
+<P>
+The important thing about one million square kilometres of Arctic sea ice is that it mostly represents thick, multi-year ice close to coastal areas of Greenland and in the Arctic archipelago. The Arctic Ocean itself would be essentially ice free. Declining sea ice hurts the ability of the Arctic to perform its important albedo function.
+</P>
+<P>
+The sea ice albedo effect refers to the reflective capacity of sea ice to deflect sunlight. Where there is no sea ice, darker open water absorbs up to approximately 90 per cent of incoming solar energy (heat). Sea ice absorbs just 20 per cent of that energy, with the rest reflected away, according to research published by the University of California.
+</P>
+<P>
+It's the Earth's freezer malfunctioning. This quickens global warming. 
+</P>
+<P>
+"Essentially, when we're losing that ice, the ocean is taking up much more heat than it would be say if we had an ice-covered Arctic," said Chad Thackeray, the article's lead author and research scientist on climate change at the University of California Los Angeles.
+</P>
+<P>
+"So that change has big implications for the climate system; not just changes in the Arctic."
+</P>
+<P>
+Accurate modelling of when we could see an ice-free Arctic is an important piece of data in global climate models, Thackeray said.
+</P>
+<P>
+"This is one … quantity or metric where a model disagreement is particularly large. A lot of our work is about trying to reduce this uncertainty … so that we're better prepared for the changes that are to come." 
+</P>
+<P>
+Consistent modelling of Arctic sea ice changes will improve global projections that rely on that data.
+</P>
+<P>
+"If models have more consistent simulations of sea ice, then it's likely that they'll have a better consistency in projecting future changes in temperature — especially in the Arctic region," he said.
+</P>
+<P>
+New method
+</P>
+<P>
+Thackeray and co-author Alex Hall used a new method to build their model. They took 30 years of satellite data on seasonal ice melt as a benchmark. Next, they compared 23 existing models to the data, rejecting those that failed to match the benchmark. The idea is that if a model can't accurately 'predict' what did happen, it shouldn't be relied on to predict what will happen.
+</P>
+<P>
+Once the weak models were rejected, they were left with six models that, taken together, give what they believe is the most accurate timeframe a functionally ice-free Arctic, and how soon the best science tells us we should expect it.
+</P>
+<P>
+There are some caveats to the research. Data was limited to sea ice between 70 and 90 degrees North latitude. That leaves out much of the Canadian archipelago — that mass of land and islands that defines Canada's North on a map.
+</P>
+<P>
+Sea ice in that area is affected by nearby land masses. Regional sea ice forecasts would be a different, and more complicated, data set to work with.
+</P>
+<P>
+"There are some areas … just north of the archipelago and off northwestern Greenland, where the ice is very thick, multiyear ice that doesn't really melt every summer," Thackeray, who is from the Toronto area, said.
+</P>
+<P>
+"That ice will stick around a bit longer. There will still be flows that find their way through the Canadian archipelago. That'll be pretty thick even in this mid-century timeframe."
+</P>
+<P>
+But the trend is toward ice-free, assuming nothing is done to curb carbon emissions.
+</P>
+<P>
+Thackeray said they did not consider how reductions in greenhouse gas emissions could effect the timeframe. Different models or "pathways" could significantly delay, halt, or even ultimately reverse Arctic sea ice thaw.
+</P>
+<P>
+"This process can be delayed by several decades or even completely halted if we were to limit ourselves to say 1.5 degrees of warming," Thackeray said. "It's just a matter of what pathway we choose ... and how quickly we choose."
+</P>
+<P>
+Helpful, if not groundbreaking
+</P>
+<P>
+Walt Meier, senior research scientist with the National Snow and Ice Data Center at the University of Colorado, said that Thackeray's paper does not necessarily point to something new. Other attempts to cull the data of extreme outliers have given similar results. But he said the method itself is new and it's reassuring to see different approaches yielding similar results.
+</P>
+<P>
+"In one sense, many people are reluctant to give a date or range of dates because of uncertainties," Meier stated in an email. "This paper does provide the range and a reasonable justification."
+</P>
+<P>
+Meier's research focuses on satellite data, not modelling, so he doesn't expect the paper to directly inform his work.
+</P>
+<P>
+"But I am on a couple projects that focus on sea ice projections, including from models, and I think this paper makes a valuable contribution to our knowledge."
+</P>
+</TEXT>
+</DOC>

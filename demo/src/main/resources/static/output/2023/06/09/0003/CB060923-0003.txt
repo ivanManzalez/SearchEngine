@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> CB060923-0003 </DOCNO>
+<DATE>
+<P>
+June 09, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+The painful end of free money as real interest rates start to rise; 
+</P>
+<P>
+It may not have felt like it, but by one measure borrowing money was free. No more
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+It will likely be hard to convince Canadians struggling with newly increased mortgage payments, but until very recently money has been free.
+</P>
+<P>
+Until recently, during that latest surge in inflation, borrowing to buy something was actually a lot cheaper than waiting to buy it a year later. That is because what economists call real interest rates were negative.
+</P>
+<P>
+Even this week as the Bank of Canada increased interest rates by another quarter of a percentage point to 4.75, the bank's benchmark rate remains only slightly higher than the current rise in average prices.
+</P>
+<P>
+But even that's relatively new. As Bank of Canada deputy governor Paul Beaudry explained on Thursday in a speech to the Victoria Chamber of Commerce, real interest rates have been plunging all over the world since the early 1990s.
+</P>
+<P>
+According to Beaudry, that could be about to change, not just until inflation is under control but over the long term.
+</P>
+<P>
+Getting real on rates
+</P>
+<P>
+For a lot of people the concept is not easy to understand, but according to Stephen Williamson, one of Canada's top experts in central banking, the gap between real and nominal interest rates has a critical impact on the wellbeing of savers, shoppers and borrowers. And to help explain, he uses apples.
+</P>
+<P>
+"Say we're just dealing in apples," said Williamson, Stephen A. Jarislowsky Chair in Central Banking at Ontario's Western University. "Say I borrowed an apple this year and I pay you back an apple a year from now, that's a real interest rate of zero."
+</P>
+<P>
+In other words, although you have to replace it with another apple when the new crop comes in, in real terms the apple cost you nothing for a whole year. Generally that is not the way we think the world works.
+</P>
+<P>
+But with interest rates so low last fall, borrowing money at about three per cent to buy a piece of furniture, say, or even grocery dry goods inflating at a rate of 10 per cent that you could keep on your shelf for a year, actually made you money.
+</P>
+<P>
+In apple terms, that's a bit like borrowing an apple now and paying it back minus a bite. 
+</P>
+<P>
+"That's a good deal," said Williamson in another interview a year ago. "I should be borrowing like crazy."
+</P>
+<P>
+Borrowing like crazy
+</P>
+<P>
+That's exactly what people did, borrowing money at low rates, helping to bid up the price of houses to astronomical heights, taking Canadian consumer debt to world-beating levels.
+</P>
+<P>
+At the time Williamson predicted that was something that couldn't last and it hasn't.
+</P>
+<P>
+As Beaudry explained on Wednesday, for nearly 30 years, the Bank of Canada hasn't had to worry about inflation. The opening of China to the world economy, globalization, large savings rates by boomers and growing inequality that allowed rich people to invest and not spend meant that by 2018 real interest rates had fallen below zero.
+</P>
+<P>
+But due to a series of crises, including the COVID-19 pandemic and the Russian invasion, suddenly inflation rose above the Bank of Canada target range of two per cent.
+</P>
+<P>
+"In the whole period since 1991 when they started inflation targeting, they haven't seen an episode like this," said Williamson. "They've never been persistently above the inflation target."
+</P>
+<P>
+Instead, in those days, when unemployment was rising the central bank would cut rates and when unemployment was low, it would raise them a bit, he said. Inflation just wasn't a problem and when it started to kick in at the end of 2021, it caught central bankers around the world by surprise.
+</P>
+<P>
+Before that time, many people had forgotten how inflation worked. People who seemed satisfied with a two per cent wage increase a year ago when Canadian inflation hit eight per cent would have been outraged by a wage cut of six per cent. But to an economist, they are both the same thing.
+</P>
+<P>
+Raw purchasing power
+</P>
+<P>
+Rising real interest rates have a similar effect when it comes to mortgages, said Williamson.
+</P>
+<P>
+"The cost of purchasing a home is not just the dollar value of what you pay now, it's going to include all these interest costs over time," he said. "So if the real interest rate is high, in terms of purchasing power, the raw purchasing power of your income over the course of paying off your mortgage — you're dishing out higher real payments. You're going to have to sacrifice more raw purchasing power that you would otherwise use to buy other stuff."
+</P>
+<P>
+He said that this is new and painful for Canadians who were paying low real interest rates on their mortgages while watching their real estate assets appreciate at between 10 and 30 per cent. "That's a really good deal," he said.
+</P>
+<P>
+But with interest rates at 4.75 per cent and inflation at 4.4 per cent and expected to fall further, real rates are higher and rising.
+</P>
+<P>
+"Going forward if you expect we're going to be down to three per cent [inflation] or even better if we get down to two per cent over the coming year, then that's a really high real rate," said the Western economist.
+</P>
+<P>
+"Now you're up to 2.75 [in real interest] and man, that's a high real rate."
+</P>
+<P>
+As Beaudry explained on Wednesday, the current rise in real interest rates because of short term influences, what he calls "the bubbly part," is expected to be a short if painful blip in the long term march of the economy.
+</P>
+<P>
+But he warned that once inflation is tamed, there is no certainty real interest rates will fall back to zero. Instead as boomers spend their savings in retirement, as China's population growth slows, as businesses driven by climate change and AI innovation look for more investment, global savings could fall, pushing real interest higher over the long term.
+</P>
+</TEXT>
+</DOC>

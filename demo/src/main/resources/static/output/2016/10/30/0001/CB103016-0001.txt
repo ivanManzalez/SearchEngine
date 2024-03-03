@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> CB103016-0001 </DOCNO>
+<DATE>
+<P>
+October 30, 2016
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Growth of residential solar power slowed by 'zero incentive' for renters; 
+</P>
+<P>
+Future of solar-powered homes in Canada 'highly speculative,' says National Energy Board
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The declining cost of rooftop solar panels — down over 90 per cent since 2000 — has offered hope for increasing small-scale electricity generation.
+</P>
+<P>
+Industry heavyweights such as General Electric are heralding a "wave of decentralization," while the International Energy Agency claims "the sun could be the world's largest source of electricity by 2050, ahead of fossil fuels, wind, hydro and nuclear."
+</P>
+<P>
+And while the Trudeau government seems to be jumping on board, calling for Canada's developers to build more "net zero" homes — buildings that produce as much energy as they use — the future of solar in Canada remains "highly speculative," according to the National Energy Board.
+</P>
+<P>
+One barrier that few in Canada consider is the issue of home ownership. Soaring housing prices are blocking many Canadians from buying a home, and renters have little reason to go solar.
+</P>
+<P>
+The Canada Mortgage and Housing Corporation (CMHC) warns that affordability issues in the real estate market are spreading beyond Vancouver and Toronto. Earlier this week, it issued its first "red" warning for the national housing market.
+</P>
+<P>
+Investment analytics firm MSCI reports that home ownership costs in Vancouver and Toronto now represent more than half the median monthly household income in these centres. Household debt levels among Canadians are at record highs and fewer people under the age of 35 are opting for home ownership than ever before.
+</P>
+<P>
+In 2015, rentals accounted for the largest share of new residential urban construction since 1992, according to CMHC.
+</P>
+<P>
+These trends paint a bleak picture for the continued rise of rooftop solar.
+</P>
+<P>
+"There is basically zero incentive for a renter to spend the money to install a renewable energy system," says Jessica McIlroy with the BC Sustainable Energy Association.
+</P>
+<P>
+But renters, ironically, are often those most in need of the lower monthly electric bills solar can deliver.
+</P>
+<P>
+Lower income households, nearly 70 per cent of which are renters, spend up to four times more of their monthly income on electricity than their higher-earning counterparts. And rental housing costs already hover at the "unaffordable threshold" of 40 per cent of median monthly income in two-thirds of Canadian cities surveyed by MSCI.
+</P>
+<P>
+Solar income gap
+</P>
+<P>
+Similar trends in the U.S. are drawing attention to what Amit Ronen, director of the George Washington University Solar Institute, calls the solar income gap.
+</P>
+<P>
+The gap includes higher rates of renting or living in multi-family buildings, and having less access to financing.
+</P>
+<P>
+The American response hasn't been to implement controversial feed-in tariffs, as Ontario has. These tariffs provide producers with a 20-year guaranteed price per kilowatt hour that can be significantly above market rates.
+</P>
+<P>
+The U.S. often instead relies on net-metering regulation, which allows customers to connect a small electricity-generating unit, like solar panels, to the utility grid in order to trade power for credit toward their bills. 
+</P>
+<P>
+Jared Lang, with the U.S.-based National Housing Trust, says programs that allow residents to have panels on their roof — but are owned and financed by a company, such as SolarCity — eliminate a major cost barrier.
+</P>
+<P>
+Residents can have the panels installed without upfront costs and repay the company over time with the savings on their electricity bills.
+</P>
+<P>
+And for the 50 per cent of American electricity consumers who don't own their home, live in a multi-family building or simply live in a shaded area, community solar projects — in which nearby residents can buy a share and receive a proportional credit on their electricity bill — are filling the gap.
+</P>
+<P>
+Community solar
+</P>
+<P>
+While no Canadian jurisdiction has a net-metering policy applicable to community units, in the U.S., community solar is expected to represent up to half of the solar market by 2020.
+</P>
+<P>
+That's because organizations like the National Housing Trust are working to find space for panels, such as unused commercial rooftops, where the utility savings can be passed on to nearby residential tenants.
+</P>
+<P>
+"It is not a priority for office owners to install solar, so there is a lot of open roof space," Lang says. "Through community solar, we can connect good rooftops with people in need."
+</P>
+<P>
+Landlords are also being brought into the conversation.
+</P>
+<P>
+"We've seen landlords convert high-turnover buildings into much higher-demand units with a longer term, stable tenancy by reducing utility costs," says Khalil Shahyd, with the Natural Resources Defense Council.
+</P>
+<P>
+Yet there remains opposition to making solar power available to everyone.
+</P>
+<P>
+Net-metering policies are being contested in 46 states, usually by major utility companies raising such concerns as the distribution of grid-maintenance costs.
+</P>
+<P>
+But John Gorman, president and CEO of the Canadian Solar Industries Association, is confident similar concerns can be accommodated as Canadian jurisdictions work to develop their own policies through a "very managed" approach.
+</P>
+<P>
+"There are enough options out there that we can meet everyone's concerns and still design robust solar policies," he says.
+</P>
+<P>
+Kara Sherwin is a Fellow in Global Journalism at the Munk School of Global Affairs, University of Toronto.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO> CB090223-0001 </DOCNO>
+<DATE>
+<P>
+September 02, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Airbnb to face hefty fines for illegal listings as new Quebec rules come into force; 
+</P>
+<P>
+Company will comply with provisions, but ‘number of challenges’ ahead, spokesperson says
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Months after legislation meant to force Airbnb and other short-term rental platforms to crack down on unauthorized tourist accommodations was passed, all provisions — including some with stiff fines for non-compliance — come into effect Friday.
+</P>
+<P>
+Under the new rules passed in June, companies like Airbnb offering stays of 31 days or less on their platforms must now ensure that all listings on their sites are legal or risk facing fines of up to $100,000 per illegal post. 
+</P>
+<P>
+This includes verifying the validity of registration numbers required for all listings, as many hosts have been found to use fake numbers to circumvent the law. 
+</P>
+<P>
+Individuals who offer up a unit with a bogus permit can now also be hit with a penalty of up to $50,000.
+</P>
+<P>
+Quebec had already required all short-term units to be registered with the province and have their registration number displayed on the listing, but the rules have historically been flouted, with minimum enforcement. 
+</P>
+<P>
+In Montreal, for example, 56 per cent of short-term rental units on Airbnb were still unlicensed as of Thursday, according to an independent watchdog group, Inside Airbnb. Still, that's down from 90 per cent in March. 
+</P>
+<P>
+Quebec added new restrictions to its Tourist Accommodation Act after a fire in an Old Montreal building killed seven people in March, six of whom were staying in unlicensed short-term rentals. Montreal police said this week the fire is now being investigated as a homicide.
+</P>
+<P>
+Verification process poses challenges: Airbnb
+</P>
+<P>
+Airbnb says it's working hard toward respecting all provisions of the new law by Friday, but a "number of challenges" lie ahead. 
+</P>
+<P>
+"Overall, we don't oppose registration for hosts. We don't oppose having some responsibility and working closely with the province on these matters," said Nathan Rotman, Airbnb's regional policy lead for Canada, in an interview. 
+</P>
+<P>
+"The issue really comes down to how complex it is to get a licence in the first place and more recently, with Bill 25, the requirements to verify the listings is done in a manual process, which is really not something we're used to doing and is not a best practice." 
+</P>
+<P>
+Companies like Airbnb will need to manually verify each government-issued PDF registration certificate submitted by a host in order to check that their licence number is valid. 
+</P>
+<P>
+The company has previously argued that it's impossible to know whether the form has been faked or altered, but the province has said a digital seal applied to the form can ensure the number's authenticity. 
+</P>
+<P>
+"There should be a digital component to this," Rotam argued.
+</P>
+<P>
+"It shouldn't be [that] a host has to get a PDF from the government and we have to have a real life human being open up that PDF and take a look at it. It certainly is open to to errors and other challenges, so certainly, it's not our preferred approach to this law."
+</P>
+<P>
+Quebec's Tourism Ministry says it will implement two technological solutions that will enable short-term rental platforms to carry out the necessary verifications on an ongoing basis: an electronic verification system using an application programming interface (API) and a verification portal.
+</P>
+<P>
+It will also establish a public register of tourist accommodation establishments, which will come into effect at a future date. 
+</P>
+<P>
+In compliance with the law, Rotman says Airbnb has already designated a Quebec-based representative to make it easier to actually reach someone from the rental company. 
+</P>
+<P>
+Uptick in enforcement
+</P>
+<P>
+The city of Montreal recently created a task force to help crack down on illegal Airbnbs and other types of short-term rental units. A co-ordinator and three inspectors will be able to visit homes without prior notice and issue fines between $1,000 and $4,000. 
+</P>
+<P>
+The inspectors could also flag properties to Revenu Québec, which has the power to issue even heftier fines.
+</P>
+<P>
+Enforcement of the rules — both new and old — has been a contentious issue between the government and the city. 
+</P>
+<P>
+Earlier this year, Montreal Mayor Valérie Plante said Revenu Québec needs to have more inspectors investigating illegal Airbnb operators, while the provincial agency argued it doesn't have the mandate to apply municipal regulations.
+</P>
+<P>
+In a statement from Quebec's Tourism Ministry Wednesday, a spokesperson said the inspection powers of Revenu Québec and the municipalities are complementary.
+</P>
+<P>
+Revenu Québec inspectors are tasked with upholding the Tourist Accommodation Act, while municipalities are responsible for enforcing municipal bylaws, including zoning, urban planning or nuisances, the statement reads.
+</P>
+<P>
+Citizens and municipalities are also encouraged to anonymously report tourist accommodation establishments that do not comply with the law under the General Whistleblower Program.
+</P>
+<P>
+Complex registration process
+</P>
+<P>
+According to Rotman of Airbnb, the biggest challenge with this law over the coming months will be the loss of tourist establishments in parts of the province that rely on that economic activity.
+</P>
+<P>
+"That is going to be a problem in communities that have big tourist attractions, right? So throughout the Eastern Townships, up in the [Laurentian] areas that are very popular… because of how complex the process is to get yourself registered," he said. 
+</P>
+<P>
+In order to get a licence number from the Corporation de l'industrie touristique du Québec (CITQ), a notice of compliance issued by the municipality is required. 
+</P>
+<P>
+Rotman says while Montreal officials are aware of this requirement, some other smaller communities throughout the province might not understand the intricacies of the law. 
+</P>
+<P>
+"We've long encouraged the province to update its rules to make it much easier for hosts to get themselves registered in the first place," he said. 
+</P>
+<P>
+"You get higher compliance the easier you make this."
+</P>
+<P>
+WATCH | How to know if your Airbnb is illegal:
+</P>
+</TEXT>
+</DOC>

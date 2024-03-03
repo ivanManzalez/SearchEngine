@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> CB112921-0002 </DOCNO>
+<DATE>
+<P>
+November 29, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Infectious disease expert explains COVID-19's new variant of concern, Omicron; 
+</P>
+<P>
+Dr. Lisa Barrett talks about how Omicron came to be and what should be done to prevent more variants
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A new variant of concern has emerged in the COVID-19 pandemic and it was recently named omicron by the World Health Organization.
+</P>
+<P>
+Omicron was first identified in South Africa on Wednesday, but it has also been found in Europe, Australia, China and, as of Sunday, Canada.
+</P>
+<P>
+The WHO said early evidence suggests there's an increased risk of reinfection with this variant.
+</P>
+<P>
+To learn more about Omicron, Jeff Douglas, host of CBC Radio's Mainstreet, spoke on Friday with Dr. Lisa Barrett, an infectious disease specialist and a clinician at Dalhousie University in Halifax.
+</P>
+<P>
+This discussion has been edited for length and clarity.
+</P>
+<P>
+What do you know about this new variant of concern, Omicron?
+</P>
+<P>
+[Omicron] is a variant of COVID-19 and this designation is one of concern. That means it's been elevated from one of interest to one of concern, which puts it into a higher level of alert, mainly because of the potential for maybe transmissibility, maybe infection and [it] may be a threat to vaccines. 
+</P>
+<P>
+Because of the maybes there, it is a variant of concern and the World Health Organization has said, "We should do some work on this and fast," but it is also being mindful of the fact we don't actually know a lot clinically or from a virus perspective about it yet. 
+</P>
+<P>
+South Africa has seen a pretty steep spike in cases which does correspond with the appearance of this variant. That doesn't necessarily mean that there's a causal link, so what do we know about the way those patients are looking clinically?
+</P>
+<P>
+Clinically it does not — at least right now — appear to look like a clinically more virulent or destructive virus. This variant didn't just show up on Wednesday, it was reported on Wednesday and people have been following it for a while. 
+</P>
+<P>
+Many people have seen this virus and have been doing a little bit of work on it to date and so the upswing in cases — what we do need to be very clear about is whether or not this is a virus problem or just that this virus came about in an area where there were almost no vaccines and almost no public health measures. If those two things were in place in that area, this might not mean the virus is more transmittable. We just don't quite know yet. 
+</P>
+<P>
+South Africa has a vaccination rate of about 24 per cent, compared to Canada's 75 per cent. Many other African countries have vaccination rates in the single digits. What does that say to you and tell us about mutations like Omicron?
+</P>
+<P>
+In case anyone's forgotten, we've always said that if you have a space for this virus to grow — whether that's because of low vaccination or because you take away public health measures too fast — it will and it will mutate. 
+</P>
+<P>
+Its sole job is to be better and better at transmission and infection. [It's] not shocking that this is an area where you're going to see the generation of variants.
+</P>
+<P>
+To your point, many of these countries outside South Africa and central Africa are in the one per cent [vaccination] range. That's a dangerous way of having things as well, because virus [amount] is high, public health measures are relatively low and you have enough vaccine pressure to stimulate some mutation and drive mutation, but not enough to keep virus low.
+</P>
+<P>
+We really, really need to look not just at supply, but these countries have actually thrown out vaccines over the last number of months because they don't have the health systems to get them out.
+</P>
+<P>
+And when everyone in Canada is looking around getting a little annoyed because their holiday might be slightly different this year with some public health measures, and they're getting a little annoyed because they've got to get some testing done to go across borders for travel — I think it's, number 1, a good idea to probably contextualize that with the rest of the world and, number 2, be very mindful that we need to continue to both help other countries, but also keep an eye on how entitled we are about what restrictions mean and where we could go otherwise too.
+</P>
+<P>
+You are a physician, not a policy person, but is there anything more privileged nations, like Canada, can do to help these countries that don't have the public health infrastructure to get people vaccinated?
+</P>
+<P>
+As you've just noted, I'm not a policy person, but as an immunologist, as a doctor who looks after humans, I do think we should be looking at ways of helping to get structure and emergency measures over to some of these countries and help them build some sustainability around the scale-up of the vaccines. 
+</P>
+<P>
+They've been doing vaccines in most of these countries for many years, but it's the scale-up they need help with. I hope we're going to start doing that next and it can't just be a "they," it has to be an "us." It's a good point to reflect on this.
+</P>
+<P>
+I'm actually a little surprised with the panic and some of the border measures that some other countries are taking and in our country, maybe an ounce of prudence is a good thing right now. We can reassess as we get more answers. 
+</P>
+<P>
+But the bigger picture here that this variant of concern should raise, is how we start to really bring vaccines to other parts of the world where we need it, or we are going to be talking about the pandemic for longer than any of us want.
+</P>
+</TEXT>
+</DOC>

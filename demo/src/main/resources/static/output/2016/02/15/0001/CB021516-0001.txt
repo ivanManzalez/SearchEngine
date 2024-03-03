@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> CB021516-0001 </DOCNO>
+<DATE>
+<P>
+February 15, 2016
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Drake Landing: A ray of sunshine for solar thermal energy; 
+</P>
+<P>
+2 or 3 sunny summer days enough to heat homes throughout cold seasons in Alberta town's solar community
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Okotoks in southern Alberta is one of the sunniest places in the country — making it a perfect location for Natural Resources Canada to launch a groundbreaking demonstration project. 
+</P>
+<P>
+Some residents of the town located just south of Calgary are now reaping the benefits.
+</P>
+<P>
+"We wanted to show that it is possible in a cold Canadian climate to provide essentially all of the residential space heating needs for a community using solar energy," said manager Doug McClenahan. 
+</P>
+<P>
+"On average, 60 per cent of the energy used in Canadian homes is for space heating, and approximately two-thirds of this is provided by fossil fuels."
+</P>
+<P>
+With the help of governmental and private partners, NR Canada completed Drake Landing in 2007. 
+</P>
+<P>
+Consisting of 52 houses, it's the first large-scale solar community in North America to use borehole thermal energy storage to heat homes. 
+</P>
+<P>
+Storing heat underground
+</P>
+<P>
+"The simple fact that we can store heat underground and utilize the energy that was captured from three or four, five months ago, is awesome," said Keith Paget from Sterling Homes.
+</P>
+<P>
+His company developed the neighbourhood and built the houses to R-2000 standards, ensuring maximum energy efficiency.
+</P>
+<P>
+The project has exceeded expectations. Since its inception, the solar system has been providing well above 90 per cent of the space heating requirements. The last few years saw efficiencies of up to 98 per cent, requiring only a two per cent top-up from natural gas. 
+</P>
+<P>
+Homeowners pay a monthly fixed rate, about $70 to maintain the infrastructure. The community is revenue neutral. The real benefit comes from the reduced greenhouse gas emissions. The space heating system cuts about four to five tonnes of greenhouse gas, per household, every year.  
+</P>
+<P>
+Drake Landing homeowners monitor the energy centre in real time, with the help of an app.
+</P>
+<P>
+How it works
+</P>
+<P>
+"I was drawn to the technology, looking for a way to reduce the carbon footprint for our family,"  said homeowner Klym Bolechowsky. "In terms of costs, I think it's relatively comparable to a conventional home, I think there's a bit of ethics in it."
+</P>
+<P>
+The heating process starts behind the houses, on the roofs of the detached garages where 800 solar-thermal panels are mounted to the roofs to collect the heat from the sun. 
+</P>
+<P>
+The array can generate as much as 1.5 megawatts of heat during a sunny, summer day. A non-toxic glycol solution is heated by the system and pumped to the community's energy centre, where the heat is extracted and diverted into a web of 144 boreholes, drilled 37 metres into the earth. 
+</P>
+<P>
+The heat is transferred to the surrounding soil and rock. By the end of summer, the ground's ambient temperature can reach 80 C.
+</P>
+<P>
+During winter months, this heat store feeds the homes through a central district heating system. ATCO Gas manages and runs the project. 
+</P>
+<P>
+Energy-saving frontier
+</P>
+<P>
+"It's environmentally friendly, it's innovative.... We're looking down the road, we want to be an energy provider, not just a natural gas provider," said senior manager Kelly McCann.
+</P>
+<P>
+The other energy-saving frontier in Canadian homes is hot water tanks. In Drake Landing, solar thermal energy helps with that too.  
+</P>
+<P>
+Each house has dedicated solar thermal panels to pre-heat the water before it's brought up to the final temperature, using natural gas. This process saves each household another tonne of greenhouse gas per year.
+</P>
+<P>
+Borehole thermal energy storage has proved its worth, but to apply it wholesale would require a bigger scope.
+</P>
+<P>
+"This is a demonstration project of just 52 homes.... In a large-scale project of 1,000 homes or more, the economics are much more feasible," said Paget with Sterling Homes.
+</P>
+<P>
+Meanwhile, Natural Resources Canada is looking to build on the success of Drake Landing. They've started a study for another project in Okotoks. The next goal is to move towards a 100 per cent renewable net-zero energy community. 
+</P>
+<P>
+It will use very high-efficiency housing and buildings to maximize the solar thermal energy, and will include photo voltaic technology,  heat pumps and bio-energy. 
+</P>
+</TEXT>
+</DOC>

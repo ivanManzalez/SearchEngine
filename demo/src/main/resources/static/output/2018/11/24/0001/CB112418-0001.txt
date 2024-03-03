@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> CB112418-0001 </DOCNO>
+<DATE>
+<P>
+November 24, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How a century-old idea is heating and cooling new communities in Toronto; 
+</P>
+<P>
+Centralized heating and cooling has taken on new life in developments like Regent Park
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Toronto is tapping into the city's hot real estate market to bring back an old concept to heat and cool buildings and homes downtown using new technology.
+</P>
+<P>
+It's called "district energy" — using one energy source to power an entire neighbourhood or community.
+</P>
+<P>
+Fernando Carou, manager of community energy initiatives at the City of Toronto, describes it as being similar to public transit, but for buildings and homes.
+</P>
+<P>
+"On the transportation side we want to get rid of the single occupant car, so, think of their single occupant car as the unconnected building," Carou told CBC Toronto.
+</P>
+<P>
+"We want to get the benefits of network, which you don't have if you're just an island," he said.
+</P>
+<P>
+He adds that the concept of district energy has been around in Toronto for more than 100 years as clusters of downtown hospitals, government buildings and the University of Toronto campus were all heated by the same power plant.
+</P>
+<P>
+"Back then, coal was used to make steam at a central location, but then oil and natural gas replaced coal to heat buildings," said Carou. "The new large buildings moved away from the district model."
+</P>
+<P>
+The revitalization of Regent Park, along with projects in places like Markham and Enwave's deep water cooling system for buildings downtown, have been a turning point for district energy, said Carou.
+</P>
+<P>
+"Regent Park is the largest social housing project in Canada. When it was redeveloped it made sense to use district energy to heat and cool the homes," he said, adding that for building clusters, a central plant for heating and cooling is more convenient and economical.
+</P>
+<P>
+So, at the corner of Sackville Street and Dundas Street E., on the first and second parking levels of a 22-storey building, gas powered hot water boilers for heating and hot water and chillers for air conditioning in the summer were installed.
+</P>
+<P>
+Sureya Ibrahim, who lives in Regent Park and works at the community centre, says few people even know that the facility even exists.
+</P>
+<P>
+Unbeknownst to residents, instead of each home having its own heating, cooling and hot water system, the shared power plant connected by insulated underground pipes has been providing heating, cooling and hot water to 22 buildings throughout Regent Park.
+</P>
+<P>
+Carou says the system will soon connect buildings outside Regent Park.
+</P>
+<P>
+A Toronto Community Housing spokesperson could not provide any details or a person to elaborate on how the project has fared.
+</P>
+<P>
+But Carou says based on results, more communities being built in Toronto will use such centralized systems. He adds the city's prolonged condo boom has helped fuel a renaissance for the district energy model.
+</P>
+<P>
+"We're growing vertically. We're doing all this new density. We had to have the economies of scale," he said.
+</P>
+<P>
+Now, a total of 27 locations with the potential to support new district energy systems have been identified in Toronto.
+</P>
+<P>
+Among the new projects planned and underway are The Well at the corner of Spadina Avenue and Front Street W., East Harbour, the former Unilever Lands and the redevelopment of the Honest Ed's and Mirvish Village at Bloor and Bathurst streets.
+</P>
+<P>
+Carou says it makes sense for developers since the systems, while expensive to install, are more efficient and save money over time.
+</P>
+<P>
+"The developers are going to have to meet stringent policies the city has put in place," he said.
+</P>
+<P>
+According to Toronto's climate action plan, unanimously adopted by council in July, such energy networks will be needed to hit the city's greenhouse gas emissions targets.
+</P>
+</TEXT>
+</DOC>

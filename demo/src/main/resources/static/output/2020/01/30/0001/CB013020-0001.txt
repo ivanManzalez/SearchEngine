@@ -1,0 +1,189 @@
+<DOC>
+<DOCNO> CB013020-0001 </DOCNO>
+<DATE>
+<P>
+January 30, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Microgrids: An idea whose time has come?; 
+</P>
+<P>
+Also: How to heat your home without fossil fuels
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, people! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+Microgrids: An idea whose time has come?
+</P>
+<P>
+As the global population grows, so does the demand for electricity. But there are challenges, even now. More than a billion people around the world don't have access to power grids. According to the Canada Energy Regulator, 200,000 people in Canada are not connected to the North American electrical grid and natural gas distribution pipeline systems. 
+</P>
+<P>
+We're also seeing natural disasters and major weather events disrupt power supply, causing mass blackouts for days at a time. And when one part of the transmission system breaks down, it can paralyze the whole grid.
+</P>
+<P>
+Enter the microgrid. A concept that's been growing in popularity, it's a power system that can operate independently or work in connection with bigger grids. 
+</P>
+<P>
+A microgrid "contains everything that it needs to provide power to a community," said Lynn Côté, cleantech lead at Export Development Canada. "You're not building a system for a million people. You're building a system for maybe a thousand people, 500, maybe 250."
+</P>
+<P>
+Big electrical grids connect buildings to central power sources, such as coal, nuclear and gas plants. When main components stop working, everything can be affected. 
+</P>
+<P>
+A microgrid operates as an island, which can be beneficial during times of crises like storms or outages (or for other reasons). Many are powered by a mix of renewable energy and batteries, with natural gas for backup. Microgrid power isn't necessarily more reliable, but in communities far from a larger power source, microgrids can alleviate complications because the electricity is stored, owned and controlled locally.
+</P>
+<P>
+One of the older examples is a microgrid built more than a decade ago in Sendai, Japan, which is powered by a mix of solar, gas and battery. According to Berkeley Lab, which does research on behalf of the U.S. Department of Energy, during blackouts caused by the 2011 tsunami and earthquake, the microgrid in Sendai provided power and heat to the teaching hospital of Tohoku Fukushi University. 
+</P>
+<P>
+"Widespread power outages cause a lot of social and economic damage and destruction. And the climate crisis is making all of this worse," said Jana Ganion, energy director for Blue Lake Rancheria, an Indigenous reserve in California that launched a solar microgrid in 2015.
+</P>
+<P>
+Millions of people in California had their power shut off last fall because of wildfire risk. Meanwhile, the Blue Lake Rancheria microgrid provided electricity to thousands nearby.
+</P>
+<P>
+Setting up a microgrid can be an expensive undertaking, especially in dense urban or suburban areas with existing infrastructure. Consumers typically stick with what works, said Côté, and for the majority of Canadians, that means hydroelectric power (nuclear and coal are the next-biggest power sources).
+</P>
+<P>
+"It's really hard for certain countries to raise the kind of capital you need [to build a power plant]," said Côté, who has researched microgrids in remote Canadian communities. She said the "autonomy" a microgrid provides "is really important." 
+</P>
+<P>
+There are nearly 300 remote communities across Canada, many of which rely on diesel-powered microgrids for electricity generation. Over the last decade, the federal government has worked with regional entities to create greener options. 
+</P>
+<P>
+In August, Gull Bay First Nation, north of Thunder Bay, Ont., co-developed a community microgrid that uses solar, battery storage and automated control technology to help reduce diesel use, according to Ontario Power Generation. It's the first of its kind in Canada.
+</P>
+<P>
+Côté said that in addition to making remote areas more self-sufficient, microgrids could help communities access clean drinking water by providing the power to treat it. 
+</P>
+<P>
+— Isabel Terrell
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+Our story on e-bikes from a couple of weeks back continues to fuel discussion. Some readers doubted the possibility of biking year-round in a country as seasonally variable as Canada. Other readers weren't having it.
+</P>
+<P>
+Colin Lee wrote, "The fact is that many people bike year-round and have done so for decades in Canadian cities. I have lived in Waterloo, Toronto and Halifax and biked in winter in all three cities. The only way we're going to get more people doing so is by building more and safer infrastructure."
+</P>
+<P>
+Deborah Baxter: "Don't tell me that we cannot bike year-round in Canada! It is done in Iceland, and it sure as hell can be done in Canada!" Baxter describes herself as "a 62-year-old retired professional woman who chooses to work full-time." She works within a two-kilometre radius of her home. "I work late afternoon until almost midnight. And my sole means of transportation has been bicycle, apart from a very occasional cab ride." She concluded by saying, "I hope my two years of riding a bike year-round, largely at late night in Maritime Canada, entices many more to do so."
+</P>
+<P>
+Kelvin Sams: "I live in Halifax and ... I have been commuting to work on an electric fat bike. An excellent choice for icy snowy conditions. Wearing some ski goggles, a winter helmet and other suitable clothing I have been quite comfortable riding to work and more often find myself over-dressing. I have never before commuted to work by bicycle. For the first time I believe a significant portion of Canadians can commute by e-bike 12 months of the year."
+</P>
+<P>
+Karla Braun: "I live in Winnipeg and I'm a year-round cycle commuter."
+</P>
+<P>
+Finally, this from Judi Varga-Toth: "It is time to reject the myth that Canada cannot be and never will be a cycling nation. Not only can we be, but we must be. Cycling is a simple solution to many of the world's most complex problems, ranging from chronic disease and obesity prevention to mental health and productivity gains, from lowering GHGs to improving air quality, to reducing congestion and boosting the local economy."
+</P>
+<P>
+Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+The Big Picture: Oil and gas company investments in green tech
+</P>
+<P>
+In the face of a growing consensus about the causes and effects of climate change, many of the world's biggest fossil fuel companies (such as Shell and Exxon) have touted their investments in green energy and carbon capture and storage (CCS) technology. But a recent report by the International Energy Agency (IEA) found that those promises are not backed up by action. The IEA found that on aggregate, these companies spent less than one per cent on "low-carbon businesses."
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+As climate change evolves, it will affect different parts of the world in different ways. (As we've seen from recent events, for example, Australia and Indonesia have been hit by wildfires and floods, respectively.) Extreme weather will lead some people to move elsewhere. This week, the UN's human rights committee ruled it is illegal for governments to send people back to countries that face climate risks.
+</P>
+<P>
+How to heat your home without fossil fuels
+</P>
+<P>
+Last week, I examined ways to reduce your home heating use. This week, I'm turning my attention to alternatives to fossil fuel heating.
+</P>
+<P>
+Nearly 70 per cent of the energy used in the residential sector comes from fossil fuels, a 2014 study estimated. Forced air furnaces and hot water or steam boilers with radiators, which most often burn fossil fuels such as natural gas, make up a majority of the primary heating systems in Canada, Statistics Canada reports.
+</P>
+<P>
+Buildings heated with fossil fuels can cut some of their emissions by reducing the need for heating through things like better insulation and reusing "waste" heat.
+</P>
+<P>
+If your home is hooked up to a district heating system, where a utility supplies heat directly, you may be able to tap into a variety of greener energy sources. 
+</P>
+<P>
+But if your home relies on its own individual heating system, as most do, what are the alternatives to fossil fuels — and will they work in the colder parts of this country?
+</P>
+<P>
+"The only fuel that we can truly make 100 per cent carbon neutral is electricity," said Fin MacDonald, program manager of the Zero Carbon Building program at the Canada Green Building Council.
+</P>
+<P>
+In provinces with an electrical grid based mostly on hydro, nuclear or other zero-emission energy sources, such as Ontario, Quebec and B.C., replacing a gas-burning furnace with an electrical heating system can nearly eliminate a home's emissions.
+</P>
+<P>
+Baseboard heaters are the most common option in use across Canada. They're powered by electrical resistance heating, just like your toaster and oven. Electric forced air furnaces, electric convection heaters and electric radiant floors also use electrical resistance heating.
+</P>
+<P>
+Baseboard heaters are popular because they're cheap and easy to install, but 
+</P>
+<P>
+electrical resistance heating is generally inefficient, said Brady Faught, green buildings engineer with the City of Vancouver.
+</P>
+<P>
+"They're just like having a toaster running in your house all day … resulting in high electric bills."
+</P>
+<P>
+Heat pumps are far more efficient because they simply move heat into your home, rather than generating heat. There are two kinds:
+</P>
+<P>
+Air source heat pumps, which draw heat from the air. (Yes, it can work even when it is very cold outside, just as your freezer can use its heat pump to cool itself to -18 C in a 20 C kitchen.)
+</P>
+<P>
+Ground source heat pumps, which draw heat from the ground and are sometimes referred to as geo-exchange or geothermal heat pumps. (MacDonald said the industry is trying to move away from calling it geothermal, as it gets confused with geothermal power generation.)
+</P>
+<P>
+Both MacDonald and Faught said it's possible to get 300 per cent efficiency from a heat pump — that is, you can get three kilowatts of heat for every kilowatt of electricity you put in. They're especially efficient in spring and fall.  
+</P>
+<P>
+But MacDonald said heat pumps tend to produce a lower temperature heat than burning fossil fuels, and therefore don't heat a building as quickly. 
+</P>
+<P>
+Faught said air source heat pumps can warm an airtight, well-insulated home to a comfortable temperature until it gets to about -10 C outside. In places with colder winters than that, supplementing with baseboard heaters may be necessary with conventional air source heat pumps. (Some manufacturers have brought cold climate heat pumps on the market that they say can deal with outside temperatures down to -25 C or -30 C.)
+</P>
+<P>
+In provinces like Alberta and Saskatchewan, where power right now is largely generated by burning fossil fuels, homeowners who want to cut heating emissions need to go beyond electrification and also install green power generation, such as solar panels.
+</P>
+<P>
+David Turnbull, a manager at Enerspec, which does energy consulting and home inspections, warns that before investing in a heat pump, homeowners should make sure their place is as airtight and well-insulated as possible.
+</P>
+<P>
+"The investment in these things doesn't necessarily pay off unless you've low-enough heat loss in your home to make one of these things worth it."
+</P>
+<P>
+— Emily Chung
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

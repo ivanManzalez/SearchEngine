@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB112323-0003 </DOCNO>
+<DATE>
+<P>
+November 23, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+IEA report to oil and gas companies: Don't bank on carbon capture; 
+</P>
+<P>
+Paris-based agency warns against 'excessive expectations' placed on technology
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Carbon capture and storage has become a key plank of the Canadian oil and gas sector's decarbonization goals, but a new report from the International Energy Agency warns against banking on the technology as the planet continues to warm.
+</P>
+<P>
+In a report released Thursday, the Paris-based IEA said oil and gas companies need to start "letting go of the illusion" that "implausibly large" amounts of carbon capture are the solution to the global climate crisis.
+</P>
+<P>
+Carbon capture and storage refers to the use of technology to sequester harmful greenhouse gas emissions from industrial processes and store them safely underground.
+</P>
+<P>
+In Canada, carbon capture and storage has become a key pillar of the oil and gas sector's decarbonization goals.
+</P>
+<P>
+Oilsands companies, for example, have banded together to propose a $16.5-billion carbon capture and storage project in northern Alberta that they say will help them reach net-zero emissions from production by 2050.
+</P>
+<P>
+The federal government is also trying to spur investment in the pricey technology with the promise of a tax credit for companies that deploy carbon capture projects. Legislation to implement the tax credit is expected to be tabled within weeks.
+</P>
+<P>
+But while the IEA report acknowledges that carbon capture is an important tool in the fight against climate change — particularly when it comes to offsetting emissions from sectors that have no viable alternative solutions — it warns against "excessive expectations" and reliance on the technology.
+</P>
+<P>
+'Inconceivable' 
+</P>
+<P>
+The report states that limiting global temperature increases to 1.5 degrees Celsius, the target the international community committed to with the Paris Agreement, would require an "inconceivable" 32 billion tonnes of emissions to be sequestered by carbon capture by 2050.
+</P>
+<P>
+"The amount of electricity needed to power these technologies would be greater than the entire world's electricity demand today," the report said, adding that amount of carbon capture would also require an increase in global spending on the technology from $4 billion last year to $3.5 trillion by 2050.
+</P>
+<P>
+The report states oil and gas companies need to consider diversifying into clean energy rather than simply counting on carbon capture to help them maintain the status quo.
+</P>
+<P>
+Several global organizations, including the United Nations, have said large-scale carbon capture will be essential if the world is to have a chance at winning the climate battle.
+</P>
+<P>
+But some environmentalists say the oil and gas sector is looking to the technology to give it licence to increase production of fossil fuels that would be better left in the ground.
+</P>
+<P>
+"This (IEA) report is a stunning rebuke to all the Canadian oil executives and politicians claiming that they can simply slap on some government-funded carbon capture and continue with business as usual in a world rapidly weaning itself off of oil and gas," said Keith Stewart, senior energy strategist for Greenpeace Canada, in an email Thursday.
+</P>
+<P>
+Kendall Dilling, president of the Pathways Alliance oilsands industry group, said carbon capture isn't the only technology that Canadian companies are exploring as they seek to decarbonize. The oilsands industry is also looking at hydrogen, geothermal, fuel cell technology and even the potential for small modular nuclear reactors, he said.
+</P>
+<P>
+But Dilling added Alberta's geology is ideally suited to carbon sequestration, and the Pathways Alliance's proposed foundational carbon capture and storage network could capture 10 to 12 million tonnes of carbon emissions each year.
+</P>
+<P>
+"(Carbon capture) is key to a responsible future to many industries, including the oil and gas sector, which must continue to provide the products and services the world will continue to need for decades," Dilling said.
+</P>
+<P>
+Grady Semmens, spokesperson for the International CCS Knowledge Centre — a Regina-based think tank that aims to advance carbon capture deployment — said achieving large-scale global emissions reductions while still meeting growing demand for energy will require all available solutions.
+</P>
+<P>
+That includes the large-scale deployment of carbon capture and storage, he added, but projects will need to move quickly in order to make an effective dent in Canada's overall emissions profile.
+</P>
+<P>
+"It's not a fantasy, but it will take unprecedented collaboration between industry, governments, financiers and other partners to build the (carbon capture) projects necessary at the massive scale and short timeline required to meet the Paris Agreement," Semmens said.
+</P>
+</TEXT>
+</DOC>

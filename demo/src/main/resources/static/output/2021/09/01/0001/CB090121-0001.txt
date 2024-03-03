@@ -1,0 +1,213 @@
+<DOC>
+<DOCNO> CB090121-0001 </DOCNO>
+<DATE>
+<P>
+September 01, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Can Canada reach its emissions targets while still producing so much oil and gas?; 
+</P>
+<P>
+Also: The movement to stop short-haul flights
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+Can Canada reach its emissions targets while still producing so much oil and gas?
+</P>
+<P>
+Last week, the federal government vowed that Canada would reduce its carbon emissions by 40 to 45 per cent below 2005 levels by 2030.
+</P>
+<P>
+Climate researchers say that can't happen, however, without significant changes to Canada's oil and gas production, including the elimination of the industry subsidies that help support it.
+</P>
+<P>
+Angela Carter, an associate professor in the department of political science at the University of Waterloo, recently co-authored a report titled Correcting Canada's 'One Eye Shut' Climate Policy. It examines two ways of tackling emission reductions: from the demand side (that is, where fossil fuels are consumed and burned) and from the supply side (where they are produced).
+</P>
+<P>
+According to Carter, international institutions such as the United Nations Framework Convention on Climate Change (UNFCC) count emissions in the country where they're burned. 
+</P>
+<P>
+Canada has publicly focused on the demand side, she argues, with Prime Minister Justin Trudeau announcing things like $15 billion to fund greener transportation.
+</P>
+<P>
+"That's important. However, it's only getting at the consumption of fossil fuels," Carter said in an interview with What on Earth host Laura Lynch.
+</P>
+<P>
+The problem for Canada is that "we are major oil and gas producers in this country — and that is not only a major source of our domestic emissions here, but also in terms of the global climate impact, it has a very, very big footprint." 
+</P>
+<P>
+What's more, said Carter, Canada's oil and gas industry is the largest and fastest-growing source of emissions in the country, and government projections show that production will continue to increase for the next two decades. 
+</P>
+<P>
+"By 2050, we are going to be producing more oil and gas in Canada tha we did before the COVID pandemic," said Carter. "It is very difficult to imagine a world in 2050, or 2030, where we're meeting those targets if we don't do anything about the pace of production."
+</P>
+<P>
+Vanessa Corkal, a policy analyst with the Winnipeg-based  International Institute for Sustainable Development, believes Canada's targets are both ambitious and realistic, but not necessarily enough to align with the Paris agreement goal of limiting warming to 1.5 C above pre-industrial levels. 
+</P>
+<P>
+Amid a flurry of climate-related initiatives, U.S. President Joe Biden recently announced the American Jobs Plan, which emphasizes building clean energy infrastructure, and signed an executive order committing the country to phasing out fossil fuel subsidies. It also uses the Organization for Economic Co-operation and Development (OECD) to push countries to reduce their funding of fossil fuels.
+</P>
+<P>
+Last year, Canada spent $2 billion on fossil fuel subsidies, said Corkal, while agencies like Export Development Canada provide roughly $13 billion more for domestic and international fossil fuel production and exploration.
+</P>
+<P>
+"Canada, unfortunately, is one of the worst in the G7 countries on many climate indicators — including our levels of international climate finance, our fossil fuel subsidies … and our emissions per capita. So I think having the U.S. pressuring in those spaces is really going to help push Canada to do better."
+</P>
+<P>
+If Canada reduces fossil fuel subsidies, it will create a disincentive for production and consumption, argues Corkal. In 2019, her team used economic modelling to show that phasing out subsidies globally would reduce emissions by up to six per cent over seven years.
+</P>
+<P>
+Carter and Corkal recognize that shifting subsidies away from the fossil fuel sector will have an effect on jobs. This is why they believe a "just transition" is essential.
+</P>
+<P>
+"An easy fix from the federal government's perspective is simply to stop funding the sector as we do now, and we direct that money, all of the research and the investments that we make in that sector towards the transition that we need to make," said Carter, whose father and brother worked in the oil industry in Newfoundland and Alberta.
+</P>
+<P>
+Many have argued that because Canada is only responsible for roughly 1.5 per cent of global emissions, we are a tiny part of the problem. Carter disagrees.
+</P>
+<P>
+"When someone says that Canada is a small player in terms of emissions, that just is not so because we are a major oil and gas exporter, and that oil and gas ends up being consumed," she said.
+</P>
+<P>
+"We're coming now, I think, to a time of reckoning, when we've got to acknowledge Canada's contribution to the global climate crisis, and we've got to do something about it."
+</P>
+<P>
+— Jennifer Van Evra
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+We got a number of responses to Vicky Qiao's story last week on blue roofs.
+</P>
+<P>
+Jim Smith: "There is a more effective alternative to blue roofs. For many years, country people had large cisterns that stored water from the roof and the homeowners then used that water for household and gardens. Store the water during the rain and then slowly release it into the sanitary sewers and into the soil. This would work for urban residents as well. Would greatly reduce the water bill!"
+</P>
+<P>
+Woodrow Pelley: "Is it time to mandate that buildings, including houses, be equipped with built-in water capture/storage containers that are connected to downspouts? If, say, a water storage unit was attached to outside walls of buildings, and connected to weeping tile, it could capture large amounts of rain water. Using natural water pressure and a moisture sensor in a lawn or garden, a valve could open to release water for the lawn/garden to absorb. This would help reduce runoff, reduce impact of drought periods, lessen the burden on public water systems and create jobs for people installing the water collection units.
+</P>
+<P>
+"They could become code for new homes, and fed/prov governments could offer tax incentives for building owners to do retrofits. Modernization of the rain barrel is overdue."
+</P>
+<P>
+Write us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+There's also a radio show and podcast! There's also a radio show and podcast! As Canada strengthens its Paris agreement targets, critics point to the elephant in the room: oil and gas expansion. Host Laura Lynch hears why Canada's climate policy might have "one eye shut" and what might be a first step toward a solution. What on Earth airs Sunday at 12:30 p.m., 1 p.m. in Newfoundland. Subscribe on your favourite podcast app or hear it on demand at CBC Listen. 
+</P>
+<P>
+The Big Picture: Banning short-haul flights
+</P>
+<P>
+Air travel has suffered mightily during COVID-19, but it is likely to come roaring back once pandemic restrictions are eased. It accounts for between three and five per cent of global carbon emissions and that technological challenge won't be easily solved. A clean break from petroleum-based jet fuel to something less polluting is impossible in the short term, but some regions are addressing the problem by finding ways to reduce the overall dependence on planes — namely, by banning or otherwise deterring short-haul flights. Earlier this month, France introduced legislation that bans short flights when a train trip to the same destination can be taken in 2½ hours or less. While the measure only covers flights between Paris and Nantes, and Lyon and Bordeaux, a tweet from President Emmanuel Macron's party, En Marche (below), said "favouring the train or other means of public transport for short distances is common sense and a key gesture for the climate." This move follows smaller steps taken in other European countries on the same grounds, including Belgium, where the government more than a decade ago banned a popular route between Charleroi and Casablanca, Morocco, from making a stopover in Liege, because it was only 100 kilometres away.
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+Popular recipe site Epicurious recently announced that it no longer features recipes using beef, which is generally acknowledged to have the highest carbon footprint of common meats. Epicurious said this is part of its effort to promote "sustainable cooking."
+</P>
+<P>
+A new study finds significant problems in the way that the Environmental Protection Agency has enforced tougher standards in certifying wood-burning stoves, a discovery this article calls "a Volkswagen-sized emissions scandal."
+</P>
+<P>
+Speaking of wood, one of the big stories these days is the spike in the price of lumber. A story in The Atlantic suggests that millennial homebuyers and climate change are two of the big reasons why.
+</P>
+<P>
+Meet the detectives hunting space junk that reaches Earth
+</P>
+<P>
+Fireballs streaking across North American skies in late March set off an epic hunt for the space junk that hit Earth with a boom — in one case, metres from a Washington state trailer home with an older couple inside.
+</P>
+<P>
+The fiery re-entry of the remains of a SpaceX Falcon 9 rocket into Earth's atmosphere on March 25 created a light show that was captured on video by people from Oregon to British Columbia.
+</P>
+<P>
+Images of the bright display lit up social media. The fragmented rocket's re-entry also sent a data signal alerting a trio of meteorite detectives.
+</P>
+<P>
+While most wayward rockets burn up in the atmosphere, a few survive — like the one that recently smashed into eastern Washington state.
+</P>
+<P>
+So far, nobody from SpaceX, NASA or the Federal Aviation Administration in the U.S. has taken much interest. But Prescott, Ariz., "space cowboy" Robert Ward did, rushing to hunt for the rocket's remains.
+</P>
+<P>
+"Anything that falls from space, I'm fascinated by it," said Ward in an interview. "When man's creations resist the force of nature, I find that intriguing."
+</P>
+<P>
+Ward (pictured above) has spent 31 years tracking meteorites and co-ordinates with Mike Hankey, a software developer with the American Meteor Society in Bethesda, Md., as well as Ken Howard, a meteorologist with the National Oceanic and Atmospheric Administration in Oklahoma.
+</P>
+<P>
+"There's always a treasure-hunting aspect to this ... in finding something that just landed on Earth from space," said Hankey.
+</P>
+<P>
+He said witnesses who take video end up with valuable data on their phones because it can be used to determine important details. Hankey uses an app he created by revamping an old crowdsourcing tool to glean data from witness accounts and triangulate the location of whatever fell to Earth.
+</P>
+<P>
+Howard, the meteorologist, analyzed the weather data, and between them, they were able to pin down the flight path of what was left of the Falcon 9 within the distance of a few football fields.
+</P>
+<P>
+Ward then flew north from Arizona to Washington state on his first hunt for space garbage. It's not unlike hunting for meteorites, which he said can be a dangerous business.
+</P>
+<P>
+Over the decades, he said he's been shot at, attacked with a machete and even jailed for weeks in the Middle East after being accused of spying while meteorite hunting in the Oman desert. He said he came closest to death after being bitten by a Rocky Mountain tick while hunting for hunks of rock from the Sutter's Mill meteorite that fell to earth in 2012.
+</P>
+<P>
+So he wasn't phased in April when an irate homeowner pointed a shotgun at him as he hunted down tanks from the Falcon 9 rocket. The black, cylinder-shaped object had landed 15 metres from a trailer home in Mattawa, Wash. The sheriff ended up hauling the tank away.
+</P>
+<P>
+But the location data helped him track two composite overwrapped pressure vessel (COPV) tanks, often used in spaceflight to hold fluids under pressure. The tanks are wrapped in carbon fibre composite and contain super-cold helium under high pressure.
+</P>
+<P>
+Ward said each of the cylinders appeared remarkably intact after hitting temperatures of 1,480 C during re-entry, probably because they were protected inside another tank.
+</P>
+<P>
+The 90-kilogram tanks were found not far from a bend in the Columbia River, east of Yakima, Wash. Ward said they are bound in black carbon fibre that breaks off, almost like needles, and acts like fibreglass.
+</P>
+<P>
+"It's really nasty stuff. I wore protective gear, but I was itching for days after."
+</P>
+<P>
+Ward said he loaded the two tanks he recovered into a Ford F150 and drove home to Arizona with the plunder. This week, he got word that another one had turned up, not far from where he found the first three.
+</P>
+<P>
+His fellow space-junk hunter, Hankey, said he suspects heavier parts of the rocket likely hit the ground farther east — perhaps as far away as Idaho or farther north.
+</P>
+<P>
+"Where's the fuel pump? Where's the engine? Where's the really heavy pieces? Those could be in Canada," he said.
+</P>
+<P>
+The team has emailed Elon Musk's company SpaceX about its find, but so far there's been no response or interest in the space garbage. CBC likewise received no response.
+</P>
+<P>
+A NASA spokesperson said the space agency is only interested in cleaning up space debris that's still in orbit.
+</P>
+<P>
+— Yvette Brend
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

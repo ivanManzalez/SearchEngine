@@ -1,0 +1,186 @@
+<DOC>
+<DOCNO> CB081523-0001 </DOCNO>
+<DATE>
+<P>
+August 15, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Will electrifying cars and home heating break Canada's grid?; 
+</P>
+<P>
+Transition will be gradual and technology provides new opportunities, solutions
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The government is encouraging Canadians to switch from gas to electric vehicles and from fossil fuel heating to electric heat pumps as part of Canada's plan to reach net-zero greenhouse gas emissions by 2050. 
+</P>
+<P>
+That's prompted a lot of Canadians, including CBC News readers, to ask: won't that break the grid? How will our electricity system handle that extra load? And will going electric raise energy bills for the average Canadian?
+</P>
+<P>
+Here's a closer look.
+</P>
+<P>
+The challenge for our grid
+</P>
+<P>
+Earlier this month, when the federal government announced new regulations to get Canada's grid to net zero by 2035, it said its modelling shows more than $400 billion is needed to replace aging facilities and expand generation capacity in the country's electrical grid. Without such investments, the government suggests, Canada may be unable to respond to the pressure placed on the system from electric heating and cooling systems, electric vehicles and population and economic growth.
+</P>
+<P>
+WATCH | Federal govt. releases road map for transition to net-zero power by 2035:
+</P>
+<P>
+Reports from the International Energy Agency and the Canadian Climate Institute in 2022 found Canada would need to double or triple its electrical grid capacity by 2050 to reach its net-zero goal. It would also need more battery storage and be nimble enough to adjust to peaks in demand from electric vehicles and home heating systems. Otherwise, risks could range from not meeting our climate goals to power outages and other reliability issues.
+</P>
+<P>
+The good news is that many people, including the authors of the report, think it's achievable. 
+</P>
+<P>
+"Making electricity systems bigger, cleaner and smarter is technically and economically feasible," the report said. 
+</P>
+<P>
+We still have some time — so far
+</P>
+<P>
+Francis Bradley, president and CEO of Electricity Canada, which represents electric utilities across Canada, said that's partly because electrification of transportation and home heating will be a gradual process, and government targets make the growth in demand somewhat predictable.
+</P>
+<P>
+"We aren't going to go from no electric vehicles to only electric vehicles," he said. "And even in 2036, there's still going to be a lot of cars on the road that are not electric."
+</P>
+<P>
+He added that electrification and growing demand for electricity is already underway, and so far, Canada's system has been ready. 
+</P>
+<P>
+Growing our electricity system by the amount that's needed may sound challenging, but to "double something over 25 years is actually not that hard," he said. "It's growth of three per cent a year. But you have to do it consistently every single year."
+</P>
+<P>
+The Canadian Climate Institute report estimated that in order to meet growing demand from electrification, Canada must, on average, grow system capacity at a rate three to six times faster than it did in the past decade, until 2050.
+</P>
+<P>
+"The federal government's 2035 deadline for achieving a net-zero electricity system leaves no room for delay," it added.
+</P>
+<P>
+WATCH | Alberta puts pause on new renewable energy projects:
+</P>
+<P>
+The report says that acting early could significantly reduce costs by driving innovation, preventing stranded assets and under-built systems.
+</P>
+<P>
+The impact of electric heat pumps 
+</P>
+<P>
+Currently, how people heat their homes varies quite a lot across the country, and so will the impact of switching to electric heat pumps. In Quebec and Newfoundland and Labrador, for example, a majority of homes rely on inefficient electric baseboard heaters.
+</P>
+<P>
+Brendan Haley, director of policy research at Efficiency Canada, based at Carleton University in Ottawa, said if those were switched to more efficient heat pumps, "we would end up using less electricity" in those provinces.
+</P>
+<P>
+Areas that rely heavily on fossil fuel heating right now could see an increase in overall electricity demand if they decarbonize. For example, Mario Chiarelli, a Toronto-based energy efficiency consultant, estimated that converting Toronto's 650,000 natural gas-heated homes to best-in-class heat pumps would double the city's electricity demand, an increase of about 5,000 megawatts.
+</P>
+<P>
+But a 2021 study by Efficiency Canada found that if insulation was improved "fairly significantly" for Canada's entire building stock, the country's buildings would actually use less electricity, even if their heating systems were fully electrified.
+</P>
+<P>
+"I'm not saying that there will be no need for additional electricity supply," Haley said, "but it certainly points toward building envelope improvements being a huge part of the solution."
+</P>
+<P>
+The impact of EVs
+</P>
+<P>
+A 2020 study commissioned by Natural Resources Canada found that based on federal electric vehicle targets, EVs will consume 156.5 terawatt-hours of electricity per year by 2050 — equivalent to 22.6 per cent of electricity consumed in the country in 2020.
+</P>
+<P>
+But electricity system planners surveyed for the study said they weren't worried about that growth. Instead, they saw EVs as "a business opportunity instead of a risk or a vulnerability."
+</P>
+<P>
+Lisa DeMarco, CEO and senior partner of Resilient LLP, a Canadian law firm focused on providing advice on climate change and energy, pointed out "many of the peak grid hours are not the peak traffic hours."
+</P>
+<P>
+More new vehicle models are also coming out with bidirectional charging, which could potentially allow them to feed power back into the grid when it's needed — something utilities say could be a "game-changing resource."
+</P>
+<P>
+How the role of the grid and its users will change
+</P>
+<P>
+Bradley says in the future, electricity users won't be consumers, they'll be "prosumers" — both drawing from the grid and feeding into it, from power generation devices such as rooftop solar panels and storage devices such as EV batteries. 
+</P>
+<P>
+WATCH | Enmax Power reveals findings from new study on electric vehicles:
+</P>
+<P>
+The pricing of electricity will probably be more dynamic, changing with supply and demand in order to manage peaks, and technology will help customers take advantage.
+</P>
+<P>
+"We can shift the timing of different demands in a way that provides no inconvenience for households and even allows customers to start selling services to the grid and getting paid for it," Haley said.
+</P>
+<P>
+The Canadian Climate Institute report says making the demand for electricity more flexible will be a key component of making the grid ready for a net-zero future. "Many of the key flexibility technologies are commercially available today," it added. "And their costs continue to fall."
+</P>
+<P>
+Will the electric transition drive up electricity prices?
+</P>
+<P>
+Yes, said Bradley. "There is inevitably going to be some upward pressure on the price of electricity."
+</P>
+<P>
+But he says it will be offset by the fact Canadians will be using fewer fossil fuels and therefore spending less on them.
+</P>
+<P>
+DeMarco said customers may also be able to take advantage of their increased role in the grid.
+</P>
+<P>
+"If you're getting paid a fee or feeding some of your electrical energy that you're storing in your battery back into the grid at those high peak times, [that] could actually result in a net customer savings."
+</P>
+<P>
+WATCH | Demand for electric vehicles drives need for power system changes:
+</P>
+<P>
+The Canadian Climate Institute estimates that energy costs for Canadians will decline by around 12 per cent by 2050, the year Canada is supposed to achieve net zero, due to lower and less volatile pricing for electricity compared to fossil fuels.
+</P>
+<P>
+However, its newer report notes that costs may be unevenly distributed across the country, and may be higher for Canadians who live in regions that currently rely heavily on fossil fuel generation. They might also disproportionately harm those with lower incomes, and could undermine support for the net-zero transition. It recommends that governments use public funds to defray the costs of electricity system investments for ratepayers.
+</P>
+<P>
+Are Canadian governments and utilities doing what's needed?
+</P>
+<P>
+Both Haley and DeMarco said Canadian policy makers are behind other countries and U.S. states when it comes to planning for mass electrification.
+</P>
+<P>
+DeMarco said planning in Canada's electricity system generally only looks a few years into the future, without considering the long-term impact of growing extreme weather and the global energy transition. That's unlike places like Europe, where utilities have been doing long-term modelling.
+</P>
+<P>
+The Canadian Climate Institute report found a number of policy and political challenges, such as poor alignment between federal electricity policy and incentives, provincial and territorial policies and net-zero goals. 
+</P>
+<P>
+The first issue is something that the federal government aimed to address in its proposed Clean Energy Regulations last week. They're backed by a commitment of more than $40 billion over the next decade, outlined in the 2023 federal budget, to support Canada's clean electricity sector through tax measures, public financing and grant contributions.
+</P>
+<P>
+But Alberta and Saskatchewan have so far said they won't implement the regulations.
+</P>
+<P>
+WATCH | Sask. premier calls federal aim of net zero by 2035 'impossible' and 'unaffordable':
+</P>
+<P>
+The Canadian Climate Institute also found that incentives for inter-regional co-ordination and electrical network connections between regions are weak.
+</P>
+<P>
+DeMarco noted that more transmission infrastructure is needed to improve inter-provincial co-operation toward electrification and decarbonization.
+</P>
+<P>
+The federal government has proposed a $4.5-billion loan for the Atlantic Loop, which would expand electrical grid connections between Quebec, New Brunswick and Nova Scotia to provide greater access to renewable electricity, such as hydroelectric power from Quebec. But it hasn't yet reached an agreement with the provinces.
+</P>
+<P>
+"Energy regulators and policy makers could do a better job at co-ordinating across energy systems," DeMarco said. "I think we have to get over our jurisdictional silos. We really have to start working together more."
+</P>
+<P>
+But she, too, thinks it's possible.
+</P>
+<P>
+"I think Canada has all the right ingredients to not just to catch up [on net-zero electricity], but to lead."
+</P>
+</TEXT>
+</DOC>

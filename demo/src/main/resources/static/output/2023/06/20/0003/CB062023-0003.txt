@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> CB062023-0003 </DOCNO>
+<DATE>
+<P>
+June 20, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's oil output would plummet by 2050 in a net-zero world, new modelling shows; 
+</P>
+<P>
+National energy regulator modelled other scenarios, including one where China and India move at slower pace
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+New modelling from the Canada Energy Regulator suggests Canadian oil production will plummet by 2050 — and large portions of Alberta's oilsands facilities will be shut down — if the world is successful in reaching net-zero greenhouse gas emissions within that time.
+</P>
+<P>
+The scenario is one of three laid out in a report released Tuesday, and marks the first time the regulator has presented  long-term modelling for Canadian energy using net-zero as a baseline.
+</P>
+<P>
+In an interview, federal natural resources minister Jonathan Wilkinson cautioned against focusing too much on the most dramatic scenario, adding that the regulator's report also paints a picture of an alternate future in which progress to net-zero occurs at a slower pace.
+</P>
+<P>
+But he said the report makes it very clear that in order for Canada's energy sector to remain competitive on the world stage, it will need to act quickly to reduce emissions.
+</P>
+<P>
+"This report helps us in the context of the argument I have been making publicly for some time — which is, it is strongly in the economic interest of the oil and gas sector, which is an important economic sector for Canada, to focus on decarbonization," Wilkinson said.
+</P>
+<P>
+"(And) to partner with the government, for provinces to partner with the federal government, to drive that as fast as we possibly can."
+</P>
+<P>
+According to the Canada Energy Regulator report, if the world is successful in reaching the goals established at the Paris climate conference and holding global temperatures to 1.5 degrees Celsius of warming through government policy, global fossil fuel use will drop by 65 per cent from 2021 to 2050.
+</P>
+<P>
+That would prompt a collapse in global oil prices, to as low as $35 US per barrel by 2030 and $24 US per barrel by 2050, it said.
+</P>
+<P>
+The report concludes that as a result of these low prices, much of Canada's crude oil production would become uneconomic, causing companies to reduce output to 1.2 million barrels per day by 2050, 76 per cent below 2022 levels.
+</P>
+<P>
+Modelling other scenarios
+</P>
+<P>
+The regulator modelled two other scenarios — one in which Canada achieves net-zero by 2050, but large developing countries like China and India move at a slower pace.
+</P>
+<P>
+In that version — which most closely represents the commitments made by international governments to this point — the CER said global oil prices will likely remain above $60 US per barrel all the way to 2050, with Canadian oil production declining by just 22 per cent.
+</P>
+<P>
+The report also looked at what would happen in a "business as usual" case, which assumes no additional efforts to reduce emissions beyond what is already in place, and no further attempts to reach Paris climate targets.
+</P>
+<P>
+In that scenario, Canadian oil production would actually rise to reach 6.1 million barrels per day by 2050 — 20 per cent higher than in 2022.
+</P>
+<P>
+Canada Energy Regulator chief economist Jean-Denis Charlebois told reporters the three scenarios laid out are models, not forecasts, and the regulator has not made any predictions about which is most likely to become reality.
+</P>
+<P>
+"At the end of the day, we don't comment or opine on the likelihood of it happening," he said.
+</P>
+<P>
+"It remains to be seen whether it will actually look that way in the real world."
+</P>
+<P>
+Even in the most dramatic scenario, some demand remains for oil, Wilkinson said. But he said Canadian companies will have to decide where the future is headed as they decide how to invest their capital going forward.
+</P>
+<P>
+"They have to build their own business case. And that includes looking at the future they believe to be the most likely future," he said.
+</P>
+<P>
+In the report's most aggressive climate-action scenario, Alberta's oilsands are drastically affected. The comparatively high emissions intensity of oilsands production compared with conventional oil and gas drilling could make the sector too expensive to continue in the long-term, the report states.
+</P>
+<P>
+In the report's global-net-zero-by-2050 scenario, only the lowest-cost oilsands facilities will still be producing by then, with the most costly facilities starting to shut down in the early 2030s.
+</P>
+<P>
+Oil demand strong, producer groups say
+</P>
+<P>
+The Pathways Alliance — an industry group made up of six of Canada's largest oilsands producers — was quick to rebut that possibility on Tuesday.
+</P>
+<P>
+"These are scenarios, they're not forecasts," said Pathways spokesman Mark Cameron in an interview.
+</P>
+<P>
+"In fact, global oil demand was at a record level in 2022. We haven't yet seen the world changing its oil demand."
+</P>
+<P>
+Cameron pointed out that in the Canada Energy Regulator's more moderately paced scenario — in which oilsands production declines less and more slowly — companies rely heavily on carbon capture and storage technology to reduce emissions and stay competitive for longer.
+</P>
+<P>
+This is in line with the Pathways Alliance's own net-zero plan, which proposes that member companies invest in a yet-to-be-committed-to massive carbon capture and storage network in northern Alberta, at a cost of $16.5 billion.
+</P>
+<P>
+"The Pathways plan is assuming that there is a continuing market for oil and gas, and we want to provide to that market in as low-emissions a way as possible," Cameron said.
+</P>
+<P>
+In a statement, Canadian Association of Petroleum Producers CEO Lisa Baiton said oil and gas markets can shift rapidly, as has been proven by recent events such as the COVID-19 pandemic and the war in Ukraine.
+</P>
+<P>
+"What we know today is global demand for oil and natural gas is rising," Baiton said.
+</P>
+<P>
+"Canada has an important role to play in ensuring a secure supply of reliable energy is available to Canadians as well as our trading partners and allies around the world."
+</P>
+<P>
+But Greenpeace senior energy strategist Keith Stewart said he believes it's time for oil and gas companies to recognize that the future growth of their industry is incompatible with a net-zero future.
+</P>
+<P>
+"(This report) should be the final nail in the coffin of those who argue for expanding oil and gas production, because it is clear that is only profitable in a future where the current climate change-fueled wildfires and heat waves are thought of as the good old days," Stewart said.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> CB121022-0001 </DOCNO>
+<DATE>
+<P>
+December 10, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Be careful when charging lithium-ion battery devices, Calgary Fire Department warns; 
+</P>
+<P>
+Lithium-ion batteries are found in devices like cellphones, laptops and electric cars
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Calgary Fire Department is warning residents to be aware of fire hazards when using electronic devices with lithium-ion batteries, which can cause fires when charged and stored incorrectly.
+</P>
+<P>
+Chief Steve Dongworth said there is nothing unsafe about lithium-ion batteries themselves, which can be found in devices ranging from cellphones, laptops and power tools to electric cars and scooters. The challenge is how people safely store and charge devices with this type of battery in them.
+</P>
+<P>
+"It's not being used with the right charger. It's being overcharged. We see cellphones sometimes being charged where the cellphone is in bedding or is covered up and there's no ventilation," Dongworth said.
+</P>
+<P>
+With holiday season ahead and electronic gifts waiting under the tree, the fire chief said it's important to follow manufacturers' instructions with electronic devices and use the correct charger to avoid overcharging. Other ways to prevent fires is to make sure cellphones aren't stored under pillows while charging and that outlets are not overloaded.
+</P>
+<P>
+According to Dongworth, the Calgary Fire Department responded to eight calls in 2022 related to fires caused by lithium-ion batteries.
+</P>
+<P>
+'These are inherently safe products,' fire chief says
+</P>
+<P>
+Dongworth said multiple lithium-ion battery fires that the department has responded to this year have happened in garages, which indicates to him that residents may not be charging electric cars, lawn mowers or snow blowers properly.
+</P>
+<P>
+"These are inherently safe products," Dongworth said. "It's when the human behaviour comes in and perhaps we … changed the wiring somehow or we connect the wrong kind of charger or we don't follow the instructions, I think is where the risk is."
+</P>
+<P>
+Dongworth said if there is a fire in one's home caused by an electronic device, only try to put it out if it's a small fire and if there is a BC fire extinguisher around — the type of extinguisher that puts out flammable liquid and electrical equipment fires. If the fire is large, Dongworth said to immediately leave the area and call 911.
+</P>
+<P>
+The fire chief also encouraged Calgarians to check the city's website to find out where to properly recycle devices that contain lithium-ion batteries, as they can spark fires if placed in landfills.
+</P>
+</TEXT>
+</DOC>

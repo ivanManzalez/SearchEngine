@@ -1,0 +1,180 @@
+<DOC>
+<DOCNO> CB061821-0001 </DOCNO>
+<DATE>
+<P>
+June 18, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How do you make concrete more environmentally friendly?; 
+</P>
+<P>
+Also: How scientists mapped a deadly Himalayan glacier flood
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. (Sign up here to get it in your inbox every Thursday.)
+</P>
+<P>
+This week:
+</P>
+<P>
+How do you make concrete more environmentally friendly?
+</P>
+<P>
+We're addicted to concrete. It's all around us — in our sidewalks, houses, schools and hospitals, all of which makes it the most widely used human-made material on Earth.
+</P>
+<P>
+Concrete is expected to contribute 12 per cent of global greenhouse gas emissions by 2060, thanks in large part to one of its main ingredients, cement, which is currently responsible for as much as eight per cent of emissions.
+</P>
+<P>
+But there's a movement to make concrete greener by reducing its carbon footprint. The Global Cement and Concrete Association has promised carbon-neutral concrete by 2050, a goal Canada wants to help the industry achieve.
+</P>
+<P>
+"We live in a world that's still going to need cement and concrete," said Keith Brooks, programs director with Environmental Defence, citing the physical infrastructure necessary to create denser, more energy-efficient cities. "The industry's going to have to do its part to get there. But it is possible." 
+</P>
+<P>
+So how do you make concrete greener?
+</P>
+<P>
+Let's break it down. Concrete consists of water, aggregate (rock, sand or gravel) and cement, a grey powder that binds it all together. To manufacture cement, you first heat ground limestone, clay and sand at extremely high temperatures in a kiln. (This technically forms clinker, which is then ground into cement.)
+</P>
+<P>
+There are two reasons why manufacturing cement releases a lot of carbon: the combustion of fossil fuels typically used to heat the kiln, and the chemical reaction that releases carbon stored in limestone. 
+</P>
+<P>
+Reducing the carbon currently used to fire the kilns is already in progress. Adam Auer, vice-president of environment and sustainability with the Cement Association of Canada (CAC), said that almost all cement producers in Canada use some portion of lower-carbon fuel, such as waste biomass, which is mostly wood left over from things like construction and demolition. 
+</P>
+<P>
+The CAC estimates these could help reduce emissions by a third, and that the future could mean more biomass, as well as natural gas and hydrogen.
+</P>
+<P>
+The industry is also finding ways of changing the makeup of cement so that it's less carbon-intensive. Portland-limestone cement (PLC), for example, is a blended cement that uses uncalcified limestone, which can reduce C02 emissions by 10 per cent, according to the CAC. The group aims to make it the default cement in Canada. (The Centre Hospitalier Universitaire Sainte-Justine in Montreal, seen in the photo above, was built using PLC.)
+</P>
+<P>
+Supplementary materials are also being used to reduce carbon. Fly ash, a waste product of coal combustion, can replace some of the cement, and companies like Lafarge Canada are using it. Fly ash currently makes up between 15 and 60 per cent of some cement mixtures, and can reduce emissions by commensurate amounts. 
+</P>
+<P>
+Slag, a waste product from steelmaking, can replace cement as well, as Montreal's CarbiCrete is doing. Then there's volcanic ash, a cement alternative so old that the ancient Greeks and Romans used it.  
+</P>
+<P>
+There's also a move to capture carbon at the point of production. Two pilot projects for carbon capture in concrete production are being developed in Western Canada: at Lehigh Hanson's Edmonton cement facility and Lafarge Canada's plant in Richmond, B.C. The CAC estimates these measures could reduce emissions by up to 95 per cent.
+</P>
+<P>
+Here's another twist: Dartmouth, N.S.-based CarbonCure actually injects carbon dioxide into concrete, which makes it stronger with less cement, lowering its carbon footprint up to 15 per cent. 
+</P>
+<P>
+There's also a way to recycle existing concrete. It can be used in place of natural aggregates like sand and gravel to lessen concrete's environmental impact and divert it from landfill. The results of a five-year study found it's as durable and strong as conventional concrete. 
+</P>
+<P>
+The challenge is making sure concrete is truly sustainable, says Shahria Alam, the study's co-author and a professor of civil engineering at the University of British Columbia. His team is researching how to make this possible.  
+</P>
+<P>
+In order to call it "green concrete," Alam said, we should ask "whether it's giving us long-term sustainability, not only in the first generation, but multiple generations." 
+</P>
+<P>
+— Colleen Ross
+</P>
+<P>
+Reader feedback
+</P>
+<P>
+In response to our recent interview with J.B. MacKinnon, author of The Day the World Stops Shopping, reader Mike Nickerson had this to say:
+</P>
+<P>
+"It is encouraging to see CBC touching on the topic of reducing consumption.
+</P>
+<P>
+"Perhaps, the COVID-19 experience will provide the opportunity to adapt. It has revealed an economic flexibility not seen before. Vast numbers of people have reduced consumption, thereby reducing resource exploitation and pollution. While reducing consumption is a critical step, it is not a rallying cry. Belt tightening lacks appeal.
+</P>
+<P>
+"Pointing out what we can reclaim works better. Humans had rich cultures before mass production required us to become consumers. As MacKinnon suggests, less time spent earning and spending gives us more time for learning, relationships and experiencing nature."
+</P>
+<P>
+Write us at whatonearth@cbc.ca.
+</P>
+<P>
+Old issues of What on Earth? are right here.
+</P>
+<P>
+There's also a radio show and podcast! When it comes to the environment and climate change, one legal scholar says Canada is on "a path to catastrophe without ever violating the Constitution." What on Earth host Laura Lynch hears the case — and the solution. What on Earth airs Sunday at 12:30 p.m., 1 p.m. in Newfoundland. Subscribe on your favourite podcast app or hear it on demand at CBC Listen. 
+</P>
+<P>
+The Big Picture: Returning Indigenous lands has environmental benefits
+</P>
+<P>
+In North America, there's a growing movement to put control of culturally or ecologically sensitive areas back in the hands of Indigenous people. A recent feature produced by the Yale School for the Environment documented the extent of these initiatives from Maine to New York to Oregon. In many cases, these reclamations are the result of conservation groups or the tribes themselves purchasing the land. In California, for example, the Yurok tribe has been reconstituting its ancestral lands with the help of conservation groups such as the Western Rivers Conservancy, and recently added about 32,000 hectares to their holdings, which include land along the Klamath River (see photo below). In Canada, the federal government has partnered with the Qikiqtani Inuit Association to jointly manage the Tallurutiup Imanga National Marine Conservation Area & Tuvaijuittuq Marine Protected Area in Nunavut. While many of these efforts are viewed as a form of racial justice, environmentalists say they largely align with broader campaigns to protect biodiversity and mitigate the effects of climate change. In the case of the Yurok, their newly acquired holdings include areas previously owned by a logging company. The area in Nunavut, meanwhile, will likely protect a significant number of polar bears, seals and beluga whales. While researchers say it's not fair to assume that all Indigenous-held areas will lead to richer biodiversity, Brian O'Donnell, director of the Wyss Foundation's Campaign for Nature, said: "If we embrace and learn from an Indigenous world view on land and use that as a paradigm in which to set a lot of our future conservation approaches, I think we will be a whole lot better off than if we don't."
+</P>
+<P>
+Hot and bothered: Provocative ideas from around the web
+</P>
+<P>
+Researchers have figured out a way to produce vanilla flavouring from waste plastic. The process, which is described in the journal Green Chemistry, uses genetically engineered E. coli bacteria to transform terephthalic acid, the basic unit of plastic bottles, into vanillin, an organic compound that is the main component of the extract of the vanilla bean.
+</P>
+<P>
+In recent years, social media influencers have become an attractive means for corporations to subtly promote their products. Oil companies are no different. As an example, a travel/lifestyle influencer on Instagram posted images and video of a road trip last year that included shots of her repeatedly filling up at a Shell station.
+</P>
+<P>
+How scientists mapped a deadly Himalayan glacier flood
+</P>
+<P>
+Shashank Bhushan's phone began buzzing before he woke up on the morning of Feb. 7, 2021. 
+</P>
+<P>
+Living in Seattle, far from family and friends in India, the environmental engineering doctoral student immediately thought of his family when he looked at the notifications. 
+</P>
+<P>
+There were WhatsApp messages from mom and dad, but there were also many tweets from geologists focused on the same thing — a disaster in the making. A torrent of rock, water and mud had sped down a Himalayan mountainside in the Indian state of Uttarakhand, taking out two hydroelectric dam projects and leaving more than 200 people missing or dead.
+</P>
+<P>
+Bhushan was used to justifying his work to his puzzled parents, patiently explaining how he tracked melting glaciers using satellite imagery. "The next question that came from them always was, 'OK, but how directly is it affecting the tap water we are getting?'" he told CBC Radio's What on Earth.
+</P>
+<P>
+Suddenly, they understood.
+</P>
+<P>
+Within hours that day, Bhushan found himself in the midst of a spontaneous digital gathering of more than 50 scientists, all keen to discover the true cause of the Himalayan disaster. Among them was University of Calgary associate professor Dan Shugar, who had been alerted by a colleague from India, now living in Germany.
+</P>
+<P>
+"He had shared a video of this sort of wall of water coming down one of the river valleys. And I responded and said, 'Well, send me some co-ordinates so I can begin to look at any data that might be available,'" Shugar told What on Earth host Laura Lynch.
+</P>
+<P>
+It was a remarkable effort, made possible in part by the advances in the speed and quality of satellite images.
+</P>
+<P>
+"One of my colleagues was actually able to analyze all these different videos, seven or eight, nine videos to figure out the exact timing of the event, the speed that the water was moving," said Shugar. That enabled the team to pinpoint locations, allowing them to build a moving image of the torrent as it moved downstream. 
+</P>
+<P>
+The group has just published new research in the journal Science that explains what they found using a combination of those videos, satellite images, data and observations on the ground.
+</P>
+<P>
+A wedge of the mountain two metres above the valley had sheared off, carving away glacial ice as it roared down. The friction of rock scraping against rock melted the ice, causing it to pick up speed, pulverizing the rock. By the time it reached the district of Chamoli, it was 27 million cubic metres — roughly enough to fill the Rogers Centre in Toronto 17 times over. 
+</P>
+<P>
+Shugar is confident of the findings, certain he now knows what happened. Why it happened is another question.  
+</P>
+<P>
+"It's really, really hard to say anything conclusive about whether climate change exacerbated this event or contributed to it happening," said Shugar, but "we can say that climate change in general is leading to more frequent and more severe hazardous phenomena or disasters."
+</P>
+<P>
+In addition to the existing evidence of warming in the Himalayas, Shugar is hoping this study will alert Indian officials, and those in other vulnerable countries, to the risks of building dams and other development projects in the region where they, and the people living there, may stand in harm's way.
+</P>
+<P>
+— Laura Lynch
+</P>
+<P>
+Stay in touch!
+</P>
+<P>
+Are there issues you'd like us to cover? Questions you want answered? Do you just want to share a kind word? We'd love to hear from you. Email us at whatonearth@cbc.ca.
+</P>
+<P>
+Sign up here to get What on Earth? in your inbox every Thursday.
+</P>
+<P>
+Editor: Andre Mayer | Logo design: Sködt McNalty
+</P>
+</TEXT>
+</DOC>

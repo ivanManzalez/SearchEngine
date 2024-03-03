@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> CB052020-0001 </DOCNO>
+<DATE>
+<P>
+May 20, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+TC Energy joins hydroelectric power storage project at retired coal mine site; 
+</P>
+<P>
+Both parties will be major shareholders in the $200M project
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Developers of a stored hydroelectric power project to be built next to a retired open pit coal mine east of Jasper National Park have enlisted TC Energy Corp. as a partner.
+</P>
+<P>
+Kipp Horton, CEO of Calgary-based WindRiver Power Corp., says bringing the power, utility and pipeline giant in as an investor means that its Canyon Creek project, the first large-scale power storage project in Alberta, could start construction by year-end.
+</P>
+<P>
+The facility is to consist of two new water storage ponds, one 40 and the other 32 hectares, and a seven-kilometre, 2.5-metre-wide connecting pipeline.
+</P>
+<P>
+At night, when power demand is low, water will be pumped from the lower to the upper pond, gaining 500 metres of elevation. When demand is high, the water will flow the other way, turning a turbine generator producing 75 megawatts for up to 37 hours at a time.
+</P>
+<P>
+In an email, TC Energy spokeswoman Jennifer Link says the exact ownership split will be determined when a final investment decision is made near the end of this year, but both parties will be major shareholders in the $200-million project.
+</P>
+<P>
+The Canyon Creek project is to be located next to the Obed Mountain thermal coal mine, which was shut down in 2012, and will utilize its access road and high-voltage power lines.
+</P>
+<P>
+TC Energy has also proposed building a 1,000-megawatt, $3.3-billion pumped hydro storage project at Meaford, Ont.
+</P>
+</TEXT>
+</DOC>

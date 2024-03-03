@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> CB110521-0002 </DOCNO>
+<DATE>
+<P>
+November 05, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Two new approaches to recycling can reduce waste and lower carbon emissions; 
+</P>
+<P>
+Bob McDonald's blog: Recycling batteries and most plastics could keep these materials out of landfills
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+New research has shown that materials obtained from recycled batteries outperform those made with raw ingredients, while plastic waste is finding new life as fuel.
+</P>
+<P>
+The minerals lithium, manganese and cobalt have been in demand for decades as prime ingredients for lithium ion batteries that power all of our portable rechargeable devices. Now, the rise of electric vehicles is expected to push that demand up by 35 per cent by 2030.
+</P>
+<P>
+One issue with these batteries is that very few of them are being recycled because manufacturers believed that reused material would not perform as well. Now, a group led by researchers at Worcester Polytechnic Institute in Massachusetts have demonstrated a technique that shows how recycled batteries actually perform better.
+</P>
+<P>
+Used batteries were shredded into pieces and exposed to acids that remove impurities leaving 90 per cent of the three main ingredients behind. When the recycled lithium, manganese and cobalt were incorporated into the cathode of a new battery, the researchers found that it could go through up to 53 per cent more charging and discharging cycles as a battery made with fresh materials. It turns out that the process of recycling rearranges the crystals in the metals to enable them to perform better and have a longer lifetime. 
+</P>
+<P>
+This technique could potentially avert the problem of billions of dead batteries ending up in landfills.
+</P>
+<P>
+Meanwhile, a UK green technology company has found a way to take plastic garbage, the kind that is not recycled such as plastic bags, plastic food and drink containers and other low grade material obtained from landfill and turn it into oil that can be burned in engines.
+</P>
+<P>
+Plastic is basically a petroleum product made of hydrocarbons, so using a process called "pyrolysis," which heats it to high temperature in the absence of oxygen, and exposes it to catalysts, the polymers are broken down into shorter pieces, resulting in a thick brown liquid that is essentially oil. Then with a process the company is calling "SAFe Hydroprocessing Technology®," they can further purify the output, removing sulphates, nitrogen and metals, to make cleaner diesel or even jet fuel.
+</P>
+<P>
+The company says one of its plants can process 20,000 tonnes of plastic per year, and the oil will reduce the amount of fossil fuel that comes from the ground being used. It claims every barrel of its oil will save 416 kilograms of carbon entering the atmosphere. This is intended as a transitional fuel for transportation such as shipping, trucking and airlines which cannot easily or quickly switch to clean alternatives.  
+</P>
+<P>
+The slogan "Reduce, Reuse, Recycle" has been around since the 1970s, usually associated with Earth Day. While many recycling programs have been established worldwide, it turns out that in the case of plastic, only about nine per cent of all plastic is actually recycled, which is why landfills and the oceans are becoming clogged with single use materials.
+</P>
+<P>
+These two new approaches can give a higher value to what is now considered low quality garbage and hopefully reduce the burden on the land and help clean the air.  
+</P>
+</TEXT>
+</DOC>

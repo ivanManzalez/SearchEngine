@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> CB071519-0001 </DOCNO>
+<DATE>
+<P>
+July 15, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+AI could better predict climate change impacts, some experts believe; 
+</P>
+<P>
+Artificial Intelligence is used to track patterns that could help tackle climate change challenges
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+All signs point toward a future affected by climate change. 
+</P>
+<P>
+From higher temperatures to droughts and more extreme weather, experts are searching for ways to sustain our growing population, as well as our planet. 
+</P>
+<P>
+Some analysts say machine learning and artificial intelligence (AI) offer promising strategies to respond to the effects of climate change. 
+</P>
+<P>
+AI can work faster than a human being, can forecast further into the future, has a low error rate and has 24/7 availability.
+</P>
+<P>
+This allows it to better predict extreme weather, flooding, natural disasters and other destruction linked to climate change.
+</P>
+<P>
+And that's why, in late June, University of Waterloo partnered with Microsoft AI for Earth.
+</P>
+<P>
+Launched in 2017, AI for Earth is a program that issues grants to projects using AI to address climate change challenges.
+</P>
+<P>
+The project, which focuses on finding solutions in four specific areas —  agriculture, water, biodiversity and climate change —  is dedicating $50 million US to solving problems caused by the shifting climate. 
+</P>
+<P>
+Since 2017, it has expanded across the world, giving grants to more than 250 applicants in 66 countries.
+</P>
+<P>
+Lucas Joppa, chief environmental officer at Microsoft and founder of AI for Earth, said the project is helping to create a digital transformation of environmental sustainability.
+</P>
+<P>
+Grantees use AI technologies to process machine learning algorithms, which, through code, can create future risk models and predictions of challenges caused by climate change disruptions. The AI uses combinations of historical data, simulations and real-time satellite observations to track patterns much faster than a human being.
+</P>
+<P>
+This technology can better predict future events, including potentially forecasting the location of the next wildfire or using past data to improve food production through weather tracking and soil information.
+</P>
+<P>
+Predictions like these could help prevent disasters, create safer environments and warn people of impending dangers.
+</P>
+<P>
+Fear of AI 
+</P>
+<P>
+With the increase of AI comes an increase of fear in some quarters.
+</P>
+<P>
+Christopher Fletcher, associate professor at the University of Waterloo and grantee of the AI for Earth program, said the concept of machines taking over the job market or gaining superior intelligence are common misconceptions of the large scale development of AI.
+</P>
+<P>
+"I think most people think about AI as being a machine somehow replacing something that a human being does," Fletcher said. "In my project, it's slightly different because I have a machine that is able to kind of learn but it's not replacing a human. It's actually replacing a more complicated computer model."
+</P>
+<P>
+Fletcher's project — which aims to predict future climate forecasts more accurately through the use of AI — isn't the only one.  
+</P>
+<P>
+There are other commercially available projects that focus on anything from creating sustainable, data-driven farming, to analyzing blood from mosquitoes to stay ahead of diseases.
+</P>
+<P>
+These are created to help people tackle climate change challenges, although one analyst fears AI could have the impact of letting people get away with consuming too much and failing to change their behaviour.
+</P>
+<P>
+"Although [AI] could be helpful for tracking things like over fishing or pollution, it takes people off the hook," said Kerry Bowmen, a bioethicist and conservationist. 
+</P>
+<P>
+"Solving challenges like these doesn't make people change. This brings an issue of intergenerational ethics — we have a responsibility to future generations. We need more long-term solutions." 
+</P>
+</TEXT>
+</DOC>

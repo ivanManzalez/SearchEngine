@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> CB051215-0001 </DOCNO>
+<DATE>
+<P>
+May 12, 2015
+</P>
+</DATE>
+<HEADLINE>
+<P>
+SolaRoad generates more power than expected; 
+</P>
+<P>
+First 6 months of 3-year pilot considered a success
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A Dutch bike path designed to generate solar power has produced more power than expected in its first six months.
+</P>
+<P>
+SolaRoad has generated more than 3,000 kilowatt hours of electricity since the 70-metre-long strip officially opened in November 2014, in Krommenie, a village northwest of Amsterdam, the project reported late last week. It said that was enough to power a single-person household for a year.
+</P>
+<P>
+"We did not expect a yield as high as this so quickly," said Sten de Wit, spokesman for the public-private partnership project, in a statement that deemed the first half-year of a three-year pilot a success.
+</P>
+<P>
+Based on what it has produced so far, the bike path is expected to generate more than 70 kilowatt hours per square metre per year, close to the upper limit predicted based on lab tests.
+</P>
+<P>
+SolaRoad is made of concrete paving slabs embedded with ordinary solar panels. The solar panels are protected by a centimetre-thick layer of transparent, skid-resistant tempered safety glass that can support bicycles and vehicles.
+</P>
+<P>
+The three-year, 3.5-million Euro ($4.7 million Cdn) pilot project is a public-private partnership among the Dutch province of Noord-Holland and the engineering firms TNO, Ooms Civiel and Imtech.
+</P>
+<P>
+The test is designed to ensure that the surface is just as skid-resistant as asphalt and doesn't cause any distracting reflections, and to test the performance of the materials in real-world conditions.
+</P>
+<P>
+So far, more than 150,000 cyclists have zipped over the solar-generating part of the bike path. SolaRoad says they "hardly notice it is a special path."
+</P>
+<P>
+The tests have shown that large temperature fluctuations cause the glass coating to shrink, causing part of it to peel off in early winter and early spring. The coating has since been repaired, and engineers are in the "advanced stage" of the development of an improved top layer.
+</P>
+<P>
+The SolaRoad project hopes to test the technology on smaller municipal roads next.
+</P>
+<P>
+Meanwhile, a similar project called Solar Roadways is underway in the U.S.
+</P>
+</TEXT>
+</DOC>

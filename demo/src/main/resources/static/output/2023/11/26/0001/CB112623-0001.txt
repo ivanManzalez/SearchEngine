@@ -1,0 +1,132 @@
+<DOC>
+<DOCNO> CB112623-0001 </DOCNO>
+<DATE>
+<P>
+November 26, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+'Regressive' carbon capture tax credit open to projects that extract more oil, climate experts say; 
+</P>
+<P>
+Draft federal legislation represents ‘rollback’ that amounts to oil subsidy, clean energy advocate says
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The federal government's proposed tax credit to incentivize companies to capture and store carbon dioxide underground doesn't exclude projects that also involve extracting more oil, according to policy experts who reviewed a draft of the long-promised legislation.
+</P>
+<P>
+First announced in the 2021 federal budget, the tax credit is intended to "support and accelerate" carbon capture — a blanket term that refers to technology used to sequester CO2 and store it safely underground — to reach net-zero emissions by 2050.
+</P>
+<P>
+Projects where the carbon is piped away to an oil field, and injected underground to recover more oil, through a process known as "enhanced oil recovery" (EOR), were not to be included, the government said at the time.
+</P>
+<P>
+But the latest draft legislation shows the tax credit will be available to projects that are, in part, using the captured carbon for that purpose.
+</P>
+<P>
+While industry officials support the new tax plan, environmentalists and climate policy experts say the inclusion of projects with an EOR component amounts to a weakening of a measure aimed at reducing emissions from oil and gas producers.
+</P>
+<P>
+"It represents a huge rollback from what was initially promised when the tax credit was first announced," said Julia Levin, associate director of the advocacy group Environmental Defence.
+</P>
+<P>
+She said the tax credit in its current form amounts to "essentially, subsidizing oil production."
+</P>
+<P>
+The criticism comes amid growing questions about carbon capture technology as a tool to reduce emissions.
+</P>
+<P>
+A report from the International Energy Agency released Thursday said oil and gas companies need to start "letting go of the illusion" that "implausibly large" amounts of carbon capture are the solution to the global climate crisis.
+</P>
+<P>
+What changed?
+</P>
+<P>
+Legislation to implement the carbon capture tax credit is expected to be tabled in the next few weeks, after the government held a final round of consultations between Aug. 4 and Sept. 8. 
+</P>
+<P>
+The tax credit will be available retroactively from Jan. 1, 2022. 
+</P>
+<P>
+In the initial proposal, as outlined in the 2021 budget, the government said: "It is not intended that the investment tax credit be available for Enhanced Oil Recovery projects."
+</P>
+<P>
+However, in the most recent draft legislation, published Aug. 4, projects using up to 90 per cent of their captured carbon for EOR will still qualify for the tax credit for the portion devoted to dedicated geological storage without extracting oil. 
+</P>
+<P>
+A document explaining the legislation defines dedicated geological carbon storage as an an "eligible use" of the tax credit and EOR as an "ineligible use." 
+</P>
+<P>
+It then says a project qualifies for the tax credit if at least 10 per cent of the carbon captured is considered "eligible use." The tax credit only applies to that portion.
+</P>
+<P>
+But if reducing emissions is the goal, Levin says projects with any EOR component should not have been included so "no projects that will sell their carbon for more oil production will get federal dollars."
+</P>
+<P>
+Katherine Cuplinskas, a spokesperson for Finance Minister Chrystia Freeland, said she doesn't see this as a change and stressed that EOR itself is "not an eligible use" to access the tax credit.
+</P>
+<P>
+"Our government is making over $120 billion in historic investments to grow Canada's clean economy, including by creating clean technology investment tax credits that support zero- and low-carbon emission projects," she said in an email.
+</P>
+<P>
+Jason MacLean, an adjunct professor who specializes in climate policy at the University of Saskatchewan, said it is hard to see how the tax credit, if made available in its present form, would promote investment in "projects whose genuine goal is to maximize permanent geological storage."
+</P>
+<P>
+"In our present context, where the imperative to phase-out fossil-fuel production as soon as possible has never been greater or clearer, this carve-out, and its associated percentages, are astonishingly regressive," he said in an email.
+</P>
+<P>
+As it stands, the tax credit would be based on a project's plans. Given the difficulty in monitoring carbon capture, producers could "game this system to receive a tax credit for projects where virtually 100 per cent of the use is ineligible EOR," MacLean said. 
+</P>
+<P>
+Cuplinskas pointed to an earlier government document that said projects would be "assessed at five-year intervals for the first 20 years in which they operate" to determine if the tax credit is warranted, and that projects would be "required to provide information on the actual amount of CO2 going to eligible and ineligible uses for each year."
+</P>
+<P>
+Change gives industry 'flexibility': analyst
+</P>
+<P>
+Industry proponents of carbon capture had expressed hope when the tax credit was first proposed that it would be changed to include EOR.
+</P>
+<P>
+Beth (Hardy) Valiaho, a vice-president at the Regina-based International CCS Knowledge Centre, an organization devoted to advancing carbon capture technology, said the tax credit will help the industry adapt. 
+</P>
+<P>
+"It's not something you can just go pick up off the shelf and buy," she said in an interview, referring to carbon capture and storage projects.
+</P>
+<P>
+"You actually have to integrate it into your facility, understand how your emissions look, understand what your storage potential is nearby."
+</P>
+<P>
+She likened pipelines that carry captured carbon to both EOR sites and permanent storage sites as a "highway that has on and off ramps, and so you're trying to build a highway to service different zones."
+</P>
+<P>
+Janetta McKenzie, senior analyst of oil and gas at the Calgary-based Pembina Institute, said the tax credit in its current form sets a "lower bar" for the kinds of projects that get subsidized. 
+</P>
+<P>
+The upside, in her view, is that it provides the oil and gas industry "flexibility for a piece of technology that is a little bit more nascent and is moving along that spectrum of commercial development."
+</P>
+<P>
+On the whole, she said the tax credit will allow the industry to remain competitive given the subsidies available in the United States through the 45Q tax credit, which has boosted carbon capture projects south of the border.
+</P>
+<P>
+Questions around technology
+</P>
+<P>
+Carbon capture technology has so far not proven successful at a large scale in reducing emissions. More than 400 scientists and academics signed a letter to Freeland last year calling on her to scrap the planned tax credit — even before projects with an EOR component were included.
+</P>
+<P>
+Critics point out carbon capture projects at oil and gas sites do nothing to address greenhouse gas emissions that occur later. Those are produced when the oil or gas is used by consumers to, for instance, drive their cars or to heat their homes (as much as 85 per cent falls into this category, according to the International Energy Agency).
+</P>
+<P>
+In Canada, there are eight commercial carbon capture facilities, according to Natural Resources Canada. Six of those projects use at least some of the captured carbon for EOR.  
+</P>
+<P>
+The facilities capture only about 0.5 per cent of the country's total annual emissions, according to the International Institute for Sustainable Development.
+</P>
+<P>
+More than a dozen additional capture projects are in development. Alberta is expected to release its own incentive package for carbon capture later this month. 
+</P>
+</TEXT>
+</DOC>

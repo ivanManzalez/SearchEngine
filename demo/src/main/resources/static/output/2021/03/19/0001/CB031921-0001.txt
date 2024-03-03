@@ -1,0 +1,147 @@
+<DOC>
+<DOCNO> CB031921-0001 </DOCNO>
+<DATE>
+<P>
+March 19, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Climate change could cripple Canada's power grids. Here's what we can learn from Texas; 
+</P>
+<P>
+Freak storms, changing weather patterns and a push toward electrification are adding new pressures
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The storm was unlike anything most Texans had experienced.
+</P>
+<P>
+Last month, a massive storm blew across the state, hitting residents with heavy snow, thick ice and temperatures as low as -20 C. Millions were left without power for days. More than 50 people died, many while struggling to keep warm.
+</P>
+<P>
+Critics pointed fingers at the state utilities, which were not equipped to deal with extreme cold, and at the fully deregulated electricity market that doesn't use the kind of centralized planning needed to prepare for system-wide disasters.
+</P>
+<P>
+But now, as Texans continue to pick up the pieces from the extreme event, experts are warning that Canada needs to better prepare its power grids for the effects of climate change.
+</P>
+<P>
+According to Francis Bradley, president and CEO of the Canadian Electricity Association, Canada's power systems are better prepared for extreme weather because we've learned from major disasters — events like the 1998 ice storm in the East, the 2013 Calgary floods and the 2016 Fort McMurray wildfires.
+</P>
+<P>
+"Each one of those events resulted in lessons learned, and resulted in changes in terms of how we operate, and the practices and the standard operating procedures within the industry," said Bradley in an interview with What on Earth host Laura Lynch.
+</P>
+<P>
+For example, the 1998 ice storm led to building equipment that can withstand thick coatings of ice; the Calgary floods led to better placement of power equipment, away from potential floodwaters; and the 2016 wildfires led authorities to rethink distances between transmission and distribution equipment, as well as management of trees near the lines.
+</P>
+<P>
+The push toward electrification
+</P>
+<P>
+Scientists have long predicted that climate change will lead to even more, and more severe, weather disasters, such as heat waves, snowstorms, forest fires and floods.
+</P>
+<P>
+But just as concerning, says Bradley, are the slower-marching climate change effects — things like hotter summers in some areas, colder winters in others, and wetter or drier conditions — that create a constantly evolving need for electric power.
+</P>
+<P>
+"It isn't always about a catastrophic storm that's occurring. Sometimes it's just, 'How do we adapt to the broadly changing weather patterns that we're seeing?'"
+</P>
+<P>
+What's more, the push toward electrification in everything from cars to home heating systems will only increase the demand — especially if Canada is to reach its net-zero goal by 2050, adds Bradley.
+</P>
+<P>
+"There are some estimates that the use of electricity is going to double or triple to be able to meet that requirement," he said.
+</P>
+<P>
+Bradley believes that instead of relying solely on large electrical plants, Canada will also need smaller community-based projects.
+</P>
+<P>
+In addition to the hydro, wind and solar technology the country is currently using, Canada will also need new tech that allows for greater storage of power collected from intermittent sources, and hydrogen produced by clean electricity, says Bradley.
+</P>
+<P>
+Canada can be a leader, he argues, but first provincial governments will need to streamline and update their regulatory regimes.
+</P>
+<P>
+"Those provincial processes have not yet caught up with our national aspirations for greenhouse gas reductions," he said. "And in some parts of the country, that's a challenge."
+</P>
+<P>
+'Their own little fiefdom'
+</P>
+<P>
+Brett Dolter, assistant professor in the Department of Economics at the University of Regina, says a key solution is for provinces to do a better job of actually sharing power.
+</P>
+<P>
+Right now, provincial electricity systems are what he calls "their own little fiefdom": some trade with the U.S., and there is almost no sharing east to west, meaning that every province creates and supplies its own energy.
+</P>
+<P>
+However if there were a national "macrogrid," or at least sharing within regions, Canada could get to net-zero much more quickly, argues Dolter. That way, the provinces like B.C., Manitoba, Quebec and Newfoundland that have cleaner hydroelectricity could connect with those that rely more heavily on fossil fuels to generate power.
+</P>
+<P>
+They could also act as backups when wind and solar energy, which isn't as consistent and is less available in certain regions.
+</P>
+<P>
+Another major side benefit, Dolter adds, would be that provinces could lean on each other if a weather catastrophe hit as it did in Texas, where the supply couldn't meet the demand.
+</P>
+<P>
+"They didn't have connections to other regions that could have backed up their supply," he explained. "At the same time you had the shock to Texas, California had extra capacity. They could have been selling into Texas. And so that resilience benefit of transmission is an important one."
+</P>
+<P>
+Dolter says the biggest barrier to better integrating transmission is the price, with one study showing that a link between Regina and Winnipeg would cost 2.5 to 3 billion dollars.
+</P>
+<P>
+"These are not small price tags. So we've got to think about how we're going to pay for them, and in doing so also have to think about who's going to pay for them," he said.
+</P>
+<P>
+"Is it going to be Saskatchewan that benefits and then wants to pay for that transmission? Or does Manitoba have a greater benefit, so they pay? That negotiation has to happen, and has been a barrier to getting them built in the past."
+</P>
+<P>
+'Look out your window'
+</P>
+<P>
+But while some believe that macrogrids are the answer, one B.C. First Nation has gone in the opposite direction.
+</P>
+<P>
+In 2014, the Kanaka Bar Indian Band struck a 40-year deal to produce and sell hydro power back to the provincial utility — and now those revenues are helping to fuel other renewable projects.
+</P>
+<P>
+Chief Patrick Michell says the community has seen the growing impacts of climate change. They have also felt the effects of the province's boom-and-bust resource economies — things like mining, forestry and agriculture.
+</P>
+<P>
+So in 1978, two years after the area's residential school closure, the community was looking for a way to create a sustainable and more predictable future for the generations that followed.
+</P>
+<P>
+"We found that the renewable energy sector is predicated on the sustainable use of land resources, so you can actually have an economy without extraction and exploitation," he said.
+</P>
+<P>
+Then in 1988, when BC Hydro and the province of British Columbia decided to open its grid to independent power producers, Kanaka Bar jumped at the chance.
+</P>
+<P>
+Now they have a run-of-river hydro project that sells energy back to BC Hydro. They're also investing in smaller green energy projects that power housing, an administration centre, a health centre, weather station and more.
+</P>
+<P>
+The community is also planning three "resiliency centres" — a community centre, an affordable housing development and 12 shelter units — that will be powered by renewable energy and backup batteries.
+</P>
+<P>
+"We need to prioritize infrastructure investments today," said Michell. "I use this analogy: Why would you build a waterline and fire hydrant while your house is burning? Isn't it better to make proactive investments today, so that the trauma of tomorrow is avoided?"
+</P>
+<P>
+Of course the projects come with a hefty upfront cost, but Michell argues they more than pay for themselves over time. A project might take 17 years to pay back, he says, but if it runs for 30 years, the community gets 13 years of power at no cost.
+</P>
+<P>
+"So it really comes down to a decision by governments — municipal, Indigenous, federal, provincial — or families whether or not they'll make that investment if the capital costs today can generate savings for 40 or 50 years. And we think in terms of decades. We don't think about the business case today."
+</P>
+<P>
+Youth in the community are also responsible for operating the solar-powered weather stations, which they designed and built — and that youth engagement is also a key part of the plan.
+</P>
+<P>
+"It's their future. We empower our youth. We reversed the adverse effects of colonization through the renewable energy sector. We're going to be okay for the next 100 years," said Michell.
+</P>
+<P>
+He also has a warning for other jurisdictions who aren't preparing for the future.
+</P>
+<P>
+"We're watching these extreme weather events, and people are always concerned about the Caribbean storms or the extreme drought and fires in Australia," he said. "No, look out your window, because that's what you need to get ready for."
+</P>
+</TEXT>
+</DOC>

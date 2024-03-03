@@ -1,0 +1,129 @@
+<DOC>
+<DOCNO> CB110522-0003 </DOCNO>
+<DATE>
+<P>
+November 05, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Why a booming jobs market may mean a rough road ahead; 
+</P>
+<P>
+Canada's booming job market frustrates the bank of Canada's plans to slow the economy
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Canadian economy added a blockbuster 108,000 jobs last month. People worked more hours and their wages went up. It's great news for Canadian workers. And economists say it paints a picture of an economy that is doing better than expected.
+</P>
+<P>
+"It just shows how strong and resilient the economy is going despite all the talks about a recession is coming," says Tu Nguyen, an economist at RSM Canada.
+</P>
+<P>
+And that's great. Everyone wants to see the economy growing. Everyone wants to see wages rise and the unemployment rate fall.
+</P>
+<P>
+Well, almost everyone.
+</P>
+<P>
+Bank of Canada wants to slow economy
+</P>
+<P>
+The Bank of Canada has made it abundantly clear that it wants to see the economy slow. As it fights to rein in inflation, it's using interest rate hikes to slow economic activity to help drag down prices.
+</P>
+<P>
+"There are no easy outs to restoring price stability," said Bank of Canada governor Tiff Macklem on Oct. 26. "We need the economy to slow down to rebalance demand and supply and relieve price pressures. We expect growth will stall in the next few quarters."
+</P>
+<P>
+Macklem made that comment while increasing borrowing costs by 0.5 per cent or 50 basis points. That decision was perceived by many as a sign that the central bank was preparing to pivot away from the relentless, supersized rate hikes that have dominated the economic landscape for months.
+</P>
+<P>
+Now, in the wake of last month's unexpected surge in hiring, economists are left wondering if those predictions of a pivot came too early.
+</P>
+<P>
+"The Bank of Canada might be realizing that the 50 basis point hike that they announced just a few weeks ago might be too small," said Nguyen.
+</P>
+<P>
+If the economy isn't actually slowing, the bank may be forced to move even more forcefully when it makes its next policy decision on Dec. 7.
+</P>
+<P>
+The Bank of Montreal's chief economist Douglas Porter says the jobs report throws cold water on the idea that the economy was rushing toward a downturn.
+</P>
+<P>
+"After summer doldrums, Canadian employment has rebounded with purpose in the fall, raising some serious doubts over the extent of any economic slowdown," he wrote in a note to clients.
+</P>
+<P>
+Until last week, Porter was expecting gross domestic product (GDP) growth to stall in October, November and December. But the jobs report, and especially the big increase in hours worked, has changed all that. His forecast now calls for "at least moderate GDP growth this quarter."
+</P>
+<P>
+That said, he and many others warn not to put too much stock in a single jobs report. The Labour Force Survey is a notoriously volatile data point. Statistics Canada basically calls a bunch of people and asks them if they're working.
+</P>
+<P>
+So, like any poll, it has a pretty wide margin of error.
+</P>
+<P>
+Long-term outlook doesn't show job boom: analyst
+</P>
+<P>
+CIBC economist Andrew Grantham says a longer term trend doesn't necessarily show the booming jobs market that a first glance at October's report seems to illustrate.
+</P>
+<P>
+Over the summer, Canadian employers shed jobs at a fast pace.
+</P>
+<P>
+43,000 jobs were lost in June.
+</P>
+<P>
+30,600 jobs were lost in July.
+</P>
+<P>
+40,000 were lost in August.
+</P>
+<P>
+In September, the trend reversed as 21,000 jobs were added.
+</P>
+<P>
+Grantham says that if you zoom out to look at the job market over the past six months or so, the employment gain works out to about 9,000 per month.
+</P>
+<P>
+"The big rebound in employment during October, accompanied by a rebound in the size of the labour force, is likely a sign that the declines seen over the summer were largely statistical noise, rather than a sign that the labour market truly surged ahead this month," he wrote after the jobs report was released.
+</P>
+<P>
+If that's the case, the central bank would be under considerably less pressure to ramp up its actions.
+</P>
+<P>
+The fact is we don't really know which narrative is true.
+</P>
+<P>
+And we won't until we get more data.
+</P>
+<P>
+Inflation still dominant economic indicator
+</P>
+<P>
+Jobs numbers are important. And GDP growth matters. But the dominant economic indicator right now is inflation. Everything else is seen through the lens of what's happening with prices.
+</P>
+<P>
+U.S. inflation numbers will be released on Thursday. Economists there expect the headline rate of inflation probably came down from 8.2 per cent year over year, but not by much.
+</P>
+<P>
+Canada's inflation numbers will be released on Nov. 16. 
+</P>
+<P>
+And economists like BMO's Porter believe rates still have a way to go.
+</P>
+<P>
+"We anticipate firm readings on the coming [consumer price index] releases in the U.S. and Canada. For the Bank of Canada, this points to an additional 75 [basis points] of rate hikes, taking the overnight rate to 4.5 per cent by early next year." 
+</P>
+<P>
+Canadians are already squeezed. And the economy has already slowed considerably since the beginning of this year.
+</P>
+<P>
+October's jobs report may be muddier than anyone would like, and experts may disagree on what the numbers tell us, but one thing is certain: adding that many jobs is not the stuff of a slowing economy.
+</P>
+<P>
+And while a slowing economy will cause pain across Canada, policy makers remain convinced it's the best way to get prices back under control. 
+</P>
+</TEXT>
+</DOC>

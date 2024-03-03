@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> CB021523-0002 </DOCNO>
+<DATE>
+<P>
+February 15, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Rideau Canal Skateway's uncertain future predicted 18 years ago; 
+</P>
+<P>
+2005 report highlighted climate change's threats to skating season
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Even though he's an expert in his field, Daniel Scott doesn't like to be right.
+</P>
+<P>
+The professor and research chair at the University of Waterloo was tasked by the National Capital Commission (NCC) in 2005 to prepare a report on the long-term implications of climate change on the commission's tourism and recreational activities.
+</P>
+<P>
+While his modelling did not predict a season such as the current one where the Rideau Canal Skateway's opening is in serious jeopardy, Scott did warn that the average length of its season would become shorter as a result of climate change.
+</P>
+<P>
+He predicted the average season length would decrease from roughly 61 days in 2005 to somewhere between 43 and 52 days by 2020.
+</P>
+<P>
+According to a detailed analysis commissioned by the NCC in 2021, the average season length is now around 46 days.
+</P>
+<P>
+"Looking back I think our projections were pretty reasonable," said Scott. "We may have underestimated change and we've seen that happen in other areas of climate change impact work."
+</P>
+<P>
+The calculations for the average season length are based on the number of days between the opening and closing days, and are tabulated as of 1971, the first year the skateway officially opened. 
+</P>
+<P>
+Projected to get worse
+</P>
+<P>
+Scott's 2005 study went on to contain this dire warning for the jewel of Winterlude.
+</P>
+<P>
+"As the climate continues to warm, further reductions are expected. In the 2050s, the Skateway is projected to be open between 20 and 49 days.
+</P>
+<P>
+"In the 2080s, the warmest climate change scenario projects that the average skating season will be reduced to just one week, while the least-change scenario still projects a 42-day season."
+</P>
+<P>
+Commenting now on those words, Scott points out the need for more data, particularly ice thickness information, but overall he stands by the prediction.
+</P>
+<P>
+"Hopefully this isn't the future of the [skateway] and we hope they return to years where they have 40-plus days open for you all to use the canal," he said. "But yes, this is a glimpse in the longer-term future for sure."
+</P>
+<P>
+Ice data being collected
+</P>
+<P>
+While Scott 's prediction is based on data from 2005, the NCC now has more data to confirm the impact of climate change on the skateway season.
+</P>
+<P>
+In a 2021 technical study assessing the risks and effects of climate change on the skateway, the NCC was told the season length has been decreasing by 3.8 days per decade on average, mostly due to later starts of the skating season. 
+</P>
+<P>
+In fact, the engineering firm that studied the issue even developed an equation to demonstrate the downward trend: y = -0.3819x + 819.13, where x is the year and y is the season length in days.
+</P>
+<P>
+In order to better understand the impact of warming temperatures, the NCC entered into a four-year partnership with the civil engineering department at Carleton University.
+</P>
+<P>
+The first two years are being used to gather data about the canal's existing ice and snow cover using drones, remote sensing and probes, with that information then being used in years three and four to craft possible solutions and adaptations.
+</P>
+<P>
+One possible mitigating tool that's already being tested is a slush cannon to help freeeze the surface of the canal.
+</P>
+<P>
+It's not too late to alter the future
+</P>
+<P>
+Relying on technology can only go so far in opening an outdoor rink, according to Robert McLeman, a professor of geography and environmental studies at Wilfrid Laurier University.
+</P>
+<P>
+You also need a '"magic temperature".
+</P>
+<P>
+McLeman helps lead RinkWatch, a network of outdoor rink enthusiasts who collect data about temperatures and ice thickness which they then share with environmental scientists. 
+</P>
+<P>
+He said his modelling shows the average daily temperature needs to be –5 C or colder, a condition that will eventually become rare in southern Ontario. 
+</P>
+<P>
+"What that means is more often than not you won't be able to build an outdoor rink in [southern] Ontario by the year 2050, which is not all that far off into the future," he said. 
+</P>
+<P>
+His projection is even worse for fans of the skating on the canal.
+</P>
+<P>
+"The canal will be one of the first places in Ontario to cease being skateable on a regular basis if we continue on the warming trend that we're on," said McLeman.
+</P>
+<P>
+Both McLeman and Scott add that their climate projections aren't cast in stone. 
+</P>
+<P>
+"This is still preventable if we get on with reducing greenhouse gas emissions and getting climate change under control," said McLeman. "But we're running out of time to do it."
+</P>
+</TEXT>
+</DOC>

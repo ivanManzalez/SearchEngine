@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> CB112519-0001 </DOCNO>
+<DATE>
+<P>
+November 25, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How an old Goderich salt mine could one day save you money on your hydro bill; 
+</P>
+<P>
+Canada's 'prettiest town' is now home to the world's first emission-free compressed air energy facility
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Abandoned mines often cause real environmental problems – but a former salt cavern deep below the picturesque town of Goderich may just hold the key to a cheaper, greener energy future in Ontario. 
+</P>
+<P>
+On Friday, Toronto-based energy and technology company Hydrostor launched the first zero-emission advanced compressed air storage facility in the world, located on the grounds of a deserted solution mine salt cavern once used in the production of brine and table salt near the Maitland River. 
+</P>
+<P>
+The company says it will use the subterranean chambers and tunnels deep below the Ontario beach town to capture surplus energy that would otherwise be wasted and store it for later use. 
+</P>
+<P>
+The state-of-the-art energy storage facility is one of only three in the world, but Hydrostor CEO and co-founder Curtis VanWalleghem said Goderich is the only one that has a zero carbon footprint. 
+</P>
+<P>
+"This is the world's first emission-free compressed air facility," he said. "We don't consume any other fuel, just air and water."
+</P>
+<P>
+How compressed air energy storage works
+</P>
+<P>
+Hydrostor's Goderich facility relies on the fact Ontario's electricity producers generate more power than we consume as a province. Ontario sells off this excess electricity to U.S. states when demand is low, often at rates below the cost of production. ​
+</P>
+<P>
+​​​​​​VanWalleghem said his company's facility uses those times to charge up, soaking up the excess power through its air compressor, bottling up what would otherwise be wasted energy as compressed air for later use. 
+</P>
+<P>
+When the power grid gets hungry, Hydrostor can then release that stored air, generating power for the system. 
+</P>
+<P>
+"When the grid wants power again we open a valve and the air comes out," VanWalleghem said. "It goes through an air turbine returning the air to the atmosphere, producing power."
+</P>
+<P>
+Facility can power 2,000 homes for five hours
+</P>
+<P>
+The Hydrostor facility can keep up to 10 megawatts of power, enough to keep the lights on in about 2,000 homes, or approximately half the town of Goderich for about five hours. 
+</P>
+<P>
+The plant still loses about a third of its stored energy through inefficiencies, but compared to a similar capacity battery, it's not only half the cost, the facility has a service life of 50 years, five to 10 times longer than a battery.
+</P>
+<P>
+VanWalleghem said his company's technology is a cost-effective solution to a problem Ontario has been dealing with for years.
+</P>
+<P>
+"This does lay a path forward to reducing the cost of electricity," he said.
+</P>
+<P>
+Ontario electricity bills the highest in Canada
+</P>
+<P>
+In Ontario, electricity certainly doesn't come cheap. A 2017 study by the Fraser Institute suggests Ontario families pay the highest electricity bills in Canada, with households in Toronto and Ottawa often paying double the electricity rates of homes in other major Canadian cities. 
+</P>
+<P>
+What's more, Ontario families can only expect their household bills to climb. A leaked cabinet 2017 memo from the former Liberal government under Kathleen Wynne predicted hydro rates will undergo a steep surge within the next decade. 
+</P>
+<P>
+Part of the reason Wynne was turfed by voters in the 2018 election was over the mess that is Ontario's hydro system, but ever since her successor, Progressive Conservative Premier Doug Ford took over, Ontario hasn't fared much better.
+</P>
+<P>
+Ontario was forced to pay untold millions in awards and benefits to Mayo Schmidt, the former CEO of Hydro One and a man whom Ford pressured to leave after he targeted the executive's $6-million salary. 
+</P>
+<P>
+Can you sell green technology in Doug Ford's Ontario? 
+</P>
+<P>
+Ford also appeared to play a central role in the decision by U.S. regulators, who denied Hydro One's proposed takeover of Spokane based Avista Corp., citing political interference by the Ford government. 
+</P>
+<P>
+Ford is also famous for the fact he spent $231 million dollars to kill green energy contracts in the province. So what makes VanWalleghem think his idea has long-term potential in Doug Ford's Ontario? 
+</P>
+<P>
+"Obviously the more wind and solar you have on the grid, the more sense it makes for storage," he said. "Long-term they will likely add more wind and solar but in the short-term they don't see the need for that extra energy."
+</P>
+<P>
+"What they do need is that peaking capacity that comes when you can call it and that's the sort of thing we can offer."
+</P>
+<P>
+VanWalleghem and his colleagues are so convinced in their technology that they're branching out overseas, building a similar facility in Adelaide, Australia. 
+</P>
+<P>
+With the hope that one day, when governments truly go to carbon-free energy sources such as wind and solar, they have a way to store the energy, even when the sun isn't shining.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,102 @@
+<DOC>
+<DOCNO> CB112323-0002 </DOCNO>
+<DATE>
+<P>
+November 23, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+The new Canadian Mortgage Charter explained; 
+</P>
+<P>
+Freeland said she included the charter in the Fall Economic Statement to help 'vulnerable borrowers'
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+In the Fall Economic Statement (FES), the Liberal government unveiled an initiative it calls the Canadian Mortgage Charter.
+</P>
+<P>
+According to the statement, the charter builds on "existing guidance and expectations" regarding how financial institutions are expected to treat borrowers.
+</P>
+<P>
+Deputy Prime Minister and Finance Minister Chrystia Freeland said Tuesday the charter is "one of the most important things" in the FES.
+</P>
+<P>
+"I really recognize that with interest rates having gone up very quickly, there are many, many Canadians who are concerned about their mortgages going up. They are concerned about being able to afford to stay in their own homes," Freeland said. "What we're saying today is we understand this is a challenging situation and we are here to help."
+</P>
+<P>
+So what exactly is the Canadian Mortgage Charter, who does it aim to help, what rules does it lay out and how are its expectations enforced?
+</P>
+<P>
+Is the Canadian Mortgage Charter a law?
+</P>
+<P>
+No. The Canadian Mortgage Charter [CMC] is not a law and there are no plans to pass legislation enshrining it in law.
+</P>
+<P>
+A Department of Finance official speaking on background told CBC News the best way to think of the charter is as a list of "rules and expectations" banks are expected to follow.
+</P>
+<P>
+Most of the rules in the charter are based on the Guideline on Existing Consumer Mortgage Loans in Exceptional Circumstances, published by the Financial Consumer Agency of Canada (FCAC) in July.
+</P>
+<P>
+The only place the CMC rules have been or will be published, the official said, is in the Fall Economic Statement. 
+</P>
+<P>
+What does the charter say?
+</P>
+<P>
+The charter contains six guidelines regarding how banks are expected to treat "vulnerable borrowers" under financial strain. Under the charter, banks are expected to:
+</P>
+<P>
+Are any of these rules new?
+</P>
+<P>
+The Finance official told CBC News that most of the measures existed already, but may have been unclear or difficult for consumers to find. Putting them in one place, the official said, makes it easier for vulnerable borrowers to learn what their options are. 
+</P>
+<P>
+One new rule is the requirement that banks proactively reach out to borrowers four to six months before their mortgages are up for renewal.
+</P>
+<P>
+The other new addition is the requirement to give insured borrowers a pass on the stress test when changing lenders at the time of their mortgage renewal.
+</P>
+<P>
+Who is a 'vulnerable borrower'?
+</P>
+<P>
+The mortgage charter does not define "vulnerable borrower." The FCAC guidelines define a "consumer at risk" as someone "with an existing residential mortgage loan on their principal residence who [is] experiencing severe financial stress, as a result of exceptional circumstances, and [is] at risk of mortgage default."
+</P>
+<P>
+When banks reach out to all borrowers four to six months before their mortgages are up, borrowers can explain their unique financial situations to lenders and the two parties can work through their options. Banks do not independently decide who is at risk.
+</P>
+<P>
+The Canadian Bankers Association (CBA) uses data from the major banks to determine the number of mortgages that are in arrears each month going back to January 1995.
+</P>
+<P>
+A mortgage in arrears is defined by the CBA as one that has not been paid for at least three months. According to CBA data, there were 5,065,516 mortgages in Canada as of Sept. 30 2023 and 0.16 per cent, or 8,140, were in arrears.
+</P>
+<P>
+That percentage is up from 0.14 per cent in August, 2022, which was the lowest percentage of arrears since January 1995, when it was 0.50 per cent.
+</P>
+<P>
+The CBA's mortgages in arrears stats include data provided by 11 CBA members, but the CBA says credit unions and private mortgage companies also offer mortgages in Canada that are not captured by the arrears totals. 
+</P>
+<P>
+How are the rules and guidelines enforced?
+</P>
+<P>
+The Finance official told CBC News that borrowers who are not offered the affordability measures outlined in the mortgage charter can file a complaint on the FCAC website.
+</P>
+<P>
+The FCAC website says it investigates complaints involving federally regulated financial institutions, including banks, federal credit unions, authorized foreign banks, insurance companies and trust and loan companies.
+</P>
+<P>
+The FCAC website says that it uses information gleaned from its investigations to "identify and address situations" but does not say what measures are used. The FCAC says the "numbers and types" of complaints it receives are reported to Parliament.
+</P>
+<P>
+The Canadian Mortgage Charter says the federal government closely monitors financial institutions' "implementation of and compliance with relief measures, including the FCAC's guideline," but does not say what enforcement measures are applied.
+</P>
+</TEXT>
+</DOC>

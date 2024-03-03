@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO> CB042822-0002 </DOCNO>
+<DATE>
+<P>
+April 28, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's working-age population is older than ever, StatsCan says; 
+</P>
+<P>
+Statistics Canada says even large-scale immigration will not be enough to soften blow of aging workforce
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada's working-age population is older than it has ever been, according to new census figures released Wednesday.
+</P>
+<P>
+More than one in five working adults is now nearing retirement, says Statistics Canada — a demographic shift that will create significant challenges for the Canadian workforce in the coming decade.
+</P>
+<P>
+Laurent Martel, director for the centre of demography at Statistics Canada, called it a "date with demographic destiny."
+</P>
+<P>
+"Canada is at a very special place right now," he said. "There are very large implications of this situation and it is certainly one factor explaining the current labour shortages that Canada is experiencing."
+</P>
+<P>
+The Canadian population now has a larger share of people aged 55 to 64 than it does of those aged 15 to 24, the age at which people enter the workforce.
+</P>
+<P>
+In 1966, there were 200 people aged 15 to 24 for every 100 Canadians aged 55 to 64, but that has now been flipped on its head. In 2021, there were only 81 people aged 15 to 24 for every 100 Canadians in the 55 to 64 age group.
+</P>
+<P>
+"There are challenges associated with an older workforce, including knowledge transfer, retaining experienced employees and workforce renewal," the agency said in its report. 
+</P>
+<P>
+Statistics Canada says that this trend can be slowed through immigration but "an increase in immigration — even a large one — would not significantly curb this projected drop."
+</P>
+<P>
+The 2021 census says that while declining fertility rates and increased life expectancy are important factors, the single most significant driver of Canada's aging population trend is the ongoing retirement of baby boomers (Canadians born between 1946 and 1965), which began in 2011.
+</P>
+<P>
+Despite this news, Statistics Canada says Canada still has one of the youngest working-age populations in the G7 after the U.S. and the United Kingdom, with 15- to 64-year-olds making up 64.8 per cent of the population; in Japan, that demographic makes up less than 60 per cent of the population.
+</P>
+<P>
+In the U.S., the slightly younger workforce is a result of a slightly higher fertility rate, while in the U.K., it is a combination of a higher fertility rate and a relatively smaller number of baby boomers, Statistics Canada said.
+</P>
+<P>
+An aging population
+</P>
+<P>
+It's not just Canada's workforce that is aging significantly — it's the population as a whole, Statistics Canada said. 
+</P>
+<P>
+From 2016 to 2021, the number of Canadians age 65 and older rose 18.3 per cent to seven million — the second-largest increase in 75 years, after the increase recorded from 2011 to 2016, which was a rise of more than 20 per cent. 
+</P>
+<P>
+The seven million Canadians 65 and older make up 19 per cent of the population, up from 16.9 per cent at the time of the last census.
+</P>
+<P>
+A closer look shows that the number of Canadians aged 85 and older rose almost 12 per cent from the time of the last census, while Canadians aged over 100 rose by more than 15 per cent. 
+</P>
+<P>
+"Over the next 30 years, the number of persons aged 85 and older could triple from 861,000 to 2.7 million," the agency said. 
+</P>
+<P>
+Statistics Canada population projections indicate that by 2051, almost one-quarter of the population could be aged 65 and older, adding up to almost 12 million people.
+</P>
+<P>
+The young and elderly in Canada
+</P>
+<P>
+The age of Canada's population is not just about the growing cohort of seniors. It's also the declining growth rate among younger Canadians as the country's fertility rate hit an all time low of 1.4 children per woman, Statistics Canada said. 
+</P>
+<P>
+Between 2016 and 2021, the number of Canadians younger than 15 grew six times slower than the number of people 65 and older. The number of children under the age of 15 at the time of the 2021 census stood at six million, compared to seven million Canadians 65 and older.
+</P>
+<P>
+The number of children under the age of five also fell from almost 1.9 million in 2016 to 1.83 million in 2021, a decline of more than 3.6 per cent.
+</P>
+<P>
+The decline continues a trend first noted in the 2016 census when, for the first time, there were more Canadians over 65 than children under 15. The demographic gap has grown substantially, from just 96,000 then to just over a million by 2021. 
+</P>
+<P>
+Statistics Canada says that if current trends continue, by 2051 that gap will widen to 4.6 million, with 12 million Canadians over the age of 65 and only 7.4 million children under 15.
+</P>
+<P>
+Regional differences
+</P>
+<P>
+The demographic differ between regions — the Prairie provinces and the territories have younger populations while Quebec and the Atlantic provinces have older populations on average.
+</P>
+<P>
+In Manitoba, Saskatchewan and Alberta, children under 15 continue to outnumber Canadians aged 65 and older, largely due to a higher fertility rate.
+</P>
+<P>
+Population projections for Manitoba and Alberta indicate that Canadians aged 65 and older will not outnumber children under 15 until 2031. In Saskatchewan, which has the highest proportion of children under the age of 15, older Canadians will not outnumber children until 2036.
+</P>
+<P>
+In the territories, Nunavut has the highest percentage of children under 15 in the country at more than 32 per cent, followed by the Northwest Territories at almost 21 per cent. The Yukon is slightly lower at 17 per cent. 
+</P>
+<P>
+Newfoundland and Labrador has the lowest share of children in Canada at 13.4 per cent, followed by Nova Scotia at 14.1 per cent and New Brunswick and B.C., which are tied at 14.3 per cent.
+</P>
+<P>
+Questions on gender
+</P>
+<P>
+For the first time, this census included questions on gender that allowed cisgender, transgender and non-binary individuals to report their gender.
+</P>
+<P>
+Statistics Canada says that Canada is the first country to collect and publish data on gender diversity in a national census.
+</P>
+<P>
+Of the almost 30.5 million people in Canada aged 15 and older living in private households in May 2021, Statistics Canada says 59,460 identified as transgender and 41,355 identified as non-binary, accounting for 0.33 per cent of the population in this age group.
+</P>
+<P>
+Other highlights from census 2021
+</P>
+</TEXT>
+</DOC>

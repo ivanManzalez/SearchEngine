@@ -1,0 +1,132 @@
+<DOC>
+<DOCNO> CB011223-0003 </DOCNO>
+<DATE>
+<P>
+January 12, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+N.S. emergency units clog up as patients have nowhere to go because of full beds, experts say; 
+</P>
+<P>
+High demand, often from patients without doctors, has ERs struggling to keep up
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+With a renewed scrutiny on Nova Scotia's emergency departments, experts say the problems of overcrowding and long wait times stem from issues elsewhere in the health-care system.
+</P>
+<P>
+Dr. Robert Martel, who has spent most of his career as an emergency room physician, said departments across the country are overcrowded, staff are overworked and resources are stretched. 
+</P>
+<P>
+He said this situation has been a long time coming for Nova Scotia, as other problems in the health-care system trickle down to emergency departments.
+</P>
+<P>
+"Politicians and those that were supposed to be making informed decisions really didn't make the right ones," Martel told CBC Nova Scotia News At Six on Wednesday.
+</P>
+<P>
+"And as a result, we find ourselves in a really bad situation right across the country, and by the time we crawl out of this, there's going to be a lot of tears shed."
+</P>
+<P>
+Tragedy in Amherst
+</P>
+<P>
+All eyes have been on the province's emergency departments after the death of a young mother in an Amherst, N.S., hospital last month.
+</P>
+<P>
+On Dec. 31, 37-year-old Allison Holthoff waited more than six hours to see a doctor at the Cumberland Regional Health Care Centre while she experienced excruciating abdominal pain.
+</P>
+<P>
+Her husband drove her to the emergency department at 11 a.m. AT and she spent her time between a wheelchair and lying on the floor in the waiting room before she was brought to an exam room. 
+</P>
+<P>
+After more time passed, Holthoff went into cardiac arrest. She was resuscitated three times and later died in the intensive care unit. 
+</P>
+<P>
+Her death has spurred calls for action and improvements to emergency departments.
+</P>
+<P>
+But Martel said problems in emergency departments are just one piece of a larger puzzle, as an older and sicker population requires more long-term care and acute care beds — something Nova Scotia just doesn't have enough of.
+</P>
+<P>
+Beds are full
+</P>
+<P>
+As of Wednesday, hospitals across the province were at an average of 98 per cent total occupancy, meaning almost all inpatient beds are full. 
+</P>
+<P>
+Some hospitals were even above 100 per cent occupancy, including the Dartmouth General Hospital at 112.8 per cent and the South Shore Regional Hospital at 125.9 per cent.
+</P>
+<P>
+"The bottom line is, if you have a plugged pipe and [patients] can't move, it's unlikely that the waiting room is going to be empty," said Martel.
+</P>
+<P>
+Ruth Lavergne, a Canada Research Chair in primary care at Dalhousie University's Department of Family Medicine, agrees with Martel that ER problems reflect the entire health-care system.
+</P>
+<P>
+These problems have Lavergne concerned, especially as people without a family doctor often go to the ER with sometimes serious illness or injuries.
+</P>
+<P>
+"Patients in Nova Scotia and across the country are struggling to get care in a timely fashion," Lavergne said. 
+</P>
+<P>
+"That's happening in the community as people are trying to find a regular place for care or get their needs met, and we're also hearing about really challenging situations in emergency departments."
+</P>
+<P>
+She said people often blame others with non-urgent problems for clogging up emergency departments, but the issue lies with people with complex needs who can't be admitted. Patients who need further treatment often can't be moved out of the ER into beds in different units, and people who can't get a spot in long-term care are also filling hospital beds. 
+</P>
+<P>
+"It's true that on average in Canada, we have fewer hospital beds per person, but it's not as simple as that," Lavergne said. "We often hear about building new buildings, but a hospital bed has to be staffed."
+</P>
+<P>
+As of Tuesday, there are 12 physician positions vacant within emergency departments across the province, two of which are at the Cumberland Regional Health Care Centre in Amherst.
+</P>
+<P>
+For registered nurses, there is an average vacancy rate of nearly 32 per cent in emergency departments across regional health care centres and the Halifax Infirmary as of the end of November, according to data from Nova Scotia Health.
+</P>
+<P>
+Alyson Lamb, executive director of health services for the western zone of Nova Scotia Health, said the province is experiencing high bed-occupancy rates, similar to other systems across the country.
+</P>
+<P>
+She said the health authority is focusing on staff recruitment and retention to fill the gap, while also offering more virtual care and adding other roles like paramedics and nurse practitioners to emergency departments.
+</P>
+<P>
+"Certainly we've adjusted our models of care based on the needs that are there. It does make things challenging. We know that [emergency rooms are] congested," Lamb said Wednesday.
+</P>
+<P>
+"But what I would say is our health-care providers continue to deliver the very best care they can, in the circumstances that they're faced with every day."
+</P>
+<P>
+Problems with triaging patients quickly
+</P>
+<P>
+Martel said staffing shortages have also exacerbated wait times in emergency rooms, especially because nurses must determine the order in which patients are treated, called triaging.
+</P>
+<P>
+The severity of a person's condition determines how quickly a patient is triaged, according to the province's Annual Accountability Report on Emergency Departments. In Nova Scotia, emergency departments have set goals on how quickly that should happen.
+</P>
+<P>
+Patients with normal vital signs — breathing, pulse, blood pressure and temperature — and non-urgent conditions are considered Level 5, and are expected to be treated by a health-care practitioner within two hours. 
+</P>
+<P>
+Meanwhile, those suffering from life-threatening conditions who require immediate attention are considered Level 1, and should receive treatment immediately.
+</P>
+<P>
+Martel said overcrowding has made meeting the goals of treating patients in a timely manner nearly impossible.
+</P>
+<P>
+"Time after time, patient after patient, and you triage them at a Level 2 —  which means that they should be seen within a very defined parameter," Martel told CBC Nova Scotia News At Six on Wednesday.
+</P>
+<P>
+"It becomes very difficult for an individual doing triage to put that individual in an overcrowded waiting room, where there might be another 20 Level 2s who can't possibly be seen in that period of time so the stress on the individual doing triage has become enormous."
+</P>
+<P>
+Lamb agrees triaging patients is stressful and challenging, but Nova Scotia Health is working with emergency departments to review data and align resources according to volumes.
+</P>
+<P>
+"Certainly, we're struggling in the sense you can't always predict what's going to come into an emergency department and there will be variation and wait times, but we also know there's always opportunities for improvement."
+</P>
+</TEXT>
+</DOC>

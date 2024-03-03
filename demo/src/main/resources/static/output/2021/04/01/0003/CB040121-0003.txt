@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> CB040121-0003 </DOCNO>
+<DATE>
+<P>
+April 01, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Region's power supply needs to quadruple to meet expected demand from greenhouse industry; 
+</P>
+<P>
+A proposed transmission line would meet the need in Windsor-Essex, Chatham-Kent
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Hydro One will need to quadruple the power supply to the Windsor-Essex, Chatham-Kent area over the next 15 years to meet the expected electricity demand from expanding greenhouse operations, according to the independent manager of Ontario's power grid.
+</P>
+<P>
+The Independent Electricity System Operator (IESO) is recommending a transmission line project that could cost between $210 and $290-million be built between Lambton and Chatham.
+</P>
+<P>
+"It would be like building a city the size of Ottawa in that area," said Chuck Farmer, senior director of power system planning with the IESO.
+</P>
+<P>
+"I haven't seen, personally, a region with the kind of consistent growth that this one has," said
+</P>
+<P>
+Farmer said the greenhouse operations in the region are seeing an unparalleled rate of expansion, pushed by growing conditions favourable for growing vegetables and cannabis. 
+</P>
+<P>
+He said there's a concentrated area around Leamington, Dresden and Kingsville that requires about 500MW of electricity, which through conversations with local stakeholders, Farmer expects to jump to 2000MW by the mid-2030s.
+</P>
+<P>
+A pair of options were studied: building a new generation facility in the area or building a transmission line from a facility in Lambton.
+</P>
+<P>
+Farmer said the cost effective option was a transmission line, but did not rule out a generation facility coming online in the future. 
+</P>
+<P>
+The project would be completed by Hydro One, with consultations starting this week. Those community consultations will continue as the design and scope of the project is being considered.
+</P>
+<P>
+The IESO believes there's enough power supply for the region now and should be able to sustain growth until 2028, at which point the transmission line - if approved - should be completed.
+</P>
+</TEXT>
+</DOC>

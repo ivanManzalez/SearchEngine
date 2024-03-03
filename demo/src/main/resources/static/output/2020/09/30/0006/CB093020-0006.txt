@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> CB093020-0006 </DOCNO>
+<DATE>
+<P>
+September 30, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Nova Scotia reports one new COVID-19 case; 
+</P>
+<P>
+There are now two known active cases of the virus in the province
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+After a week of no positive tests, one new case of COVID-19 has been reported in Nova Scotia.
+</P>
+<P>
+The new case is in the northern zone and is related to travel outside of Canada, according to a news release Wednesday from the Department of Health. The person has been self-isolating, as required, according to the release.
+</P>
+<P>
+There are now two known active cases in the province.
+</P>
+<P>
+The Nova Scotia Health Authority completed 870 Nova Scotia tests on Tuesday, including the new positive test.
+</P>
+<P>
+The province has recorded 94,414 negative test results, 1,088 positive COVID-19 cases and 65 deaths since March.
+</P>
+<P>
+Other case also involved travel
+</P>
+<P>
+One person remains in hospital in intensive care, according to the release.
+</P>
+<P>
+The earlier case was announced a week ago and involved an essential worker from the province's western zone who had travelled outside of the country.
+</P>
+<P>
+The latest numbers from around the Atlantic bubble are:
+</P>
+<P>
+Symptoms
+</P>
+<P>
+Anyone with one of the following symptoms of COVID-19 should visit the 811 website to see if they should call 811 for further assessment:
+</P>
+<P>
+Anyone with two or more of the following symptoms is also asked to visit the 811 website:
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> CB091020-0001 </DOCNO>
+<DATE>
+<P>
+September 10, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Wild weather this year shows growing impact of climate change, scientists say; 
+</P>
+<P>
+'Event attribution science' assesses how big a role climate change plays in extreme weather events
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The planet is showing signs it's in peril. In recent weeks, the world has seen ferocious wildfires in the U.S. West, torrential rains in Africa, weirdly warm temperatures on the surface of tropical oceans, and record heat waves from California to the Siberian Arctic.
+</P>
+<P>
+This spate of wild weather is consistent with climate change, scientists say, and the world can expect even more extreme weather and higher risks from natural disasters as global emissions of greenhouse gases continue.
+</P>
+<P>
+"We are seeing the emergence of some signals that would have had almost no chance of happening without human-induced climate change," said Sonia Seneviratne, a climate scientist at Swiss university ETH Zurich.
+</P>
+<P>
+For decades, scientists have warned of such events — but have been wary of saying that a particular storm or heat wave was a direct result of climate change. That's now changing.
+</P>
+<P>
+Advances in a relatively new field known as "event attribution science" have enabled researchers to assess how big a role climate change might have played in a specific case.
+</P>
+<P>
+In determining that link, scientists assess simulations of how weather systems might behave if humans had never started pumping carbon dioxide into the air, and compare that with what is happening today. They also factor in weather observations made over the last century or more.
+</P>
+<P>
+"What seemed like an established truth that you cannot attribute a particular extreme weather event to climate change is less and less true," Seneviratne told Reuters.
+</P>
+<P>
+Feeling the heat
+</P>
+<P>
+The clearest examples are found in the growing frequency and intensity of heat waves worldwide.
+</P>
+<P>
+Scientists needed only days to identify climate change as the key culprit in this year's record temperatures in Siberia, with extreme heat drying out forests and peat across the Russian tundra, leading to massive wildfires.
+</P>
+<P>
+Climate change links have also been found in the simultaneous summer heat waves that hit Europe, Japan and North America in 2018. Studies found that the chances of these events happening together would have been near zero without the industrial-era rise in planet-warming carbon emissions.
+</P>
+<P>
+"When it comes to heat waves, we see that climate change is an absolute game-changer," said Friederike Otto, a climate scientist at the University of Oxford who has helped to pioneer the field of attribution science.
+</P>
+<P>
+As a heat wave hit the U.S. West Coast last month, Earth saw a new record high temperature of 54.4 Celsius (130 Fahrenheit) in Death Valley, which sits below sea level in California's Mojave Desert. Weeks later, the region was still broiling, with the mercury soaring Sunday to a new record of 49 C for nearby Los Angeles County.
+</P>
+<P>
+"It's not so much that climate change is destabilizing historical weather patterns," said Daniel Swain, a climate scientist at the University of California. "In many cases, it's amplifying them."
+</P>
+<P>
+Hotter temperatures in turn sap the air of humidity and dry out forest and brush on land, creating perfect conditions for wildfires. In California, "the fires that we're seeing are larger, and faster moving, and more intense than those you could have expected historically," Swain said.
+</P>
+<P>
+But attribution science has not explained everything. For example, researchers do not yet fully understand Europe's heat waves.
+</P>
+<P>
+"In Western Europe, the increase in heat waves is much stronger than the models predict, and we have no clue why," said Geert Jan van Oldenborgh, an attribution science expert at the Royal Netherlands Meteorological Institute.
+</P>
+<P>
+Wind, rain and floods
+</P>
+<P>
+As average global temperatures have risen by about 1 C since pre-industrial times, changes in the atmosphere and oceans are also leading to more intense storms.
+</P>
+<P>
+Hurricanes overall are getting stronger and spinning slower, as they pick up energy from the heat in the oceans. Researchers at the University of Bristol in the west of England published a study last month that found that climate change could make extreme hurricane rainfall in the Caribbean five times more likely, without rapid cuts in emissions.
+</P>
+<P>
+In the United States, warm waters in the Gulf of Mexico boosted Hurricane Laura to a category 4 storm in the last hours before it slammed into Louisiana with 240 kilometre per hour winds. Governor John Bel Edwards described it as the most powerful hurricane to strike the state, surpassing even Katrina in 2005.
+</P>
+<P>
+Tropical cyclones spinning out from the Indian Ocean are showing similar patterns. The region has long been considered a hot spot for cyclones, with some of the deadliest storms in recent history churning through the Bay of Bengal before slamming into India or Bangladesh.
+</P>
+<P>
+Exceptionally high surface temperatures in the Indian Ocean, associated with climate change, helped Cyclone Amphan grow into a Category 5 storm in a record 18 hours before it tore into the Indian state of West Bengal in May, scientists say.
+</P>
+<P>
+The following month, Cyclone Nisarga, initially forecast to be the first to batter Mumbai since 1948, made landfall 100 km south of the city, with winds gusting up to 120 kilometres per hour.
+</P>
+<P>
+"Both of the cyclones were unprecedented," said Roxy Mathew Koll, a climate scientist at the Indian Institute of Tropical Meteorology. "If we go back to what led to these kinds of extreme events, what we see is that very warm ocean temperatures have played a major role."
+</P>
+<P>
+Those warm ocean temperatures are also likely contributing to extreme rainfall and flooding in China, which this summer suffered its most punishing flood season in three decades.
+</P>
+<P>
+"The extreme rainfall events are going to become more extreme. That is something we feel pretty confident about," said Shang-Ping Xie, a climate scientist at the Scripps Institution of Oceanography in California.
+</P>
+<P>
+Africa is feeling this now, following torrential rains and severe flooding. Tens of thousands have been left homeless by flooding from the Nile in Sudan. And in Senegal, more rain fell on a single day on Saturday than the country would usually see during three months of the rainy season, the government said.
+</P>
+<P>
+"There's a large and growing body of evidence that is telling us that human-caused climate change is affecting extreme events," said James Kossin, a climate scientist at the U.S. National Oceanic and Atmospheric Administration. "It's very rare that this is happening in a helpful way."
+</P>
+</TEXT>
+</DOC>

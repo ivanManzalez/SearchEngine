@@ -1,0 +1,138 @@
+<DOC>
+<DOCNO> CB052621-0002 </DOCNO>
+<DATE>
+<P>
+May 26, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Crunching the numbers: A test case for converting a Calgary office tower into apartments; 
+</P>
+<P>
+Government subsidies will probably be necessary to make conversions economically viable
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+This column is an opinion from Richard White, who has written extensively on Calgary's urban development. For more information about CBC's Opinion section, please see the FAQ.
+</P>
+<P>
+Over the past few weeks, I have been working with several real estate development  professionals to create a hypothetical office-to-residential building conversion test case for an older empty, or near empty, downtown office building.
+</P>
+<P>
+One of my collaborators was Ken Toews, the senior vice-president of development at Strategic Group, which completed the conversion of a small office building in the Beltline at 11th Avenue S.W. and 11th Street S.W., now called Cube.
+</P>
+<P>
+I have simplified the math by making assumptions based on the purchase of an older 250,000-square-foot, Class B or C office building with a per floor area of under 8,000 square feet. I have included some parking, which would make it more attractive to renters. And to simplify the math further, I assumed all the units would be one-bedroom apartments. 
+</P>
+<P>
+I have tried to be realistic with the purchase and renovation costs, as well as the revenue that could be generated. These assumptions are based on discussions with experienced commercial realtors, architects, residential developers and downtown commercial property owners. 
+</P>
+<P>
+Assumptions
+</P>
+<P>
+330 units at 600 square feet each (assuming 80 per cent of 250,000 square feet is leasable space. I was cautioned that this might be optimistic).
+</P>
+<P>
+No street level commercial spaces.
+</P>
+<P>
+No amenities. We want residents to use the downtown amenities … walking to cafes, fitness studios ... thereby creating street vitality.
+</P>
+<P>
+Renovation costs $200 per square foot (again this number might be optimistic, given new energy codes and building codes).
+</P>
+<P>
+95 per cent occupancy at $2.16 per square foot rents, or $1,300 per month for a 600-square-foot unit (this number might be low, as historical downtown rental vacancy is three per cent, but current vacancy is 10 per cent).  
+</P>
+<P>
+90 parking stalls rented at $75 per month (95 per cent occupancy).
+</P>
+<P>
+A per floor area under 8,000 square feet. If larger, conversion becomes more complicated and less cost effective. 
+</P>
+<P>
+Any office-to-residential development would be rental units, as the market for new condos is very limited.
+</P>
+<P>
+The math
+</P>
+<P>
+$25 million: Purchase price (250,000-square-foot older building with 100 parking stalls at $100 per square foot).
+</P>
+<P>
+$50 million: Renovation costs ($200 per square foot x 250,000).
+</P>
+<P>
+$5 million: Other costs (financing, marketing, insurance, etc.).
+</P>
+<P>
+$80 million: Total costs (approximately $240,000 per unit).
+</P>
+<P>
+(Note: The cost projection of $240,000 per unit is less than the $264,000 per unit cost of the HomeSpace conversion of the Sierra Place office building into affordable housing units that was recently announced.) 
+</P>
+<P>
+What a developer would expect as a return on investment 
+</P>
+<P>
+$4 million per year ($80 million at five per cent per year, the benchmark for most developers and investors).
+</P>
+<P>
+What a developer would actually get
+</P>
+<P>
+$4,890,600: 330 units at $15,600 per year ($1,300 per month) at 95 per cent occupancy 
+</P>
+<P>
+$85,500: 100 parking stalls at $75 per month or $900 per year at 95 per cent occupancy
+</P>
+<P>
+$4,976,100  — Total revenue generated
+</P>
+<P>
+-$1,650,000 in operation costs ($6.60 per square foot for administration, taxes, utilities, insurance, maintenance)
+</P>
+<P>
+$3,326,100 — Net revenue per year 
+</P>
+<P>
+$4,000,000 = Expected return on investment per year
+</P>
+<P>
+$3,326,100  = Projected net revenue per year
+</P>
+<P>
+-$673,900 = Per year differential (Revenue needed versus net revenue)
+</P>
+<P>
+Facing reality 
+</P>
+<P>
+There are currently more than 2,500 new apartment dwellings either recently completed or under construction in the greater downtown, which at an annual market absorption of 500 dwellings per year is a five-year supply.  Currently, apartment rental vacancy rates in the greater downtown are three times the norm, at 10 per cent.
+</P>
+<P>
+So, I have to wonder whether anyone has measured the demand in Calgary for office-to-residential conversion apartments in the downtown core. Is it a safe assumption that if we convert old office spaces people will want to live there? Developers tell me there are dozens of better sites in the neighbourhoods surrounding the downtown core for new residential development when it is needed. 
+</P>
+<P>
+Ken Toews notes that a significant impact on city centre residential demand currently is the reduced international migration to Calgary, as 80 per cent of new Canadians rent when they first move here. He also noted that international students have left their Calgary apartments and gone home, creating a higher than normal vacancy rate in the city centre. 
+</P>
+<P>
+It would seem then that office-to-residential development in downtown Calgary is not economically viable unless you can purchase a building for less than $50 per square foot and/or get higher rents and/or achieve higher occupancy rates, and/or get a government subsidy. 
+</P>
+<P>
+It will be interesting to see the details of the city's recently approved $45 million program to support office-to-residential conversions. Kudos to HomeSpace for being the pioneer with their plans to convert the 1959 Sierra Place office building into 108 affordable housing units, with the help of $5.5 million in funding from Calgary's Office to Residential Conversion Fund, as well as a $12 million loan from Canada Mortgage and Housing Corporation's Co-Investment Fund, $7 million from Inn from the Cold and HomeSpace equity, a $3 million contribution from CMHC Co-investment and $1.1 million from the government of Alberta.  
+</P>
+<P>
+Last word
+</P>
+<P>
+The conversion of Sierra Place was first talked about in 2017 as a private sector initiative, but it never went ahead as the math didn't work for market housing. It will be interesting to see if the private sector can make the numbers work with the help of the city's new subsidy program to convert old office buildings into new market housing that will generate some much needed tax revenues.
+</P>
+<P>
+Do you have a strong opinion that could add insight, illuminate an issue in the news, or change how people think about an issue? We want to hear from you. Here's how to pitch to us.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> CB113023-0002 </DOCNO>
+<DATE>
+<P>
+November 30, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+The fossil fuel phrases that countries will fight over at the upcoming COP28; 
+</P>
+<P>
+'Unabated,' 'phase down,' 'phase out' expected to cause debate at UN climate summit
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Getting the world off greenhouse gas-spewing fossil fuels is a key part of global climate negotiations.
+</P>
+<P>
+But whether those fossil fuels are "unabated," and where we need to phase them "down" or phase them "out," are expected to cause fierce debate at the upcoming United Nations Climate Change Conference, COP28, which begins Thursday and runs until Dec. 12.
+</P>
+<P>
+At this year's climate summit in Dubai, U.A.E., a key goal is for countries to decide how to respond to the first-ever "global stocktake" — a look at the world's progress at meeting the goals of the 2015 Paris Agreement on climate change, including keeping warming "well below" 2 C above pre-industrial temperatures while "pursuing efforts" to limit the temperature increase to 1.5 C.
+</P>
+<P>
+'Phase out' vs. 'phase down'
+</P>
+<P>
+UN Secretary General Antonio Guterres was clear in a speech earlier this month about what he thinks the response to the stocktake should be. On Monday, he reiterated his comments at a press briefing, saying, among other things, that "we need a clear and credible commitment to phase out fossil fuels on a time frame that aligns with the 1.5-degree limit."
+</P>
+<P>
+At COP26 in Glasgow two years ago, countries achieved a similar commitment on coal, but the final version of the decision text, now known as the Glasgow Climate Pact, called for "phasing down" rather than "phasing out" unabated coal power, following demands from India and China.
+</P>
+<P>
+Many countries are more comfortable with language that suggests reducing rather than eliminating fossil fuels.
+</P>
+<P>
+Ahead of this year's climate summit, Sultan Ahmed Al Jaber, COP28's president-designate and the U.A.E.'s special envoy for climate change, said in a speech in October that "phasing down" both demand for and supply of "all fossil fuels is inevitable and essential" to meet Paris climate targets.
+</P>
+<P>
+Many of the world's biggest economies spelled out their positions on "phasing out" versus "phasing down" earlier this year. In April, G7 countries agreed to accelerate "the phase-out of unabated fossil fuels."
+</P>
+<P>
+But at the G20 meeting in July, Canada's environment minister, Steven Guilbeault, wasn't successful in getting an agreement to phase out unabated fossil fuels, as neither Saudi Arabia nor China would agree to the wording.
+</P>
+<P>
+In September, China's top climate official, Xie Zhenhua, said at a forum in Beijing that "completely phasing out fossil fuel is unrealistic."
+</P>
+<P>
+Nevertheless, following the G20, Guilbeault said that conversation over the phrase was still alive, and "we need to continue working to build consensus on the phase-out of unabated fossil fuels."
+</P>
+<P>
+The European Union's official negotiating position for COP28, released in October, "underlines that the shift towards a climate neutral economy in line with the 1.5 C goal will require the global phase out of unabated fossil fuels."
+</P>
+<P>
+But not everyone thinks the distinction between "phasing down" and "phasing out" is the most important thing to watch for at the summit.
+</P>
+<P>
+Ani Dasgupta is president and CEO of World Resources Institute, a global think-tank based in Washington, D.C., that focuses on climate and sustainability. At a media briefing ahead of the COP28 meeting, he said that any reference to cutting fossil fuels needs to be accompanied by a timeline that clearly says how fast it's going to happen. "That's what we should be looking for."
+</P>
+<P>
+Putting a deadline on phasing out oil and gas production is something that U.S. climate envoy John Kerry publicly rejected in May.
+</P>
+<P>
+All fossil fuels or just 'unabated' ones?
+</P>
+<P>
+While Guterres spoke about phasing out fossil fuels, generally, very few country representatives have talked about either phasing out or phasing down "unabated" fossil fuels.
+</P>
+<P>
+Al Jaber, COP28's president-designate, said in his October speech that phasing down all fossil fuels was inevitable and essential, but most of his references were to "unabated fossil fuels." His conclusion was that keeping 1.5 C of warming within reach "means working toward an energy system free of unabated fossil fuels by mid-century."
+</P>
+<P>
+But what does unabated fossil fuels even mean?
+</P>
+<P>
+There's a general agreement that it refers to oil, gas and coal where carbon emissions aren't captured before reaching the atmosphere.
+</P>
+<P>
+But beyond that, "whatever unabated means is almost in the eye of the beholder," said Jennifer Allan, a researcher at Cardiff University in Wales who has been following climate negotiations for more than a decade for the International Institute for Sustainable Development's Earth Negotiations Bulletin.
+</P>
+<P>
+"It's one of those very useful ambiguous words because it means countries will be more likely to agree if it's more open. But then the challenge is they all go off and do different things thinking that they're fulfilling the [abatement]."
+</P>
+<P>
+Abatement could mean carbon capture and storage (CCS). But even that represents a larger range of technologies, including some that use captured carbon to produce more oil.
+</P>
+<P>
+Many carbon capture projects attempt to capture carbon from places like smokestacks before it reaches the atmosphere. But those vary in the proportion of emissions they manage to capture — for example, calculations by the climate watchdog Global Witness found that Shell Oil's Alberta-based Quest project captured just 48 per cent of the carbon dioxide it produced.
+</P>
+<P>
+Typically, those projects also capture emissions only from fossil fuel production and not the majority released when those fossil fuels are later burned. Capturing the latter emissions requires a more expensive technology called direct air capture.
+</P>
+<P>
+In addition to his role heading COP28, Al Jaber is group CEO of the Abu Dhabi National Oil Company, one of the world's largest oil producers, which has touted its carbon capture projects. Global Witness recently calculated that it would take the company more than 340 years to remove the carbon dioxide it will produce in the next six years using its carbon capture facilities.
+</P>
+<P>
+In a report last week, the International Energy Agency said oil and gas companies need to start "letting go of the illusion" that "implausibly large" amounts of carbon capture is the solution to the global climate crisis. Such companies need to consider diversifying into clean energy rather than simply counting on carbon capture to help them maintain the status quo, it said.
+</P>
+<P>
+Some countries may be open to setting limits on what "unabated" means.
+</P>
+<P>
+David Waskow, director of the World Resources Institute's International Climate Initiative, said in a press briefing that the EU has indicated it's in favour of some language in climate negotiations about how much carbon capture and storage from which sectors and activities should be allowable. Meanwhile, he said, Saudi Arabia has been "resistant to limitations or some acknowledgement of limitations on CCS."
+</P>
+<P>
+Either way, Cardiff University's Allan said she thinks the word "unabated" will likely end up in any agreement on phasing out or phasing down fossil fuels.
+</P>
+</TEXT>
+</DOC>

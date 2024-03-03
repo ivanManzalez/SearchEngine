@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> CB030522-0001 </DOCNO>
+<DATE>
+<P>
+March 05, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Ukraine war sparks fresh worries about North America's own defences; 
+</P>
+<P>
+Canada pledged $163M to upgrade NORAD in 2021, but has done little else: critics
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Russian President Vladimir Putin's decision to put his country's nuclear arsenal on high alert last weekend has sparked hope that Ottawa and Washington will finally act with urgency in upgrading North America's defences.
+</P>
+<P>
+Successive Canadian and American governments have been promising for years to modernize the North American Aerospace Defence Command, or NORAD, which was first created during the Cold War to protect against a Soviet attack.
+</P>
+<P>
+Yet despite increasingly urgent warnings from senior military commanders on both sides of the border about the need to address a growing number of gaps in North America's defences, many are still waiting for Canada to act.
+</P>
+<P>
+NORAD's commander, U.S. Gen. Glen VanHerck, this week highlighted the growing threat that North America faces as Russia and China develop and field long-range weapons that can hit Canada or the United States, and which the current system can't detect.
+</P>
+<P>
+Those include nuclear and non-nuclear weapons such as hypersonic and cruise missiles, which Putin put on high alert last weekend in retaliation for NATO's support of Ukraine.
+</P>
+<P>
+Appearing before a congressional committee on Tuesday, VanHerck said the long-held assumption that Canada and the U.S. could deploy forces at will because of the continent's geographic safety "is eroding — and has been eroding for more than a decade."
+</P>
+<P>
+As adversaries continue to field faster and longer-range weapons, he added, "we must improve our ability to detect and track potential threats anywhere in the world while delivering data to decision-makers as rapidly as possible."
+</P>
+<P>
+Uncertainty over prioritization
+</P>
+<P>
+The federal Liberal government insists that modernizing NORAD is a top priority. To that end, Canada and the U.S. have issued several joint statements over the years affirming the need to upgrade the system. Ottawa also set aside an initial $163 million for the effort last year.
+</P>
+<P>
+Yet while the U.S. has been pressing ahead on a number of fronts — including the deployment of new missile interceptors and artificial intelligence to merge data from a variety of different sources to detect an attack — Canada has been largely silent.
+</P>
+<P>
+"Where do we stand?" said James Fergusson, a political scientist and deputy director of the Centre for Defence and Security Studies at the University of Manitoba in Winnipeg, and one of Canada's leading experts on NORAD. "No one seems to know. Or if they know, they're not saying where we stand."
+</P>
+<P>
+During a trip to Ottawa in December, VanHerck told reporters that he was awaiting political direction on upgrading Canada's key contribution to NORAD, a string of radars built in the Canadian Arctic in the 1980s called the North Warning System.
+</P>
+<P>
+Military officials have been cautioning for years that the North Warning System, which was built to detect Russian bombers approaching North America from over the Arctic, is obsolete because of the development of missiles with increasingly longer ranges.
+</P>
+<P>
+"It's kind of like having a big house and leaving your back two bedrooms unlocked," said retired general Tom Lawson, who was NORAD's deputy commander before serving as Canada's chief of the defence staff from 2012-15.
+</P>
+<P>
+"We can't even see the Canadian Arctic archipelago. You could be doing anything you want flying over there."
+</P>
+<P>
+Asked last week whether VanHerck has been given the needed political direction, Defence Minister Anita Anand said she has had several discussions with U.S. Defence Secretary Lloyd Austin about NORAD modernization and the North Warning System.
+</P>
+<P>
+But she did not provide any other specifics and instead noted that the federal government awarded a $592-million contract in January to an Inuit-owned company, Nasittuq Corp., to operate and maintain the system's long- and short-range radars.
+</P>
+<P>
+New technology on the horizon
+</P>
+<P>
+One of the reasons progress has been slow is the rapid pace of technological change, which makes it difficult to predict what threats the system needs to protect against. That includes the role that cyber defence and space will play in the future.
+</P>
+<P>
+"There's been a lot of background work being done, which of course is not sexy," said Andrea Charron, another leading NORAD expert at the University of Manitoba.
+</P>
+<P>
+"It's looking at over-the-horizon radar systems for North Warning System and in some cases anticipating technology that hasn't actually come into its own yet."
+</P>
+<P>
+But there has also been a sense that while Ottawa says NORAD modernization is a priority, it's not a top priority. This has been evidenced by a virtual lack of dedicated funding for the effort. Its costs were omitted from the Liberal government's defence policy in 2017.
+</P>
+<P>
+Canada's controversial decision not to join the U.S. ballistic missile defence system also continues to cloud talk about the degree to which Canada is willing to help intercept and destroy threats to North America, not just detect them as they approach the continent.
+</P>
+<P>
+Charron said Russia's invasion of Ukraine is an example of the type of event that NORAD commanders and others have long worried about when calling for an upgrade to the system.
+</P>
+<P>
+"Because if Russia felt boxed in, where are they going to hit?" she said. "They're going to hit somewhere that is not very populated, and that speaks to the Arctic. "This is 'escalate to de-escalate."'
+</P>
+<P>
+In other words, the fear is that Russia could launch a limited attack on North America's Arctic and threaten a much bigger onslaught as a way to sue for peace. Alternatively, it could keep the U.S. and Canada from sending reinforcements to NATO allies in Europe.
+</P>
+<P>
+"Ukraine has made NORAD even more important, because we are the back door to NATO," Charron said.
+</P>
+<P>
+The hope for some is that Russia's invasion of Ukraine will serve as the catalyst for Ottawa to make NORAD modernization a true priority, with more dedicated funding in this year's federal budget and moving ahead on some potentially controversial decisions.
+</P>
+<P>
+"Here's a perfect moment to announce that we're coming on board with all forms of ballistic missile defence, and we are going to discuss the positioning of new radar systems and new missile interceptors on Canadian soil," Lawson said.
+</P>
+<P>
+"And, by the way, we are now announcing that we're buying F-35s, the first of which will be delivered four years from now. Now, all of a sudden, you're looking pretty beefy."
+</P>
+</TEXT>
+</DOC>

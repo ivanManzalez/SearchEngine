@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> CB040121-0008 </DOCNO>
+<DATE>
+<P>
+April 01, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Nova Scotia expands COVID-19 vaccine eligibility; 
+</P>
+<P>
+The province reported 3 new COVID-19 cases Thursday
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The number of Nova Scotians eligible for a COVID-19 vaccine is growing.
+</P>
+<P>
+Premier Iain Rankin announced Thursday that people age 70 and older can now book for the Pfizer-BioNTech or Moderna vaccines. 
+</P>
+<P>
+Rankin said new vaccine appointment times have been added for the weeks of April 12 and April 19. 
+</P>
+<P>
+Dr. Robert Strang, the province's chief medical officer of health, said the minimum age to receive the AstraZeneca vaccine is also being lowered.
+</P>
+<P>
+Nova Scotians between the ages of 55 and 59 will be eligible to receive that vaccine starting April 6. Currently, the vaccine is only available to people in the 60 to 64 age group.
+</P>
+<P>
+Pre-screening variants
+</P>
+<P>
+Strang said the province has developed a process to pre-screen COVID-19 variant cases with same-day results, which will allow for widespread testing when a variant case is identified.
+</P>
+<P>
+He said the variant sample still has to be sent to a national lab to identify the specific variant.
+</P>
+<P>
+Three new cases of COVID-19 were announced on Thursday. The number of known active cases in the province is now 24. 
+</P>
+<P>
+Two of the cases are in the central zone. One of those is related to travel outside Atlantic Canada and the other is a close contact of a previously reported case.
+</P>
+<P>
+The third new case is in the western zone and is also related to travel outside Atlantic Canada. The people involved in both travel-related cases are self-isolating.
+</P>
+<P>
+Strang said the province has fared better than many other places. 
+</P>
+<P>
+"Epidemiology remains low and stable, and that is good news given what is happening in a number of provinces across the country," he said.
+</P>
+<P>
+Laboratories in the province completed 4,240 COVID-19 tests on Wednesday.
+</P>
+<P>
+Also as of Wednesday, 106,623 doses of vaccine had been administered, including 28,552 second doses.
+</P>
+<P>
+The premier said more than half of Nova Scotians over 80 and over 85 per cent of health-care workers in the province have received their first dose.
+</P>
+<P>
+Rapid testing in Wolfville
+</P>
+<P>
+A news release from Nova Scotia Health on Thursday said it would offer pop-up rapid COVID-19 testing in Wolfville on Thursday and Friday. 
+</P>
+<P>
+Testing will take place on Thursday at the Wolfville & District Lions Club at 36 Elm Ave. from 10 a.m. to 5:30 p.m. and at the same location on Friday from 11 a.m. to 7 p.m.
+</P>
+<P>
+The release said no appointment is necessary, but people being tested must be at least 16-years-old, not have COVID-19 symptoms and not currently be in quarantine. They must also not have visited a potential exposure location and not have been in contact with anyone who has tested positive.
+</P>
+<P>
+Atlantic Canada case numbers
+</P>
+</TEXT>
+</DOC>

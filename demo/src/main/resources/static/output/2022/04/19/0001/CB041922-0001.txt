@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO> CB041922-0001 </DOCNO>
+<DATE>
+<P>
+April 19, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Energy transition will be challenging in era of public protests, regulatory hurdles; 
+</P>
+<P>
+Overhauling Canada's energy infrastructure in short amount of time will cost hundreds of billions, experts say
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+From carbon capture and hydrogen development to the accelerated rollout of wind and solar power and rapid electrification of transportation systems, the federal government has laid out an ambitious roadmap to get Canada to its climate target of cutting emissions by 40 per cent below 2005 levels by 2030, and net-zero emissions by 2050.
+</P>
+<P>
+But overhauling this country's entire energy infrastructure in a short amount of time represents an unprecedented technical challenge that will cost hundreds of billions of dollars, experts say.
+</P>
+<P>
+And pessimists are quick to point out that Canada doesn't have a good recent track record when it comes to getting ambitious, expensive infrastructure projects over the finish line.
+</P>
+<P>
+In Alberta in particular — where the ghosts of cancelled pipeline projects still haunt the public consciousness — some observers believe this country has lost the political will and spirit of national unity that's required to get big things done.
+</P>
+<P>
+"We've spent a decade making building anything extremely difficult, if not impossible," said Calgary-based energy analyst, oil services sector executive and consultant David Yager.
+</P>
+<P>
+"Canada's recent history suggests these [net-zero] targets are aspirational, to say the least."
+</P>
+<P>
+Troubled Canadian energy projects
+</P>
+<P>
+Yager points to Enbridge Inc.'s proposed Northern Gateway pipeline, which was quashed by the federal Liberals in 2016.
+</P>
+<P>
+In 2017, the proposed $15.7-billion Energy East project was cancelled by TransCanada after being bogged down by regulatory delays, new environmental criteria, and opposition to the line along major sections of the proposed route.
+</P>
+<P>
+Then in 2021, TC Energy's proposed Keystone XL pipeline project was cancelled by U.S. president Joe Biden — the culmination of a decade-plus battle that had pitted the energy industry against environmentalists opposed to the project.
+</P>
+<P>
+There are many other high-profile examples of troubled Canadian energy projects, from the Coastal GasLink pipeline — the construction of which led to rail blockades across the country by Indigenous opponents of the project and their supporters — to Pacific Northwest LNG, a proposed liquefied natural gas terminal in Prince Rupert, B.C., which was scrapped by Malaysia's Petronas and partners in 2017 in part because of concerns raised by local Indigenous groups about the project's impact on salmon spawning grounds in the area.
+</P>
+<P>
+While the Trans Mountain pipeline expansion is going ahead, the costs of that project have ballooned to $21.4 billion after being bought by the federal government for $4.5 billion in 2018.
+</P>
+<P>
+Trans Mountain has been dogged by increased security costs, route changes to avoid culturally and environmentally sensitive areas, and scheduling delays related to permitting processes, among other issues.
+</P>
+<P>
+Running into opposition
+</P>
+<P>
+Opponents of these projects say the cancellations and delays show the need to end reliance on the fossil fuel industry and move toward greener energy production.
+</P>
+<P>
+But it isn't just oil and gas projects that are becoming increasingly difficult to build these days, Yager said. In Ontario, wind farm projects have been cancelled because they pose threats to bat populations.
+</P>
+<P>
+In Quebec, a proposed hydro line that would have carried clean power to Massachusetts was scrapped after residents of tiny Maine refused to allow transmission through their state.
+</P>
+<P>
+"You can't even build a cellphone tower anymore without running into opposition," Yager said. "Where do you think you could put a new hydro dam nowadays? Nowhere."
+</P>
+<P>
+'All of these things will have a footprint'
+</P>
+<P>
+Experts have suggested that Canada will have to double, perhaps even triple, the size of its electricity grid by 2050 in order to meet its net-zero goals.
+</P>
+<P>
+That would require not just new transmission infrastructure, but interprovincial co-operation on new regional interties to help connect areas with access to clean power to areas still reliant on coal.
+</P>
+<P>
+In addition, the federal government wants to increase Canadian production of critical minerals such as copper, aluminum and lithium in order to support a domestic supply chain for the electric vehicle industry.
+</P>
+<P>
+The prospect is daunting, said Warren Mabee, director of the Institute for Energy and Environmental Policy at Queen's University in Kingston, Ont.
+</P>
+<P>
+"All of these things have a footprint, and are going to be a challenge to implement," he said.
+</P>
+<P>
+Political will
+</P>
+<P>
+Canada isn't the only jurisdiction where large-scale infrastructure projects increasingly face regulatory and social licence challenges.
+</P>
+<P>
+It's a similar story in the U.S. and in Europe, Mabee said, adding there's a real risk that companies in the clean energy space will default to the developing world or other jurisdictions where the rules aren't as tight and the public doesn't get as much of a say in where and how things are built.
+</P>
+<P>
+He added he believes it's possible for Canada to advance its net-zero goals, but he said the government will need to clearly communicate what the vision is — and then have the political will to enforce it.
+</P>
+<P>
+"The level of effort that's going to be required will be comparable to the COVID-19 pandemic response," Mabee said.
+</P>
+<P>
+The public interest
+</P>
+<P>
+But Donna Kennedy-Glans, a former oil industry executive who served as Alberta's associate minister for electricity and renewable energy from 2013 to 2014, said she doesn't think projects carried out in the name of energy transition will come up against the same kind of hurdles that the oil and gas industry has faced in recent years.
+</P>
+<P>
+She said while there are certainly people who oppose large-scale wind and solar farms, some of the biggest renewable energy projects in the world are blossoming across Alberta right now, and in general, the regulatory process has gone smoothly.
+</P>
+<P>
+"Very few people are stepping up to try to stop this ... the people who complain are being viewed as being opposed to green energy, and that's really not a comfortable space to be in," Kennedy-Glans said.
+</P>
+<P>
+She added that she believes even the large-scale expropriation of private land for new transmission lines, for example, will face relatively little political and regulatory pushback if it's carried out in the name of climate change.
+</P>
+<P>
+"There will be a different level of political will to see that done," Kennedy-Glans said. "I do think that people in affected communities will be upset by it ... but it's going to come down to a question of 'is this in the public interest and is it the right thing to do?'"
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> CB011521-0002 </DOCNO>
+<DATE>
+<P>
+January 15, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canadian home sales see a record December — and a record 2020; 
+</P>
+<P>
+Sales up 47% in December compared to 2019 and average home price was a record $607,280
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+National home sales set an all-time record in December, the Canadian Real Estate Association reported Friday.
+</P>
+<P>
+Sales were up 47.2 per cent compared to December 2019, the largest year-over-year increase in monthly sales in 11 years.
+</P>
+<P>
+The spike in sales from November to December, 7.2 per cent, was driven by gains of more than 20 per cent in the Greater Toronto Area (GTA) and Greater Vancouver.
+</P>
+<P>
+It was a new record for the month of December by a margin of more than 12,000 transactions.
+</P>
+<P>
+For the sixth straight month, sales activity was up in almost all Canadian housing markets compared to the same month in 2019.
+</P>
+<P>
+It was also a record for the entire year.
+</P>
+<P>
+Average home price up 17%
+</P>
+<P>
+Almost 552,000 homes traded hands over Canadian MLS systems — a new annual record. It was an increase of 12.6 per cent from 2019 and 2.3 per cent more than the previous record year, 2016. 
+</P>
+<P>
+The actual national average home price was a record $607,280 in December, up 17.1 per cent from the final month of 2019.
+</P>
+<P>
+The CREA said that excluding Greater Vancouver and the Greater Toronto Area, two of the most active and expensive markets, lowers the national average price by almost $130,000.
+</P>
+<P>
+Many of the areas with the biggest price gains last month were in Ontario, including Belleville, Simcoe, Ingersoll, Woodstock and the Lakelands region, where prices were up more than 30 per cent from December 2019.
+</P>
+<P>
+Areas with more modest price growth included Calgary and Edmonton, where prices rose 1.5 per cent and 2.7 per cent, respectively.
+</P>
+<P>
+TD expects sales and prices to cool
+</P>
+<P>
+"What a fitting end to a surprisingly strong year," TD Bank economist Rishi Sondhi said in a note to clients. "Relative strength in high-wage employment, record low mortgage rates, rising supply of homes available for purchase and solid demand for larger units all supported exceptional sales and price growth last year.
+</P>
+<P>
+"Looking ahead, we're expecting sales and prices to cool somewhat from their robust pace in the first quarter. However, December's surprisingly strong performance makes hitting our forecast a tougher proposition."
+</P>
+<P>
+Shaun Cathcart, CREA's senior economist, said in a statement that Canada faces a "major supply problem" in 2021.
+</P>
+<P>
+"On New Year's Day there were fewer than 100,000 residential listings on all Canadian MLS systems, the lowest ever based on records going back three decades," he said.
+</P>
+<P>
+"Compare that to five years ago, when there was a quarter of a million listings available for sale. So we have record-high demand and record-low supply to start the year. How that plays out in the sales and price data will depend on how many homes become available to buy in the months ahead."
+</P>
+</TEXT>
+</DOC>

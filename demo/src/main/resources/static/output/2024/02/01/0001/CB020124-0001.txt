@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> CB020124-0001 </DOCNO>
+<DATE>
+<P>
+February 01, 2024
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Carbon capture tax credit could cost taxpayers $1B more than expected, PBO warns; 
+</P>
+<P>
+Carbon capture tax credits are uncapped and costs could end up being higher
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A controversial tax credit meant to help jump-start carbon capture projects could cost $1 billion more than the federal government estimated, says the independent parliamentary budget watchdog.
+</P>
+<P>
+In several federal budgets, Finance Canada forecast that the carbon capture, utilization and storage (CCUS) investment tax credit would cost $4.6 billion between 2022-28. The Parliamentary Budget Officer now estimates the CCUS investment tax credit will cost $5.7 billion.
+</P>
+<P>
+Carbon capture has been proposed as a way for the oil and gas industry to continue production without driving climate change. While the government has not made carbon capture mandatory for heavy industry, it has been embraced by emissions-intensive industries like cement production as a way to maintain production while cutting emissions.
+</P>
+<P>
+But the technology hasn't shown itself capable of scaling up to capture a sufficient amount of carbon emissions — and it's expensive.
+</P>
+<P>
+The organization Environmental Defence, which has criticized the CCUS tax credit, notes that the credit is uncapped and could end up costing more than the PBO estimates.
+</P>
+<P>
+"Carbon capture and storage is a dangerous distraction being promoted by the oil and gas industry to prolong business as usual," said Julia Levin, Environmental Defence's national climate associate director.
+</P>
+<P>
+"These tax credits are being designed without a ceiling. That means the final cost for Canadian taxpayers could end up being much, much more significant."
+</P>
+<P>
+A spokesperson for Finance Minister Chrystia Freeland defended what the government calls a "historic investment" in Canada's "clean economy."
+</P>
+<P>
+"Carbon capture, utilization and storage is essential to reducing Canada's emissions," said Katherine Cuplinskas, Freeland's senior communications adviser and press secretary. "We know that Canada cannot afford to miss out on this economic opportunity, and we want to incentivize businesses to reduce their emissions as soon as possible."
+</P>
+<P>
+The CCUS credit program will offer investors a tax credit of 37.5 to 60 per cent of their investments in direct air capture equipment and carbon transportation, storage and usage equipment. Alberta, Saskatchewan and British Columbia are the three jurisdictions where investors are eligible for the credit.
+</P>
+<P>
+Oilsands companies have banded together to propose a $16.5-billion carbon capture and storage project in northern Alberta that they say will help them reach net-zero emissions on production by 2050.
+</P>
+<P>
+Announced in budget 2021, the carbon capture investment tax credit is not yet active. It will take effect once Parliament passes enabling legislation; the plan is to make it retroactive to 2022.
+</P>
+<P>
+The PBO relied on confidential data from Natural Resources Canada (NRCan) and Finance Canada that was based on anonymized current and proposed projects.
+</P>
+<P>
+The PBO also released its estimate of the cost of Ottawa's clean hydrogen investment tax credit. The PBO projects the tax credit will cost the federal government $5.7 billion. In budget 2023, the government estimated it would cost $5.5 billion.
+</P>
+<P>
+There are eight commercial carbon capture facilities in Canada, says Natural Resources Canada. The facilities capture only about 0.5 per cent of the country's total annual emissions, according to the International Institute for Sustainable Development.
+</P>
+</TEXT>
+</DOC>

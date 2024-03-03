@@ -1,0 +1,156 @@
+<DOC>
+<DOCNO> CB081723-0001 </DOCNO>
+<DATE>
+<P>
+August 17, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Our oceans are the warmest in recorded history. This is why it's so concerning; 
+</P>
+<P>
+'What happens in the oceans doesn't stay in the oceans,' says NASA scientist
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our oceans are running a fever. And just like when we run a fever, it's indicative that something is very wrong.
+</P>
+<P>
+On Monday, the National Oceanic and Atmospheric Administration (NOAA) reported that July ocean temperatures were the hottest they've ever been. 
+</P>
+<P>
+"The last 10 years have been the warmest since the 1880s. And all this increase in temps are not only felt at the surface of the ocean, but they can [also] be detected at thousands of metres depth," Carlos Del Castillo, chief of NASA's Ocean Ecology Laboratory at the Goddard Space Flight Center said during a press conference.
+</P>
+<P>
+"And there are consequences — as the ocean heats, the water expands, and when you combine that with the melting of ice over land, that contributes to the increase in sea level rise — which are accelerating."
+</P>
+<P>
+Consequences are increases in coastal flooding, coastal erosion, and marine species of economic importance migrating further north to colder waters.
+</P>
+<P>
+And Del Castillo warned: "What happens in the oceans doesn't stay in the oceans."
+</P>
+<P>
+It's a sobering reminder that our planet is more than 70 per cent water, that these waters help drive climate around every part of the world. 
+</P>
+<P>
+And scientists are trying to better understand how our oceans — including natural variations — are being affected by increased greenhouse gasses in our atmosphere.
+</P>
+<P>
+Here are just a few of the ways in which our oceans are being affected by climate change.
+</P>
+<P>
+Hot oceans, struggling marine life
+</P>
+<P>
+Just recently, the waters off the coast of southern Florida reached about 38 C, concerning scientists, as they witnessed corals that had essentially burned to death.
+</P>
+<P>
+Previous marine heat waves, including the longest on record, nicknamed "the Blob" in the north Pacific, hurt wild salmon and other fish, killed off swathes of kelp forests and was linked toxic algal blooms and sea-star wasting disease.
+</P>
+<P>
+One of the biggest roles our oceans play in terms of our planet is its role in heat absorption. In fact, our oceans store roughly 90 per cent of our planet's heat.
+</P>
+<P>
+To put it in perspective, earlier this year, Tim Boyer, an oceanographer with NOAA's National Centers for Environmental Information, told CBC News that should the top 1,000 metres of the ocean drop in temperature by just 0.1 C, the heat released into our atmosphere would result in an increase of 100 C of global temperature. Of course, that's not going to happen, but it provides a glimpse as to just how much heat is taken in.
+</P>
+<P>
+The concern is that the heat contained in the ocean won't stay there forever and will gradually be released further contributing to global warming.
+</P>
+<P>
+Another concern is something called ocean acidification. As the water absorbs more CO2, it causes a chemical reaction that increases its acidity.
+</P>
+<P>
+More acidic water makes it harder for shellfish such as clams, oysters and corals to make their shells. And right now, the oceans are already 20 per cent more acidic than they were at the start of the industrial era, Del Castillo said.
+</P>
+<P>
+This process also causes ocean stratification, where water is prevented from mixing, resulting in less oxygen for marine life at deeper depths. 
+</P>
+<P>
+Though it's concerning for marine life, it also has a big impact on the fishing industry. According to the International Atomic Energy Agency (IAEA), "It is estimated that up to three billion people dependent on marine and coastal biodiversity for their livelihoods could be impacted by ocean acidification. Large shellfish industries are also threatened."
+</P>
+<P>
+El Niño-Southern Oscillation (ENSO)
+</P>
+<P>
+By now, most people have likely heard of either La Niña or El Niño, as we have just come out of three consecutive years of La Niña, and have now entered the El Niño phase. But what does it all mean?
+</P>
+<P>
+The El Niño-Southern Oscillation (ENSO) is a naturally occurring — and recurring — oceanic phenomenon that is coupled with the atmosphere. It has three phases: La Niña, El Niño and the neutral phase. The cycle runs roughly every three to seven years. And it's part of another naturally occurring cycle called the Pacific Decadal Oscillation (PDO), which takes place over a longer timeframe.
+</P>
+<P>
+In the La Niña phase, a region of the central and eastern tropical Pacific Ocean cools by roughly 1 C to 3 C. In an El Niño phase, the same region can warm by the same amount. And in neutral years, the temperatures remain near normal.
+</P>
+<P>
+But these phenomena don't just have an effect in the region: they affect the entire planet. For example, La Niña can bring higher rainfall to Indonesia and less rainfall to parts of the central and tropical Pacific. 
+</P>
+<P>
+El Niño, decreases rainfall in the same region while warming other parts of the world, including parts of Canada. And in an already warming world, El Niño can increase global temperatures.
+</P>
+<P>
+"Given the ongoing, incipient El Niño event in the tropical Pacific, we expect that ... the rest of 2023 will start to break records, too," Gavin Schmidt, director of NASA's Goddard Institute for Space Studies said in a NASA video session on Monday.
+</P>
+<P>
+"2023 might not quite be the warmest year on record, but it will be very close. And 2024 will likely be the warmest on record."
+</P>
+<P>
+While these are naturally occurring phases of the ocean and atmospheric response, what's concerning to many scientists is the upward temperature trend of both La Niña and El Niño.
+</P>
+<P>
+"The one thing that we know, all else being equal, an El Niño event today is warmer around the world than an identical event 100 years ago, because of climate change," said Simon Donner, a climate scientist and professor at the University of British Columbia. "And the same is true for a La Niña event." 
+</P>
+<P>
+What's important to note, however, is that the 10 hottest years on record for the globe have all occurred since 2014, whether the tropical Pacific has been in an El Niño, La Niña or neutral phase.
+</P>
+<P>
+Atlantic Meridional Overturning Circulation (AMOC)
+</P>
+<P>
+Our oceans have many currents that circle the planet. One of the most important is the Atlantic Meridional Overturning Circulation (AMOC). 
+</P>
+<P>
+In this process, warm surface water that originates from the equator travels along this sort of conveyor belt towards the Arctic. It's the reason why England has warmer weather than Atlantic Canada.
+</P>
+<P>
+It then cools and sinks to the deep ocean before travelling back down to the equator, where it eventually comes back up to the surface. The whole process takes roughly 1,000 years.
+</P>
+<P>
+But there is been some some concern that AMOC is slowing down, which could dramatically cool parts of Europe.
+</P>
+<P>
+"There is evidence that it has weakened, since like the mid–2000s; that the circulation has slowed down a little bit," Donner said. "And if you look into climate models, in every scenario, they do show evidence that it's going to continue to decline going forward into the future, particularly in the scenarios where there's even more warming. But scientists are pretty confident this doesn't mean that would be an abrupt collapse."
+</P>
+<P>
+However, last week a study published in the journal Nature suggested that we may see a collapse by the mid–century, both due to natural variability and human-caused warming, specifically, the acceleration of melting glaciers. As the cold freshwater melts into the ocean, it causes a destabilizing effect in the circulation.
+</P>
+<P>
+However, the findings are in contrast with the latest IPCC report which said it that it is "expected to slow over the coming centuries." But once again, scientists are trying to better understand AMOC and the potential role that ocean warming and glacier melt will play in its circulation.
+</P>
+<P>
+The polar regions
+</P>
+<P>
+The Arctic is warming at roughly three times that of the planet, which has cascading effects. First, and most importantly, the Arctic plays a major role in cooling our planet. 
+</P>
+<P>
+The Arctic Ocean has typically been covered with thick ice that reflects the sun's radiation back into space. But with more CO2 and other greenhouse gases pumped into the air, it warms the planet, and melts that ice, leaving the dark ocean surface uncovered. This further lends to more melting and thinning of that crucial polar ice, which in turn speeds up the warming. It's what scientists refer to as a "positive feedback loop."
+</P>
+<P>
+"The projections going forward in the future is that right now, we're expecting that by mid–century, there will start to be summers where there's no ice in the Arctic or will be practically ice-free," Donner said.
+</P>
+<P>
+It's of particular concern to the melting glaciers of Greenland which then feed into the ocean contributing to the disruption of AMOC.
+</P>
+<P>
+All that melting Arctic ice would amplify global warming, which has cascading effects on wildlife and vital ecosystems, and deeply impact the Inuit who have relied on the region's stability for thousands of years.
+</P>
+<P>
+The Antarctic, on the other hand, is an entirely different beast. Rather than an ocean, Antarctica is a massive continent with ice sheets. Parts of the Antarctic are warming, and as those ice sheets melt, they end up in the ocean. And there's the fear that, with increasing global temperatures, if massive amounts of ice end up in the oceans it could cause major sea level rise.
+</P>
+<P>
+Since 2002, Antarctica has lost roughly 147 billion tonnes of ice per year. Global sea level has already risen by 98 mm since 1998. But the fear is if Greenland and Antarctic continue to melt, that sea level could rise dramatically. Even today, island nations in the Pacific are facing an existential threat.
+</P>
+</TEXT>
+</DOC>

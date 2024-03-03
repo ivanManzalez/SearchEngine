@@ -1,0 +1,150 @@
+<DOC>
+<DOCNO> CB093023-0002 </DOCNO>
+<DATE>
+<P>
+September 30, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+140,000 Nova Scotians are waiting for a family doctor. Can virtual care help?; 
+</P>
+<P>
+Patients can virtually meet a doctor or nurse practitioner and be referred to a local, in-person clinic
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+When Leah deForest and Donald McLennan moved to Nova Scotia in 2021, they knew their names would be low on the province's Need a Family Doctor registry.
+</P>
+<P>
+"When you get into the province and you apply for your health card, you get added to a list," deForest told White Coat, Black Art host Dr. Brian Goldman. "And when we were on this list, we knew from the onset that there were many tens of thousands of people ahead of us.
+</P>
+<P>
+"I had that terrible feeling that it would be some time before we got a doctor."
+</P>
+<P>
+More than 142,000 Nova Scotians — over 14 per cent of the population — are on a waitlist for a family doctor in the province as of Sept. 1. The majority are like deForest and McLennan — "new to the area." 
+</P>
+<P>
+Before virtual care was made more widely available, deForest and McLennan say they heard of patients visiting walk-in clinics and even emergency departments just to refill standard prescriptions. Virtual care introduced early in the pandemic, however, made it easier for patients to see doctors. 
+</P>
+<P>
+Now, as some provinces move away from virtual care, Nova Scotia is prioritizing it for residents waiting on a family doctor. 
+</P>
+<P>
+Virtual Care Nova Scotia offers unattached patients access to doctors and nurse practitioners via an app or website by Canadian tech startup Maple. Those patients can also be referred to a network of in-person clinics across the province when a video or phone call isn't adequate.
+</P>
+<P>
+It's a program that hasn't been without challenges — some patients have reported waiting hours or days to get an appointment on the virtual platform.
+</P>
+<P>
+But both deForest and McLennan, who moved from Winnipeg to Martins Brook, N.S., have relied on the service for day-to-day health concerns, as well as referrals for an EKG after chest pain and treatment following a tick bite, respectively.
+</P>
+<P>
+"It's a lifeline for us, as simple as that," said McLennan. 
+</P>
+<P>
+Clinics offer in-person care
+</P>
+<P>
+About 20 per cent of people who speak with a medical professional on Maple are referred to one of the province's 33 in-person clinics, which serve both existing and virtual patients.
+</P>
+<P>
+At those clinics, patients can get a physical examination, access test results and receive ongoing care for chronic illnesses, such as diabetes or heart disease — even without a dedicated family physician.
+</P>
+<P>
+"We don't just see these patients for one particular visit. We manage whatever their current health need is," said Stacy Lillington, a nurse practitioner at the Kearney Lake Clinic in Halifax.
+</P>
+<P>
+"So if … their chronic diseases are poorly managed, we're going to follow them for a period of time to optimize medications, to optimize any co-ordination of care with community resources."
+</P>
+<P>
+Once a patient's health is better managed, they will be sent back to virtual care via Maple.
+</P>
+<P>
+"Overall, I think we have a very positive response for the patients that walk through this clinic," said Elizabeth Hobson, who is also a nurse practitioner at the clinic.
+</P>
+<P>
+As a virtual care doctor, Dr. Norm Pinsky says he can connect with patients from his home — preferably by video.
+</P>
+<P>
+"Video is much more important than phone because you can see someone," said Pinsky.
+</P>
+<P>
+"You can see their expressions, you can see their disabilities, and you actually feel like you've met them. And to tell you the truth, I have met very interesting people."
+</P>
+<P>
+Because doctors on the platform are paid by the hour, Pinsky says he can spend more time with patients. And when he can't diagnose someone virtually, Pinsky will send the patient to one of the province's in-person clinics.
+</P>
+<P>
+Every few days, he will send someone to the emergency department armed with a letter detailing the reason for their visit.
+</P>
+<P>
+"If I'm uncomfortable at all with the diagnosis, I will send them away somewhere. I won't take any chances at all. Never," he said.
+</P>
+<P>
+'It's about adding capacity'
+</P>
+<P>
+Pinsky says that while many of the patients he sees are waiting for a family doctor, Virtual Care Nova Scotia is filling an important gap in the province's health-care system.
+</P>
+<P>
+"They're all waiting for family doctors, they're all glad when they get a family doctor, but this is just a great bridge until then," he said.
+</P>
+<P>
+Dr. Colin Audain, president of medical association Doctors Nova Scotia, calls the virtual care program a "good interim measure."
+</P>
+<P>
+"One of the biggest things that we need to do is to focus on — and [that the government] have been focusing on, I believe — is to recruit and retain sufficient numbers of family doctors to take on these patients. But as you can imagine, that takes time," he told CBC.
+</P>
+<P>
+"So something like virtual care in Nova Scotia is a way to mitigate the circumstances until we get to a point where we feel like we have a critical mass of family doctors."
+</P>
+<P>
+Inviting retired doctors, like Pinsky, to service the platform was part of a plan to ensure Virtual Care Nova Scotia doesn't take away capacity from an already burdened system.
+</P>
+<P>
+"Even today, we always say it's not about removing capacity, it's about adding capacity," said Dr. Tara Sampalli, senior scientific director at Nova Scotia Health's Health Innovation Hub.
+</P>
+<P>
+The group is piloting multiple virtual care programs in the province, including a program offering virtual urgent care.
+</P>
+<P>
+"So those are the providers who love to be part of innovative models. They want to come and give back, and it also creates a bit of mentorship for the new providers who are coming."
+</P>
+<P>
+Sampalli admits the province still has work to do in building capacity.
+</P>
+<P>
+"We keep hearing we still have a long way to go in terms of improvements," she said. 
+</P>
+<P>
+"But now, everybody on the registry has access, so there is no criteria to be met. If you are on the [family doctor] registry, you have access to Virtual Care Nova Scotia."
+</P>
+<P>
+More doctors needed
+</P>
+<P>
+Ultimately, the goal of Virtual Care Nova Scotia is not to replace the family practice system, Sampalli says, but to strengthen it until they can build up capacity for the tens of thousands awaiting a doctor.
+</P>
+<P>
+"I would say people, first of all, fundamentally need access to primary care," she told Goldman. 
+</P>
+<P>
+"Primary health care is the foundation and has to be as strong as it can be…. We are always seeing what is a follow through as we are working through building the capacity for every person to have access to a primary care provider."
+</P>
+<P>
+Earlier this month, DeForest and McLennan's numbers were matched with a family doctor about 30 minutes away from their home. They'll meet their new physician in mid-October.
+</P>
+<P>
+While the couple had considered sticking with the virtual care program, deForest says having a family doctor is essential.
+</P>
+<P>
+"I can remember a doctor coming to the house as a child," she said. "Maybe it's full circle to having the doctor on your computer."
+</P>
+<P>
+"But … I still think that people need that rapport and that one-on-one experience [of] having a personal doctor. I just don't think you can replace that."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> CB081023-0001 </DOCNO>
+<DATE>
+<P>
+August 10, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Federal net-zero electricity regulations will permit some natural gas power generation; 
+</P>
+<P>
+Ottawa releases its Clean Electricity Regulations
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+After facing pushback from Alberta and Saskatchewan, Canada's draft net-zero electricity regulations — released today — will permit some natural gas power generation. 
+</P>
+<P>
+Environment Minister Steven Guilbeault released Ottawa's proposed Clean Electricity Regulations on Thursday.
+</P>
+<P>
+Provinces and territories will have a minimum 75-day window to comment on the draft regulations. The final rules are intended to pave the way to a net-zero power grid in Canada by 2035. 
+</P>
+<P>
+Calling the regulations "technology neutral," Guilbeault said the federal government believes there's enough flexibility to accommodate the different energy needs of Canada's diverse provinces and territories. 
+</P>
+<P>
+"What we're talking about is not a fossil fuel-free grid by 2035; it's a net zero grid by 2035," Guilbeault said. 
+</P>
+<P>
+"We understand there will be some fossil fuels remaining … but we're working to minimize those, and the fossil fuels that will be used in 2035 will have to comply with rigorous environmental and emission standards," he added. 
+</P>
+<P>
+While non-emitting sources of electricity — hydroelectricity, wind, solar and nuclear —  should not have any issues complying with the regulations, natural gas plants will have to meet specific criteria.
+</P>
+<P>
+Those operations, the government said, will need to emit the equivalent of 30 tonnes of carbon dioxide per gigawatt hour or less annually.
+</P>
+<P>
+Federal officials said existing natural gas power plants could comply with that performance standard with the help of carbon capture and storage systems, which would be required to sequester 95 per cent of their emissions.
+</P>
+<P>
+"In other words, it's achievable, and it is achievable by existing technology," said a government official speaking to reporters Thursday on background and not for attribution.
+</P>
+<P>
+The regulations will also allow a certain level of natural gas power production without the need to capture emissions. Capturing emissions will be exempted during emergencies and peak periods when renewables cannot keep up with demand. 
+</P>
+<P>
+Some newer plants might not have to comply with the rules until the 2040s, because the regulations apply to plants 20 years after they are commissioned. 
+</P>
+<P>
+The two-decade grace period does not apply to plants that open after the regulations are expected to be finalized in 2025.
+</P>
+<P>
+As well, remote and northern communities not connected to the main power grid, which tend to rely on diesel, won't have to suddenly switch to solar or wind, according to the regulations, as there would be exceptions in those places.
+</P>
+<P>
+Overall, Environment Canada says these regulations should result in a cumulative reduction in emissions from 2024-2050 of the equivalent of 342 megatonnes of carbon dioxide.
+</P>
+<P>
+The Canadian Climate Institute says Canada's electricity generation capacity will need to double or triple by 2050.
+</P>
+<P>
+The federal government states that its modelling shows more than $400 billion is needed to replace aging facilities and expand generation capacity. Without such investments, the government suggests, Canada may be unable to respond to the pressure placed on the system from electric heating and cooling systems, electric vehicles and population and economic growth. 
+</P>
+<P>
+As outlined in the 2023 federal budget, it's backed by a more than $40-billion commitment over the next decade to support Canada's clean electricity sector through tax measures, public financing and grant contributions.
+</P>
+<P>
+Some of this money would be tied to the provinces and territories, demonstrating they are committed to Ottawa's 2035 net-zero electricity grid.
+</P>
+<P>
+The regulations follow similar proposals made by other G7 countries, including the U.S. under the Biden administration, through its Environmental Protection Agency. 
+</P>
+<P>
+Alberta, Saskatchewan and Nunavut raise concerns 
+</P>
+<P>
+Canada's power grid is more than 80 per cent non-emitting, thanks to its reliance on hydroelectric, nuclear, wind and solar generation. Power generation from biomass, petroleum and the soon-to-be phased out coal accounted for almost eight per cent (52 megatonnes of carbon dioxide equivalent) of the country's total emissions in 2020.  
+</P>
+<P>
+Ahead of the release of the draft regulations, some Prairie provinces and Nunavut have said they have concerns.
+</P>
+<P>
+Speaking to reporters Thursday, Alberta's Environment Minister Rebecca Schulz called the proposed regulations a "bait and switch."
+</P>
+<P>
+"The draft regulations are unconstitutional, irresponsible, unrealistic ... they will not be implemented in our province. Period," Schulz said.
+</P>
+<P>
+"What we're seeing is mixed messages and contradiction from the federal government. They say this addresses affordability and reliability, but then they put provisions in these regulations that do the exact opposite."
+</P>
+<P>
+The Saskatchewan government also recently echoed those worries, committing instead to a net-zero power generation goal by 2050 — 15 years later than the federal target. 
+</P>
+<P>
+"In Saskatchewan, we will not attempt the impossible when it comes to power production in our province. We will not risk plunging our homes, our schools, our hospitals, our special-care homes, our businesses into the cold and darkness because of the ideological whims of others," said Saskatchewan Premier Scott Moe in May. 
+</P>
+<P>
+The Nunavut government, whose 25 remote communities span across a vast land, relying on diesel for electricity, is also critical of the federal government's proposal.
+</P>
+<P>
+"Obviously, it is a major concern for us not having the different option to provide firm power to our communities," Nunavut Premier P.J. Akeeagok told CBC News. "Solar and wind, as great as they are, provide intermittent power that just doesn't sustain the environment that we are in."
+</P>
+<P>
+Akeeagok said the territory ultimately wants to get off diesel and transition to non-emitting power sources that are affordable and reliable. 
+</P>
+<P>
+Nunavut is calling on the federal government to financially back projects like the Kivalliq Hydro-Fibre link, which would connect some communities in the central part of the territory to Manitoba. Another hydro project would power the capital city, Iqaluit.
+</P>
+</TEXT>
+</DOC>

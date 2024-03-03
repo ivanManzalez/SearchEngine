@@ -1,0 +1,153 @@
+<DOC>
+<DOCNO> CB103019-0001 </DOCNO>
+<DATE>
+<P>
+October 30, 2019
+</P>
+</DATE>
+<HEADLINE>
+<P>
+OPINION | Alberta's TIER regulations good on electricity, not so good on oilsands; 
+</P>
+<P>
+Kenney's UCP gets serious with new emissions policy
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Alberta's government announced new greenhouse gas emissions policies — the Technology Innovation and Emissions Reduction (TIER) regulations — Tuesday afternoon. This is serious policy, not the complete abdication of action on climate change many will expect from Jason Kenney's government.
+</P>
+<P>
+Could the policy be improved? Sure, and I'll offer some suggestions to do so. But don't dismiss this plan.
+</P>
+<P>
+TIER represents the third major overhaul of Alberta's climate policy since 2015.
+</P>
+<P>
+Alberta has had industrial carbon pricing since 2007, when the government of then premier Ed Stelmach, fearing that Stephen Harper would enact sweeping climate change legislation (yes, really), introduced the Specified Gas Emitters Regulation (SGER).
+</P>
+<P>
+The SGER imposed a carbon price of $15 per tonne on facilities with emissions of more than 100,000 tonnes per year — about 100 facilities at that point.  
+</P>
+<P>
+That policy remained in place, largely unchanged, until June of 2015, when the Rachel Notley government announced increases in the price and other changes which took effect in 2016, and then further increases in 2017.
+</P>
+<P>
+The Notley government, based on the recommendations of a panel chaired by yours truly, then modified Alberta's policies further both by introducing a consumer carbon price and by changing the design of the industrial carbon emission policy (and introducing another acronym) to the Carbon Competitiveness Incentive Regulation (CCIR). 
+</P>
+<P>
+Industrial emissions policies in Alberta have consistently relied upon what has come to be known as output-based pricing. For the record, I hate the term.
+</P>
+<P>
+In these systems, regulated facilities pay a carbon price on emissions, but they also receive emissions credits in proportion to their output — the more they produce, the more emissions credits they receive — and these credits reduce their total costs, which helps with their international competitiveness.  
+</P>
+<P>
+The premise behind such programs is solid: we want facilities to reduce their emissions rather than shifting their output to other jurisdictions without carbon pricing, and so we reward what we want (output) and penalize what we don't (emissions).  
+</P>
+<P>
+Want it in less boring terms?
+</P>
+<P>
+Think of these policies as the government sending companies a bill for their carbon emissions and writing giant novelty cheques to subsidize output.
+</P>
+<P>
+Who is affected by the new TIER regulations?
+</P>
+<P>
+About 120 facilities will be required to participate in this plan. The graph below shows emissions from those, as well as the 500 additional facilities which will be eligible to opt in directly (those with emissions of more than 10,000t per year).
+</P>
+<P>
+The government is proposing to allow some smaller facilities, mostly in oil and gas, to aggregate their emissions and opt in as well. When I advised Premier Notley on her policies, the opt in was part of our recommendations too, and I still think that's good policy.
+</P>
+<P>
+What's the best part about this plan? The bills and cheques in Kenney's TIER policy handle electricity extremely well, and for that reason, I'm supportive of the policy overall, although I'd rather see the previous CCIR left in place entirely.
+</P>
+<P>
+Electricity is the second-largest source of emissions in Alberta, after oil and gas, and Alberta's electricity emissions are more than half of Canada's total electricity sector emissions, so policies there matter a lot. 
+</P>
+<P>
+A level playing field
+</P>
+<P>
+What does TIER do that's so good?  It levels the playing field across all sources of power. Emissions from all sources will be charged $30/tonne, and all generation will receive output-based credits at the same rate (370 kg of emissions credit per MWh produced). This is the same formula used in the previous government's CCIR policy.
+</P>
+<P>
+Given the choice between Kenney's TIER and the federal carbon price on power, I'd choose the Kenney plan.
+</P>
+<P>
+Why? The federal approach gives more emissions credits (larger novelty cheques!) per unit output to coal (650kg per MWh in 2020) than to gas power (370kg per MWh), and provides nothing to new or existing renewable power sources.
+</P>
+<P>
+Yes, higher-emissions plants pay more in carbon prices, but giving larger subsidies to coal power generation reduces the effectiveness of the policy.
+</P>
+<P>
+How many of you were betting that Jason Kenney's carbon pricing plan would be worse for coal plants than Justin Trudeau's? On this measure, Kenney's wins by more than $10/MWh. It's not too late for you to fix that, Prime Minister Trudeau!
+</P>
+<P>
+Under Kenney's plan, the cost advantage for low-emissions generators in the Alberta market remains exactly the same as if there were a carbon tax on electricity.
+</P>
+<P>
+TIER vs. a carbon tax
+</P>
+<P>
+So, what's the difference between this and a carbon tax? You don't get a large increase in electricity prices flowed through to consumers. Some will say that's bad news because consumers don't have the same conservation incentive as they would with a pure carbon tax, and that's true. But, this is still a much better policy than any realistic alternative. 
+</P>
+<P>
+I'm less thrilled with how TIER handles oilsands and other industrial emitters, because it abandons the approach that works so well for power.
+</P>
+<P>
+For oilsands and other industrial sources, Kenney's plan provides more emissions credits per unit output to facilities with higher historic emissions intensities — it rewards exactly what we want to avoid. 
+</P>
+<P>
+There will be those who jump on this plan and say that since facilities are provided free emissions credits, this is not truly a $30 per tonne carbon price. That's not really, or at least not always, true. If facilities reduce their emissions by one tonne, all else equal, they reduce their costs by $30. That's good — the carbon price rewards improvement which is part of what we want to see.
+</P>
+<P>
+Backwards signal on innovation
+</P>
+<P>
+But we also want to see innovation in new facilities. For oilsands in particular, where production growth is still expected, companies need to see a value from deploying the best technology. 
+</P>
+<P>
+Under the previous CCIR system, the full $30/tonne carbon price would have factored into the financial value of innovation in new facilities as well as for improvements in existing facilities.
+</P>
+<P>
+TIER makes emissions-reducing innovation less advantageous than it would be under CCIR, since the better performing your new facility is, the lower your emissions credits will be every year for as long as the policy remains in place. Thanks for lowering your emissions. Now you get smaller novelty cheques than your competitors as part of our climate change program. The signal is backwards.
+</P>
+<P>
+What's the bottom line? The change from CCIR to TIER is a transfer of hundreds of millions of dollars per year which benefits primarily the highest emitting facilities in the province, and a significant reduction in the value of innovative, emissions-reducing technology.
+</P>
+<P>
+The good news? This is a problem that's easy to fix: level the playing field in oilsands the same way the policy does for electricity. That's it.
+</P>
+<P>
+A plan that could backfire
+</P>
+<P>
+There will be those who can't get past the Kenney government's cancellation of the carbon tax on consumers and his campaign against the federal carbon pricing legislation. That's fair ball, but I think that arguing with Kenney the populist is the wrong play here — whether we agree or not, Kenney won an election on a promise to repeal the carbon price on consumers.  
+</P>
+<P>
+We need Kenney the strategist to think through the messages his policy is sending: the way to reduce emissions is by imposing pricing only on large emitters. I hope Premier Kenney thinks about how those words would sound coming from Prime Minister Trudeau.
+</P>
+<P>
+As of 2017, there were 314 industrial facilities in Canada that met the Alberta definition of a large, industrial emitter and 114 of them are in Alberta. Of the 253 Mt of emissions from these facilities, more than half (142 Mt) are from Alberta facilities. Any national approach that hangs the responsibility for emissions reduction on large, industrial facilities is going to backfire on Alberta in a big way, and our premier should not be encouraging it.
+</P>
+<P>
+I'm glad to hear that our government is going to consult on means to reduce emissions in Alberta's other sectors. They'll have no shortage of economists telling them the most cost-effective means to do that.
+</P>
+<P>
+Let me offer instead a different reminder to the premier: if you want emissions from our oilsands to be treated in the same way as emissions from cars on the 401 in Toronto, you should ask whether they'd be treated the same way under your policies. They wouldn't.
+</P>
+<P>
+Relying only on policies like TIER sends the message that oilsands and other large emitters should face a carbon price, while the emissions which occur when consumers use the products that we produce are exempt.
+</P>
+<P>
+If Prime Minister Trudeau sought to impose the burden of meeting Canada's emissions targets largely on industrial facilities in Alberta, Jason Kenney would (rightly) have a fit. Today, Jason Kenney introduced a serious greenhouse gas policy in Alberta but one that continues to send a message that the premier would loathe if it were being sent from Ottawa.
+</P>
+<P>
+I hope the premier chooses to change that message.
+</P>
+<P>
+This column is an opinion. For more information about our commentary section, please read this editor's blog and our FAQ.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> CB011918-0001 </DOCNO>
+<DATE>
+<P>
+January 19, 2018
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's 1st fleet of hydrogen fuel cell vehicles coming to Quebec this year; 
+</P>
+<P>
+Toyota Mirai makes its debut at Montreal Auto Show at Palais des congrès
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Quebec government is purchasing a fleet of 50 hydrogen fuel cell vehicles — the first such vehicles in Canada, which Toyota expects to deliver to the province in the coming year.
+</P>
+<P>
+The Toyota Mirai will be on display when the 75th Montreal Auto Show begins today.
+</P>
+<P>
+The eco-friendly Mirai creates electricity without combustion, and the only by-product is water.
+</P>
+<P>
+Quebec Energy Minister Pierre Moreau said the province is an ideal place for the technology, because Quebec's cheap and clean hydroelectricity could be harnessed to produce liquid hydrogen.
+</P>
+<P>
+"Quebec is well positioned to become a world leader in terms of energy transition," Moreau said Thursday.
+</P>
+<P>
+"This challenge cannot be solved alone; it's by building strategic partnerships with companies like Toyota."
+</P>
+<P>
+The Mirai can travel as far as 500 kilometres on a single tank, and unlike electric cars, it only needs five minutes to charge. It's also reliable in even the coldest conditions.
+</P>
+<P>
+However, the new technology doesn't come cheap: In California, the Mirai sells for $57,000 US, minus rebates. Toyota Canada hasn't yet said what the vehicle will cost here or when it will be available for purchase to regular motorists.
+</P>
+<P>
+Only 2 fuelling stations
+</P>
+<P>
+One drawback is that the infrastructure isn't yet in place to support the hydrogen fuel cell technology.
+</P>
+<P>
+Only two privately owned fuelling stations exist for these cars in Quebec — one on the South Shore and the other in Trois-Rivières.
+</P>
+<P>
+The province plans to open two more stations to produce and distribute hydrogen fuel — one in Montreal and another in Quebec City — and to test the vehicles as part of a pilot project.
+</P>
+<P>
+"Working closely with the Québec government and key stakeholders, we feel the time is right to put Mirai on the road in the province," said Martin Gilbert, spokesperson for Toyota Canada.
+</P>
+<P>
+The auto show opens today at Montreal's Palais des congrès and runs until Jan. 28.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> CB041023-0001 </DOCNO>
+<DATE>
+<P>
+April 10, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Pentagon calls leak of highly classified intelligence 'very serious' risk to security; 
+</P>
+<P>
+Info posted online ranged from Ukraine's air defences to Israel's Mossad spy agency
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The online leaks of scores of highly classified documents about the Ukraine war present a "very serious" risk to U.S. national security, and senior leaders are quickly taking steps to mitigate the damage, a top Pentagon spokesperson said Monday. And as the public airing of the data sends shock waves across the U.S. government, the White House said there are concerns there could be additional leaks.
+</P>
+<P>
+Chris Meagher, assistant to the secretary of defence for public affairs, told reporters that U.S. Defence Secretary Lloyd Austin first became aware on Thursday that a number of classified briefing slides detailing the U.S. military efforts in the Ukraine war and intelligence involving other nations were leaked.
+</P>
+<P>
+In the days since, Austin has reached out to allies, held daily meetings to assess the damage and set up a group not only to assess the scope of the information lost but review who has access to those briefings. The department is looking closely at "how this type of information is distributed and to whom," Meagher said, but would not say if steps had already been taken to tighten control over who can access it.
+</P>
+<P>
+At the White House, National Security Council spokesperson John Kirby was asked if the U.S. was bracing for more online releases.
+</P>
+<P>
+"The truth and the honest answer to your question is: We don't know," he said. "And is that a matter of concern to us? You're darn right it is."
+</P>
+<P>
+Kirby said at this point, "we don't know who's behind this, we don't know what the motive is."
+</P>
+<P>
+Some 'have been doctored'
+</P>
+<P>
+And he said as U.S. authorities go through the documents that were posted online, they are still trying to determine their validity, but have found that at least some of the papers "have been doctored."
+</P>
+<P>
+At least one of the documents shows estimates of Russian troops deaths in the Ukraine war that are significantly lower than numbers publicly stated by U.S. officials. Under a section titled "Total Assessed Losses," one document lists 16,000 to17,500 Russian casualties and up to 71,000 Ukrainian casualties. Gen. Mark Milley, chairman of the Joint Chiefs of Staff, said publicly last November that Russia has lost "well over" 100,000 soldiers, and Ukraine had lost about that many also. And those estimates have continued to climb in recent months, although officials have stopped providing more exact numbers.
+</P>
+<P>
+At the U.S. State Department, spokesperson Vedant Patel told reporters Monday that U.S. officials "are engaging with allies and partners at high levels over this, including to reassure them of our commitment to safeguarding intelligence and the fidelity of securing our partnerships."
+</P>
+<P>
+The U.S. officials declined to provide any specifics, including about the expanse of the release, how it happened and to which country leaders the U.S. has spoken. Patel added that there is "no question" the documents' release present a risk to national security.
+</P>
+<P>
+Canadian infrastructure mentioned
+</P>
+<P>
+The leak not only to detailed U.S. and NATO operations in Ukraine, but also apparently contained a claim by Russian-backed hackers that they successfully accessed Canada's natural gas infrastructure, without naming a specific company.
+</P>
+<P>
+The Canadian Press has not independently verified the claims.
+</P>
+<P>
+The news thrust the issue of cybersecurity in North America's oil and gas sector back into the spotlight.
+</P>
+<P>
+The Communications Security Establishment (CSE), which oversees Canadian foreign intelligence gathering and cybersecurity, said in a statement it does not comment on specific incidents, but added it was "concerned about the opportunities for critical infrastructure disruption" on internet-connected technology "that underpins industrial processes."
+</P>
+<P>
+A spokesperson for Public Safety Minister Marco Mendicino said while the department would not comment on allegedly leaked intelligence, Canada, as a member of the Five Eyes intelligence-sharing network — together with the U.S., United Kingdom, Australia and New Zealand — would "continue to work hand in hand" with those allies "to protect our shared national interests."
+</P>
+<P>
+Investigators who specialize in tracking social media, including at the journalism organization Bellingcat, say the documents may have been circulating for months in private internet chats on the Discord discussion platform. Asked if the Pentagon has contacted Discord, Meagher referred questions to the Justice Department, which has opened a criminal investigation into the leaks.
+</P>
+<P>
+The documents, which eventually were distributed on more mainstream sites such as Twitter, detail U.S. training and equipment schedules to support Ukraine, assessments of losses, what the U.S. is monitoring on key allies and strategic partners, and what moves Russia may be taking to undermine those relationships.
+</P>
+<P>
+Mideast, South Korea also mentioned
+</P>
+<P>
+Another document, marked "Top Secret" from a CIA Intel update from March 1, says the Mossad intelligence agency was encouraging protests against Israeli Prime Minister Benjamin Netanyahu's plans to tighten controls on the Supreme Court.
+</P>
+<P>
+The document said the U.S. learned this through signals intelligence, suggesting the United States had been spying on one of its most important allies in the Middle East.
+</P>
+<P>
+In a statement on Sunday, Netanyahu's office described the assertion as "mendacious and without any foundation whatsoever."
+</P>
+<P>
+Another document gave details of internal discussions among senior South Korean officials about U.S. pressure on Seoul to help supply weapons to Ukraine, and its policy of not doing so.
+</P>
+<P>
+A South Korean presidential official said on Sunday the country was aware of news reports about the leaked documents and it plans to discuss "issues raised" with Washington.
+</P>
+<P>
+While the Pentagon has been careful not to authenticate the information contained in any specific document, overall "they present a very serious risk to national security and have the potential to spread disinformation," said Meagher. "We're being very careful and watching where this is being posted and amplified."
+</P>
+<P>
+The documents are labelled secret and top secret and in some cases resemble routine updates that the U.S. military's Joint Staff would produce daily but not distribute publicly.
+</P>
+</TEXT>
+</DOC>

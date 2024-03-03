@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> CB051422-0001 </DOCNO>
+<DATE>
+<P>
+May 14, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+B.C.'s emergency alert system will be in place for extreme heat as well as floods and fires: gov't; 
+</P>
+<P>
+Officials said last week it had to work out setting the parameters for a heat warning first
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+British Columbia's public safety minister says an automated alert system will be in place by early June to notify residents of dangerously high temperatures like last year's fatal heat dome.
+</P>
+<P>
+Mike Farnworth made the comment during a Vancouver news conference with federal ministers as they outlined wildfire response and prevention funding.
+</P>
+<P>
+Alert Ready is a tool used by governments across the country to broadcast warnings on radio and television stations, as well as on compatible wireless devices.
+</P>
+<P>
+Farnworth announced last week the tool is ready for use during floods and that it would be expanded to wildfires in June. He had said more work was needed to determine what constituted a heat warning then.
+</P>
+<P>
+"Right now, there's work that's underway with the Ministry of Health in terms of what the parameters should be in terms of a heat warning. That's something that is coming,'' Farnworth said at the time.
+</P>
+<P>
+However, on Friday, he said launching the alert system in June has always been the government's intention.
+</P>
+<P>
+"Previously, we've been prepared to deploy the system for tsunami warnings, civil emergencies and Amber Alerts," Farnworth told a crowd gathered at the HMCS Discovery Naval Reserve in Vancouver's Stanley Park.
+</P>
+<P>
+"But now we're online for flood dangers and the system will go further to expand wildfire threats by early June and heat alerts at the same time."
+</P>
+<P>
+In response to a question about the timeline, Farnworth said, "It has always been our plan that it would be ready by June."
+</P>
+<P>
+The B.C. Coroners Service has said scorching temperatures last summer caused nearly 600 heat-related deaths.
+</P>
+<P>
+The government had come under fire for not using the system to warn residents about scorching temperatures last year.
+</P>
+</TEXT>
+</DOC>

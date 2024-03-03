@@ -1,0 +1,183 @@
+<DOC>
+<DOCNO> CB102722-0002 </DOCNO>
+<DATE>
+<P>
+October 27, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Inside the fight to make Halifax police discipline records public; 
+</P>
+<P>
+Halifax Regional Police say releasing records could endanger officers, invade privacy
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+When it comes to the way police forces interact with the public, the last few years have been the social equivalent of an earthquake. 
+</P>
+<P>
+"The grounds have shifted," says Temitope Oriola, a professor of criminology at the University of Alberta and president-elect of the Canadian Sociological Association. 
+</P>
+<P>
+"There's been a fundamental seismic change in people's expectations, in beliefs, in attitudes towards the police."
+</P>
+<P>
+Police forces in North America have been criticized and scrutinized after the deaths of people like George Floyd, Regis Korchinski-Pacquet, and Chantal Moore. The Toronto Police Service apologized for disproportionate use of force on people of colour earlier this year, and Halifax Regional Police (HRP) made a public apology for the use of street checks on Black Nova Scotians in 2019.
+</P>
+<P>
+CBC's Atlantic Investigative Unit began a project in the spring of 2022 to examine the police complaints process in Atlantic Canada. 
+</P>
+<P>
+That's the process by which any member of the public can file a complaint against a police officer. 
+</P>
+<P>
+Some people who have used that process in the past include Carrie Low, who said Halifax police failed to properly investigate a rape committed against her. 
+</P>
+<P>
+Other cases include a man who complained he was wrongfully Tasered and arrested on Quinpool Road in Halifax in December 2019. 
+</P>
+<P>
+Another case is that of Kayla Borden, who complained that she was racially profiled by Halifax police after being pulled over while driving.
+</P>
+<P>
+CBC News journalists filed access-to-information requests to the RCMP for the entire Atlantic region as well as all municipal forces. The only exception was municipal forces in P.E.I., where discipline information is already publicly accessible. 
+</P>
+<P>
+In Nova Scotia, CBC News asked to see 11 years' worth of discipline decisions resulting from public complaints made to each department in order to understand what the complaint was, the result of the internal investigation, and in cases of substantiated officer misconduct, what kind of discipline was applied.  
+</P>
+<P>
+All of the municipal police forces in Nova Scotia responded. Seven agreed to disclose the requested information with some redactions, and two said they had no records for the requested time period due to their file-retention policy.
+</P>
+<P>
+Halifax Regional Police, which is by far the largest municipal police department in the province, responded to the access-to-information application. However, HRP said it would not disclose any information on the grounds that it could endanger the safety of an officer or some other person, and that the request was an unreasonable invasion of privacy. 
+</P>
+<P>
+According to annual reports from the Office of the Police Complaints Commissioner — an arm's-length agency funded by the Nova Scotia government — there were more than 900 complaints against HRP from members of the public for that time period.
+</P>
+<P>
+CBC News chose to appeal the HRP decision to the Supreme Court of Nova Scotia, following a process laid down in the Municipal Government Act, in a further effort to obtain the records. 
+</P>
+<P>
+"The CBC has a public mandate to try to reveal information that's in the public interest," said Ian Brimacombe, the managing editor of CBC Nova Scotia.
+</P>
+<P>
+"In this instance, the CBC believes that the police are sitting on information that will help the audience form their own opinions about matters of public debate to do with the police. It's very important that our public institutions are transparent.
+</P>
+<P>
+"The CBC believes that the police have a duty to disclose the complaints that have been made against their officers, and what the police force has decided to do about those complaints. This is absolutely a matter of accountability journalism, and this information is in the public interest." 
+</P>
+<P>
+Halifax Regional Police declined to comment on the matter in an email Monday. The force will file a brief detailing its legal position in December through city lawyers.
+</P>
+<P>
+With regard to freedom of information, HRP has previously told CBC News it tries to "strike a balance between public and officer safety and privacy considerations" while releasing what information it can.
+</P>
+<P>
+Rejection not unusual
+</P>
+<P>
+Prof. Oriola said HRP's response to the inquiry was not unusual in the policing field. 
+</P>
+<P>
+"The kinds of questions people are now asking, and even public expectations about what police officers can or cannot do, or should or should not do, all of those are changing," he said in an interview. 
+</P>
+<P>
+"It appears that a lot of police services are struggling with that new reality that somehow people are now asking them to release the list or names of officers who have been disciplined. That's new for them in many cases. There wasn't always this tremendous public interest."
+</P>
+<P>
+Oriola said policing, unlike fields such as nursing, dentistry, or social work, has mostly chosen not to "professionalize" over time. 
+</P>
+<P>
+"We continue to treat policing as a set of manual skills that can be acquired with a Grade 12 level of education and with a six-month training," he said. 
+</P>
+<P>
+In contrast, Oriola said many occupations are increasingly requiring things such as a university degree, and are using what he calls the "college" model. 
+</P>
+<P>
+Professional colleges such as the College of Physicians and Surgeons typically accept and investigate complaints from the public, often in a public forum. Policing, he said, does not.
+</P>
+<P>
+Oriola said he believes the shift in the public's expectations of police has been driven by technology like cellphone cameras, dashcam footage and body-worn cameras. 
+</P>
+<P>
+"For many decades, whatever narrative the police put out was taken as the law, as a proper and objective account of what happened — until video evidence began to come out," he said. 
+</P>
+<P>
+He added some communities have long spoken about poor interactions with police, including members of the Black community in Halifax on the practice of street checks.
+</P>
+<P>
+Tension between police and community
+</P>
+<P>
+That relationship between racialized people and police has been an area of research for Jihyun Kwon, who is completing her PhD on police accountability and oversight at the University of Toronto. 
+</P>
+<P>
+She recently gave expert testimony to the Nova Scotia Mass Casualty Commission, and has worked on research with Prof. Scot Wortley, who wrote the street checks report for Nova Scotia. 
+</P>
+<P>
+Her research suggests existing complaints processes don't work very well for the public. 
+</P>
+<P>
+"I think it exacerbates the tension between the police and the public because they really had to take courage to go to utilize the system," Kwon said in an interview.
+</P>
+<P>
+"My research found that people who have low confidence in the police and racialized people are less likely to use these systems to begin. But once they take the courage to use the system and really believe that justice will be served, and then find out it doesn't — that's not what they get — I think it only worsens the legitimacy crisis that we currently have." 
+</P>
+<P>
+El Jones, a professor at Mount Saint Vincent University who chaired the committee that delivered a report defining defunding the police to the Halifax Police Commission, said a lack of transparency "breaks trust" with the community. 
+</P>
+<P>
+"The police have such incredible powers. They are the only people that can use force. That is such a serious responsibility. And when force is misused from a policing point of view as well, it also turns the public against the police," she said. 
+</P>
+<P>
+"Communities don't want to work with the police if we're experiencing force. So you'd also think from the point of view of policing that you'd want to make sure that this responsibility is taken seriously."
+</P>
+<P>
+Long history of information battles
+</P>
+<P>
+She also pointed to a long history of struggles to get information from police forces. That history includes the data on Halifax street checks, which was disclosed after a CBC News access-to-information request in 2017 and evolved into a report by the Human Rights Commission and a legal opinion from a former chief justice before the practice was banned. 
+</P>
+<P>
+"It took us so long to do that," said Jones. "And we can't do that for every single issue. If we have to go five years for every single piece of data, how are we ever supposed to make any changes?" 
+</P>
+<P>
+Jones said she believes public institutions like the police have a "basic democratic responsibility" to be transparent and accountable. 
+</P>
+<P>
+"They [police] would say that these are things that they, more than anybody, care about. So if that's the case, then why is it repeatedly that every time we ask for things like data or accountability or information that we have to fight tooth and nail to get it? It should be available," she said. 
+</P>
+<P>
+In a separate recent case, CBC News attempted to use freedom-of-information laws to get details from Halifax Regional Police about the removal of homeless encampments. HRP denied those requests and the force was criticized by the province's information and privacy commissioner, Tricia Ralph, for the denial.
+</P>
+<P>
+Ralph recommended HRP release the information with redactions of officers' names to protect their medical privacy. The force chose not to release any information. 
+</P>
+<P>
+More complaints possible
+</P>
+<P>
+These discussions about policing are happening at a time when greater numbers of people may have access to the police complaints system. 
+</P>
+<P>
+In response to the case of Carrie Low, who complained about the mishandling of a rape investigation, the province announced in 2020 it would give people more time to file an official complaint.  
+</P>
+<P>
+The time limit was extended to one year from six months. At that time, Halifax Regional Police Chief Dan Kinsella said he wasn't sure if the increased time could translate into greater costs or a greater number of complaints, but suggested that might be the case. 
+</P>
+<P>
+Still, Kinsella called it "exceedingly important" for people to bring their concerns about police forward. 
+</P>
+<P>
+"We need to increase the dialogue, we need to increase community members' opportunities to come forward whenever they want to bring any information in regards to police conduct or activity," he said outside a board of police commissioners meeting in early 2020.
+</P>
+<P>
+The court case where CBC News has asked to receive HRP discipline records is scheduled to be heard on Jan. 4, 2023.
+</P>
+<P>
+For more stories about the experiences of Black Canadians — from anti-Black racism to success stories within the Black community — check out Being Black in Canada, a CBC project Black Canadians can be proud of.
+</P>
+</TEXT>
+</DOC>

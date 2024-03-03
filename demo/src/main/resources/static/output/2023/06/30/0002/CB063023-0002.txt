@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> CB063023-0002 </DOCNO>
+<DATE>
+<P>
+June 30, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Want a more accurate number of Canada's homeless population? Try counting health data; 
+</P>
+<P>
+New method for counting homeless people offers clearer look at magnitude of the social issue
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A new method for counting homeless people is offering a clearer look at the magnitude of the social issue, with preliminary results indicating the country's homeless population could be three times higher than current estimates.
+</P>
+<P>
+Traditional methods for determining the number of homeless people have relied on counting people accessing services, like shelters or food banks, Cheryl Forchuk, a researcher with Lawson Health Research Institute, said in a recent interview.
+</P>
+<P>
+Other methods, she said, involve front-line workers keeping spreadsheets or notebooks with lists of homeless people, but that data is not always included in national databases, she said.
+</P>
+<P>
+"Not everybody is found," said Forchuk, whose institute is affiliated with Western University. "A lot of people experiencing homelessness do not choose to access shelters, or there isn't capacity."
+</P>
+<P>
+Canada's national database estimates that there are approximately 235,000 homeless people across the country, but that number triples when emergency room health-care data is considered, Forchuk said.
+</P>
+<P>
+Health-care data, while not perfect, can be a reliable marker because homeless people are "very, very vulnerable from a health perspective," Forchuk said, adding that they are between four and 10 times more likely than average to visit an emergency room.
+</P>
+<P>
+Homelessness in the Atlantic region
+</P>
+<P>
+Forchuk's research began in Ontario, and is now being expanded across the country; it includes interviews with front-line community service workers and hundreds of homeless people.
+</P>
+<P>
+"No matter what method we use, it's going to be somewhat underestimated," Forchuk said. "But certainly, we found people were much more likely to touch that sector [health care] than the homeless sector."
+</P>
+<P>
+Forchuk, who has not yet published her data, said homeless people in small communities across the Atlantic region were less likely than elsewhere in Canada to be included in current homeless population counts because "a lot of people were not touching the [homelessness] system."
+</P>
+<P>
+Liz Corney, co-founder and director of Development for Blooming House, said that when her eight-bed women's shelter opened in Charlottetown in 2019, she wasn't sure how many homeless women were in the region. Other community groups, she added, also didn't have a grasp on the numbers.
+</P>
+<P>
+Corney said women can be "pretty good at not asking for help" and that the shelter relied largely on word of mouth in the early days. Now, four years into operating, Corney said she has a good handle on who needs the shelter's services, with her centre full most nights. She said she reports the number of people who use the shelter to the federal homeless database.
+</P>
+<P>
+But, she added, the shelter could likely improve its outreach efforts in order to connect with women who are newly homeless or have yet to access the shelter system.
+</P>
+<P>
+'We have a crisis situation'
+</P>
+<P>
+In the throes of an acute homeless crisis across Canada, determining the exact number of the homeless population isn't every shelter operator's main concern, however.
+</P>
+<P>
+"I don't think it matters because we do know there's a need, right?" said Denise LaVangie, who operates a shelter in downtown Halifax for men and women.
+</P>
+<P>
+"We have a crisis situation that needs to be taken seriously."
+</P>
+<P>
+LaVangie said she has turned away 20 people over the past week alone. Her shelter has 15 beds for women and 25 beds for men, and she said it is busy enough to double the number of beds for men. The shelter houses seniors, Black Nova Scotians, people from out of province and those from rural communities.
+</P>
+<P>
+"We're in a crisis," she said. "There are seniors being kicked out of apartments, saying, 'I can't pay rent because I got to pay for my medication,' or 'I can't pay for my medication because my rent just doubled."'
+</P>
+<P>
+Warren Maddox, executive director of Fredericton Homeless Shelters Inc., disagrees that analyzing health-care data is the most accurate way to obtain a full portrait of the country's homeless population. He said a manual list of everyone who accesses homeless services — also called a by-names list — is the best tool for capturing people living on the broad spectrum of homelessness, from people in shelters, transitional spaces, or who are living rough.
+</P>
+<P>
+Hidden homelessness
+</P>
+<P>
+But, he said, it can miss the "hidden homeless," or people who are couch-surfing or in other precarious living situations, or bouncing between homeless shelter systems in different cities. He said he would like to see health-care data taken from community health centres in addition to emergency rooms, as people are often diverted to community health centres from hospitals.
+</P>
+<P>
+Forchuk noted that Canada launched a national homelessness strategy in 2019, aiming to reduce the number of chronic homelessness by 50 per cent over the next decade.
+</P>
+<P>
+"But if your numbers are undercounted by two-thirds, you are not going to be adequately funding the sector," she said.
+</P>
+</TEXT>
+</DOC>

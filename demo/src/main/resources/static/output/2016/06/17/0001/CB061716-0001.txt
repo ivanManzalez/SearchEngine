@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> CB061716-0001 </DOCNO>
+<DATE>
+<P>
+June 17, 2016
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Hydrogen continues to be a fuel of the future: Bob McDonald; 
+</P>
+<P>
+Hydrogen could be a viable clean fuel — if only we could get the infrastructure in place to support it
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The World Hydrogen Energy Conference was held in Zaragoza, Spain this week. Delegates from 50 countries, including Canada, attended; many countries are moving ahead with clean hydrogen energy, while others are lagging behind.
+</P>
+<P>
+Canada is a pioneer in hydrogen energy development, but much more must be done for it to become a widely available fuel source.
+</P>
+<P>
+Hydrogen is a very clean fuel. When mixed with air in a fuel cell, it forms H2O — ordinary water — and produces electricity. Ideally, to make hydrogen you can just reverse that process: start with water and use electricity to break it apart into hydrogen and oxygen. No carbon emissions are produced directly during this cycle, just water. And there is more than enough water on Earth to supply a global hydrogen fuel system.
+</P>
+<P>
+Research into hydrogen power has been taking place for decades, and major automotive companies such as Toyota, Hyundai and Honda are offering hydrogen fuel cell vehicles this year. GM, BMW, and Mercedes will soon follow suit.  
+</P>
+<P>
+So why is it taking so long to have all of our vehicles running on clean hydrogen instead of dirty fossil fuels? As always, the devil is in the details. 
+</P>
+<P>
+A clean but challenging fuel
+</P>
+<P>
+The biggest issue with hydrogen is that it is not lying around in underground reservoirs waiting to be pumped out, the way oil is. It's a fuel, not an energy source, so hydrogen has to be made, and that takes energy.
+</P>
+<P>
+The challenges don't end there. Once made, hydrogen is tricky to handle and distribute. There is still a public fear of hydrogen because of the notorious Hindenburg disaster. Finally, battery technology is a serious competitor in the clean transportation sector.
+</P>
+<P>
+The two commercial ways to make hydrogen are by cracking — a process of breaking down natural gas — and through electrolysis. Obviously making a clean fuel (hydrogen) from a fossil fuel (natural gas) will not solve our greenhouse gas problems.
+</P>
+<P>
+But even making hydrogen by electrolysis can be environmentally iffy.
+</P>
+<P>
+Electrolysis uses electricity to break down water into its components parts. (You probably did it in your your high school chemistry class, when you placed electrodes from a battery into water and watched the bubbles of hydrogen and oxygen form.)
+</P>
+<P>
+The key is where the electricity comes from. If it is produced by wind or solar energy, then you have a carbon-neutral fuel cycle. But if it comes from coal fired generating stations, then we basically have cars running on coal.
+</P>
+<P>
+The safety concerns arise because hydrogen is very flammable. Of course, so is gasoline. 
+</P>
+<P>
+Supporters of hydrogen technology say it is actually a safer fuel because it's lighter than air, which means that if it does leak out, it naturally rises up and blows away on the wind rather than pooling under a vehicle and potentially setting it on fire.
+</P>
+<P>
+In fact, during the horrific Hindenburg disaster, the hydrogen fire, while huge, only lasted for 32 seconds and rose upwards. That's why 62 of the 97 passengers and crew survived: they were able to escape from the cabin on the underside of the airship and run from inferno burning overhead. The fire that burned long afterward in the wreckage was fuelled by diesel and engine oil.
+</P>
+<P>
+Hydrogen is also not as easy to pour into a tank as gasoline. It can be pumped and contained as a pressurized gas, the way we handle propane or other flammable gasses. But hydrogen needs specialized tanks, and to date there is little by way of a distribution system for it. That's why you can't pick up hydrogen at ordinary gas stations yet, though the needed infrastructure is growing slowly.
+</P>
+<P>
+Matching technology to needs
+</P>
+<P>
+The other way to use electricity to power vehicles is with batteries. Battery technology for electric cars is improving rapidly, with longer ranges and quicker charging times. And using electricity in batteries is actually more efficient than using hydrogen. But batteries are heavy, expensive, and use rare earth materials that could become increasingly hard to find in the amounts we'll need for a global transportation fleet.
+</P>
+<P>
+In the end, there are pros and cons to both hydrogen and electric battery power. Likely, we will need both technologies and they will fill different niches.
+</P>
+<P>
+Batteries may be best for personal cars, while hydrogen might be more suited to commercial vehicles such as buses and trucks, or even railroad locomotives, that need longer range and shorter refill times.
+</P>
+<P>
+Hydrogen fuel cells also have non-transportation uses, like powering emergency generators.
+</P>
+<P>
+Despite the challenges, hydrogen, batteries and other alternative energy technologies all put us on the pathway to a low carbon future, and all need greater investment. Canada is a world leader in fuel cell technology, but progress in getting that technology onto the streets has been halting.
+</P>
+<P>
+Prior to the 2010 Winter Olympics in Vancouver, for instance, there was a much publicized  "Hydrogen Highway" demonstration project that was supposed to run up the coast to Whistler. It quietly disappeared, and now diesel buses run on that route.
+</P>
+<P>
+We need to step on the gas in implementing these technologies.
+</P>
+<P>
+A report out this week from the U.S. National Oceanic and Atmospheric Administration shows that carbon dioxide levels at the South Pole have crossed the threshold of 400 parts per million for the first time in four million years. This is a milestone for global warming, showing that the effect is real and worldwide.
+</P>
+<P>
+The planet is not waiting for us to change over from fossil fuels. It is sending us a warning.
+</P>
+</TEXT>
+</DOC>

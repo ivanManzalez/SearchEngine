@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> CB020822-0001 </DOCNO>
+<DATE>
+<P>
+February 08, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Communities to find out how much they've grown — or shrunk — with release of census data; 
+</P>
+<P>
+Population data from the 2021 census to be released Wednesday will help inform future policies
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+How many people live in your city? It's a question that informs a lot of policy decisions, but is generally based around an event that takes place every five years: the release of census data.
+</P>
+<P>
+"I think it's really important," said Anmore Mayor John McEwen.
+</P>
+<P>
+"It dictates what sort of levels of infrastructure are needed. It also dictates what sort of service levels are going to be needed in the future."
+</P>
+<P>
+The population and dwelling data from the 2021 census will be announced at 5:30 a.m. PT on Wednesday. It will be followed later this year by releases on demographic breakdowns, income, languages and citizenship.
+</P>
+<P>
+To some the numbers will be little more than a curiosity, but for B.C. municipalities, the census figures can have plenty of impacts. 
+</P>
+<P>
+"It could be something simple [like], 'Well, I have a library here, how many foreign language speakers live in the surrounding neighbourhood?" said data scientist Jens von Bergmann, who tracks the information on his CensusMapper website.
+</P>
+<P>
+"What are the needs of different populations, and how can I serve them better?" 
+</P>
+<P>
+Going up or down?
+</P>
+<P>
+One example can be found in West Vancouver where the population fell between the 2011 and 2016 censuses and turned into a political issue.
+</P>
+<P>
+"That was a wake-up call. I quoted that statistic when I was running last time," said West Vancouver Mayor Mary-Ann Booth, who was narrowly elected in 2018 and plans to run for re-election this year.
+</P>
+<P>
+"The need for improved transportation, the need for more people in our business district, you need to be able to paint a picture for the community."
+</P>
+<P>
+Since the 2016 census, West Vancouver has passed an official community plan and moved forward on neighbourhood plans with the explicit goal of increasing the community's population. But it also resulted in a number of divisive rezoning and transportation votes, some of which saw Booth on the losing end.  
+</P>
+<P>
+"We've really responded as quickly as we can as a municipality, but it will be interesting to see and use [the new numbers] as a baseline," she said. 
+</P>
+<P>
+Estimates vs. census stats   
+</P>
+<P>
+In the years between census releases, population estimates are provided by provincial and federal governments. 
+</P>
+<P>
+According to Stats B.C., Anmore has grown more quickly since the last census, in percentage terms, than any other Metro Vancouver municipality, increasing by 14 per cent since 2016 (from 2,316 to 2,632).
+</P>
+<P>
+McEwen said he's seen more people move to his rural community north of Port Moody since the nearby Evergreen Line was opened in 2017, but he'll be curious to see whether the Stats B.C. estimates are borne out by the census data — and what the age ranges are when that information is released in April.   
+</P>
+<P>
+"Are we becoming a community of much older people?" he said.
+</P>
+<P>
+"We've already seen the elementary school enrolment numbers going way down. We need to make sure that we have younger families that are able to move into the area and grow up and have families." 
+</P>
+<P>
+Von Bergmann said it will be worth watching which population estimates over the last five years have been inaccurate. And whether population changes by neighbourhood — not just municipality — are significant. 
+</P>
+<P>
+"Those are really interesting questions," he said.
+</P>
+<P>
+"And other than that, I think it's just fun to see it on the map, to view it interactively to see how things have changed." 
+</P>
+</TEXT>
+</DOC>

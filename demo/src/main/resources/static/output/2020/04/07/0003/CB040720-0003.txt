@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> CB040720-0003 </DOCNO>
+<DATE>
+<P>
+April 07, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How one library's 3D printer is helping doctors prepare for COVID-19 patients; 
+</P>
+<P>
+Nova Scotia ER doctor asked for help to create practice model of a human airway
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+An ER doctor and a library on Nova Scotia's South Shore have teamed up to create a special training tool as doctors across the province prepare to treat more sick COVID-19 patients who may need mechanical ventilators to breathe.
+</P>
+<P>
+The Lunenburg branch of the South Shore Public Libraries has used its 3D printer to make three hard plastic models of a human airway for a doctor who works in town at Fishermen's Memorial Hospital.
+</P>
+<P>
+"Emergency physicians around the world are in the same boat, which is trying to be as prepared as possible for whatever comes," said Dr. Thomas Dietz.
+</P>
+<P>
+Dietz was recently researching ways to brush up his skills at intubating a patient who needs a ventilator. Intubation is often done through the mouth and down the throat, but sometimes that is not possible. 
+</P>
+<P>
+In those cases, doctors must cut into the area below the Adam's apple to insert a breathing tube. According to Dietz, doctors may have only "one, maybe two" chances at getting the procedure correct with the sickest patients.
+</P>
+<P>
+"This is a procedure emergency room physicians are trained to do, but don't do frequently. And I think the informal statistics are once in your career," he said.
+</P>
+<P>
+Dietz said he has not performed the procedure for roughly eight or 10 years, so he was anxious to practise. During research, he found a design for a 3D-printed model of a human airway on a website for emergency room doctors, and reached out to his local library for help.
+</P>
+<P>
+"We've printed all sorts of things over the years that we've had a 3D printer, but this ranks right up there," said Christina Pottie, the South Shore Public Libraries' community engagement co-ordinator. 
+</P>
+<P>
+Dietz sent Pottie the publicly available file of the airway and she got to work printing it off. 
+</P>
+<P>
+The South Shore library branches are closed to the public, but a skeleton staff are still working to fulfil requests from the public and Pottie was able to drop the model off to Dietz the same evening.
+</P>
+<P>
+"It feels remarkably similar to a real human neck in terms of trying to find the landmarks, the lumps and bumps that guide you to where you need to make your incision," Dietz said.
+</P>
+<P>
+The model is tube shaped and has a hole at the correct insertion point. During practice, the doctor wraps the model in gauze to represent soft tissue, then wraps the whole thing in a plastic bag. The doctor can use a scalpel to cut into the right spot. 
+</P>
+<P>
+Dietz took the model to Fishermen's Memorial, where he left it at the ER doctors' station for his colleagues to practise on. He dropped off another to South Shore Regional Hospital in nearby Bridgewater.
+</P>
+<P>
+"The general consensus seems to be that it's a really cool thing," he said. "It's really easy to use, it's really easy to visualize what you're doing after you've looked at this model." 
+</P>
+<P>
+Dietz said he thinks often about the risk to himself, his colleagues, and his family, but being able to practise made him feel more prepared for what is coming. 
+</P>
+<P>
+"The first time I used this model, it just helped a great deal with the stress of, what if I have to do this," he said.
+</P>
+<P>
+Pottie is willing to print more models if other doctors want them, and she's proud the library was able to help. 
+</P>
+<P>
+"It was really exciting, just to know that in some little way we could help. And to know that right here, locally in Lunenburg on the South Shore," Pottie said. 
+</P>
+<P>
+"You didn't have to go to a university, to an engineering department to ask, 'Hey, could you print this for us?' Just right here in our public library we could do this for him."
+</P>
+<P>
+MORE TOP STORIES
+</P>
+</TEXT>
+</DOC>

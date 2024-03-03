@@ -1,0 +1,165 @@
+<DOC>
+<DOCNO> CB042423-0003 </DOCNO>
+<DATE>
+<P>
+April 24, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+How freedom of information laws help crack 'culture of secrecy' on police accountability; 
+</P>
+<P>
+Behind the scenes of a CBC investigation into the police complaints process
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Police and Public Trust, a CBC News Atlantic investigative unit project, scrutinizes the largely off-limits police complaint and discipline systems across the region. Journalists are using access to information laws, and in some cases court challenges, to obtain discipline records and data.
+</P>
+<P>
+To understand more about the police complaint process in Nova Scotia, CBC journalists knew it would be important to look at a broad cross-section of cases. 
+</P>
+<P>
+The problem was, there weren't many cases available to examine. 
+</P>
+<P>
+That's something Kevin Walby has encountered often in two decades of studying policing. Walby is an associate professor of criminal justice at the University of Winnipeg, and the director of the university's Centre for Access to Information and Justice. 
+</P>
+<P>
+"Canadians often don't realize that there's a lot of information that government agencies are keeping secret. And I think that goes twofold for criminal justice agencies," he said in a recent interview. 
+</P>
+<P>
+"I think there's a real entrenched culture of secrecy." 
+</P>
+<P>
+The Nova Scotia Police Act and its regulations lay out a process where decisions on complaints from the public must be made in writing, using a specific form.
+</P>
+<P>
+In the spring of 2022, CBC News wrote to all 10 municipal police forces in Nova Scotia, applying under access to information laws to obtain copies of those forms from the previous 11 years. 
+</P>
+<P>
+Previous complaints included allegations that officers used excessive force on people during arrest, that officers neglected or mishandled important investigations, or that officers racially profiled people during police stops.
+</P>
+<P>
+While most written decisions are not available for the public to examine, Walby said they are a key source of information.
+</P>
+<P>
+"I became increasingly frustrated with traditional qualitative research methods for researching criminal justice agencies," he said. "I found that in the interviews, you know, I wasn't really getting trustworthy or credible data." 
+</P>
+<P>
+In his experience, Walby said original records provide a "more credible account" of what's really happening. 
+</P>
+<P>
+CBC News wanted to understand how police investigated themselves following complaints and how senior officers made their decisions on the evidence. That information is contained in short reports called Form 11s, which are held by each police department. Under the Police Act regulations, these files only have to be retained for two years after completion. 
+</P>
+<P>
+The RCMP have a separate federal complaints process and do not use Form 11s. 
+</P>
+<P>
+Through freedom of information requests, CBC News obtained a trove of detailed Form 11 decisions from municipal police departments across the province.
+</P>
+<P>
+The goal was to allow the public to examine and understand the methods, evidence, and reasoning behind the decisions. 
+</P>
+<P>
+Seven departments sent the requested documents, while two said that they did not have complaint decisions in their records due to their file-retention policy.
+</P>
+<P>
+Some police departments responded promptly and were able to provide the requested information within days. 
+</P>
+<P>
+The legal challenge
+</P>
+<P>
+The only department that said 'no' to the freedom of information request was the Halifax Regional Police. HRP argued that releasing their documents would endanger the safety of an officer or some other person, and that it was an unreasonable invasion of privacy. 
+</P>
+<P>
+CBC News appealed to the Nova Scotia Supreme Court in August 2022.
+</P>
+<P>
+Before a judge could hear the case, HRP agreed to release the requested documents. 
+</P>
+<P>
+Negotiations followed with the department, which was represented by a lawyer from Halifax Regional Municipality. CBC News agreed that the names of officers and complainants would be redacted to protect their privacy. 
+</P>
+<P>
+HRP provided the documents at the end of January 2023. All had redactions:
+</P>
+<P>
+HRP stated a range of reasons for the redactions including protection of personal privacy, officer safety or investigative techniques, solicitor-client privilege, prosecutorial discretion, and in one case the police wrote "the disclosure could reasonably be expected to deprive a person of a right to a fair trial or impartial adjudication."
+</P>
+<P>
+CBC News chose to carry on with the appeal because of the large amount of information that was redacted. A hearing has been set for November.
+</P>
+<P>
+In the meantime, the redacted copies of the Halifax police decisions have been added to public records at the Nova Scotia Supreme Court.
+</P>
+<P>
+HRP would not provide a comment for this story, citing the ongoing legal case.
+</P>
+<P>
+Defining personal information
+</P>
+<P>
+Walby said blacking out that much information is excessive. 
+</P>
+<P>
+"If there is something that's really personal information like your kid's name or your cell phone number or your home address  — well yeah, that shouldn't be in there. Nobody really wants that anyway. That's not what the request is about," he said.
+</P>
+<P>
+"If it's information that is produced or stored in the course of one's conduct as a public employee, I personally don't think that that meets the threshold of personal information." 
+</P>
+<P>
+Walby believes access to information laws in Canada have fallen behind other countries and need to be updated. He said he knows of researchers in the social sciences who have had their access to information requests stonewalled by police.
+</P>
+<P>
+While CBC News waits to find out if it will receive less heavily redacted documents from HRP, even the records obtained to date have cracked open the previously hidden world of police complaints in Nova Scotia.
+</P>
+<P>
+The records show that 55 officers were repeatedly disciplined for misconduct by their own departments, that the most common forms of discipline were fines or reprimands, and that police ruled the vast majority of public complaints should be dismissed, among other findings.
+</P>
+<P>
+Conversation about accountability
+</P>
+<P>
+One researcher who's had information requests blocked by police is Dax D'Orazio, a fellow in the department of political studies at Queen's University in Kingston, Ont. He studies freedom of expression and public discourse in Canada. 
+</P>
+<P>
+"It's pretty clear to see if you follow news headlines, that we are embarking upon a new and perhaps more nuanced conversation about police accountability," he said in an interview.
+</P>
+<P>
+He submitted a freedom of information request in 2021 to find out how many times per month internal discipline measures are taken by the police force in his hometown of Sault Ste. Marie, Ont.
+</P>
+<P>
+"I thought that because the request itself did not ask for any personal or private information that it would be non-controversial and could be processed quite easily," he said. "But that was not the case." 
+</P>
+<P>
+Police refused to release the numbers to D'Orazio. He chose to use the Ontario appeal process, and is still waiting for a decision two years later. Appealing such decisions is bureaucratic and time consuming, he said, even for people who understand the system. 
+</P>
+<P>
+"It's very difficult for the average person to get high-quality information from public institutions sometimes, and that's obviously a shame," he said.
+</P>
+<P>
+Police powers and transparency
+</P>
+<P>
+Walby said that while there are legitimate reasons to withhold information, in his experience courts often take a more open approach to releasing information than police departments do. 
+</P>
+<P>
+That's because judges are trying to balance the individual officers' best interests with what's in the public's best interest, he says.  
+</P>
+<P>
+"Journalists and researchers have to fight just for some kind of little sliver of accountability and that's not the way that it should be," he said. 
+</P>
+<P>
+"I think, given the kinds of amazing or awesome powers of life and death that police have, the public deserves access to information regarding their conduct." 
+</P>
+<P>
+Including the documents from Halifax police and other police departments, CBC News received a total of 187 detailed complaint decisions made by senior officers. 
+</P>
+<P>
+These police complaint decisions have never been available to the public until now. CBC News is making all of them available, sorted by department.
+</P>
+</TEXT>
+</DOC>

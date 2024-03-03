@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> CB040822-0003 </DOCNO>
+<DATE>
+<P>
+April 08, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Veterans Affairs sent tax slips to hundreds of deceased veterans — some of them war casualties; 
+</P>
+<P>
+Deceased veterans' families appalled to receive tax paperwork from Ottawa
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Veterans Affairs Canada mistakenly issued T4A tax slips late last winter in the names of hundreds of deceased veterans across the country, CBC News has learned.
+</P>
+<P>
+The income benefits notices landed in the hands of nearly 700 appalled survivors and relatives. Some of them lost loved ones in Afghanistan more than a decade ago.
+</P>
+<P>
+"My first thought was shock and surprise to see a letter addressed to Matthew from Veterans Affairs that arrived in an official Veterans Affairs envelope," said Lincoln Dinning of Wingham, Ont., whose son Cpl. Matthew Dinning died in a roadside bombing in April 2006.
+</P>
+<P>
+"And from the very organization that is supposed to look after veterans and their families. You would think that Veterans Affairs would know that Matthew was killed in Afghanistan and has been dead for 16 years."
+</P>
+<P>
+The envelope arrived at the Dinning home in late February. His parents initially thought Matthew's identity had somehow been stolen and his benefits had been collected by a criminal.
+</P>
+<P>
+That was not the case. Although Veterans Affairs — citing privacy concerns — refused to comment on Matthew Dinning's case, it acknowledged after several email exchanges with CBC News that the tax slip was issued due to a computer error and was part of a much wider problem.
+</P>
+<P>
+A 'defect' in the online portal
+</P>
+<P>
+The online portal where former members of the military access their accounts was upgraded in January. That's when a "defect" was introduced, department spokesman Josh Bueckert said in a written media statement.
+</P>
+<P>
+That defect led the department to issue 687 tax slips in the names of 417 deceased veterans. They include soldiers killed in Afghanistan and those who served on peacekeeping missions and during the Cold War — and may include soldiers who served as far back as the Korean conflict.
+</P>
+<P>
+Veterans Affairs refused to explain how the error was made, apart from saying it somehow involved the Income Replacement Benefit.
+</P>
+<P>
+That doesn't explain cases like that of Matthew Dinning, who was not receiving veterans benefits when he was killed.
+</P>
+<P>
+A preliminary internal investigation was started by the department at the end of February and both the Federal Treasury Board and the Privacy Commissioner were notified, Bueckert said.
+</P>
+<P>
+Two formal complaints and one privacy complaint have been filed by the families of deceased veterans, he added.
+</P>
+<P>
+'Of course we're sorry'
+</P>
+<P>
+When asked by CBC News about the incident this week outside the House of Commons, Veterans Affairs Minister Lawrence MacAulay said his officials are still trying to work out what happened. He also apologized.
+</P>
+<P>
+"Of course we're sorry, and of course, that should not happen," MacAulay said. "I apologize.… We're aware of the situation and the breach is being handled appropriately to make sure it does not happen again."
+</P>
+<P>
+The Veterans Ombudsman's Office said it received one complaint about the tax slips. A spokesperson issued a brief two-line statement on behalf of the ombudsman, retired colonel Nishika Jardine: "We recognize this error is upsetting for families. We understand that VAC has fixed it and issued an apology."
+</P>
+<P>
+Lincoln Dinning said his family has yet to receive an apology.
+</P>
+<P>
+He is also still struggling to understand how the software could have plucked Matthew's name out of the benefits database when he wasn't getting benefits.
+</P>
+<P>
+"Why weren't the names of the 158 fallen soldiers [in Afghanistan] flagged in the Veterans Affairs system?" Dinning asked. "You think they would know who were the fallen soldiers.  And why weren't they red flagged [for the developers]?"
+</P>
+<P>
+'Heartbreaking and ghastly'
+</P>
+<P>
+The founder of the Afghanistan Veterans Association, retired corporal Bruce Moncur, said the experience has been "heartbreaking and ghastly" for families still coping with their losses.
+</P>
+<P>
+The fact that it took questions from the media to bring the matter to light, and to elicit a public apology from the minister, speaks volumes about the culture of indifference within Veterans Affairs, Moncur said.
+</P>
+<P>
+"The insurance company mentality of the department has proven time and time again that we're just numbers to them," he said. "And it's fine and dandy to make a mistake and blame it on a computer, but unfortunately, these computer mistakes seem to just happen over and over again."
+</P>
+<P>
+Almost a dozen years ago, Veterans Affairs noticed it had made a $165-million accounting error in calculating the benefits of more than 272,000 former soldiers, sailors and aircrew — mostly elderly Second World War and Korean War vets.
+</P>
+<P>
+That error, which stemmed from a bungled calculation of disability awards, went undetected for almost eight years.
+</P>
+<P>
+When the department discovered and corrected the indexing mistake in 2010, it did not notify any of the affected veterans and effectively buried the matter.
+</P>
+<P>
+It did not become public until former veterans ombudsman Guy Parent blew the whistle just before his retirement in the fall of 2018.
+</P>
+<P>
+The federal government compensated the surviving veterans and the estates of those who had passed away in the interim.
+</P>
+<P>
+Moncur said this latest mistake could have been swept under the rug as well. At the very least, he said, the department should offer counselling to affected families if they need it.
+</P>
+</TEXT>
+</DOC>

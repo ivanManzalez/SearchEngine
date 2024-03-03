@@ -1,0 +1,198 @@
+<DOC>
+<DOCNO> CB120220-0001 </DOCNO>
+<DATE>
+<P>
+December 02, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+What cities can learn from the biggest battery-powered electric bus fleet in North America; 
+</P>
+<P>
+Electrification of transit will require time to overcome challenges
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The largest battery-powered electric bus fleet in North America is Canadian. Toronto's transit system is now running 59 electric buses from three suppliers. And Canadian pioneers such as Toronto offer lessons for other transit systems aiming to transition to greener fleets for the low-carbon economy of the future.
+</P>
+<P>
+Diesel buses are some of the noisier, more polluting vehicles on urban roads. Going electric could have big benefits.
+</P>
+<P>
+Emissions reductions are the main reason the federal government aims to add 5,000 electric buses to Canada's transit and school fleets by the end of 2024. New funding announced this week as part of the government's fall fiscal update could also give programs to electrify transit systems a boost.
+</P>
+<P>
+"You are seeing huge movement towards all-electric," said Bem Case, the Toronto Transit Commission's head of vehicle programs. "I think all of the transit agencies are starting to see what we're seeing ... the broader benefits."
+</P>
+<P>
+While Vancouver has been running electric trolley buses (more than 200, in fact), many cities (including Vancouver) are now switching their diesel buses to battery-powered buses that don't require overhead wires and can run on regular bus routes.
+</P>
+<P>
+The TTC got approval from its board to buy its first 30 electric buses in November 2017. Its plan is to have a zero-emissions fleet by 2040.
+</P>
+<P>
+That's a crucial part of Toronto's plan to meet its 2050 greenhouse gas targets, which requires 100 per cent of vehicles to transition to low-carbon energy by then.
+</P>
+<P>
+But Case said the transition can't happen overnight. 
+</P>
+<P>
+Finding the right bus
+</P>
+<P>
+For one thing, just finding the right bus isn't easy.
+</P>
+<P>
+"There's no bus, by any manufacturer, that's been in service for the entire life of a bus, which is 12 years," Case said.
+</P>
+<P>
+"And so really, until then, we don't have enough experience, nor does anyone else in the industry, have enough experience to commit to an all-electric fleet immediately."
+</P>
+<P>
+In fact, Case said, there are only three manufacturers that make suitable long-range buses — the kind needed in a city the size of Toronto.
+</P>
+<P>
+Having never bought electric buses before, the city had no specifications for what it needed in an electric bus, so it decided to try all three suppliers: Winnipeg-based New Flyer; BYD, which is headquartered in Shenzhen, China, but built the TTC buses at its Newmarket, Ont. facility; and California-based Proterra.
+</P>
+<P>
+They all had their strengths and weaknesses, based on their backgrounds as a traditional non-electric bus manufacturer, a battery maker and a vehicle technology and design startup, respectively.
+</P>
+<P>
+"Each bus type has its own potential challenges." Case said all three manufacturers are working to resolve any issues as quickly as possible.
+</P>
+<P>
+Infrastructure installation
+</P>
+<P>
+But the biggest challenge of all, Case said, is getting the infrastructure in place. 
+</P>
+<P>
+"There's no playbook, really, for implementing charging infrastructure," he said.
+</P>
+<P>
+Each bus type needed their own chargers, in some cases using different types of current. Each type has been installed in a different garage in partnership with local utility Toronto Hydro.
+</P>
+<P>
+Buying and installing them represented about $70 million, or about half the cost of acquiring Toronto's first 60 electric buses. The $140 million project was funded by the federal Public Transit Infrastructure Fund.
+</P>
+<P>
+Case said it takes about three hours to charge a battery that has been fully depleted. To maximize use of the bus, it's typically put on a long route in the morning, covering 200 to 250 kilometres. Then it's partially charged and put on a shorter run in the late afternoon.
+</P>
+<P>
+"That way we get as much mileage on the buses as we can."
+</P>
+<P>
+Cost and reliability?
+</P>
+<P>
+Besides the infrastructure cost of chargers, each electric bus can cost $200,000 to $500,000 more per bus than an average $750,000 diesel bus. 
+</P>
+<P>
+Case acknowledges that is "significantly" more expensive, but it is offset by fuel savings over time, as electricity costs are cheaper. Because the electric buses have fewer parts than diesel buses, maintenance costs are also about 25 per cent lower and the buses are expected to be more reliable.
+</P>
+<P>
+As with many new technologies, the cost of electric buses is also falling over time.
+</P>
+<P>
+Case expects they will eventually get to the point where the total life-cycle cost of an electric and a diesel bus are comparable, and the electric bus may even save money in the long run.
+</P>
+<P>
+All-weather testing needed
+</P>
+<P>
+As of this fall, all but one of the 60 new electric buses have been put into service. The last one is expected to hit the road in early December.
+</P>
+<P>
+Summer testing showed that air conditioning the buses reduced the battery capacity by about 15 per cent. 
+</P>
+<P>
+But the TTC needs to see how much of the battery capacity is consumed by heating in winter, at least when the temperature is above 5 C. Below that, a diesel-powered heater kicks in.
+</P>
+<P>
+Once testing is complete, the TTC plans to develop specifications for its electric bus fleet and order 300 more in 2023, for delivery between 2023 and 2025.
+</P>
+<P>
+Potential benefits
+</P>
+<P>
+Even with some diesel heating, the TTC estimates electric buses reduce fuel usage by 70 to 80 per cent. If its whole fleet were switched to electric buses, it could save $50 million to $70 million in fuel a year and 150 tonnes of greenhouse gases per bus per year, or 340,000 tonnes for the entire fleet.
+</P>
+<P>
+Other than greenhouse gases, electric buses also generate fewer emissions of other pollutants. They're also quieter, creating a more comfortable urban environment for pedestrians and cyclists.
+</P>
+<P>
+But the benefits could potentially go far beyond the local city.
+</P>
+<P>
+"If the public agencies start electrifying their fleet and their service is very demanding, I think they'll demonstrate to the broader transportation industry that it is possible," Case said.
+</P>
+<P>
+"And that's where you'll get the real gains for the environment."
+</P>
+<P>
+Alex Milovanoff, a postdoctoral researcher in the University of Toronto's department of civil engineering, did a study that suggested electrified transit has a crucial role to play in the low-carbon economy of the future.
+</P>
+<P>
+His calculations show that 90 per cent of U.S. passenger vehicles — 300 million — would need to be electric by 2050 to reach targets under the global Paris Agreement to fight climate change.
+</P>
+<P>
+And that would put a huge strain on resources, including both the mining of metals, such as lithium and cobalt, that are used in electric vehicle batteries and the electrical grid itself.
+</P>
+<P>
+A better solution, he showed, was combining the transition to electric vehicles with a reduction in the number of private vehicles, and higher usage of transit, cycling and walking.
+</P>
+<P>
+"Then that becomes a feasible picture," he said.
+</P>
+<P>
+What's needed to make the transition
+</P>
+<P>
+But in order to make that happen, governments need to make investments, he added.
+</P>
+<P>
+That includes subsidies for buying electric buses and building charging stations so transit agencies don't need to make fares too high. But it also includes more general improvements to the range and reliability of transit infrastructure.
+</P>
+<P>
+"Electrifying the bus fleet is only efficient if we have a large public transit fleet and if we have many buses on the road and if people take them," Milovanoff said.
+</P>
+<P>
+In its fall economic update on Monday, the federal government announced $150 million over three years to speed up the installation of zero-emission vehicle infrastructure.
+</P>
+<P>
+Josipa Petrunic, CEO of the Canadian Urban Transit Research and Innovation Consortium, a non-profit organization focused on zero-carbon mobility and transportation, said that in the past, similar funding has paid for high-powered charging systems for transit systems in B.C. and Ontario. But that's only a small part of what's needed, she said.
+</P>
+<P>
+"Infrastructure Canada needs to come to the table with the cash for the buses and the whole rest of the system."
+</P>
+<P>
+She said funding is needed for:
+</P>
+<P>
+Feasibility studies to figure out how many and what kinds of buses are needed for different routes in different transit systems.
+</P>
+<P>
+Targets and incentives to motivate transit systems to make the switch.
+</P>
+<P>
+Incentives to encourage Canadian procurement to build the industry in Canada.
+</P>
+<P>
+Technology to collect and share data on the performance of electric vehicles so transit systems can make the best-possible decisions to meet the needs of their riders.
+</P>
+<P>
+Petrunic said that a positive side-effect of electrifying transit systems is that the infrastructure can support, in addition to buses, electric trucks for moving freight.
+</P>
+<P>
+So far, Petrunic said, Canada has about 120 battery electric buses on order and on the roads.
+</P>
+<P>
+"It's not a lot given that we have 15,000 buses out there in the transit fleet," she said.
+</P>
+<P>
+"But we should be able to get a lot further ahead if we match the city commitments to zero emissions with federal and provincial funding for jobs creating zero-emissions technologies."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> CB111323-0006 </DOCNO>
+<DATE>
+<P>
+November 13, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Engine failure sends Canadian Coast Guard ship into early refit; 
+</P>
+<P>
+It's not the first mechanical issue to sideline a Nova Scotia-based mid-shore patrol ship
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A Canadian Coast Guard ship on patrol in the Bay of Fundy experienced an emergency engine shutdown last month that has forced it out of service.
+</P>
+<P>
+The mid-shore fishery patrol vessel CCGS Corporal Teather C.V. was carrying out enforcement activities for the Department of Fisheries and Oceans in the Minas Basin on Oct. 23 when a cylinder lining failed on the starboard main engine.
+</P>
+<P>
+The cylinder lining is the inner wall where the piston moves up and down. It is designed to provide a smooth and durable surface for the piston to create a proper seal, needed to efficiently power the crankshaft.
+</P>
+<P>
+The good news, if there is any, is the breakdown happened just before the vessel was due to enter a scheduled refit.
+</P>
+<P>
+Fisheries and Oceans spokesperson Debra Buott-Matheson said the failure resulted in the engine coolant and some metal shavings being released into a container under the engine that collects oil used to lubricate engine parts.
+</P>
+<P>
+"The cause of the failure is unknown at this time; however, work is ongoing to determine the cause. The repair options and plan are under development," Buott-Matheson said in a statement confirming the incident.
+</P>
+<P>
+Out of service early 
+</P>
+<P>
+CCGS Corporal Teather came out of service five days earlier than planned because of the failure. CCGS Private Robertson, another mid-shore patrol vessel based in Dartmouth, N.S., was assigned to carry out patrols.
+</P>
+<P>
+"The return to service date for Teather and a cost estimate for the repair are unknown at this time," Buott-Matheson said.
+</P>
+<P>
+The refit was supposed to run from Nov. 1 to Dec. 12, but the cylinder failure may change that.
+</P>
+<P>
+This is not the first mechanical issue to sideline a Nova Scotia based mid-shore patrol ship.
+</P>
+<P>
+CCGS Peddle was immobilized for most of the last three years by refits, mishaps, part failures and supply chain delays after one of its two engines failed in 2020.
+</P>
+</TEXT>
+</DOC>

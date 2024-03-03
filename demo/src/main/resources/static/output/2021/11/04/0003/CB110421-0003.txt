@@ -1,0 +1,153 @@
+<DOC>
+<DOCNO> CB110421-0003 </DOCNO>
+<DATE>
+<P>
+November 04, 2021
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada is weaning itself off thermal coal but keeps shipping it elsewhere; 
+</P>
+<P>
+Canada has a clear path to quit coal-fired power at home, but the plan for exports isn't yet defined
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Our planet is changing. So is our journalism. This story is part of a CBC News initiative entitled "Our Changing Planet" to show and explain the effects of climate change and what is being done about it.
+</P>
+<P>
+As world leaders gather for the COP26 climate summit, coal is firmly in the crosshairs.
+</P>
+<P>
+Coal is the world's most polluting fossil fuel and quickly phasing it out is seen as crucial to limiting global warming to 1.5 C, the more optimistic target set under the Paris Agreement to avert the most catastrophic impacts of climate change.
+</P>
+<P>
+UN Secretary General Antonio Guterres has called on all rich countries to stop burning coal by 2030, and for poorer countries to do so by 2040.
+</P>
+<P>
+"We know [through modelling] that in a 2 C world — even more so in a 1.5 C world — that coal disappears very quickly," said Kathryn Harrison, a political science professor at the University of British Columbia who studies climate policy.
+</P>
+<P>
+"The vast majority of coal reserves have to stay in the ground."
+</P>
+<P>
+Here's a look at Canada's efforts to end the burning of coal at home, and what's been promised on exports.
+</P>
+<P>
+Where does Canada stand?
+</P>
+<P>
+The federal government pledged five years ago to phase out coal-fired power by 2030, part of an effort to ultimately see 90 per cent of Canada's electricity come from clean sources.
+</P>
+<P>
+The Liberals went a step further during the recent federal election, promising to also stop the export of thermal coal by 2030 — a pledge Prime Minister Justin Trudeau then made on the global stage this week at COP26, though legislation has yet to be introduced.
+</P>
+<P>
+WATCH | Justin Trudeau commits to ending thermal coal exports at COP26:
+</P>
+<P>
+Canada's consumption of thermal coal has dropped dramatically over the past decade or so. In 2005, coal-fired power represented about 16 per cent of Canada's electricity mix. Today, it's just over seven per cent.
+</P>
+<P>
+Four provinces still use coal to generate electricity: Alberta, Saskatchewan, Nova Scotia and New Brunswick.
+</P>
+<P>
+What's the path forward?
+</P>
+<P>
+The two provinces at the centre of Canada's energy industry — Alberta and Saskatchewan — already have plans in place to wean off coal, according to a recent report from the Pembina Institute.  
+</P>
+<P>
+Alberta was actually ahead of the federal coal mandate, announcing in 2015 that it would shutter its last coal-fired plant by 2030. The province is now well ahead of schedule and on track to retire its last plant by 2023, when it will instead rely on natural gas, hydro, wind and solar to generate electricity.
+</P>
+<P>
+Saskatchewan has also formalized plans to largely move away from coal-fired power by 2030, though one of its plants — the Boundary Dam site near Estevan — will be allowed to run beyond then since it is equipped with carbon capture and sequestration (CCS) technology.
+</P>
+<P>
+The path forward is a little trickier on the East Coast, where alternatives aren't as readily available.
+</P>
+<P>
+Soon after the Liberals announced the 2030 deadline, Nova Scotia negotiated a so-called equivalency agreement, which allows the province to continue its coal use until 2040 if it makes additional emissions cuts now. However, the Nova Scotia government has since confirmed it will move away from coal by 2030, introducing legislation last week to help usher that in. 
+</P>
+<P>
+Home to just one coal-fired facility, New Brunswick is now the sole province that may not reach the federal deadline, according to the Pembina report. Earlier this year, it too asked for an equivalency agreement, saying it didn't have enough time to come up with an affordable alternate power source. The proposal would have the province reducing the plant's output now in order to allow it to continue to burn coal until 2040, but only in the winter months.
+</P>
+<P>
+While Ottawa may stand firm on the 2030 thermal coal deadline on principle, any emissions from New Brunswick's one plant will be "tiny" compared to the country's overall output, noted Douglas Macdonald, a senior lecturer emeritus with the School of the Environment at the University of Toronto. 
+</P>
+<P>
+"At the end of the day, even if New Brunswick is successful [in burning beyond 2030], it's not going to compare to bringing about the reductions needed from oil and gas from Western provinces," he said.
+</P>
+<P>
+Where do exports fit in?
+</P>
+<P>
+First, it's important to note both of the Liberal pledges — on power generation and exports — deal with thermal coal.
+</P>
+<P>
+Thermal coal is used to generate electricity, while metallurgical (or coking) coal is used in steel production and some other manufacturing.
+</P>
+<P>
+When it comes to power generation, there are widely available alternatives that are both cleaner and largely affordable, including hydroelectric power, wind and solar. 
+</P>
+<P>
+The same just isn't true for steel, though advances are being made.
+</P>
+<P>
+"That's why most national and global modelling exercises looking at climate action [and] carbon constraints find that thermal coal is the first to go: It's emissions intensive and there are cheaper alternatives," said Harrison.
+</P>
+<P>
+According to Natural Resources Canada, Canada produced 57 million tonnes of coal in 2019, with 36.5 million tonnes being exported, mainly to Asia.
+</P>
+<P>
+While most of that was metallurgical coal, millions of tonnes of thermal coal also left Canadian ports — and that's led to criticism that the country is still culpable for the greenhouse-gas emissions created when that coal is burned.
+</P>
+<P>
+"If we phase out burning thermal coal ourselves and then just send it somewhere else, there's a water-balloon effect," explained Harrison. 
+</P>
+<P>
+"We reduce the emissions here, but we send them somewhere else, where it's not our responsibility."
+</P>
+<P>
+Canada also exports thermal coal mined in the U.S., then shipped across the border by rail to ports in British Columbia. That's because there are no coal terminals along the U.S. Pacific Coast, with a number of proposed projects blocked by coastal communities that view them as detrimental to the environment and human health.
+</P>
+<P>
+According to figures tracked by environmental think-tank Ember, more than 11 million tonnes of thermal coal left Canadian ports last year. Natural Resources Canada says just five per cent of Canadian-mined coal exports are thermal, but it doesn't track shipments originating in the U.S. 
+</P>
+<P>
+The tide of public opinion is also turning against thermal coal exports in B.C., said Harrison, as people recognize the "hypocrisy" of shipping an energy source that's becoming banned here.
+</P>
+<P>
+Earlier this week, a coalition of environmental groups, including Ecojustice and Environmental Defence, called on the Liberal government to take "immediate action" on phasing out thermal coal exports, asking Ottawa to achieve the pledge by 2023.
+</P>
+<P>
+If we move away from thermal coal, what will happen with mining in Canada?
+</P>
+<P>
+It's hard to say, given that mining would continue for metallurgical coal, which remains a key component of some manufacturing and a major employer in some provinces. 
+</P>
+<P>
+Coal is one of British Columbia's top exports, and Alberta last year rescinded a decades-old policy that banned open-pit coal mines in the Rocky Mountains.
+</P>
+<P>
+WATCH | Coal mining debate turns Alberta's foothills into political battleground:
+</P>
+<P>
+But in June, the federal government released a policy statement that could effectively spell the end of any new or expanded thermal coal mines in Canada. 
+</P>
+<P>
+While the statement stopped short of barring such projects altogether, it outlined that the government sees them as "likely to cause unacceptable environmental effects" and that position "will inform federal decision making on thermal coal mining projects."
+</P>
+<P>
+There's currently only one such application before the federal government, to expand the existing Vista surface mine near Hinton, Alta.
+</P>
+<P>
+In early October, then-federal environment minister Jonathan Wilkinson also stuck to a decision to subject that project to a federal review, considered to be a more rigorous process than a provincial assessment.
+</P>
+<P>
+And moving Wilkinson in the recent cabinet shuffle from Environment to Natural Resources — a portfolio that has historically represented Canada's dominant energy industry — is also a signal that the federal government is ready for a new approach, Macdonald noted.
+</P>
+</TEXT>
+</DOC>

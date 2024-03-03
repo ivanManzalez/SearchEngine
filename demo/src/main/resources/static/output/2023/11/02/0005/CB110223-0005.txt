@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> CB110223-0005 </DOCNO>
+<DATE>
+<P>
+November 02, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Housing supply still outpacing demand in Vancouver area as sales increase; 
+</P>
+<P>
+Sales, number of listings have both increased compared to October 2022
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Real Estate Board of Greater Vancouver says the area continues to see an increase in newly listed properties, but sales still lag behind long-term trends.
+</P>
+<P>
+The board says October home sales totalled 1,996, a 3.7 per cent increase over the 1,924 sales recorded the same month last year. But the total was 29.5 per cent below the 10-year seasonal average of 2,832 for October.
+</P>
+<P>
+There were 4,664 new listings of detached, attached and apartment properties last month, a 15.4 per cent increase compared to a year earlier. New listings were 4.8 per cent above the 10-year seasonal average.
+</P>
+<P>
+The composite benchmark home price in October for Metro Vancouver was $1,196,500, a 4.4 per cent increase compared to October 2022 and a 0.6 per cent decrease from September 2023.
+</P>
+<P>
+Composite benchmark prices are considered to be a typical sale price for homes in similar areas, whereas average home prices are the total dollar sales divided by the total amount of sales.
+</P>
+<P>
+Andrew Lis, the board's director of economics and data analytics, says there appears to be a continuation of sellers' renewed interest to participate in the market, but this is being counterbalanced by a lack of demand from buyers amid high borrowing costs.
+</P>
+<P>
+He says the "silver lining" for buyers is that price increases have levelled off thanks to more balanced market conditions.
+</P>
+<P>
+The areas and municipalities covered by the Real Estate Board of Greater Vancouver are Bowen Island, Burnaby, Coquitlam, Maple Ridge, New Westminster, North Vancouver, Pitt Meadows, Port Coquitlam, Port Moody, Richmond, South Delta, Squamish, the Sunshine Coast, Vancouver, West Vancouver and Whistler.
+</P>
+</TEXT>
+</DOC>

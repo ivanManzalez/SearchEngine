@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> CB011320-0001 </DOCNO>
+<DATE>
+<P>
+January 13, 2020
+</P>
+</DATE>
+<HEADLINE>
+<P>
+New tech aims to extract lithium for electric car batteries from oilfield waste; 
+</P>
+<P>
+There are millions of tonnes of lithium in the province so companies are eyeing the untapped potential
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Lithium — a component of electric vehicle batteries — is a growing market, expected to near $100 billion by some estimates in the next decade.
+</P>
+<P>
+Mining the metal can come at a high environmental cost, so some Alberta companies are developing greener extraction methods by partnering with an unlikely ally — the oil and gas industry.
+</P>
+<P>
+"Working with the oil and gas industry we can take advantage of the infrastructure already existing in Alberta," said Amanda Hall, president of Summit Nanotech.
+</P>
+<P>
+The infrastructure isn't the only advantage. The Leduc Formation, the source of Alberta's first big oil boom, is also a rich lithium deposit. There are about 10.6 million tonnes of lithium carbonate equivalent identified in the province, according to the Canadian Lithium Association, and the potential could be even higher.
+</P>
+<P>
+Hall's company uses nanotechnology, a science that works with materials at the molecular or atomic level, to selectively filter lithium out of the wasted saltwater brine used in oil wells.
+</P>
+<P>
+"Lithium demand is going up in the near future because of electric vehicles … so the demand for our technology is also growing," she said.
+</P>
+<P>
+Her company hopes to test the tech on oilfield sites by the end of this year, and once they're up and running, will set up modular units near well heads to filter out the metal and provide it to whoever owns the land's mineral rights — at a fee.
+</P>
+<P>
+Daniel Alessi, an associate professor at the University of Alberta, said other companies, like E3 Metals, are also working to develop different extraction methods. 
+</P>
+<P>
+Alessi said while any resource extraction technology will have some degree of a negative footprint, there are options to utilize wasted natural gas or even geothermal energy to power the extraction. 
+</P>
+<P>
+"The big question these days is whether it's going to be economically feasible," he said. 
+</P>
+<P>
+But with companies like Tesla increasing their output of electric vehicles, demand is a sure thing. 
+</P>
+<P>
+"Unless somebody comes with a magic new battery technology, the outlook for this region, the lithium extraction, the lithium industry is pretty promising," Alessi said.
+</P>
+</TEXT>
+</DOC>

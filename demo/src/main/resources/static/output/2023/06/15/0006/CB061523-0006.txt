@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> CB061523-0006 </DOCNO>
+<DATE>
+<P>
+June 15, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+As N.S. investigates data breach, expert says no software is infallible; 
+</P>
+<P>
+Joe Stewart says extra layers of protection are important
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+While Nova Scotia government officials continue to investigate the extent of a hack that exposed the data of tens of thousands of people in the province, a security expert says no matter what measures are in put place, no system is infallible.
+</P>
+<P>
+Microsoft security experts say hackers affiliated with the Clop ransomware group are responsible for the hack that targeted a file transfer system used by the province called MOVEit.
+</P>
+<P>
+The province's cybersecurity minister, Colton LeBlanc, said on Wednesday it may take weeks or months to identify and notify all the people affected.
+</P>
+<P>
+CBC Radio's Information Morning Nova Scotia host Portia Clark spoke to Joe Stewart, the principal security researcher for threat response unit of the cybersecurity company eSentire, about the attack and what can be done to prevent future incidents.
+</P>
+<P>
+Their conversation has been edited for clarity and length.
+</P>
+<P>
+Should we be worried that Clop may have stolen even more data?
+</P>
+<P>
+I think they probably got all they could on the first run.
+</P>
+<P>
+It's good to go ahead and get any of these remaining vulnerabilities patched. They were prepared for this attack in advance and got in and got what they wanted and got out.
+</P>
+<P>
+We're hearing a company called Horizon3 published a proof-of-concept exploit code, which is essentially a map of how the Clop group managed to pull off that first hack. Why would Horizon3 put that code out there for the public and any other potential hackers to see?
+</P>
+<P>
+It's important to know whether the vulnerability has been fixed. If you don't have a way to test that you really are left in the dark.
+</P>
+<P>
+These white hat security companies will come out and publish some code to help security teams identify if the hole is truly patched.
+</P>
+<P>
+There will be some hacker groups that just follow on and don't have the skills to write this themselves and try and use it against any remaining unpatched servers, but at that point if you're vigilant and you're staying on top of your patching you should be fine.
+</P>
+<P>
+Should the provincial government continue to use this software if they're vigilant and patching any holes?
+</P>
+<P>
+This is what we call a zero day attack. Nobody had any knowledge of it before it was exploited.
+</P>
+<P>
+This can happen in any software. Even if it was easy to do and you could switch this software out for another file transfer platform tomorrow it might have more bugs in it.
+</P>
+<P>
+It's just a case where you need to add extra layers of security on top of the patching and system hardening that you already should be doing.
+</P>
+<P>
+Is there anything else related to cybersecurity that the province should be considering?
+</P>
+<P>
+There's all kinds of best practice that you can put in place. If you evaluate where the attacks are going to come from, what kind of data you're storing there. Should the data be better segregated between data that has to be shared with the public versus internally.
+</P>
+<P>
+There's all kind of measures. Extra logging, 24-hour monitoring of anomalous activity. Web application firewalls that can spot these kinds of attacks and endpoint monitoring that can tell if someone has managed to exploit the software and gain a foothold on the system,
+</P>
+<P>
+Does it sound to you, from what you know about what happened, that endpoint monitoring was already installed before this attack?
+</P>
+<P>
+You would need inside information to understand what kind of systems were in place.
+</P>
+<P>
+They're not infallible. We're really just hoping to have the threat actor make some kind of mistake that's going to trip up one of these systems. It's like laying tripwires everywhere on the system and hoping they stumble over one of them.
+</P>
+<P>
+Clop has said it doesn't leak data taken from government servers. Is there evidence that is the case?
+</P>
+<P>
+Ransomware groups tend to stick to their word in that regard because they rely solely on their reputation.
+</P>
+<P>
+If it's known that if you pay the extortion and they are going to leak the data anyway, no one will pay in the future.
+</P>
+<P>
+They have to keep up that ruse that they're not going to share the data.
+</P>
+<P>
+The problem is these ransomware groups sometime go underground and resurface under another name. At that point they could easily leak it and no one would associate the new name of this ransomware group with the old activity.
+</P>
+<P>
+People need to expect that if this data is not leaked in the future their data is probably out there in another leak somewhere. 
+</P>
+<P>
+So they should already be taking steps to protect their identity.
+</P>
+<P>
+MORE TOP STORIES
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> CB040123-0001 </DOCNO>
+<DATE>
+<P>
+April 01, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+B.C. mulling provincial regulations on short-term rental apps like Airbnb; 
+</P>
+<P>
+Quebec promised sweeping legislative changes after a deadly fire at an Airbnb. What could B.C.'s look like?
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+With Quebec promising to introduce provincewide regulations on short-term rentals listed on the Airbnb app, the B.C. government says it is working on legislation of its own.
+</P>
+<P>
+A mandate letter issued to B.C. Housing Minister Ravi Kahlon includes a directive to introduce legislation to allow local communities to "better regulate" services like Airbnb, and the minister has told CBC News that he would work on it this year.
+</P>
+<P>
+The scrutiny of Airbnb and similar platforms has increased across the country after seven people died in a fire at an illegal Airbnb in Old Montreal two weeks ago.
+</P>
+<P>
+As Quebec promises to require the Airbnb app to only list rentals that have been registered with the province, here is the current state of regulation for vacation rental platforms in B.C., and what the government plans to do in the months to come.
+</P>
+<P>
+Who regulates short-term rentals?
+</P>
+<P>
+While the province is responsible for certain regulations — largely around whether Airbnb hosts pay PST — most oversight of short-term rentals (STRs) is done by local governments.
+</P>
+<P>
+That means the issuing of business licences and appropriate bylaw enforcement is handled by cities and municipalities. Municipalities can also use zoning tools to ensure STRs can only operate in certain areas.
+</P>
+<P>
+In addition, strata councils — which can be responsible for apartment complexes and similar developments — may also impose bylaws around STRs, even banning them outright.
+</P>
+<P>
+What are the current regulations?
+</P>
+<P>
+It varies by jurisdiction, but many B.C. communities have bylaws restricting STR listings.
+</P>
+<P>
+Vancouver, Kelowna and Victoria — among others — restrict short-term rentals to units where owners can prove either they or someone else lives on the property as a primary residence, with possible fines for infractions.
+</P>
+<P>
+Rohana Rezel, a Vancouver-based housing advocate, also said another regulatory deterrent is that if an owner is caught running an Airbnb full-time, they no longer qualify for the principal residence exemption of the province's vacant homes tax.
+</P>
+<P>
+"But the problem is, all this requires enforcement, and that's where things have been seriously lacking. Because enforcement has been so lax, people are willing to gamble," he said.
+</P>
+<P>
+According to Rezel, who tracks vacation rental listings, a "cursory glance" shows that a large number of Vancouver's listings are illegal under municipal bylaws.
+</P>
+<P>
+Independent watchdog Inside Airbnb estimates nearly 29 per cent of Vancouver's 5,975 listings are unlicensed.
+</P>
+<P>
+Why is the province considering stepping in?
+</P>
+<P>
+The government says that while municipalities have the tools to regulate STRs, it's clear that they need additional tools that only the province can provide.
+</P>
+<P>
+"Compliance and enforcement of local bylaws governing short-term rentals remain a challenge for [local governments]," said a spokesperson for the Housing Ministry in a statement. "This is why the premier has given the minister of housing a mandate to introduce legislation establishing new tools for local governments."
+</P>
+<P>
+STRs and vacation rentals are controversial for multiple reasons. Neighbours have often complained about noise from so-called "party houses," and the recent deadly Montreal fire highlighted how STRs can have few safety measures.
+</P>
+<P>
+"In Vancouver, for example … as you go online, you apply, you get the [short-term rental] licence immediately," Rezel said. "Only a fraction of the licences are audited after that.
+</P>
+<P>
+"You could just tick saying, 'OK, I meet the fire regulations', and that's it. There's no checking on that afterwards."
+</P>
+<P>
+Rezel added that Airbnb and short-term rentals could deplete the housing stock in cities with very low vacancy rates like Vancouver and Victoria, something that has been shown in academic studies and dubbed the "Airbnb effect."
+</P>
+<P>
+What could provincial legislation look like?
+</P>
+<P>
+In its statement, the Housing Ministry said the government was looking at the regulations surrounding B.C.'s ride-hailing industry as it studied the regulation of STR platforms.
+</P>
+<P>
+Those regulations empower a provincial body, the Passenger Transportation Board, to license individual cab drivers while also requiring the ride-hailing apps to set a range of fares approved by them.
+</P>
+<P>
+Rezel said that he supports provincial oversight of the platforms and they should bear responsibility for any infractions committed by STR owners.
+</P>
+<P>
+He also said that business licences for STR operators should be public, just like they are for hotels. 
+</P>
+<P>
+B.C.'s Office of the Information and Privacy Commissioner ruled in 2021 that the City of Vancouver should do just that. However, Airbnb subsequently filed a petition challenging the order, which remains before the B.C. Supreme Court.
+</P>
+<P>
+"Licence holder names were removed for short-term rental operators due to security concerns, and with the goal of maintaining safety and protection for the operators," said Sarah Hicks, the City of Vancouver's chief licence inspector, in a statement.
+</P>
+<P>
+Hicks also added that the city would support any further provincial oversight of STR apps.
+</P>
+<P>
+CBC News reached out to Airbnb for comment but did not hear back by deadline.
+</P>
+</TEXT>
+</DOC>

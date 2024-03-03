@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> CB081922-0001 </DOCNO>
+<DATE>
+<P>
+August 19, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Russia's Gazprom says key gas pipeline to Europe will shut down for 'routine maintenance'; 
+</P>
+<P>
+3-day shutdown to begin at end of month
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A key Russian natural gas pipeline will shut down for three days of maintenance at the end of this month, the state-owned energy company Gazprom announced Friday, raising economic pressure on Germany and other European countries that depend on the fuel to power industry, generate electricity and heat homes.
+</P>
+<P>
+The latest shutdown will come a month after Gazprom restored natural gas supply through the pipeline to only a fifth of its capacity after a previous shutoff for maintenance.
+</P>
+<P>
+Russia has blamed the reductions through the pipeline on technical problems but Germany has called the shutoffs a political move by the Kremlin to sow uncertainty and push up prices amid the conflict in Ukraine.
+</P>
+<P>
+Natural gas prices rose on Friday after the announcement, and are now more than twice as high as they were a year ago.
+</P>
+<P>
+In a statement posted online, Gazprom said the planned shutdown from Aug. 31 to Sept. 2 is for "routine maintenance" at a key compressor station along the Nord Stream 1 pipeline, which links western Russia and Germany.
+</P>
+<P>
+Natural gas prices have surged as Russia has reduced or cut off natural gas flows to a dozen European Union countries, fuelling inflation and raising the risk that Europe could plunge into recession.
+</P>
+<P>
+Germany's Economy Ministry said in an email to The Associated Press that it had taken note of Gazprom's planned downtime for Nord Stream 1.
+</P>
+<P>
+"We are monitoring the situation in close cooperation with the Federal Network Agency" that regulates gas markets, the ministry said. "Gas flows through Nord Stream 1 are currently unchanged at 20 per cent."
+</P>
+<P>
+The newly announced maintenance shut-off raises additional fears that Russia could completely cut off gas that is used to power industry, generate electricity and heat homes to try to gain political leverage over Europe as it tries to boost its storage levels for winter.
+</P>
+<P>
+Germany recently announced that its gas storage facilities had reached 75 per cent capacity, two weeks before the target date of Sept. 1. Germans have been urged to cut gas use now so the country will have enough for the winter ahead.
+</P>
+<P>
+Gazprom said once the work is completed, the flow of gas through Nord Stream 1 will resume at its prior level of 33 million cubic meters, or just 20 per cent of the pipeline's capacity.
+</P>
+<P>
+The routine maintenance will be carried out jointly with Siemens specialists, Gazprom said, in a reference to its German partner, Siemens Energy.
+</P>
+</TEXT>
+</DOC>

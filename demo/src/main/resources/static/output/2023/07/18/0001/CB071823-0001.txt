@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO> CB071823-0001 </DOCNO>
+<DATE>
+<P>
+July 18, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Canada's looming power problem is massive but not insurmountable: report; 
+</P>
+<P>
+Shifting to emissions-free electricity could require tripling the amount of power we make now, estimates show
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada must build more electricity generation in the next 25 years than it has over the last century in order to support a net-zero emissions economy by 2050, says a new report from the Public Policy Forum.
+</P>
+<P>
+Reducing our reliance on fossil fuels and shifting to emissions-free electricity to propel our cars, heat our homes and run our factories will require doubling — possibly tripling — the amount of power we make now, the federal government estimates.
+</P>
+<P>
+"Imagine every dam, turbine, nuclear plant and solar panel across Canada and then picture a couple more next to them," said the report, which will be published Wednesday.
+</P>
+<P>
+It's going to cost a lot. Most estimates are in the trillions.
+</P>
+<P>
+It's also going to require the kind of cross-jurisdictional co-operation, Indigenous consultation and swift decision-making and construction that Canada just isn't very good at, the report said.
+</P>
+<P>
+"We have a date with destiny," said Edward Greenspon, president of the Public Policy Forum. "We need to build, build, build. We're way behind where we need to be and we don't have a lot of a lot of time remaining."
+</P>
+<P>
+'We need to move very quickly'
+</P>
+<P>
+Later this summer, Environment Minister Steven Guilbeault will publish new regulations to require that all power be generated from non-emitting sources by 2035.
+</P>
+<P>
+Greenspon said that means there are two major challenges ahead: massively expanding how much power we make and making all of it clean.
+</P>
+<P>
+On average, it takes more than four years just to get a new electricity generating project approved by Ottawa, and more than three years for new transmission lines.
+</P>
+<P>
+That's before a single shovel touches any dirt.
+</P>
+<P>
+Building these facilities is another thing. The Site C dam in British Columbia won't come on line until 2025 and has been under construction since 2015. A new transmission line from northern Manitoba to the south took more than 11 years from the first proposal to operation.
+</P>
+<P>
+"We need to move very quickly, and probably with a different approach ... no hurdles, no timeouts," Greenspon said.
+</P>
+<P>
+There are significant unanswered questions about the new power mix, and the pace at which Canada moves away from fossil fuel power is one of the biggest political issues facing the country.
+</P>
+<P>
+Alberta, Saskatchewan say they won't meet clean electricity deadline
+</P>
+<P>
+Six provinces — including the three largest — get more than 90 per cent of their power from clean sources that include hydro, nuclear and wind.
+</P>
+<P>
+Four provinces — New Brunswick, Nova Scotia, Alberta and Saskatchewan — still rely heavily on coal or natural gas for their electricity.
+</P>
+<P>
+The premiers of Alberta and Saskatchewan have declared the 2035 clean electricity regulations too costly and have said they simply won't meet them.
+</P>
+<P>
+They're instead aiming for 2050, when Canada wants to be net-zero — meaning that any greenhouse gas emissions are captured and not allowed to linger in the atmosphere where they contribute to global warming.
+</P>
+<P>
+The federal government has suggested there may be some flexibility but hasn't yet explained what that means.
+</P>
+<P>
+Greenspon said there are signs most governments now grasp the enormity of the challenge.
+</P>
+<P>
+In 2022, the federal budget mentioned electricity just 20 times. One year later it came up 88 times, with billions of dollars pledged to help build and transmit clean power.
+</P>
+<P>
+All provinces have declared or are in the process of declaring their power plans for the next 30 years. In June, British Columbia said it will issue a call for new power in 2024, the first time it has done so in 15 years. It intends to start adding 3,000 gigawatt hours of power generation every year starting in 2028, enough to power 270,000 homes.
+</P>
+<P>
+Five years ago, the Ontario Tory government spent nearly $300 million to end hundreds of renewable electricity projects the previous Liberal government had launched. Premier Doug Ford said the power wasn't needed and that wind power was destroying the province's energy system.
+</P>
+<P>
+Last week, however, Ontario Energy Minister Todd Smith outlined a power plan that includes billions in new nuclear projects as well as a return to wind and solar projects the government once called a waste of money.
+</P>
+<P>
+Ontario, like Alberta and Saskatchewan, expects to rely on gas for some power for some time to maintain stability.
+</P>
+<P>
+Demand growing faster than expected
+</P>
+<P>
+Canada is among the best in the world at keeping the lights on and its reliable and mostly clean supply of power has been a draw for some investments. Volkswagen, for example, chose Ontario over the United States to build its first electric vehicle battery plant outside Europe in part because of access to both clean and stable power.
+</P>
+<P>
+But demand is growing faster than expected, and we're not building new generation fast enough to keep up.
+</P>
+<P>
+"We're going to have a tough 25 years," Greenspon said.
+</P>
+<P>
+Greenspon said Canadian policymakers have some choices to make, as not all projects can be built at once and not all demands will be met — at least not immediately.
+</P>
+<P>
+Canada wants to stop selling combustion engine passenger cars by 2035, but there are few who think will we have enough power by then to charge all those cars, run new plants like Volkswagen's, and replace gas furnaces with heat pumps.
+</P>
+<P>
+Quebec has already had to start limiting industrial expansion because it can't fill all the power needs.
+</P>
+<P>
+That province, with its 62 hydroelectric power plants, makes so much power it sells a lot of it south of the border. But with demand rising, provincial Energy Minister Pierre Fitzgibbon warned in May that the power surplus will end by 2026.
+</P>
+<P>
+"Our surpluses have melted like glaciers under the sun of climate change," he said in a speech to the Montreal Chamber of Commerce.
+</P>
+</TEXT>
+</DOC>

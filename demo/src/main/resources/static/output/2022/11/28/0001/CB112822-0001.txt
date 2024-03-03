@@ -1,0 +1,126 @@
+<DOC>
+<DOCNO> CB112822-0001 </DOCNO>
+<DATE>
+<P>
+November 28, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Does your heat pump need a backup heat source? Well, it depends; 
+</P>
+<P>
+Latest program targets homes that heat with oil, includes removal of old system
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Consumers who take advantage of recently announced heat pump programs may be surprised to learn that some insurance companies won't accept heat pumps as a sole source of heat, said New Brunswick's consumers advocate for insurance. 
+</P>
+<P>
+Michèle Pelletier said that while most insurance companies will insure homes with heat pumps, some will consider them "a secondary source of heating. You still need to have another source of heating — electricity or your oil furnace."
+</P>
+<P>
+The decision to require another source of heat is completely up to the companies, she said, because home insurance is "not very regulated."
+</P>
+<P>
+"So insurers are able to decide what risk they want to write and what they don't want to write … they don't need those guidelines to be accepted by the government. It's up to them. It's in-house. They're able to do almost what they want regarding heat pumps."
+</P>
+<P>
+Pelletier said homeowners should check with their insurance companies before they enrol in one of the government-funded heat pump programs. 
+</P>
+<P>
+Otherwise, they may be faced with extra costs to install another source of heat. 
+</P>
+<P>
+Last week, the federal government announced a new program aimed at helping low- to medium-income Canadian households make the switch from oil to heat pumps.
+</P>
+<P>
+The Oil to Heat Pump Affordability Grant will provide households with up to $5,000 — depending on household income — to cover costs that include the purchase and installation of heat pumps, necessary electrical upgrades, and the safe removal of the oil tank.
+</P>
+<P>
+The money will be provided up front to pay for the switch, and the new grant can be combined with existing greener-home grants from federal, provincial and territorial governments and utilities.
+</P>
+<P>
+While heat pumps offer a cheaper, greener way to heat and cool homes, they're not all created equal — and don't all perform the same in cold weather, explained Martin Luymes, the vice president of government and stakeholder relations for the Heating, Refrigeration and Air Conditioning Institute of Canada. It represents more than 1,150 member companies in the heating, ventilation, air conditioning and refrigeration industry.
+</P>
+<P>
+Essentially, a heat pump extracts heat from the outside air and transfer it into the home. Even at very cold temperatures, heat pumps are able to extract heat from outside. The more advanced — and expensive — the system the better it works at really cold temperatures, Luymes said.
+</P>
+<P>
+He said some heat pumps require a backup system to kick in when temperatures drop below a certain threshold. But others can continue to operate to about -40 C and do not require a backup heat source. 
+</P>
+<P>
+Similarly, he said there's no "cookie-cutter approach" to installing heat pumps in homes. He said every home is different in terms of its "building envelope" which includes how well insulated as home is and how much air it leaks. 
+</P>
+<P>
+Luymes said an across-the-board requirement by insurance companies for a secondary system isn't necessary. Instead, he said all projects should begin with an assessment of the home that will help determine what system will work best —  and whether a backup system is needed. 
+</P>
+<P>
+Questions sent to the Insurance Brokers Association of Canada last week were referred to the Insurance Bureau of Canada, which responded with an emailed statement saying the bureau encourages "redundancy with other heat sources capable of performing in the coldest periods of winter."
+</P>
+<P>
+"The goal for a homeowner is the same as for an insurer — to reduce the risk of frozen pipes in the house."
+</P>
+<P>
+The executive director of the Insurance Brokers Association of New Brunswick said the group is following all of the funding announcements. 
+</P>
+<P>
+"We just need to catch up on the announcements and in some cases, the technology and understanding," Becci Taylor said in an email on Friday. 
+</P>
+<P>
+"We highly recommend anyone with questions at this time, talk to their insurance broker prior to making any changes to their home."
+</P>
+<P>
+'Sometimes surprised'
+</P>
+<P>
+"Households that are looking to transition off of their existing heating and get heat pumps are sometimes surprised to hear from their contractors and from their insurance companies that heat pumps sometimes are required to have a backup heating source," said Abhilash Kantamneni, a research associate with Efficiency Canada, whose area of expertise is energy poverty and low-income energy efficiency policy. 
+</P>
+<P>
+Homeowners are then forced to install a second new system that will "kick in when the temperatures get really cold or when the heat pump is not able to do its jolly good thing."
+</P>
+<P>
+While he's pleased with last week's announcement about additional money being directed toward low-income Canadians, Kantamneni said it's unclear whether the new program will cover the cost of a backup system. 
+</P>
+<P>
+Brian Gifford, the chair of the Affordable Energy Coalition, based in Nova Scotia-based, is also pleased by the announcement, but says more details about the program are needed, including whether the program covers the installation of a backup heat source. 
+</P>
+<P>
+That's something Gifford has experience with. 
+</P>
+<P>
+When he replaced his oil furnace a few years ago in his home, installing backup electric baseboard heaters added an extra $2,000 to the project. 
+</P>
+<P>
+The heat pump itself was $4,200, the upgrade to the electrical panel was $2,700 and removing the old oil system was $600. 
+</P>
+<P>
+Gifford is reaping the benefits of the new system now. Historically, it was roughly $2,500 a year to heat his 1,100-square-foot home. After he upgraded the insulation, that cost dropped to $1,700 per year, and after the heat pump was installed, it dropped to $700 per year. 
+</P>
+<P>
+That's an annual savings of $1,800, which he estimates would be much more than that now, considering the increase in oil prices over the last few years. 
+</P>
+<P>
+Home assessments help determine need, says utility
+</P>
+<P>
+A spokesperson for N.B. Power, which oversees most programs through SaveEnergyNB, said programs support "a variety of heating systems."
+</P>
+<P>
+In an emailed response to questions, Marc Belliveau said "we rely on the home assessment to determine the heating load of the home and what type of heating configuration would work best for each home. Mini split heat pumps, even those rated for cold climates do generally need a backup heating source."
+</P>
+<P>
+He also said "some aspects of the oil program are still being worked on."
+</P>
+<P>
+The federal Department of Natural Resources, which made the announcement on Nov. 21 was also asked for clarification about the program. 
+</P>
+<P>
+Robin Librach, a communications officer with the department, emailed a statement on Friday. It said homeowners should consult their insurance company before they install heat pumps "to ensure it meets any requirements their home insurance policy may have."
+</P>
+<P>
+The statement also says heat pumps must be "correctly-sized for the home in which they are being installed. Qualified installers are responsible for ensuring the new heating system provides that correct sizing and sufficient heating for the home."
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> CB091423-0001 </DOCNO>
+<DATE>
+<P>
+September 14, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Housing supply picture improving but Canada still needs 3.5 million more new homes by 2030, CMHC says; 
+</P>
+<P>
+Report shows slight improvement to housing gap since last year
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada's national housing agency says progress is being made on building enough housing to fix the country's affordability gap, but almost 3.5 million new units will still have to be built by the end of the decade, over and above what's already in the works.
+</P>
+<P>
+That was the main takeaway from a new report the Canada Mortgage and Housing Corporation published Wednesday, updating its initial assessment from June 2022.
+</P>
+<P>
+At the time, the housing agency said the country was on track to build about 2.3 million new housing units by 2030. But it calculated that just over 5.8 million new units would be needed by that year to adequately address supply, leaving a gap of roughly 3.52 million new units.
+</P>
+<P>
+In its update Wednesday, the agency says incremental progress has been made, narrowing the gap slightly, but Canada still needs another 3.45 million new units above and beyond what is currently planned.
+</P>
+<P>
+"This latest report reinforces the need for urgent action to increase housing supply to make housing affordable for everyone in Canada and continues our work on improving the understanding of what drives housing demand and supply," CMHC economist Aled ab Iorwerth said.
+</P>
+<P>
+The supply picture has improved somewhat in Ontario, but has worsened in other provinces like Quebec, Alberta and British Columbia, the CMHC says.
+</P>
+<P>
+Ontario still makes up the bulk of the shortfall with a 1.48 million gap, but that's down from the 1.85 million projected last year.
+</P>
+<P>
+Quebec needs an estimated 860,000 units, 240,000 more than last year; B.C. needs 610,000, an increase of 50,000; and Alberta needs 130,000, compared with 20,000 projected last year.
+</P>
+<P>
+The agency's target is based on the affordability level in 2004, when housing costs were relatively low and the economy was stable.
+</P>
+<P>
+In most provinces, CMHC considers housing to be affordable if it takes up about 30 per cent of income, but that target is 37 per cent in Ontario and 44 per cent in B.C.
+</P>
+<P>
+Robert Hogue, an economist with the Royal Bank of Canada, says that while Canadian housing affordability remains at a crisis level, he agrees with the assessment that incremental progress is being made on the supply side of the picture
+</P>
+<P>
+"We've seen some progress in terms of housing construction," he told CBC News in an interview. "But that's not enough to to accommodate all the newcomers into Canada."
+</P>
+</TEXT>
+</DOC>

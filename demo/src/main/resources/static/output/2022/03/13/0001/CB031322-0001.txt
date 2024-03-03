@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> CB031322-0001 </DOCNO>
+<DATE>
+<P>
+March 13, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Electric vehicles face roadblocks as feds try to boost sales; 
+</P>
+<P>
+Cost, scarcity and a shortage of charging stations are undermining Ottawa's efforts
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada's first emissions reduction plan will be tabled in the House of Commons in two weeks. But the minister in charge says it won't include specific details on how to meet the federal government's sales targets for zero-emission cars and trucks over the next decade.
+</P>
+<P>
+The federal plan is to require that half of all new cars sold in this country be zero-emission vehicles by 2030. Five years after that date, all new cars sold must be zero-emission.
+</P>
+<P>
+Environment Minister Steven Guilbeault said that while the goal of this national sales mandate is clear, he's still consulting with the auto sector on the best way to meet it.
+</P>
+<P>
+"We're not sure yet exactly how we'll get there, and the how is going to be developed in the course of the next year with the industry and other stakeholders. But the objectives are clear," he said in an interview airing on The House this weekend.
+</P>
+<P>
+Electric vehicles now make up less than five per cent of new car sales in Canada, although polls suggest around a third of new car buyers are interested in zero-emission vehicles, said Zoe Long, a researcher with the Sustainable Transportation Action Research Team at Simon Fraser University.
+</P>
+<P>
+Sticker shock and shortages
+</P>
+<P>
+But those vehicles are in short supply. Waiting lists are long. Prices are often too high for many buyers — even though the federal government offers purchase incentives of up to $5,000 and some provinces, notably British Columbia, offer similar deals.
+</P>
+<P>
+"If you go to a dealership, there might not even be an electrical vehicle on the lot that you can test drive," Long told The House. 
+</P>
+<P>
+"The majority of electric vehicles that are for sale right now tend to be on the smaller side and yet we know that 80 per cent of buyers want an SUV or a pickup truck. So there are simply not enough, and not enough of the right kinds of electric vehicles to satisfy consumer demands."
+</P>
+<P>
+Long said the federal government needs to legislate national sales targets for electric vehicles to ensure automakers make the shift.
+</P>
+<P>
+But supply is only part of the challenge. Cost, and the lack of charging stations in many parts of the country, are others. 
+</P>
+<P>
+Jon Begg lives in Fort Frances, a northwestern Ontario town on the Canada-U.S. border. He said he considered going electric when he and his wife bought a new car late last year, but they were put off by the limited range of those vehicles compared to gasoline-driven cars.
+</P>
+<P>
+"So really, it's just a fear of the reliability as far as the batteries go for this kind of distance," he said. "And we are literally in the middle of nowhere once we get out of Fort Frances."
+</P>
+<P>
+An 'aspirational target'
+</P>
+<P>
+Greg Poelzer, a professor at the University of Saskatchewan's school of environment and sustainability, said all of these challenges will make it hard for the government to reach its sales targets for zero-emission vehicles.
+</P>
+<P>
+"But it's still a worthwhile aspirational target to get as close as we possibly can," he said.
+</P>
+<P>
+The reason? Transportation is the second-largest source of greenhouse gas emissions in Canada, with cars and light trucks responsible for half of those emissions.
+</P>
+<P>
+Poelzer owns an electric car and a gas-powered SUV. With gas prices pushing $2-a-litre in most of Canada, his vehicle of choice is the car, which he says costs the equivalent of 30 cents a litre to drive.
+</P>
+<P>
+Guilbeault said he understands the challenges. 
+</P>
+<P>
+The minister acknowledges electric vehicles are better suited now for driving around the city than across the country, despite the pledge to add tens of thousands of charging stations.
+</P>
+<P>
+As for cost, he said Ottawa is committing hundreds of millions of dollars to help the auto sector make the transition to zero-emission vehicles.
+</P>
+<P>
+He also argued that the existing price difference between gas-powered and zero-emission vehicles will narrow within the next five years, and the costs of maintaining and fuelling an electric vehicle are substantially lower.
+</P>
+<P>
+"Which is why there is a big focus on fast-charging stations. You can charge basically 80 per cent of your vehicle in about 20 minutes for about $8. I don't know how many people … can get about 80 per cent of their car filled with gasoline for eight bucks."
+</P>
+<P>
+Not enough places to plug in
+</P>
+<P>
+Brian Kingston is the CEO of the Canadian Vehicle Manufacturers' Association. He said the lack of charging stations is the biggest hurdle to overcome if Canada is to have any chance of meeting the goal of having EVs make up all new vehicle sales by 2035.
+</P>
+<P>
+"So right now, the federal government is committed to building 50,000 charging stations, but that is far, far short of what's required to hit the 2035 target. We're estimating that you would need nearly four million public charging stations and charging ports to achieve the targets that government has set out. So that's a key barrier and [there is] much work to do."
+</P>
+<P>
+Back in Fort Frances, Jon Begg still isn't convinced that an electric vehicle is a viable choice for him.
+</P>
+<P>
+"I still think there are far too many people in this country, myself and my family included — we can't afford a $40,000 or $50,000 vehicle," he said.
+</P>
+<P>
+"We purchased a new, gas efficient [vehicle] that gets 42 miles to the gallon, and for half the price that we would have paid for an electric. I know that there is a period where the benefit catches up. There is a payoff, long term, but I don't know that there are sufficient number of people who can afford to wait long term."
+</P>
+<P>
+Timing is also on Guilbeault's mind.
+</P>
+<P>
+He said the government hasn't decided whether to introduce legislation to meet its EV targets — which would require time to get through Parliament — or to do it through regulation.
+</P>
+<P>
+The University of Saskatchewan's Poelzer said he's not sure Guilbeault can meet the targets. He said he worries that if the government does hit the mark, the drain on Canada's electrical grid will far exceed its capacity.
+</P>
+<P>
+Which adds just one more bump in the road for Canada's zero-emission vehicle policy.
+</P>
+</TEXT>
+</DOC>

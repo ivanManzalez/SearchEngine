@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> CB102923-0002 </DOCNO>
+<DATE>
+<P>
+October 29, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Underground carbon storage is the future in Canada. But could it cause earthquakes?; 
+</P>
+<P>
+Researcher with Geological Survey of Canada recently awarded $1.5M to study the issue
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Canada is investing heavily in carbon capture and storage as a way to fight climate change. Now, research is underway to determine if that storage — in the form of injecting carbon dioxide underground — could lead to earthquakes.
+</P>
+<P>
+Honn Kao, a seismologist and research scientist at the Geological Survey of Canada, recently received a $1.5 million grant from Natural Resources Canada to study the issue.
+</P>
+<P>
+Carbon capture and storage aims to reduce the carbon dioxide that is emitted by an industrial operation burning fossil fuels by capturing CO2 at the source. Instead of being released to the Earth's atmosphere as a gas, it's compressed and injected underground as a liquid. 
+</P>
+<P>
+Kao and his team will be monitoring earthquake activity from underground carbon storage facilities over five years, studying the possible effects of the injections and analyzing what can be done to mitigate or eliminate those risks.
+</P>
+<P>
+"What kind of injection scenarios of carbon storage may actually increase the seismic risk," he said.
+</P>
+<P>
+"This is an important issue because if the induced earthquakes happen to be a significant one that actually becomes large enough for the local communities to feel it or even have some damage … then the regulatory agencies will have to shut the injection operation down."
+</P>
+<P>
+Induced earthquakes
+</P>
+<P>
+Earthquakes caused by injecting a liquid underground — also known as induced seismicity — have been well documented in the U.S. and Canada when it comes to fracking and wastewater disposal, including by Kao in B.C.'s Peace region.
+</P>
+<P>
+"Based on our past research, we realized that when you do large-scale fluid injection into subsurface formations, the stress perturbation caused by all these injected fluids can be enormous ... which eventually leads to the occurrence of earthquakes," Kao said.
+</P>
+<P>
+"Although the carbon injection or the carbon storage itself is not a widespread phenomenon here yet, the physics is actually the same."
+</P>
+<P>
+Kao said, to date, there have been no major carbon injection-induced earthquakes in Canada or elsewhere in the world, but he does expect small events to happen. The risk of activity is generally higher near tectonic plate boundaries, he said. 
+</P>
+<P>
+If a major earthquake ruptures through cap rock atop of a carbon storage area, it could create a pathway for injected CO2 to escape, he said.
+</P>
+<P>
+Seismic monitoring near storage facilities
+</P>
+<P>
+According to the Canada Energy Regulator, there are 10 carbon capture and storage projects operating in Canada: six in Alberta and four in Saskatchewan. The regulator said four other projects are confirmed to move forward in the next five years.
+</P>
+<P>
+Kao's research will examine real-time earthquake activity. When a seismic event happens, his team works backwards to figure out where it stemmed from and whether it is injection-related. If it is the latter, the team will look into what caused the induced event and whether a fault line might be involved.
+</P>
+<P>
+Erik Nickel is the chief operating officer of the Petroleum Technology Research Centre, which oversees the Aquistore carbon storage facility in Estevan, Sask. Aquistore is one of several sites that will be monitored by Kao's team.
+</P>
+<P>
+"It would make a lot of sense to include us in there because of our history of not really having much seismic activity," Nickel said, adding the site sits on flatlands and is not near the boundary of tectonic plates.
+</P>
+<P>
+Carbon dioxide is captured from a nearby coal-fired power plant and the carbon is compressed then piped to an injection well approximately three kilometres away from the power plant.
+</P>
+<P>
+The carbon is subsequently injected 3.4 kilometres underground.
+</P>
+<P>
+So far, approximately 560,000 tons of liquefied carbon dioxide have been pumped into a sandstone formation below the surface of the Earth. The site is consistently tracked by a slew of equipment, including seismic monitors, groundwater monitoring and GPS.
+</P>
+<P>
+"Obviously we do not want to cause any man-made earthquakes to happen," Nickel said.
+</P>
+<P>
+Nickel is skeptical that carbon storage will bring serious earthquake risks, but said that he understands why this research needs to be done at this point in time.
+</P>
+<P>
+"If CO2 injection and CCS becomes a large [greenhouse gas] mitigation strategy for Canada … it's very important to understand the nature and scope of [all risks]," he said.
+</P>
+<P>
+"Right now it looks as though in stable areas such as this, that it won't be a large risk. But certainly in other areas, it could be. So I think before it rolls out, understanding the stress fields and the factors that lead to seismic activity would be important."
+</P>
+<P>
+As for Kao, he said that this research looks at the bigger picture.
+</P>
+<P>
+"We know injection has a lot of benefits," Kao said.
+</P>
+<P>
+"Fighting climate change is important and by doing so, what kind of price do you want to pay and can you accept this kind of risk?"
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,102 @@
+<DOC>
+<DOCNO> CB081123-0001 </DOCNO>
+<DATE>
+<P>
+August 11, 2023
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Buying hydro from B.C. will help Alberta meet net-zero goal, in Ottawa's vision; 
+</P>
+<P>
+Interties could jolt wind and solar power exports, but province would be bigger power importer
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Alberta has long prided itself on being (or trying to be) master of its own house on all things energy. 
+</P>
+<P>
+Former premier Peter Lougheed's pushback on the previous Trudeau government's National Energy Program is, of course, the most famous example of that, and every Alberta premier between then and Danielle Smith now has tried to channel that spirit.
+</P>
+<P>
+With the Smith government's defiant response that it will "chart its own path" rather than follow Ottawa's newly drafted Clean Energy Regulations, the United Conservatives have applied the traditional fighting posture taken on oil and natural gas extraction to the other side of the "energy" coin — burning fossil fuels for electricity generation.
+</P>
+<P>
+But the new federal roadmap to a net-zero grid also threatens to dent Alberta's image as solidly self-reliant in another respect, as well. The province whose economy is heavily staked on exporting energy products would, in this new green roadmap, start paying to bring in a bunch more energy — of hydroelectricity, namely.
+</P>
+<P>
+Alberta has long been able to use mostly its own coal and natural gas to keep its lights on. The province's coal power age ends this year, while less-emitting natural gas generation is in the federal plan's crosshairs (though it isn't gone too fast; more on that shortly).
+</P>
+<P>
+Water ways
+</P>
+<P>
+But Ottawa doesn't expect Alberta to be fully reliant on solar and wind, the green power sources that unexpectedly found themselves in the Smith government's crosshairs, with a new project moratorium the UCP applied that has jarred investors and been widely, heartily criticized.
+</P>
+<P>
+Rather, the thinking goes that the provinces with much cleaner grids already, like hydro-powered British Columbia and Manitoba, can help, through expanded interties between provinces. How about a little more interconnection in this national and global fight to lower emissions and fight the climate change that's stoking ever-worse wildfires and repeatedly shattered heat records?
+</P>
+<P>
+The federal regulations offer no mandates or specific forecasts for how much hydro power would flow into the province, but the plan's regulatory impact statement forecasts that the new rules would prompt Alberta to spend an additional $16.3 billion on net electricity imports from other provinces between 2024 and 2050, by which time Canada's whole economy is supposed to be net zero.
+</P>
+<P>
+That works out to $789 million per year over those 27 years, the documents state.
+</P>
+<P>
+Alberta already swaps power back and forth through connections with Saskatchewan, B.C. and Montana, but has long been a net importer from our well-dammed neighbour to the west, according to the figures from the Alberta Electricity System Operator (AESO). 
+</P>
+<P>
+But the federal net-zero path would mark a substantial increase — several times more than the net power imports in recent years, according to calculations provided by Andrew Leach, an energy and environmental economist at the University of Alberta.
+</P>
+<P>
+Building greater out-of-province transmission capacity has long been touted as a way to help Alberta green its power supply. Yet, boosters of B.C.'s massive Site C dam have urged better links with Alberta to improve the megaproject's economics, with little interest from past Alberta premiers.
+</P>
+<P>
+Though unlike Alberta's oil pipelines, an intertie would not be a one-way flow. It would create a buyer's market in British Columbia for this province's wind and solar energy when nature generates it in abundance, while offsetting the periods when turbines and solar farms aren't as productive.
+</P>
+<P>
+"We have to be much more integrated if we want this to work," Leach says of the net-zero grid goals. 
+</P>
+<P>
+However, Ottawa's forecast of sharper growth in net imports suggests the wattage would flow in to Alberta more than out.
+</P>
+<P>
+Untied
+</P>
+<P>
+It's not apparent that there's much talk between Alberta and British Columbia on expanding interties, even though as far back as her Wildrose Party days, Smith has proposed bringing in more hydroelectricity from other provinces as part of her "corridors" idea of a grand bargain to ship out more oil and gas.
+</P>
+<P>
+It's an area where the Trudeau Liberals are keen to foster cooperation, and subsidize it. On the other side of the country, Ottawa is offering to front billions on the multi-province Atlantic Loop transmission project.
+</P>
+<P>
+The Alberta Chambers of Commerce have encouraged more intertie infrastructure, and they see it as a cost-saver for the province. In fact, that business group's report argued that when AESO recently curtailed the existing interprovincial transmission to curb the risk of reliability problems, it added $300 million to $500 million to Albertans' power bills.
+</P>
+<P>
+Environment Minister Rebecca Schulz has instead proposed an Alberta-only path that leans on modular nuclear reactors, along with some post-moratorium renewable energy, but most heavily on more gas-fired generation (with incentives for carbon-capture abatements, rather than requirements).
+</P>
+<P>
+The federal regulations do not slam the door in 2035 on natural gas power as firmly as the phrase "net-zero grid by 2035" would have us believe. For that year, it forecasts a diminished but still significant fleet of carbon-emitting generators, still more than half as much as there would be in a scenario without federal rules.
+</P>
+<P>
+There are a raft of exemptions, including not requiring the more stringent standards until a plant has been operating for 20 years, if it's built by 2024.
+</P>
+<P>
+That means the many recent gas-fired plants, including those converted from coal, can continue operating into the 2040s.
+</P>
+<P>
+There are estimates within the industry that 60 per cent of the gas-powered generation fleet will be initially exempted, including the massive Genesee gas plants scheduled to open next year. 
+</P>
+<P>
+But that also means two-fifths of Alberta's natural gas generation has 12 years to comply with Ottawa's rules, and either retrofit with costly carbon-capture additions, become seldom-used "peaker" plants during high-demand periods, or wind down altogether.
+</P>
+<P>
+Schulz and Smith vow to do what they can to let Alberta resist what they brand "unconstitutional" proposals, with ample time to negotiate and engage in rhetorical wars while they're in draft phase.
+</P>
+<P>
+The potential for interties will likely also figure prominently on the negotiating table. It isn't in Alberta's habit to be an energy customer, but plenty else is changing these days, including the planet's climate, markedly.
+</P>
+</TEXT>
+</DOC>

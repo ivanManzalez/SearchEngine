@@ -1,0 +1,156 @@
+<DOC>
+<DOCNO> CB040122-0003 </DOCNO>
+<DATE>
+<P>
+April 01, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+Which dollar-store batteries stand up to big-name brands, and which should you avoid?; 
+</P>
+<P>
+Marketplace investigation also reveals where much of Ontario’s disposable battery waste is going now
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A CBC Marketplace test of double-A disposable batteries found that while major brand names deliver on their marketing promise to be long-lasting, batteries bought at two leading dollar stores did surprisingly well and provide good value for cost-conscious shoppers.
+</P>
+<P>
+But the test also found that not all dollar store batteries are created equally and certain types of batteries did not perform well, with experts warning that they should be avoided despite their low cost.
+</P>
+<P>
+Marketplace, teaming with researchers from Ontario Tech University in Oshawa, Ont., tested 240 double-A disposable batteries from six brands. The brands tested were Energizer, Duracell, Canadian Tire's Noma, Walmart's Great Value, E-Circuit from Dollar Tree, as well as Panasonic batteries from both Dollarama and Dollar Tree.
+</P>
+<P>
+In the tests, which simulated different energy drain levels, Energizer and Duracell lasted the longest. But it was E-Circuit alkaline, a brand imported by and sold at Dollar Tree, that held its own against the more well-known brands, lasting nearly as long and costing only $1.25 for a pack of four.
+</P>
+<P>
+The researchers used the different drain scenarios — low, medium and high — to simulate real-life uses. They said the low-level drain is similar to the continuous use of a computer mouse or TV remote control. The medium drain is similar to continuous use of a remote-controlled toy or gaming controller, while high drain is like a high-powered flashlight. 
+</P>
+<P>
+Ontario Tech engineering assistant professor Xianke Lin, who supervised the test, noted that the results, while surprising, should not be used as a proxy for all battery performance because the test can't perfectly simulate how batteries are used in real life.
+</P>
+<P>
+Still, the E-Circuit's value comes into focus when comparing price per battery and capacity. Based on what Marketplace paid, the average price per E-Circuit alkaline battery was just 31 cents.
+</P>
+<P>
+"Usually people think it's cheap and shouldn't have the best value, but [E-Circuit alkaline] turns out to be the best capacity per dollar you spend," said Lin, of Ontario Tech's faculty of engineering and applied science. 
+</P>
+<P>
+E-Circuit's ultra alkaline battery performed even longer overall, though at a higher price point.
+</P>
+<P>
+Panasonic's Alkaline Plus batteries purchased from Dollarama and Dollar Tree also performed well in all three simulated drain tests.
+</P>
+<P>
+Batteries to avoid
+</P>
+<P>
+While dollar store alkaline batteries offered surprises, another type sold at those stores, carbon zinc (or zinc carbon) did not do well in the tests.
+</P>
+<P>
+Those carbon zinc double-A batteries are recommended for low-drain devices and are a common feature in dollar stores. In a test simulating the continuous use of low-drain devices, the E-Circuit and Panasonic carbon zinc batteries lasted six hours and 55 minutes and seven hours and 45 minutes, respectively, while the other brands' alkalines all lasted in excess of 20 hours. 
+</P>
+<P>
+Despite the E-Circuit and Panasonic carbon zinc being branded as "Super Heavy Duty," they were anything but, according to experts.
+</P>
+<P>
+"It's incredibly confusing," according to Columbia University engineering associate professor Dan Steingart, who studies the capacity and energy efficiency of disposable batteries.
+</P>
+<P>
+"The jargon around that term dates back to the seventies and it worked. I remember my grandfather being like, 'You know, make sure you buy the super heavy duty one as opposed to the light wimpy one,' right? It significantly affected an entire generation of battery consumers."
+</P>
+<P>
+Also known as dry cells, "super heavy duty" carbon zinc batteries are based on a dated technology from the 19th century, and typically marketed as a cost-effective option for use in low-drain devices like TV remote controls or wall-mounted clocks. 
+</P>
+<P>
+Steingart, who has run tests similar to Marketplace's, said: "I couldn't find a single use case where the zinc carbon outperformed in any way the alkaline cells…. There's no reason to sell a zinc carbon system in 2022."
+</P>
+<P>
+Though the batteries are recommended only for certain devices that don't require a lot of power, many Canadians told Marketplace they don't notice those suggestions on the battery packs.
+</P>
+<P>
+Given their likely use in other devices, the researchers also tested the carbon zinc batteries in the simulated high-drain tests.
+</P>
+<P>
+The Panasonic and E-Circuit carbon zinc batteries lasted just under seven minutes under high-draw conditions, while all the alkaline batteries lasted around an hour.
+</P>
+<P>
+"Zinc carbon cells are pretty much defunct and should not be made or sold anymore," said Steingart. 
+</P>
+<P>
+Experts said the key is looking for alkaline batteries at the dollar stores and avoiding the cheaper carbon zinc batteries.
+</P>
+<P>
+Panasonic told Marketplace its carbon zinc batteries can last up to a year in low-drain devices and that it works with stores to educate consumers about their use.
+</P>
+<P>
+"Carbon zinc batteries are an established technology and when used correctly in recommended devices, they provide great performance and value," Panasonic said in a statement, and said consumers should be aware that different batteries are better suited for certain devices.
+</P>
+<P>
+Dollar Tree, the importer of E-Circuit batteries, did not respond to questions about the carbon zinc batteries, but did acknowledge they're sold and their products overall fit the low-priced needs of its customers.
+</P>
+<P>
+Dollarama, which along with Dollar Tree carries Panasonic carbon zinc batteries, says it offers "a selection of Panasonic carbon zinc and alkaline battery pack options to our customers, thereby providing them with access to a range of options within our low fixed price points, depending on their need."
+</P>
+<P>
+Consumers help pay to recycle battery waste — where's it going?
+</P>
+<P>
+Double-A batteries are among the most commonly used — and disposed of — in Canadian households. According to Call2Recycle, the not-for-profit that manages this type of waste, Canadians recycled 4.1 million kilograms of batteries in 2020.
+</P>
+<P>
+Consumers pay an eco fee — sometimes called an environmental handling fee (EHF) — for batteries purchased in Ontario, Manitoba, B.C., Quebec, and Saskatchewan. While environmental fees to cover the cost of electronic waste are applied to electronic items and TVs purchased in most Canadian provinces, not all provinces have eco fees on batteries specifically. 
+</P>
+<P>
+In Ontario, battery manufacturers and retailers are now responsible for recycling their used batteries, and this consumer fee may be added at the checkout in order for businesses to cover their own recycling costs. 
+</P>
+<P>
+Marketplace paid about five cents a battery for eco fees in Ontario, and $2.40 on a 48-cell pack.
+</P>
+<P>
+Most household batteries in Ontario used to end up at Ontario's biggest battery recycling plant, Raw Materials Company (RMC), in Welland, Ont.
+</P>
+<P>
+However, Marketplace has discovered that dead batteries collected for disposal in Ontario are no longer being sent there. 
+</P>
+<P>
+Joe Zenobio, president of Call2Recycle, Canada's largest battery collector and recycler, wrote that the group has terminated some agreements for non-compliance "related to the collection of qualifying batteries" in Ontario. 
+</P>
+<P>
+RMC told Marketplace it has never received notice of regulations violations in its 35 years of operation and is fighting Call2Recycle's decision.
+</P>
+<P>
+Resource Productivity and Recovery Authority (RPRA), the regulator of Ontario's circular economy laws, confirmed in an email that Call2Recycle has told the agency that it intends to send batteries to Michigan. Call2Recycle told Marketplace it is working with recycling companies in Michigan, as well as Quebec, but would not say how many batteries are going where or when.
+</P>
+<P>
+Consumers not obligated to pay eco fees
+</P>
+<P>
+Jo-Anne St. Godard, head of Circular Innovation Council, formerly the Recycling Council of Ontario and now a national advocacy group, said sending dead batteries out of the country for recycling is not ideal. While it's difficult to measure the transport emissions against the recycling benefits, she would prefer to see support for both local recycling solutions, and the local economy. 
+</P>
+<P>
+St. Godard said Ontario eco fees are not a tax, and that consumers aren't obligated to pay them. 
+</P>
+<P>
+"I think [consumers] need to ask questions at the point of sale when they're seeing these fees applied and they certainly need to ask questions of the government in terms of where is this money going, how is this money being managed," she said.
+</P>
+<P>
+WATCH | What you need to know about leaking batteries:
+</P>
+<P>
+Phillip Robinson, press secretary for provincial Environment Minister David Piccini, said in an emailed response: "The Batteries Regulation does not include an audit requirement related to visible fees but if a consumer believes the fee they were charged is too high, the Consumer Protection Act protects consumers from unfair practices, including protecting consumers from false, misleading or deceptive communications relating to fees."
+</P>
+<P>
+The Ministry of Government and Consumer Services said in an email that it is up to each business to decide whether to charge environmental fees on batteries or electronics and determine what amount the fee should be to recover their recycling costs, and a business cannot misrepresent the purpose of a fee. 
+</P>
+<P>
+Consumers who believe that the purpose of a fee is being misrepresented should report it to the Ministry of Government and Consumer Services at 416-326-8800 or toll-free at 1-800-889-9768, while consumers who have concerns about the actions taken by a company to recycle batteries should contact the Resource Productivity and Recovery Authority (RPRA) at 416-226-5113 or info@rpra.ca.
+</P>
+<P>
+Regardless of what's happening behind the scenes in the industry, St. Godard said consumers should keep dropping battery waste at collection depots but should consider pressing the government for answers on where the waste and eco fees are going. 
+</P>
+</TEXT>
+</DOC>

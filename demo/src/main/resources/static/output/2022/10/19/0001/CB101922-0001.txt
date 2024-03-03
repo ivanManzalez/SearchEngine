@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> CB101922-0001 </DOCNO>
+<DATE>
+<P>
+October 19, 2022
+</P>
+</DATE>
+<HEADLINE>
+<P>
+NSCC researchers predicted areas that could be hit hard by Fiona's storm surge. They were right.; 
+</P>
+<P>
+Online mapping tool can predict which areas will be prone to coastal flooding
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+As Fiona approached Nova Scotia, a team of researchers at the Nova Scotia Community College turned to their mapping program to see how communities could be affected by the storm surge.
+</P>
+<P>
+Days after the post-tropical storm devastated parts of the province, they realized most of their predictions were accurate.
+</P>
+<P>
+"I think this gives us a good wake-up call in terms of our vulnerability there and to take the appropriate mitigation actions moving forward," said Tim Webster, a research scientist with NSCC's Applied Geomatics Research Group in Middleton, N.S.
+</P>
+<P>
+The mapping tool uses storm surge predictions from Environment Canada to show exactly what that would mean along the coast. It factors in variables such as elevation and tides to give a detailed estimate of which buildings would be vulnerable.
+</P>
+<P>
+The project was launched in 2017, but Webster said Fiona was the first opportunity to put a significant storm to the test. He said places that had some level of "armouring" such as seawalls proved ineffective when facing Fiona's forceful winds and waves.
+</P>
+<P>
+"Many people did not have sufficient material," he said. "Either the rocks weren't big enough or high enough. So that's something as a takeaway message in the future. This idea of building stronger, building better."
+</P>
+<P>
+The team also documented areas where several cottages were knocked off their foundations and pushed back by the water.
+</P>
+<P>
+"Many of these areas are next to marshes and so forth," said Webster. "That should be a sign to us there that it's a low-lying area and could be inundated."
+</P>
+<P>
+Webster is encouraging people and communities to use the free mapping tool to look at how another storm like Fiona could affect shorelines in the future.
+</P>
+<P>
+Webster said that information needs to be factored into future developments.
+</P>
+<P>
+The program has calculations for all of Nova Scotia's coastline, as well as parts of P.E.I. and New Brunswick. Webster hopes to expand it.
+</P>
+<P>
+"It's certainly not perfect, but quite close and gives a good warning in terms of what your vulnerability is," he said.
+</P>
+<P>
+"I think if we're going to err on any side, probably to err on overestimating what could be damaged rather than somebody thinking that they're safe, rather than risking life and limb."
+</P>
+</TEXT>
+</DOC>
